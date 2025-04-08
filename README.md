@@ -9,7 +9,6 @@
 <h4 style="text-align: center;"><strong>Aplicaciones Web - 4388</strong></h4>
 <h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce></h4>
 <h4 style="text-align: center;"><strong>Startup: BuildTruck</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce</strong></h4>
 
 ### **Team members:**
 
