@@ -6,10 +6,10 @@
 </div>
 
 <h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
-<h4 style="text-align: center;"><strong>Desarrollo de Aplicaciones Open Source - 4289</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Efraín Ricardo Bautista Ubillús</strong></h4>
-<h4 style="text-align: center;"><strong>Startup: TextilFlow</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Efraín Ricardo Bautista Ubillús</strong></h4>
+<h4 style="text-align: center;"><strong>Aplicaciones Web - 4388</strong></h4>
+<h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce></h4>
+<h4 style="text-align: center;"><strong>Startup: BuildTruck</strong></h4>
+<h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce</strong></h4>
 
 ### **Team members:**
 
@@ -24,8 +24,8 @@
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Naim Farid Napuri Rojas</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202319146</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Daniela Araceli Gómez Flores</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311184</td>
   </tr>
   </tr>
     <tr>
@@ -33,12 +33,12 @@
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311220</td>
   </tr>  
   <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Mathias Eduardo Bueno Perales</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202313433</td>  
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Raúl Bellido Salas</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202310931</td>  
   </tr>
     <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Giancarlo Rafael Solis Santa Cruz</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202318615</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Sandra Paula Luyo Correa</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202314513</td>
   </tr>
 </table>
 
