@@ -162,19 +162,91 @@
 
 <hr>
 
-## Capítulo I: Introducción 
+# Capítulo I: Introducción 
 
-### 1.1. Startup Profile
+## 1.1. Startup Profile
 
-#### 1.1.1. Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 
-#### 1.1.2. Perfiles de Integrantes del Equipo
+### 1.1.2. Perfiles de Integrantes del Equipo
 
-#### 1.2. Solution Profile
+## 1.2. Solution Profile
 
-#### 1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 
-#### 1.2.2. Lean UX Process
+*What:*
+
+¿Cuál es el problema?
+
+En las pequeñas y medianas empresas del sector construcción en Perú, hay una evidente falta de digitalización en los procesos operativos clave como el control de almacén, personal y obreros. Estas tareas siguen gestionándose en papel o con herramientas no especializadas, lo que genera retrasos, errores y dificultades para tomar decisiones. Según el Informe Económico de la Construcción 2023 de CAPECO, más del 65% de las constructoras MYPE aún usan métodos manuales para el seguimiento de sus recursos.
+
+¿Cuál es la relación con la persona en cuestión?
+Los supervisores de obra y asistentes administrativos son los principales afectados por esta ineficiencia. Ellos ejecutan el control diario de materiales y personal, pero no cuentan con herramientas que se adapten a la realidad del campo, por lo que terminan con sobrecarga de trabajo y dificultades para comunicar datos con rapidez a las oficinas administrativas.
+
+*When:*
+
+¿Cuándo sucede el problema?
+El problema se presenta de forma constante durante toda la jornada laboral. Desde el ingreso de materiales al almacén, hasta el cierre diario con los reportes de asistencia del personal y el avance físico de la obra.
+
+Como señala el Observatorio Laboral del Ministerio de Trabajo (2022), la intensidad operativa en obras hace que se necesite información actualizada en tiempo real, cosa que no se logra con registros manuales.
+
+¿Cuándo utiliza el cliente el producto?
+La plataforma BuildTruck sería utilizada durante horarios de trabajo, y especialmente en momentos clave como el inicio de faenas, recepción de insumos, control de asistencia y envío de reportes a las oficinas centrales.
+
+*Where:*
+
+¿Dónde está el cliente cuando utiliza el producto?
+Los supervisores suelen estar físicamente en la obra, moviéndose entre áreas como almacén, oficinas temporales, y zonas de trabajo de obreros. Por su parte, los asistentes administrativos se encuentran en oficinas.
+
+¿A dónde se dirige?
+Se movilizan constantemente entre distintas áreas del proyecto: almacén, zonas de construcción y oficinas.
+
+Según el Ministerio de Vivienda, Construcción y Saneamiento (2023), la dispersión del entorno de trabajo es un desafío clave en la coordinación de recursos en obra.
+
+¿Dónde surge el problema?
+Principalmente en campo. Por ejemplo, al no poder confirmar la disponibilidad de un material necesario o al detectar errores en los registros de asistencia. Pero también ocurre al emitir informes semanales desde oficinas sin una base de datos.
+
+*Who:*
+
+¿Quiénes están involucrados?
+Supervisores de obra, asistentes administrativos, encargados de almacén, ingenieros residentes, jefes de proyecto y personal operativo de la constructora.
+
+¿A quiénes les sucede el problema?
+A los supervisores que no pueden verificar avances sin recorrer toda la obra y a los asistentes que deben consolidar manualmente datos desde múltiples fuentes. Esto genera presión adicional, pérdida de productividad y retrabajo.
+
+¿Quién lo utilizará?
+BuildTruck será utilizado principalmente por supervisores y asistentes, pero también puede ser una herramienta útil para ingenieros residentes o gerencias.
+
+Como indica el BID (2022) en su informe sobre transformación digital en sectores tradicionales, herramientas adaptadas al flujo real de trabajo incrementan la productividad hasta en un 30%.
+
+*Why:*
+
+¿Por qué ocurre esta situación?
+La razón principal es la baja madurez digital del sector construcción en el Perú. Muchas MYPES no invierten en software por desconocimiento, miedo al cambio o falta de personal capacitado. El estudio de PwC LATAM (2021) reveló que más del 70% de empresas constructoras en la región operan con bajo o nulo nivel de digitalización, especialmente en obras medianas y pequeñas.
+
+*How:*
+
+¿En qué condiciones los clientes usan nuestro producto?
+En oficinas, la plataforma se usaría en PC o laptop, con conexión más estable y mayor necesidad de generar reportes o visualizar estadísticas.
+
+¿Cómo nos conocieron los compradores?
+Los compradores pueden conocer el servicio a través de redes como LinkedIn, o por alianzas estratégicas con gremios.
+
+¿Cómo prefieren acceder al contenido?
+Por medio de interfaces visuales, dashboards simples y reportes automáticos. Necesitan ver la información de forma clara y rápida, sin procesos complejos. Debe poder usarse sin formación técnica avanzada, ya que muchos usuarios no tienen experiencia previa con software especializado.
+
+*How Much:*
+
+La falta de digitalización en el sector construcción genera impactos significativos en la eficiencia operativa de las empresas:
+
+- Pérdida de productividad: La gestión manual ralentiza los procesos y aumenta los costos operativos. Según PwC (2021), las empresas que implementan soluciones digitales experimentan mejoras en productividad y reducción de costos operativos.
+
+- Errores y retrabajos: La falta de un sistema centralizado genera errores y retrabajos, afectando la calidad de las obras. Un informe de CAPECO (2020) menciona que la ineficiencia en la gestión es una de las principales causas de retrasos en la construcción.
+
+- Dificultades en la toma de decisiones: La falta de datos en tiempo real limita la capacidad de tomar decisiones informadas, lo que afecta la rentabilidad y competitividad. McKinsey (2020) señala que las empresas digitales toman decisiones más rápidas y precisas, mejorando su competitividad.
+
+
+### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
@@ -184,127 +256,127 @@
 
 #### 1.2.2.4. Lean UX Canvas
 
-### 1.3. Segmentos Objetivos
+## 1.3. Segmentos Objetivos
 
 <hr>
 
-## Capítulo II: Requirements Elicitation & Analysis
+# Capítulo II: Requirements Elicitation & Analysis
 
-### 2.1. Competidores
+## 2.1. Competidores
 
-#### 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
-#### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-### 2.2. Entrevistas
+## 2.2. Entrevistas
 
-#### 2.2.1. Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas
 
-#### 2.2.2. Registro de entrevistas
+### 2.2.2. Registro de entrevistas
 
-#### 2.2.3. Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas
 
-### 2.3. Needfinding
+## 2.3. Needfinding
 
-#### 2.3.1. User Personas
+### 2.3.1. User Personas
 
-#### 2.3.2. User Task Matrix
+### 2.3.2. User Task Matrix
 
-#### 2.3.3. User Journey Mapping
+### 2.3.3. User Journey Mapping
 
-#### 2.3.4. Empathy Mapping
+### 2.3.4. Empathy Mapping
 
-#### 2.3.5. As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping
 
-### 2.4. Ubiquitous Language
-
-<hr>
-
-## Capítulo III: Requirements Specification
-
-### 3.1. To-Be Scenario Mapping
-
-### 3.2. User Stories
-
-### 3.3. Impact Mapping
-
-### 3.4. Product Backlog
+## 2.4. Ubiquitous Language
 
 <hr>
 
-## Capítulo IV: Product Design
+# Capítulo III: Requirements Specification
 
-### 4.1. Style Guidelines
+## 3.1. To-Be Scenario Mapping
 
-#### 4.1.1. General Style Guidelines
+## 3.2. User Stories
 
-#### 4.1.2. Web Style Guidelines
+## 3.3. Impact Mapping
 
-### 4.2. Information Architecture
-
-#### 4.2.1. Organization Systems
-
-#### 4.2.2. Labeling Systems
-
-#### 4.2.3. SEO Tags and Meta Tags
-
-#### 4.2.4. Searching Systems
-
-#### 4.2.5. Navigation Systems
-
-### 4.3. Landing Page UI Design
-
-#### 4.3.1. Landing Page Wireframe
-
-#### 4.3.2. Landing Page Mock-up
-
-### 4.4. Web Applications UX/UI Design
-
-#### 4.4.1. Web Applications Wireframes.
-
-#### 4.4.2. Web Applications Wireflow Diagrams
-
-#### 4.4.3. Web Applications Mock-ups
-
-#### 4.4.4. Web Applications User Flow Diagrams
-
-### 4.5. Web Applications Prototyping
-
-### 4.6. Domain-Driven Software Architecture
-
-#### 4.6.1. Software Architecture Context Diagrams
-
-#### 4.6.2. Software Architecture Container Diagrams
-
-#### 4.6.3. Software Architecture Components Diagrams
-
-### 4.7. Software Object-Oriented Design
-
-#### 4.7.1. Class Diagrams
-
-#### 4.7.2. Class Dictionary
-
-### 4.8. Database Design
-
-#### 4.8.1. Database Diagram
+## 3.4. Product Backlog
 
 <hr>
 
-## Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo IV: Product Design
 
-### 5.1. Software Configuration Management.
+## 4.1. Style Guidelines
 
-#### 5.1.1. Software Development Environment Configuration.
+### 4.1.1. General Style Guidelines
 
-#### 5.1.2. Source Code Management
+### 4.1.2. Web Style Guidelines
 
-#### 5.1.3. Source Code Style Guide & Conventions
+## 4.2. Information Architecture
 
-#### 5.1.4. Software Deployment Configuration
+### 4.2.1. Organization Systems
 
-### 5.2. Landing Page, Services & Applications Implementation
+### 4.2.2. Labeling Systems
 
-#### 5.2.1. Sprint 1
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems
+
+### 4.2.5. Navigation Systems
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+
+### 4.3.2. Landing Page Mock-up
+
+## 4.4. Web Applications UX/UI Design
+
+### 4.4.1. Web Applications Wireframes.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+### 4.4.3. Web Applications Mock-ups
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagrams
+
+### 4.6.2. Software Architecture Container Diagrams
+
+### 4.6.3. Software Architecture Components Diagrams
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+### 4.7.2. Class Dictionary
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+
+<hr>
+
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management.
+
+### 5.1.1. Software Development Environment Configuration.
+
+### 5.1.2. Source Code Management
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+### 5.1.4. Software Deployment Configuration
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
 
 ##### 5.2.1.1. Sprint Planning 1
 
