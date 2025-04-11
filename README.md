@@ -168,6 +168,21 @@
 
 ### 1.1.1. Descripción de la Startup
 
+BuildWise es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector construcción. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y eficientizar los procesos relacionados con el control de almacén, personal y obreros, aspectos fundamentales en el éxito de cualquier proyecto constructivo.
+
+Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, escalables y de fácil implementación que faciliten el seguimiento en tiempo real de recursos y personal en obra.
+
+Servicios y Producto Principal:
+
+Su producto principal es BuildTruck, una plataforma web diseñada para permitir a las empresas constructoras llevar un control eficiente y centralizado de sus operaciones en tres áreas clave: inventario, personal y obreros. 
+
+Visión:
+Ser la plataforma líder en soluciones tecnológicas para el sector construcción en América Latina, transformando la gestión de proyectos en obra a través de herramientas inteligentes y colaborativas.
+
+Misión:
+Proporcionar a las empresas constructoras una plataforma digital integral que facilite el control de recursos, personal y operatividad en obra, contribuyendo a una gestión más eficiente, transparente y productiva.
+
+
 ### 1.1.2. Perfiles de Integrantes del Equipo
 
 ## 1.2. Solution Profile
