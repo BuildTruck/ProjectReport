@@ -286,7 +286,7 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](imagenes/UXCanvas.png)
+![Image](https://github.com/user-attachments/assets/8fc343dc-8f16-4b36-87f6-3ae450540e48)
 
 
 
