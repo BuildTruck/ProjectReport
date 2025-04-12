@@ -286,6 +286,10 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 #### 1.2.2.4. Lean UX Canvas
 
+![Lean UX Canvas](imagenes/UXCanvas.png)
+
+
+
 ## 1.3. Segmentos Objetivos
 
 Segmento Objetivo 1: Supervisores de Obra
