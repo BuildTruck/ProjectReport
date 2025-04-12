@@ -265,6 +265,21 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+
+#### 1. Nuestra plataforma ha sido diseñada para permitir a pequeñas y medianas empresas constructoras, así como a trabajadores administrativos, gestionar eficientemente sus proyectos de construcción, desde la solicitud de servicios hasta el monitoreo de avances y gastos. A través de esta herramienta digital, buscamos facilitar la administración y mejorar la transparencia de los procesos constructivos.
+#### Hemos observado que una de las principales dificultades para estas empresas es la falta de un sistema centralizado y amigable que les permita realizar un seguimiento detallado de los proyectos en curso, registrar avances, visualizar presupuestos y comunicarse de forma efectiva con los diferentes actores involucrados en la obra. Esto genera desorganización, demoras en la entrega de reportes y problemas en la toma de decisiones.
+¿Cómo podemos mejorar la experiencia de las pequeñas y medianas empresas en la gestión de sus obras mediante una plataforma más intuitiva, accesible y con herramientas integradas que faciliten el seguimiento de cada fase del proyecto?
+
+#### 2. Nuestro sistema fue creado con el objetivo de optimizar la gestión de proyectos de construcción, reducir errores administrativos y proporcionar a los usuarios una visión clara y precisa del estado de sus obras, recursos utilizados y cumplimiento de plazos.
+#### Hemos identificado que muchos trabajadores administrativos aún dependen de hojas de cálculo, comunicaciones dispersas para registrar y compartir información. Esto no solo dificulta el acceso a datos actualizados, sino que también incrementa la posibilidad de errores y retrabajos.
+
+¿Cómo podemos digitalizar y automatizar los procesos administrativos dentro de los proyectos de construcción, garantizando que los trabajadores administrativos cuenten con herramientas fáciles de usar que les permitan organizar, registrar y compartir información de forma eficiente?
+
+#### 3. Además, hemos detectado que algunas pequeñas empresas enfrentan barreras tecnológicas, ya sea por desconocimiento en el uso de herramientas digitales o por la falta de plataformas diseñadas específicamente para su contexto. Esto puede llevar a que no aprovechen completamente los beneficios de una solución digital.
+
+¿Cómo podemos diseñar una plataforma adaptable a diferentes niveles de experiencia tecnológica, que permita a empresas de distintos tamaños adoptar y aprovechar fácilmente todas las funcionalidades del sistema sin requerir una curva de aprendizaje elevada?
+
+
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
