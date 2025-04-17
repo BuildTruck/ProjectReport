@@ -282,6 +282,75 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Assumptions worksheet**
+
+1. Creo que mis clientes necesitan una forma moderna de realizar la gestión de obras.
+
+2. Estas necesidades se pueden resolver con una aplicación web simple de entender para poder realizar la gestión de los materiales y trabajadores de una obra.
+
+3. Mis clientes iniciales son jóvenes de 20 a 30 años de edad y adultos de 40 a 60 años de edad que buscan mejorar la gestión de sus proyectos.
+
+4. El valor #1 que un cliente quiere en mi servicio es eficiencia para poder realizar todas sus tareas en el menor tiempo posible.
+
+5. Haré dinero a través de un sistema de subscripciones mensuales de diferentes escalones, cada uno ofreciendo más beneficios, pero a mayor costo.
+
+6. Mi competencia principal en el mercado serán otras plataformas usadas para la gestión de obras.
+
+7. Los venceremos debido a nuestra interfaz simple y eficaz. Ofreceremos herramientas entendibles para poder facilitar los procesos de los administradores y supervisores.
+
+8. Mi mayor riesgo de producto es que nuestros clientes no puedan adaptarse al funcionamiento de la plataforma.
+
+9. Resolveremos a través de tutoriales y contenido informativo sobre el uso de nuestro producto.
+
+**¿Quién es el usuario?**
+
+Los supervisores de obra y los asistentes administrativos.
+
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto, buildtrack, encaja en la vida laboral de los usuarios al proporcionarles un sitio web en donde puedan gestionar el inventario y mano de obra.
+
+**¿Qué problemas tiene nuestro producto y cómo se puede resolver?**
+
+* Posible lentitud con gran cantidad de datos:
+
+  Solución: Optimización del backend y uso de bases de datos eficientes.
+
+* Conectividad limitada en zonas de obra:
+
+  Solución: Implementación de un modo offline que sincronice datos cuando haya conexión.
+
+* Resistencia al cambio por parte del personal:
+
+  Solución: Capacitación y diseño intuitivo que reduzca la curva de aprendizaje.
+
+**¿Cuándo y cómo es usado nuestro producto?**
+
+Buildtrack es utilizado durante la jornada laboral, en especial en momentos clave como:
+
+* Registro de ingreso/salida de materiales.
+
+
+* Verificación de asistencia del personal.
+
+
+* Generación de reportes semanales o diarios.
+
+
+* Consulta del avance de obras.
+
+**¿Qué características son importantes?**
+
+Tiene que ofrecer Información actualizada al momento para una toma de decisiones precisa. Tiene que presentar una interfaz simple y de uso intuitivo. Tiene que ser accesible desde cualquier dispositivo. Finalmente, tiene que presentar soporte para una gran cantidad de datos sin perder estabilidad en el rendimiento.
+
+**¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
+Tiene que presentar un diseño simple y legible, con fuentes claras, y una jerarquia visual limpia.
+
+Tiene que presentar una paleta de colores contrastante para facilitar su lectura.
+
+Debe de presentar un comportamiento fluido en sus interacciones.
+ 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
