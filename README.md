@@ -408,6 +408,19 @@ Características demográficas:
 
 ### 2.3.2. User Task Matrix
 
+
+| TASK MATRIX |  | Andrea Palacios Guzman  |  | Luis Alberto Ramirez |  |
+| ----- | ----- | :---- | :---- | :---- | :---- |
+|  |  | **frecuencia** | **importancia** | **frecuencia** | **importancia** |
+| **Registrar asistencia del personal** |  | **Siempre** | **Alta** | **Siempre** | **Alta** |
+| **Revisar cronogramas de obra** |  | **A veces** | **Alta** | **Siempre** | **Alta** |
+| **Supervisar pedidos y uso de materiales** |  | **A veces** | **Alta** |  | **Alta** |
+|  **Comunicar cambios en el proyecto** |  | **Siempre** | **Alta** | **Siempre** | **Alta** |
+| **Tramitar permisos y licencias ante instituciones** |  | **A veces** | **Alta** |  | **Alta** |
+| **Elaborar reportes diarios/semanales** |  | **A veces** | **Alta** |  | **Alta** |
+|  **Inspeccionar cumplimiento de estándares** |  |  | **Alta** | **A veces** | **Alta** |
+
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
