@@ -185,6 +185,25 @@ Proporcionar a las empresas constructoras una plataforma digital integral que fa
 
 ### 1.1.2. Perfiles de Integrantes del Equipo
 
+<p align="center">
+  <img src="images/PerfilMtt.png" alt="UH" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/PerfilMy.png" alt="UH" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/PerfilP.png" alt="UH" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/PerfilD.png" alt="UH" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/PerfilR.png" alt="UH" width="1000">
+</p>
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -260,6 +279,9 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 - Dificultades en la toma de decisiones: La falta de datos en tiempo real limita la capacidad de tomar decisiones informadas, lo que afecta la rentabilidad y competitividad. McKinsey (2020) señala que las empresas digitales toman decisiones más rápidas y precisas, mejorando su competitividad.
 
+<p align="center">
+  <img src="images/GraficoHM.png" alt="UH" width="1000">
+</p>
 
 ### 1.2.2. Lean UX Process
 
