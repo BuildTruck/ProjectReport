@@ -755,6 +755,36 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ### 2.2.3. Análisis de entrevistas
 
+**Figura 7** 
+
+*Gráfico de herramientas digitales más usadas por los entrevitados* 
+
+<p align="center">
+  <img src="images/Analytics1.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia* 
+
+**Figura 8** 
+
+*Gráfico de distribución de edad de los entrevistados* 
+
+<p align="center">
+  <img src="images/Analytics2.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia* 
+
+**Figura 9** 
+
+*Gráfico de frecuencia de actualización de información para los entrevistados* 
+
+<p align="center">
+  <img src="images/Analytics3.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia* 
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
