@@ -481,9 +481,170 @@ Características demográficas:
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Las Meta Tags nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas Meta Tags facilitan el análisis de archivos HTML y facilitan el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+### **Las Meta Tags que usaremos:**
+
+#### **Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra Meta Tag. Esta etiqueta es utilizada o leída por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+**Para BuildTruck:** "BuildTruck | Gestión Digital para Construcción \- Control de Inventario y Personal"
+
+#### **Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+**Para BuildTruck:** `<meta charset="UTF-8">`
+
+#### **Descripción:**
+
+Esta Meta Tag nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+**Para BuildTruck:** "BuildTruck es una plataforma web especializada para empresas constructoras que optimiza la gestión de inventario, personal y obreros en obras. Digitaliza y eficientiza tus procesos operativos con nuestra solución integral."
+
+#### **Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+**Para BuildTruck:** "gestión construcción, software construcción, control inventario, administración personal, plataforma construcción, digitalización construcción, BuildTruck, gestión de obras, control almacén, supervisión obras"
+
+#### **Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+**Para BuildTruck:**
+
+* `<meta name="author" content="BuildWise - UPC">`  
+* `<meta name="copyright" content="BuildWise © 2025. Todos los derechos reservados.">`
+
+
+#### **Viewport:**
+
+Para asegurar la correcta visualización en dispositivos móviles.
+
+**Para BuildTruck:** `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+#### **Robots:**
+
+Para indicar a los motores de búsqueda cómo indexar la página.
+
+**Para BuildTruck:** `<meta name="robots" content="index, follow">`
+
+#### **Open Graph Tags:**
+
+Para optimizar el compartir en redes sociales.
+
+**Para BuildTruck:**
+
+* `<meta property="og:title" content="BuildTruck - Gestión Digital para Construcción">`  
+* `<meta property="og:description" content="Plataforma web especializada para empresas constructoras. Optimiza la gestión de inventario, personal y obreros en obras.">`  
+* `<meta property="og:type" content="website">`  
+* `<meta property="og:url" content="https://www.buildtrack.com">`
+
 ### 4.2.4. Searching Systems
 
+En esta sección se explican los medios de ayuda que se brindarán al usuario para la búsqueda de datos dentro del producto digital.
+
+**Opciones de Búsqueda en la Aplicación**
+
+**Barra de Búsqueda Global**
+
+* Presente en el encabezado superior   
+* Permite búsquedas generales en todos los módulos  
+* Campo de texto con icono de lupa y placeholder "Buscar"
+
+**Filtros por Módulo**
+
+**Módulo de Inventario**
+
+* **Filtros disponibles**:  
+  * Tipo de material  
+  * Estado (en stock, stock bajo, agotado)  
+  * Ubicación  
+  * Proveedor  
+  * Fecha de ingreso  
+* **Visualización**:  
+  * Tabla con columnas   
+  * Opción para exportar a PDF
+
+**Módulo de Personal**
+
+* **Filtros disponibles**:  
+  * Tipo (administrativo, obrero, técnico)  
+  * Estado (activo, inactivo)  
+  * Especialidad  
+  * Asistencia  
+* **Visualización**:  
+  * Lista de personal con foto y datos básicos  
+
+**Módulo de Maquinarias**
+
+* **Filtros disponibles**:  
+  * Tipo de maquinaria  
+  * Estado (disponible, en uso, en mantenimiento)  
+  * Ubicación  
+  * Responsable  
+* **Visualización**:  
+  * Tabla de equipos con indicadores de estado  
+  * Reportes de utilización
+
+**Presentación de Resultados**
+
+* Resultados organizados por categorías  
+* 10 resultados por página con paginación  
+* Indicadores visuales de color según estado  
+* Acciones rápidas disponibles para cada resultado
+
 ### 4.2.5. Navigation Systems
+
+En esta sección se explican las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones.
+
+**Navegación del Landing Page**
+
+**Menú Principal**
+
+* Parte superior: Logo BuildTruck, Productos, Nosotros, Planes, Registrar, Iniciar Sesión  
+* Diseño responsive con colores naranja para botones y azul oscuro para fondos
+
+**Secciones Principales**
+
+* **Hero Section**: "TRANSFORMANDO LA GESTIÓN EN OBRA" con botón "Conoce más"  
+* **Características**: Tarjetas con 4 categorías principales (Gestión de almacén, Control de personal, Reportes, Alertas)  
+* **Funcionalidad**: Botón central "Ver cómo funciona"  
+* **Nosotros**: Información sobre la startup, misión y visión  
+* **Planes**: Tres opciones (Básico $50, Pro $90, Empresarial $150)  
+* **Contacto**: Formulario con campos para datos personales y mensaje
+
+**Recorrido del Usuario**
+
+1. Entrada a página principal  
+2. Exploración de características y beneficios  
+3. Conocimiento de la empresa  
+4. Evaluación de planes  
+5. Contacto o registro
+
+**Navegación de la Aplicación Web**
+
+**Estructura General**
+
+* **Menú superior**: Logo, búsqueda, notificaciones, perfil  
+* **Dashboard principal**: Vista general de obras  
+* **Selector de obra**: Acceso a proyectos específicos
+
+**Menú Lateral por Obra**
+
+* Dashboard de obra  
+* Personal  
+* Inventario  
+* Maquinarias    
+* Configuración
+
+**Elementos Auxiliares**
+
+* Botones de acción rápida según contexto  
+* Notificaciones   
+* Enlaces entre módulos relacionados
 
 ## 4.3. Landing Page UI Design
 
