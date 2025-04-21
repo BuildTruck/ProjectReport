@@ -449,6 +449,75 @@ Características demográficas:
 
 
 
+### Colores
+
+La siguiente paleta de colores elegidos se basan en un contraste armónico que escogimos para representar comodidad visual y así desplegar nuestro servicio
+
+Figura X
+
+*Paleta de colores de la plataforma*
+
+<p align="center">
+  <img src="images/colorpallete.png" alt="PB" width="1000">
+</p>
+
+El color azul Munseli siguiere tranquilidad a la hora de usar nuestra aplicación.
+
+El color Charcoal (o carbon) presenta la seguridad de nuestra aplicación.
+
+El color Jet demuestra la formalidad y seriedad de nuestro servicio.
+
+El color Blanco presenta elegancia.
+
+El color Amarillo opaco sugiere felicidad en los usuarios sabiendo que su trabajo esta siendo realizado de mejor manera a través de nuestra aplicación.
+
+El color naranja sugiere entusiasmo para usar nuestra aplicación.
+
+Nuestra tipografia será Futura-Light. Esta fuente se caracteriza por ser moderna y por su versatilidad
+
+Figura X
+
+*Fuente de texto “Futura-light”*
+
+ 
+<p align="center">
+  <img src="images/font.png" alt="PB" width="1000">
+</p>
+
+
+### randing
+
+El logo de nuestra propuesta busca comunicar de manera clara el próposito de nuestra aplicación. Representando una grúa para representar nuestro público objetivo, y los engranajes para demostrar proceso y movimiento.
+
+Figura X
+
+*Logo de BuildTruck*
+
+
+<p align="center">
+  <img src="images/logo.png" alt="PB" width="1000">
+</p>
+
+
+### Tono de comunicación.
+
+Profesional: La combinación entre la tipografía y las formas transmite un sentido formal, serio y profesional.
+
+Confiable: Los tonos de colores usados transmiten un sentimiento de confianza sobre nuestro servicio.
+
+Seguro: El balance en nuestro logo y las formas usadas buscan sugerir seguridad a nuestros usuarios, que estén seguros de usar nuestro servicio.
+
+### Lenguaje Utilizado:
+
+El lenguaje que empleamos en el sitio web y materiales relacionados sigue estas caracteristicas:
+
+Formal: Usamos una estructura de comunicación respetuosa y adecuada al entorno corporativo.
+
+Directo: Nos enfocamos en ser claros, sin rodeos, priorizando la funcionalidad y la comprensión inmediata.
+
+Organizado: La información está estructurada de forma lógica, guiando al usuario de manera intuitiva. 
+
+Sereno: Adoptamos un tono calmado y profesional, que invita a la confianza y evita la sobrecarga informativa.
 
 ### 4.1.1. General Style Guidelines
 
