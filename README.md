@@ -184,6 +184,25 @@ Proporcionar a las empresas constructoras una plataforma digital integral que fa
 
 
 ### 1.1.2. Perfiles de Integrantes del Equipo
+<p align="center">
+  <img src="images/PerfilMtt.png" alt="UH" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/PerfilMy.png" alt="UH" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/PerfilD.png" alt="UH" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/PerfilP.png" alt="UH" width="1000">
+</p> 
+
+<p align="center">
+  <img src="images/PerfilR.png" alt="UH" width="1000">
+</p> 
 
 ## 1.2. Solution Profile
 
@@ -260,6 +279,9 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 - Dificultades en la toma de decisiones: La falta de datos en tiempo real limita la capacidad de tomar decisiones informadas, lo que afecta la rentabilidad y competitividad. McKinsey (2020) señala que las empresas digitales toman decisiones más rápidas y precisas, mejorando su competitividad.
 
+<p align="center">
+  <img src="images/GraficoHM.png" alt="UH" width="1000">
+</p>
 
 ### 1.2.2. Lean UX Process
 
@@ -398,9 +420,370 @@ Características demográficas:
 
 ### 2.2.1. Diseño de entrevistas
 
+***-Segmento objetivo \#1: Gerentes de obra*** 
+
+***Características demográficas:***
+
+*  ¿Cuál es tu edad?  
+* ¿En qué lugar trabajas o estás actualmente asignado(a)?  
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?
+
+***Preguntas Principales***
+
+1. ¿Cuáles son tus principales responsabilidades diarias sobre las obras?  
+2. ¿Cómo gestionas actualmente el seguimiento de materiales y personal en campo?  
+3. ¿Utilizas algún software o herramienta digital para controlar las actividades en la obra? ¿Cuál(es)?  
+4. ¿Cuántos proyectos diriges en tu cargo?  
+5. ¿Cuáles son los mayores retos que enfrentas al momento de controlar el avance del proyecto?
+
+***Preguntas sobre el Proyecto*** 
+
+6. ¿Qué te parecería contar con una plataforma que te permita monitorear inventario, personal y actividades?  
+7. ¿Qué funcionalidades serían esenciales para ti en una plataforma de gestión de obra?  
+8. ¿Con qué frecuencia necesitarías revisar o actualizar la información sobre materiales o personal?  
+9. ¿Qué tipo de notificaciones o alertas te serían realmente útiles para tomar decisiones rápidas?
+
+
+***-Segmento objetivo \#2:  Supervisores de obra*** 
+
+***Características demográficas:***
+
+*  ¿Cuál es tu edad?  
+* ¿En qué institución trabaja o estás actualmente asignado(a)?  
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?
+
+***Preguntas Principales*** 
+
+1. ¿Cómo organizas y almacenas la información relacionada con materiales, personal y documentos en la obra?  
+2. ¿Cuánto tiempo te toma preparar reportes?  
+3. ¿Qué herramientas digitales (si alguna) utilizas actualmente en tu trabajo?  
+4. ¿Qué tan difícil es programar los horarios y reuniones para las coordinaciones a realizar con gerentes de obra, almacén y personal técnico en el día a día?   
+5. ¿Has tenido problemas por datos incompletos, pérdidas de documentos o información mal registrada?
+
+***Preguntas sobre el Proyecto***
+
+6. ¿Cómo te ayudaría tener una plataforma centralizada para registrar y consultar entradas/salidas de materiales y datos del personal?  
+7. ¿Qué tipo de reportes automatizados te serían más útiles en tu rutina diaria?  
+8. ¿Qué esperas de una plataforma que ayude con la gestión operativa de obra?  
+9. Si tuvieras que diseñar una app para tu trabajo, ¿qué funciones serían imprescindibles?
+
 ### 2.2.2. Registro de entrevistas
+A continuación, se detallan las transcripciones, las pruebas recopiladas y un resumen de cada una de las entrevistas realizadas a los usuarios.  
+***----Segmento objetivo \#1: Gerentes de obra*** 
+
+**Figura 1** 
+
+*Imagen del usuario número 1 entrevistado* 
+
+ <p align="center">
+  <img src="images/Interview1.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL: [https://www.youtube.com/watch?v=NxvsVJWn1Qk](https://www.youtube.com/watch?v=NxvsVJWn1Qk)** 
+
+### **Características demográficas**
+
+* ¿Cuál es tu edad aproximadamente?.  
+   61 años.
+
+* ¿En qué lugar trabajas o estás actualmente asignado(a)?.  
+   Trabajo en la Municipalidad de Maranura, La Convención, Cusco.
+
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?.  
+   Jefe de Supervisión de Proyectos.
+
+### **Preguntas principales**
+
+* ¿Cuáles son tus principales responsabilidades diarias sobre las obras?.  
+   Coordinar con los profesionales de supervisión para realizar el control y seguimiento de los proyectos que están actualmente en ejecución.
+
+* ¿Cómo gestionas actualmente el seguimiento de materiales y personal en campo?.  
+   Los requerimientos de materiales y servicios los realiza el residente de cada proyecto, y luego el supervisor da el visto bueno.
+
+* ¿Utilizas algún software o herramienta digital para controlar las actividades en la obra? ¿Cuál(es)?.  
+   Sí, utilizo MS Project para el control de proyectos y hojas de cálculo como el cronograma valorizado de obra.
+
+* ¿Podrías explayarte más sobre qué exactamente compone el cronograma de obra?.  
+   El cronograma de obra planifica la ejecución en el tiempo de cada una de las actividades del proyecto, como la cimentación, muros, techos, etc. Todo está organizado por tiempos y fases.
+
+* ¿Cuántos proyectos diriges en tu cargo?.  
+   Actualmente estoy a cargo de aproximadamente seis o siete proyectos.
+
+* ¿Cuáles son los mayores retos que enfrentas al momento de controlar el avance del proyecto?.  
+   Que se cumpla la programación inicial dentro de los plazos previstos, tanto en la ejecución de cada actividad como en la conclusión del proyecto, que está definido por hitos importantes.
+
+### **Preguntas sobre el proyecto**
+
+* ¿Qué te parecería contar con una plataforma que te permita monitorear inventario, personal y actividades?.  
+   Sería importante contar con una plataforma así, para controlar tanto al personal como la utilización de materiales y servicios.
+
+* ¿Qué funcionalidades serían esenciales para ti en una plataforma de gestión de obra?.  
+   Que muestre el personal asignado a la obra, los materiales requeridos, el uso de maquinaria, y que incluya tanto al personal de campo como al obrero.
+
+* ¿Con qué frecuencia necesitarías revisar o actualizar la información sobre materiales o personal?.  
+   Mínimamente de forma semanal, y también se hace una verificación mensual sobre el uso de materiales, personal y maquinaria.
+
+* ¿Qué tipo de notificaciones o alertas te serían realmente útiles para tomar decisiones rápidas?.  
+   Alertas sobre el uso de materiales y cumplimiento de actividades programadas. Si no se cumple lo programado, se alerta al residente de obra. También se hacen alertas a los responsables de adquisiciones cuando no se entregan los materiales a tiempo, generalmente mediante documento.
+
+**Figura 2** 
+
+*Imagen del usuario número 2 entrevistado* 
+
+<p align="center">
+  <img src="images/Interview2.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL: [https://www.youtube.com/watch?v=dCbovmOhDYU](https://www.youtube.com/watch?v=dCbovmOhDYU)** 
+
+### **Características demográficas**
+
+* ¿Cuál es tu edad aproximadamente?.  
+   48 años.
+
+* ¿En qué lugar trabajas o estás actualmente asignado(a)?.  
+   Dirijo una empresa actualmente, y estoy a cargo de ella.
+
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?.  
+   Gerente General.
+
+### **Preguntas principales**
+
+* ¿Cuáles son tus principales responsabilidades diarias sobre las obras?.  
+   Dirijo todas las áreas relacionadas con el control de obra: materiales, equipos, mano de obra.
+
+* ¿Cómo gestionas actualmente el seguimiento de materiales y personal en campo?.  
+   Generalmente se realiza mediante hojas de cálculo en Excel.
+
+* ¿Cuántos proyectos diriges en tu cargo?.  
+   Actualmente dos, pero varía entre tres o cuatro según la cantidad de proyectos ganados.
+
+* ¿Cuáles son los mayores retos que enfrentas al momento de controlar el avance del proyecto?.  
+   El control diario de materiales, movimiento de equipos y mano de obra.
+
+### **Preguntas sobre el proyecto**
+
+* ¿Qué te parecería contar con una plataforma que te permita monitorear inventario, personal y actividades?.  
+   Sería importante, facilitaría los reportes y los haría más accesibles. También permitiría que cualquier trabajador o asistente pueda usarlos.
+
+* ¿Qué funcionalidades serían esenciales para ti en una plataforma de gestión de obra?.  
+   Control de materiales, control de maquinaria y control de personal.
+
+* ¿Con qué frecuencia necesitarías revisar o actualizar la información sobre materiales o personal?.  
+   Mínimo diariamente, y preferentemente en tiempo real.
+
+* ¿Qué tipo de notificaciones o alertas te serían realmente útiles para tomar decisiones rápidas?.  
+   Alertas sobre stock de materiales, ingresos y salidas; además, control diario del personal y los frentes de trabajo en los que se encuentran.
+
+**Figura 3** 
+
+*Imagen del usuario número 3 entrevistado* 
+
+<p align="center">
+  <img src="images/.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL:**
+
+
+
+***----Segmento objetivo \#2:  Supervisores de obra***   
+**Figura 4** 
+
+*Imagen del usuario número 4 entrevistado* 
+
+<p align="center">
+  <img src="images/Interview4.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL: [https://www.youtube.com/watch?v=AWGu8-JQXoY](https://www.youtube.com/watch?v=AWGu8-JQXoY)** 
+
+### **Características demográficas**
+
+* ¿Cuál es tu edad?  
+   Tengo 55 años.
+
+* ¿En qué institución trabaja o está actualmente asignada?  
+   Trabajo en la empresa Hway, que se dedica a elaborar proyectos de construcción.
+
+* ¿Cuál es su cargo o rol específico dentro de su trabajo?  
+   Soy asistente administrativo.
+
+### **Preguntas principales**
+
+* ¿Cómo organiza y almacena la información relacionada con materiales, personal y documentos en la obra?  
+   La organización se hace por rubros, por ejemplo: materiales eléctricos, materiales de construcción y otros. El personal se clasifica como parte técnica, obrera, ayudantes y guardianes.
+
+* ¿Cuánto tiempo le toma preparar los reportes?  
+   Depende de la organización del proyecto. Puede ser semanal, mensual u otro, según las necesidades.
+
+* ¿Qué herramientas digitales (si alguna) utiliza actualmente en su trabajo?  
+   Utilizo Excel, Word, PowerPoint para exposiciones e informes. También usamos WhatsApp y correo electrónico para coordinaciones.
+
+* ¿Qué tan difícil es programar los horarios y reuniones para las coordinaciones con gerentes de obra, almacén y personal técnico en el día a día?  
+   No es difícil. Se trata más de llegar a acuerdos y tener buena coordinación y comunicación. Programar reuniones pequeñas ayuda mucho.
+
+* ¿Ha tenido problemas por datos incompletos, pérdidas de documentos o información mal registrada?  
+   Sí, normalmente cuando otras personas no registran la información en el momento correcto. La información incompleta causa problemas, aunque cuando uno mismo lo hace con cuidado, no suele pasar.
+
+### **Preguntas sobre el proyecto**
+
+* ¿Cómo le ayudaría tener una plataforma centralizada para registrar y consultar entradas/salidas de materiales y datos del personal?  
+   Ayudaría mucho a sintetizar la información. Por ejemplo, el almacenero podría registrar entradas y salidas diarias con mayor control. También se podría hacer un mejor seguimiento de la asistencia del personal, que suele ir de 7 a.m. a 5 p.m.
+
+* ¿Qué tipo de reportes automatizados serían más útiles en su rutina diaria?  
+   Reportes de movimientos de almacén, control de combustible, y asistencia del personal. Todo eso facilitaría bastante el trabajo.
+
+* ¿Qué esperaría de una plataforma que ayude con la gestión operativa de la obra?  
+   Que permita generar informes semanales y mensuales, y que ayude con la evaluación del avance físico de la obra.
+
+**Figura 5** 
+
+*Imagen del usuario número 5 entrevistado* 
+
+<p align="center">
+  <img src="images/Interview5.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL: [https://www.youtube.com/watch?v=Eay8RcW29Sc](https://www.youtube.com/watch?v=Eay8RcW29Sc)** 
+
+### **Características demográficas**
+
+* ¿Cuál es tu edad?  
+   Tengo 22 años.
+
+* ¿En qué institución trabaja o está actualmente asignado?  
+   Actualmente trabajo en una empresa inmobiliaria.
+
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?  
+   Soy asistente de obras.
+
+### **Preguntas principales**
+
+* ¿Cómo organizas y almacenas la información relacionada con materiales, personal y documentos en la obra?  
+   Utilizo principalmente Excel para registrar los materiales utilizados y los informes diarios de las jornadas laborales.
+
+* ¿Cuánto tiempo te toma preparar reportes diarios o semanales?  
+   Entre 5 a 7 días, ya que estudio mientras trabajo.
+
+* ¿Qué herramientas digitales (si alguna) utilizas actualmente en tu trabajo?  
+   Principalmente Excel, y a veces AutoCAD para apoyar en el diseño, aunque no es mi labor principal.
+
+* ¿Qué tan difícil es programar los horarios y reuniones para las coordinaciones con gerentes de obra, almacén y personal técnico en el día a día?  
+   Toma tiempo, ya que hay que coordinar con diversas áreas como diseño, gestión y cálculos estructurales. Es un trabajo conjunto y requiere organización.
+
+* ¿Has tenido problemas por datos incompletos, pérdidas de documentos o información mal registrada?  
+   Problemas graves no, pero sí algunas confusiones menores, que pudieron corregirse a tiempo.
+
+### **Preguntas sobre el proyecto**
+
+* ¿Cómo te ayudaría tener una plataforma centralizada para registrar y consultar entradas/salidas de materiales y datos del personal?  
+   Facilitaría y agilizaría el proceso de ejecución del proyecto, haciéndolo más eficiente.
+
+* ¿Qué tipo de reportes automatizados te serían más útiles en tu rutina diaria?  
+   Reportes sobre materiales, recursos y el uso de maquinaria como excavadoras, grúas o mezcladoras.
+
+* ¿Qué esperas de una plataforma que ayude con la gestión operativa de obra?  
+   Que ayude a agilizar la obra y que presente los materiales necesarios en tiempo real, lo cual mejoraría significativamente la ejecución.
+
+* Si tuvieras que diseñar una app para tu trabajo, ¿qué funciones serían imprescindibles?  
+   Que presente gráficos del avance del proyecto, y ofrezca resultados que evidencien eficiencia y buena ejecución.
+
+**Figura 6** 
+
+*Imagen del usuario número 6 entrevistado* 
+
+<p align="center">
+  <img src="images/Interview6.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
+
+**URL: [https://www.youtube.com/watch?v=79fSLnYdrwA](https://www.youtube.com/watch?v=79fSLnYdrwA)** 
+
+### **Características demográficas**
+
+* ¿Cuál es tu edad?.  
+   Tengo 21 años.
+
+* ¿En qué institución trabaja o estás actualmente asignado(a)?.  
+   Actualmente trabajo como practicante de diseño estructural en la empresa RPG.
+
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?.  
+   Hago los planos base e inserto elementos estructurales como columnas y vigas.
+
+  ### **Preguntas principales**
+
+* ¿Cómo organizas y almacenas la información relacionada con materiales, personal y documentos en la obra?.  
+   Organizo mi información en subcarpetas dentro de mi laptop y también la almaceno en Autodesk Construction Cloud de la empresa.
+
+* ¿Cuánto tiempo te toma preparar reportes?.  
+   Aproximadamente 2 horas.
+
+* ¿Qué herramientas digitales (si alguna) utilizas actualmente en tu trabajo?.  
+   Trabajo con AutoCAD para realizar planos y modelar en 3D, y también uso Autodesk Construction Cloud.
+
+* ¿Qué tan difícil es programar los horarios y reuniones para las coordinaciones a realizar con gerentes de obra, almacén y personal técnico en el día a día?.  
+   No es tan difícil. Todas las coordinaciones se hacen vía Gmail y cumplo con presentar el trabajo a tiempo.
+
+* ¿Has tenido problemas por datos incompletos, pérdidas de documentos o información mal registrada?.  
+   Hasta el momento no. Me encargo de revisar minuciosamente los planos antes de enviarlos para asegurarme de que no haya errores ni información incompleta.
+
+  ### **Preguntas sobre el proyecto**
+
+* ¿Cómo te ayudaría tener una plataforma centralizada para registrar y consultar entradas/salidas de materiales y datos del personal?.  
+   Aunque no estoy directamente en obra, considero que tener una plataforma que registre materiales es fundamental porque permite detectar robos o pérdidas gracias al inventario. Y respecto al personal, ayuda a controlar las horas trabajadas y evaluar si hay retrasos que puedan impactar en el presupuesto de la obra.
+
+* ¿Qué tipo de reportes automatizados te serían más útiles en tu rutina diaria?.  
+   Reportes diarios de avance de planos. Son útiles porque brindan información puntual y me permiten identificar detalles importantes que podrían perderse en reportes semanales.
+
+* ¿Qué esperas de una plataforma que ayude con la gestión operativa de obra?.  
+   Que ayude con la gestión documental centralizada, lo cual facilita mantener el orden de toda la información del proyecto.
+
+* Si tuvieras que diseñar una app para tu trabajo, ¿qué funciones serían imprescindibles?.  
+   Me gustaría una galería visual donde se pueda comparar el antes y el después del diseño estructural de los planos, para ver claramente el progreso del trabajo.
 
 ### 2.2.3. Análisis de entrevistas
+
+**Figura 7** 
+
+*Gráfico de herramientas digitales más usadas por los entrevitados* 
+
+<p align="center">
+  <img src="images/Analytics1.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia* 
+
+**Figura 8** 
+
+*Gráfico de distribución de edad de los entrevistados* 
+
+<p align="center">
+  <img src="images/Analytics2.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia* 
+
+**Figura 9** 
+
+*Gráfico de frecuencia de actualización de información para los entrevistados* 
+
+<p align="center">
+  <img src="images/Analytics3.png" alt="UH" width="1000">
+</p>
+
+*Nota. Elaboración propia*
 
 ## 2.3. Needfinding
 
@@ -446,8 +829,6 @@ Características demográficas:
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
-
-
 
 ### Colores
 
@@ -531,9 +912,170 @@ Sereno: Adoptamos un tono calmado y profesional, que invita a la confianza y evi
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Las Meta Tags nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas Meta Tags facilitan el análisis de archivos HTML y facilitan el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
+
+### **Las Meta Tags que usaremos:**
+
+#### **Título:**
+
+Esta etiqueta es una de las más importantes y por lo general se pone antes que cualquier otra Meta Tag. Esta etiqueta es utilizada o leída por todos los motores de búsqueda como encabezado en las páginas de resultados de los motores de búsqueda (SERP).
+
+**Para BuildTruck:** "BuildTruck | Gestión Digital para Construcción \- Control de Inventario y Personal"
+
+#### **Codificación de carácteres:**
+
+Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página.
+
+**Para BuildTruck:** `<meta charset="UTF-8">`
+
+#### **Descripción:**
+
+Esta Meta Tag nos sirve para proporcionar un resumen del contenido de la página web. Aquí debemos dar una breve información de lo que se puede visualizar en la página.
+
+**Para BuildTruck:** "BuildTruck es una plataforma web especializada para empresas constructoras que optimiza la gestión de inventario, personal y obreros en obras. Digitaliza y eficientiza tus procesos operativos con nuestra solución integral."
+
+#### **Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+**Para BuildTruck:** "gestión construcción, software construcción, control inventario, administración personal, plataforma construcción, digitalización construcción, BuildTruck, gestión de obras, control almacén, supervisión obras"
+
+#### **Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+**Para BuildTruck:**
+
+* `<meta name="author" content="BuildWise - UPC">`  
+* `<meta name="copyright" content="BuildWise © 2025. Todos los derechos reservados.">`
+
+
+#### **Viewport:**
+
+Para asegurar la correcta visualización en dispositivos móviles.
+
+**Para BuildTruck:** `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+
+#### **Robots:**
+
+Para indicar a los motores de búsqueda cómo indexar la página.
+
+**Para BuildTruck:** `<meta name="robots" content="index, follow">`
+
+#### **Open Graph Tags:**
+
+Para optimizar el compartir en redes sociales.
+
+**Para BuildTruck:**
+
+* `<meta property="og:title" content="BuildTruck - Gestión Digital para Construcción">`  
+* `<meta property="og:description" content="Plataforma web especializada para empresas constructoras. Optimiza la gestión de inventario, personal y obreros en obras.">`  
+* `<meta property="og:type" content="website">`  
+* `<meta property="og:url" content="https://www.buildtrack.com">`
+
 ### 4.2.4. Searching Systems
 
+En esta sección se explican los medios de ayuda que se brindarán al usuario para la búsqueda de datos dentro del producto digital.
+
+**Opciones de Búsqueda en la Aplicación**
+
+**Barra de Búsqueda Global**
+
+* Presente en el encabezado superior   
+* Permite búsquedas generales en todos los módulos  
+* Campo de texto con icono de lupa y placeholder "Buscar"
+
+**Filtros por Módulo**
+
+**Módulo de Inventario**
+
+* **Filtros disponibles**:  
+  * Tipo de material  
+  * Estado (en stock, stock bajo, agotado)  
+  * Ubicación  
+  * Proveedor  
+  * Fecha de ingreso  
+* **Visualización**:  
+  * Tabla con columnas   
+  * Opción para exportar a PDF
+
+**Módulo de Personal**
+
+* **Filtros disponibles**:  
+  * Tipo (administrativo, obrero, técnico)  
+  * Estado (activo, inactivo)  
+  * Especialidad  
+  * Asistencia  
+* **Visualización**:  
+  * Lista de personal con foto y datos básicos  
+
+**Módulo de Maquinarias**
+
+* **Filtros disponibles**:  
+  * Tipo de maquinaria  
+  * Estado (disponible, en uso, en mantenimiento)  
+  * Ubicación  
+  * Responsable  
+* **Visualización**:  
+  * Tabla de equipos con indicadores de estado  
+  * Reportes de utilización
+
+**Presentación de Resultados**
+
+* Resultados organizados por categorías  
+* 10 resultados por página con paginación  
+* Indicadores visuales de color según estado  
+* Acciones rápidas disponibles para cada resultado
+
 ### 4.2.5. Navigation Systems
+
+En esta sección se explican las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones.
+
+**Navegación del Landing Page**
+
+**Menú Principal**
+
+* Parte superior: Logo BuildTruck, Productos, Nosotros, Planes, Registrar, Iniciar Sesión  
+* Diseño responsive con colores naranja para botones y azul oscuro para fondos
+
+**Secciones Principales**
+
+* **Hero Section**: "TRANSFORMANDO LA GESTIÓN EN OBRA" con botón "Conoce más"  
+* **Características**: Tarjetas con 4 categorías principales (Gestión de almacén, Control de personal, Reportes, Alertas)  
+* **Funcionalidad**: Botón central "Ver cómo funciona"  
+* **Nosotros**: Información sobre la startup, misión y visión  
+* **Planes**: Tres opciones (Básico $50, Pro $90, Empresarial $150)  
+* **Contacto**: Formulario con campos para datos personales y mensaje
+
+**Recorrido del Usuario**
+
+1. Entrada a página principal  
+2. Exploración de características y beneficios  
+3. Conocimiento de la empresa  
+4. Evaluación de planes  
+5. Contacto o registro
+
+**Navegación de la Aplicación Web**
+
+**Estructura General**
+
+* **Menú superior**: Logo, búsqueda, notificaciones, perfil  
+* **Dashboard principal**: Vista general de obras  
+* **Selector de obra**: Acceso a proyectos específicos
+
+**Menú Lateral por Obra**
+
+* Dashboard de obra  
+* Personal  
+* Inventario  
+* Maquinarias    
+* Configuración
+
+**Elementos Auxiliares**
+
+* Botones de acción rápida según contexto  
+* Notificaciones   
+* Enlaces entre módulos relacionados
 
 ## 4.3. Landing Page UI Design
 
