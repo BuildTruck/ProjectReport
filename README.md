@@ -376,8 +376,9 @@ Debe de presentar un comportamiento fluido en sus interacciones.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
-
-![Image](https://github.com/user-attachments/assets/8fc343dc-8f16-4b36-87f6-3ae450540e48)
+<p align="center">
+  <img src="images/canvas.png" alt="UH" width="1000">
+</p>
 
 
 
