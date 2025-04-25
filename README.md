@@ -1390,6 +1390,190 @@ Este es tanto para el gerente como para el supervisador
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+[Ver diseño en OverFlow del Web Applications Wireflow Diagrams](https://overflow.io/s/FH2VW9TR)
+
+**User Goal 1: Gestión de Obras**  
+ **Usuario:** Gerente de Obra y Supervisor
+
+El objetivo principal de este flujo es permitir al gerente gestionar eficazmente las obras activas desde el sistema. Al ingresar al módulo “Proyectos”, el gerente puede visualizar una lista de obras presentadas en tarjetas que incluyen nombre, descripción, imagen y un botón para ingresar. Desde esta vista, tiene la opción de registrar nuevas obras mediante el botón “Añadir nuevo proyecto”, lo cual lo dirige a un formulario donde debe completar información como nombre del proyecto, ubicación, estado, fecha de inicio estimada y asignación del supervisor. Una vez registrados los datos, puede guardar los cambios y visualizar un mensaje de confirmación indicando que la obra fue añadida exitosamente.
+
+Además, el gerente puede ingresar a cada obra y editar su información, incluyendo cambios en la ubicación, estado o fecha de inicio. Esta acción también genera un mensaje visual de éxito. Por otro lado, el supervisor solo puede visualizar las obras en las que ha sido asignado, sin acceso a las funciones de edición o creación. Su vista está limitada a modo de solo lectura para consulta operativa.
+
+Este flujo garantiza que el gerente tenga control completo sobre la creación y mantenimiento de las obras, mientras que el supervisor puede centrarse en la ejecución operativa de las mismas sin alterar la información estructural.
+
+<p align="center">
+  <img src="images/uw1.png" width="850">
+</p>
+
+
+**User Goal 2: Inventario de Materiales**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo tiene como objetivo central facilitar el control de materiales dentro de una obra. El supervisor accede al módulo de “Inventario” desde el menú principal del sistema. Al ingresar, visualiza una tabla con todos los materiales registrados en la obra actual. Esta tabla incluye columnas como nombre del material, tipo, unidad de medida, cantidad recibida, stock disponible, precio unitario, proveedor, total y estado del ingreso. Si el stock se encuentra por debajo del mínimo establecido, el sistema lo resalta visualmente (por ejemplo, en rojo) para alertar sobre posibles faltantes.
+
+El supervisor puede hacer clic en el botón “Añadir” para registrar un nuevo ingreso de material. Esto lo lleva a un formulario donde debe ingresar los datos del material, incluyendo proveedor, tipo, unidad, cantidad, stock, precio unitario, RUC del proveedor, tipo y número de comprobante, forma de pago, fecha de adquisición, y una breve descripción del uso del material. Luego de confirmar, el sistema registra el nuevo ingreso y lo muestra en la tabla general.
+
+Al hacer clic sobre cualquier fila de la tabla, el supervisor accede a una vista detallada del material, donde puede visualizar toda la información registrada, editarla si es necesario y guardar los cambios. En cambio, el gerente no tiene acceso a la edición ni al registro de nuevos materiales. Su vista es solo de lectura, permitiéndole consultar el inventario actualizado por obra y exportar la información si lo requiere.
+
+Este flujo busca asegurar un seguimiento preciso de los materiales en campo, permitiendo que el supervisor mantenga actualizada la base de insumos, mientras que el gerente puede tomar decisiones basadas en datos reales y ordenados.
+
+**Gerente**
+<p align="center">
+  <img src="images/uw2.png" width="850">
+</p>
+
+**Supervisor**
+<p align="center">
+  <img src="images/uw3.png" width="850">
+</p>
+
+
+**User Goal 3: Registro de Incidentes**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo permite a los supervisores reportar cualquier incidente ocurrido en la obra de forma rápida y ordenada, asegurando un registro completo de eventos que afecten la seguridad o el avance del proyecto. Desde el menú principal, el supervisor accede a la sección “Incidentes”, donde puede ver una tabla con todos los incidentes registrados, filtrarlos por tipo, gravedad, estado o responsable, y también utilizar la barra de búsqueda para encontrar casos específicos. Además, tiene un botón visible para “Registrar nuevo incidente”, lo cual abre un formulario.
+
+En este formulario, el supervisor debe ingresar información como la fecha del incidente, tipo (accidente, retraso, daño, etc.), una descripción detallada, el estado del incidente (pendiente, en progreso o resuelto), la gravedad (leve, moderada o grave), las consecuencias y las medidas correctivas tomadas. También puede adjuntar documentos o imágenes relacionadas para respaldar el registro. Una vez completado, puede guardar el incidente y el sistema lo agrega automáticamente a la tabla general.
+
+Por otro lado, el gerente accede a la misma sección, pero con privilegios distintos. Puede visualizar todos los incidentes de cada obra, filtrar por criterios similares al supervisor y, además, tiene la opción de **descargar los reportes** de incidentes en formato PDF o Excel. Sin embargo, no puede modificar ni registrar nuevos incidentes, ya que su función está centrada en la supervisión general y análisis de la información para la toma de decisiones.
+
+Este flujo garantiza un control riguroso y documentado de los problemas ocurridos en obra, permitiendo una gestión responsable de la seguridad y la calidad en el desarrollo del proyecto.
+
+
+**Gerente**
+<p align="center">
+  <img src="images/uw4.png" width="850">
+</p>
+
+**Supervisor**
+<p align="center">
+  <img src="images/uw5.png" width="850">
+</p>
+
+
+**User Goal 4: Gestión de Personal**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo tiene como objetivo organizar y mantener actualizado el registro del personal involucrado en cada obra. Desde el módulo “Personal”, tanto el supervisor como el gerente pueden visualizar una tabla con todos los trabajadores registrados. La tabla muestra columnas como nombre completo, DNI, rol (obrero, técnico, supervisor), estado (activo o inactivo), y estado de asistencia del día (presente o ausente).
+
+El supervisor es quien tiene la responsabilidad de gestionar este apartado. Puede registrar un nuevo trabajador haciendo clic en el botón “Añadir”, lo cual lo dirige a un formulario donde debe ingresar datos como nombre, DNI, rol, estado, fecha de ingreso, teléfono y correo electrónico. También puede editar la información de un trabajador ya registrado o cambiar su estado (por ejemplo, de activo a inactivo si ya no pertenece a la obra).
+
+Al hacer clic en el nombre de un trabajador dentro de la tabla, se accede a una ficha individual que presenta los datos completos del empleado, incluyendo su fotografía si ha sido subida. Desde esta vista, el supervisor puede actualizar la información y guardar los cambios. El sistema muestra una confirmación visual una vez que los datos han sido modificados exitosamente.
+**Gerente**
+<p align="center">
+  <img src="images/uw6.png" width="850">
+</p>
+
+**Supervisor**
+<p align="center">
+  <img src="images/uw7.png" width="850">
+</p>
+
+
+**User Goal 5: Registro y Control de Maquinaria**  
+ **Usuario:** Supervisor y Gerente
+
+El objetivo de este flujo es gestionar la maquinaria asignada a cada obra. Desde el módulo “Maquinaria”, el usuario puede visualizar una tabla donde se muestran los registros de los equipos disponibles, incluyendo nombre o tipo de maquinaria, código o placa, estado, ubicación, proveedor y fecha de registro.
+
+El supervisor puede añadir nueva maquinaria haciendo clic en el botón “Añadir”. Esto abre un formulario donde debe completar los datos requeridos, como nombre, placa, estado actual y proveedor. También puede editar información de la maquinaria existente para reflejar cambios como reparaciones o cambios de ubicación.
+
+Por otro lado, el gerente tiene una vista solo de lectura. Puede revisar toda la información registrada y descargar una ficha detallada de cada maquinaria, pero no puede registrar ni editar.
+
+Este flujo permite mantener actualizado el control de los equipos en obra, asegurando un uso más eficiente y reduciendo riesgos de pérdida o mal uso.
+
+
+**Gerente**
+<p align="center">
+  <img src="images/uw8.png" width="850">
+</p>
+
+**Supervisor**
+<p align="center">
+  <img src="images/uw9.png" width="850">
+</p>
+
+**User Goal 6: Panel Estadístico**  
+ **Usuario:** Gerente
+
+El objetivo de este flujo es proporcionar al gerente una visión global del desempeño de las obras a través de gráficos e indicadores visuales.
+
+Desde la sección “Estadísticas Generales”, el gerente puede ver gráficos de asistencia, ausencias, personal registrado y rankings de obras con mayor o menor actividad. Esta información está presentada de forma visual mediante gráficos de barras y circulares.
+
+El gerente puede interpretar rápidamente los datos para identificar tendencias de productividad, inasistencias frecuentes o desbalances en la asignación de personal entre proyectos.
+
+Este flujo está diseñado exclusivamente para el gerente. Los supervisores no tienen acceso a esta vista de análisis.
+
+<p align="center">
+  <img src="images/uw10.png" width="850">
+</p>
+
+**User Goal 7: Documentación Visual**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo permite registrar de manera gráfica el avance de las obras mediante imágenes.
+
+El supervisor puede acceder a la sección “Documentación” donde visualiza una galería de imágenes subidas previamente. También tiene la opción de subir nuevas fotos, agregando una breve descripción y fecha de registro a cada imagen.
+
+El gerente, por su parte, puede ingresar a esta galería para visualizar todas las imágenes disponibles, permitiéndole supervisar el avance visual de las obras. No tiene permisos para subir ni eliminar imágenes.
+
+Este flujo facilita el seguimiento visual del progreso de las obras y la generación de evidencia documental de los trabajos realizados.
+
+**Gerente**
+<p align="center">
+  <img src="images/uw11.png" width="850">
+</p>
+
+**Supervisor**
+<p align="center">
+  <img src="images/uw12.png" width="850">
+</p>
+
+**User Goal 8: Configuración de Obra**  
+ **Usuario:** Gerente
+
+El objetivo de este flujo es permitir al gerente modificar la información general de una obra registrada.
+
+Desde la sección “Configuración de Obra”, el gerente puede actualizar datos como el nombre de la obra, ubicación, fecha de inicio, estado actual y supervisor asignado. Estos cambios se realizan a través de un formulario editable.
+
+El sistema valida que los campos obligatorios estén correctamente llenados antes de guardar los cambios, mostrando luego una confirmación visual.
+
+Este módulo es exclusivo para el gerente. Los supervisores no tienen acceso a esta funcionalidad de edición.
+<p align="center">
+  <img src="images/uw13.png" width="850">
+</p>
+
+**User Goal 9: Perfil y Configuración del Usuario**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo permite a los usuarios personalizar su perfil y sus preferencias dentro de la plataforma.
+
+Tanto el gerente como el supervisor pueden acceder a su sección de “Perfil”, donde visualizan sus datos personales como nombre, correo y teléfono. Desde esta vista pueden editar su información y cambiar su foto de perfil.
+
+Además, tienen acceso a la sección de “Configuraciones”, donde pueden seleccionar el idioma, el modo de vista (claro u oscuro) y el tipo de plan contratado.
+
+El sistema asegura que las modificaciones se guarden correctamente y muestra un mensaje de confirmación tras cada cambio exitoso.
+
+<p align="center">
+  <img src="images/uw14.png" width="850">
+</p>
+
+
+**User Goal 10: Inicio de Sesión**  
+ **Usuario:** Supervisor y Gerente
+
+Este flujo permite a los usuarios acceder de forma segura a la plataforma de BuildTruck.
+
+Desde la pantalla de bienvenida, el usuario puede elegir entre “Iniciar Sesión” o “Crear Cuenta”. Si selecciona iniciar sesión, debe ingresar su correo electrónico y contraseña. El sistema valida las credenciales y, si son correctas, redirige al usuario a su respectiva vista (gerente o supervisor).
+
+En caso de errores en las credenciales o campos vacíos, el sistema muestra mensajes de validación apropiados para guiar al usuario.
+
+Este flujo asegura que solo usuarios autorizados accedan al sistema, protegiendo la información de las obras y el control operativo.
+
+<p align="center">
+  <img src="images/uw15.png" width="850">
+</p>
+
+
 ### 4.4.3. Web Applications Mock-ups
 
  **Inicio de sesión**
