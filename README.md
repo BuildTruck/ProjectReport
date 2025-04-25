@@ -1028,56 +1028,84 @@ Se aplicarán distintos sistemas de organización de contenido tanto visual como
 
 1. Jerárquica:
 
- Este sistema se aplicará en las pantallas principales de navegación, como el Dashboard, donde los elementos más importantes (alertas de stock, avance físico de obra, asistencia del personal) estarán destacados con mayor tamaño, color contrastante y posición superior.
+   Este sistema se aplicará en las pantallas principales de navegación, como el Dashboard, donde los elementos más importantes (alertas de stock, avance físico de obra, asistencia del personal) estarán destacados con mayor tamaño, color contrastante y posición superior.
 
 2. Secuencial:
 
- Utilizado en procesos como el registro de materiales, generación de reportes o asignación de personal a frentes de trabajo. Se presentarán pasos guiados (wizard) que aseguren que el usuario complete correctamente los procesos sin omitir información clave.
+   Utilizado en procesos como el registro de materiales, generación de reportes o asignación de personal a frentes de trabajo. Se presentarán pasos guiados (wizard) que aseguren que el usuario complete correctamente los procesos sin omitir información clave.
 
 3. Matricial:
 
- Aplicada en módulos de consulta de información cruzada, como el seguimiento simultáneo de múltiples obras. Los datos serán organizados en una matriz que permita visualizar relaciones entre proyectos, materiales, personal y tiempo.
+   Aplicada en módulos de consulta de información cruzada, como el seguimiento simultáneo de múltiples obras. Los datos serán organizados en una matriz que permita visualizar relaciones entre proyectos, materiales, personal y tiempo.
 #
 * Esquemas de Categorización del Contenido
 #
 1. Por Tópicos:
 
- Será el sistema predominante en el menú lateral de navegación. Las funcionalidades estarán agrupadas en temas específicos como:
+   Será el sistema predominante en el menú lateral de navegación. Las funcionalidades estarán agrupadas en temas específicos como:
+   #
 
-* Inventario
-
-
-* Personal
+    * Inventario
 
 
-* Proyectos
+    * Personal
 
 
-* Reportes
+    * Proyectos
 
 
-* Configuración
+    * Reportes
+
+
+    * Configuración
 #
 
 2. Cronológico:
 
- Este sistema se aplicará en reportes de asistencia, movimientos de almacén y cronogramas de obra. La información se mostrará ordenada por fechas, facilitando el seguimiento diario, semanal o mensual.
-
+    Este sistema se aplicará en reportes de asistencia, movimientos de almacén y cronogramas de obra. La información se mostrará ordenada por fechas, facilitando el seguimiento diario, semanal o mensual.
+#
 3. Alfabético:
 
- Usado en listas de materiales, insumos o nombres del personal, para facilitar la búsqueda rápida por nombre o código.
-
+   Usado en listas de materiales, insumos o nombres del personal, para facilitar la búsqueda rápida por nombre o código.
+#
 4. Según audiencia:
 
- Algunos módulos y dashboards estarán personalizados según el perfil del usuario:
+   Algunos módulos y dashboards estarán personalizados según el perfil del usuario:
 
-* Gerente de obra: acceso completo a estadísticas, control de inventario, personal y alertas estratégicas.
+    * Gerente de obra: acceso completo a estadísticas, control de inventario, personal y alertas estratégicas.
 
 
-* Supervisor de obra: enfoque en carga de datos operativos, seguimiento diario y generación de reportes.
+    * Supervisor de obra: enfoque en carga de datos operativos, seguimiento diario y generación de reportes.
 
 
 ### 4.2.2. Labeling Systems
+
+En BuildTruck, se ha implementado un sistema de etiquetado pensado para ser claro, funcional y adaptado al contexto operativo del sector construcción. Su propósito es reducir la sobrecarga cognitiva y permitir que los usuarios comprendan e interactúen con la plataforma de forma rápida e intuitiva.
+#
+1. Principios utilizados:
+#
+* Simplicidad y claridad:
+ 
+   Se prioriza el uso de términos breves, directos y familiares para el entorno de obra (por ejemplo: “Reporte diario”, “Materiales”, “Asistencia”, “Obreros”, “Avance”, “Notificaciones”). Esto facilita que los usuarios identifiquen las funciones sin esfuerzo, incluso sin formación técnica.
+#
+* Evitar ambigüedad:
+ 
+   Se evita el uso de tecnicismos o jerga innecesaria que pueda generar confusión. Por ejemplo, se prefiere utilizar la etiqueta “Registro de materiales” en lugar de “Logística de recursos”, manteniendo siempre un lenguaje claro y accesible.
+#
+* Consistencia visual:
+
+   Las etiquetas mantienen una presentación uniforme en toda la interfaz, incluyendo botones, menús, formularios y tarjetas. Esto garantiza que el usuario reconozca patrones visuales y entienda de inmediato para qué sirve cada opción.
+#
+2. Asociaciones comunes entre etiquetas:
+#
+* “Reporte” siempre se relaciona con acciones como “Generar”, “Visualizar”, “Descargar”, “Compartir”.
+
+
+* “Materiales” está vinculado con procesos como “Entrada”, “Salida” e “Inventario”.
+
+
+* “Obreros” se asocia con aspectos como “Asistencia”, “Tareas” y “Evaluación”.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
