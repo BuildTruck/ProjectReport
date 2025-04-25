@@ -878,6 +878,8 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
+[Ver diseño en Trello del Product Backlog](https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTId2c3303b9daa2ee2a1550a5b3ac169cf3F5B76F3/trello-agile-sprint-buildtruck)
+
 
 | \# Orden  | User Story Id | Título  | Descripción  | Story Points (1 / 2 / 3 / 5 / 8\)  |
 | :---- | :---- | :---- | :---- | :---- |
@@ -1368,6 +1370,7 @@ Este es tanto para el gerente como para el supervisador
   <img src="images/ww41.png" width="850">
 </p>
 
+[Ver diseño en Figma del Web Applications Wireframes](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=205-3584&t=5pm9hD3yZ8vMxGpa-1)
 
 
 
@@ -1548,6 +1551,7 @@ Este es tanto para el gerente como para el supervisador
   <img src="images/wm41.png" width="850">
 </p>
 
+[Ver diseño en Figma del Web Applications Mock-ups](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=151-10074&t=5pm9hD3yZ8vMxGpa-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
