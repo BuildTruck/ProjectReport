@@ -384,28 +384,25 @@ Debe de presentar un comportamiento fluido en sus interacciones.
 
 ## 1.3. Segmentos Objetivos
 
-Segmento Objetivo 1: Supervisores de Obra
+**Segmento Objetivo 1: Gerentes de obra**  
+Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, este rol es , quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.
 
-Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, el rol de supervisor es asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.
+**Características demográficas:**
 
-_Características demográficas_:
+* Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
+* Edad: Entre 28 y 50 años, con una media de 38 años.  
+* Nivel socioeconómico: Clase media.  
+* Desafíos:Los gerentes de obra suelen enfrentarse a la sobrecarga de responsabilidades, especialmente cuando también actúan como jefes de obra. La falta de herramientas digitales adaptadas a su rutina diaria limita su capacidad de monitoreo en tiempo real y dificulta el seguimiento de materiales, personal y avances. Además, muchas veces deben recurrir a registros manuales o aplicaciones genéricas que no están pensadas para el sector construcción.
 
-* Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.
-* Edad: Entre 28 y 50 años, con una media de 38 años.
-* Nivel socioeconómico: Clase media.
-* Desafíos:Los supervisores suelen enfrentarse a la sobrecarga de responsabilidades, especialmente cuando también actúan como jefes de obra. La falta de herramientas digitales adaptadas a su rutina diaria limita su capacidad de monitoreo en tiempo real y dificulta el seguimiento de materiales, personal y avances. Además, muchas veces deben recurrir a registros manuales o aplicaciones genéricas que no están pensadas para el sector construcción.
-
-Segmento Objetivo 2: Asistentes Administrativos de Obra
-
+**Segmento Objetivo 2:  Supervisores de obra**   
 Este segmento está conformado por personal encargado de la logística documental y operativa de la obra. Gestionan los trámites de materiales, control de insumos, asistencia del personal, licencias, permisos y reportes dirigidos al área administrativa o a la supervisión.
 
-Características demográficas:
+**Características demográficas:**
 
-* Ubicación: Lima Metropolitana, principalmente en distritos con alta actividad constructiva como La Victoria, El Agustino, Independencia y Cercado de Lima.
-* Edad: Entre 22 y 35 años.
-* Nivel socioeconómico: Clase media.
-* Desafíos:Los asistentes administrativos deben recopilar y organizar información dispersa en distintos formatos, lo cual ralentiza la toma de decisiones. Además, enfrentan dificultades para realizar reportes rápidos y precisos, así como para coordinar con múltiples actores del proyecto. La falta de una plataforma centralizada para registrar entradas/salidas de materiales y datos del personal aumenta el margen de error y el trabajo duplicado.
-
+* Ubicación: Lima Metropolitana, principalmente en distritos con alta actividad constructiva como La Victoria, El Agustino, Independencia y Cercado de Lima.  
+* Edad: Entre 22 y 35 años.  
+* Nivel socioeconómico: Clase media.  
+* Desafíos:Los  supervisores de obra deben recopilar y organizar información dispersa en distintos formatos, lo cual ralentiza la toma de decisiones. Además, enfrentan dificultades para realizar reportes rápidos y precisos, así como para coordinar con múltiples actores del proyecto. La falta de una plataforma centralizada para registrar entradas/salidas de materiales y datos del personal aumenta el margen de error y el trabajo duplicado.
 
 <hr>
 
