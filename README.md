@@ -185,23 +185,23 @@ Proporcionar a las empresas constructoras una plataforma digital integral que fa
 
 ### 1.1.2. Perfiles de Integrantes del Equipo
 <p align="center">
-  <img src="images/PerfilMtt.png" alt="UH" width="1000">
+  <img src="images/PerfilMtt.png" alt="PI1" width="1000">
 </p>
 
 <p align="center">
-  <img src="images/PerfilMy.png" alt="UH" width="1000">
+  <img src="images/PerfilMy.png" alt="PI2" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/PerfilD.png" alt="UH" width="1000">
+  <img src="images/PerfilD.png" alt="PI3" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/PerfilP.png" alt="UH" width="1000">
+  <img src="images/PerfilP.png" alt="PI4" width="1000">
 </p> 
 
 <p align="center">
-  <img src="images/PerfilR.png" alt="UH" width="1000">
+  <img src="images/PerfilR.png" alt="PI5" width="1000">
 </p> 
 
 ## 1.2. Solution Profile
@@ -1178,14 +1178,14 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 
 ### 4.3.1. Landing Page Wireframe
 <p align="center">
-  <img src="images/lw.png" alt="UH" width="1000">
+  <img src="images/lw.png" alt="LP" width="1000">
 </p>
 
 [Ver diseño en Figma del Wireframe Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-4373&t=5pm9hD3yZ8vMxGpa-1)
 
 ### 4.3.2. Landing Page Mock-up
 <p align="center">
-  <img src="images/lm.png" alt="UH" width="1000">
+  <img src="images/lm.png" alt="LM" width="1000">
 </p>
 
 [Ver diseño en Figma del MockUp Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-3564&t=5pm9hD3yZ8vMxGpa-1)
@@ -1194,6 +1194,22 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes.
+ 
+ **Inicio de sesión**
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="images/ww1.png"  width="300">
+  <img src="images/ww2.png"  width="300">
+  <img src="images/ww3.png"  width="300">
+</div>
+
+### Gerente de Obra
+**Menú de proyectos**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww4.png"  width="250">
+  <img src="images/ww5.png"  width="250">
+  <img src="images/ww6.png"  width="250">
+   <img src="images/ww7.png"  width="250">
+</div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
