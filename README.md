@@ -1196,92 +1196,177 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 ### 4.4.1. Web Applications Wireframes.
  
  **Inicio de sesión**
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/ww1.png"  width="750">
-  <img src="images/ww2.png"  width="750">
-  <img src="images/ww3.png"  width="750">
-</div>
+ <p align="center">
+  <img src="images/ww1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww3.png" width="850">
+</p>
+
 
 ### Gerente de Obra
 **Menú de proyectos**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww4.png"  width="750">
-  <img src="images/ww5.png"  width="750">
-  <img src="images/ww6.png"  width="750">
-   <img src="images/ww7.png"  width="750">
-</div>
-<br>
+ <p align="center">
+  <img src="images/ww4.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/ww6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww7.png" width="850">
+</p>
+
 
 **Estadísticas generales**
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/ww8.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww8.png" width="850">
+</p>
+
 
 **Reportes globales**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww9.png"  width="750">
-  <img src="images/ww10.png"  width="750">
-  
-</div>
+<p align="center">
+  <img src="images/ww9.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww10.png" width="850">
+</p>
 <br>
 
 **Configuración**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww11.png"  width="750">
-</div>
+<p align="center">
+  <img src="images/ww11.png" width="850">
+</p>
+Este es tanto para el gerente como para el supervisador
+<br>
+
 <br>
 
 **Perfil**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww12.png"  width="750">
-  <img src="images/ww13.png"  width="750">
-</div>
+<p align="center">
+  <img src="images/ww12.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww13.png" width="850">
+</p>
+Este es tanto para el gerente como para el supervisador
 <br>
 
 **Documentación**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww14.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww14.png" width="850">
+</p>
 
 **Personal**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww15.png"  width="750">
-  <img src="images/ww16.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww15.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww16.png" width="850">
+</p>
 
 **Inventario**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww17.png"  width="750">
-  <img src="images/ww18.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww18.png" width="850">
+</p>
 
 **Incidentes**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww19.png"  width="750">
-  <img src="images/ww20.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww19.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww20.png" width="850">
+</p>
 
 **Maquinaria**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww21.png"  width="750">
-  <img src="images/ww22.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww21.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww22.png" width="850">
+</p>
 
 **Configuración de la Obra**
-<div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww23.png"  width="750">
-  <img src="images/ww24.png"  width="750">
-  <img src="images/ww25.png"  width="750">
-</div>
-<br>
+<p align="center">
+  <img src="images/ww23.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww24.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww25.png" width="850">
+</p>
+
+### Supervisor de Obra
+
+**Menú de proyectos**
+<p align="center">
+  <img src="images/ww26.png" width="850">
+</p>
+
+**Personal**
+<p align="center">
+  <img src="images/ww27.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww28.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww29.png" width="850">
+</p>
+
+**Inventario**
+<p align="center">
+  <img src="images/ww30.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww31.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww32.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww33.png" width="850">
+</p>
+
+**Maquinaria**
+<p align="center">
+  <img src="images/ww34.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww35.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww36.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww37.png" width="850">
+</p>
 
 
+**Incidentes**
+<p align="center">
+  <img src="images/ww38.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww39.png" width="850">
+</p>
+
+**Documentación**
+<p align="center">
+  <img src="images/ww40.png" width="850">
+</p>
+<p align="center">
+  <img src="images/ww41.png" width="850">
+</p>
 
 
 
