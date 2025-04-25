@@ -1021,6 +1021,62 @@ Sereno: Adoptamos un tono calmado y profesional, que invita a la confianza y evi
 
 ### 4.2.1. Organization Systems
 
+Se aplicarán distintos sistemas de organización de contenido tanto visual como estructural, adaptados al flujo operativo de nuestros usuarios. Esto nos permitirá ofrecer una experiencia más clara, intuitiva y eficaz durante el uso de la plataforma.
+#
+* Organización Visual del Contenido
+#
+
+1. Jerárquica:
+
+ Este sistema se aplicará en las pantallas principales de navegación, como el Dashboard, donde los elementos más importantes (alertas de stock, avance físico de obra, asistencia del personal) estarán destacados con mayor tamaño, color contrastante y posición superior.
+
+2. Secuencial:
+
+ Utilizado en procesos como el registro de materiales, generación de reportes o asignación de personal a frentes de trabajo. Se presentarán pasos guiados (wizard) que aseguren que el usuario complete correctamente los procesos sin omitir información clave.
+
+3. Matricial:
+
+ Aplicada en módulos de consulta de información cruzada, como el seguimiento simultáneo de múltiples obras. Los datos serán organizados en una matriz que permita visualizar relaciones entre proyectos, materiales, personal y tiempo.
+#
+* Esquemas de Categorización del Contenido
+#
+1. Por Tópicos:
+
+ Será el sistema predominante en el menú lateral de navegación. Las funcionalidades estarán agrupadas en temas específicos como:
+
+* Inventario
+
+
+* Personal
+
+
+* Proyectos
+
+
+* Reportes
+
+
+* Configuración
+#
+
+2. Cronológico:
+
+ Este sistema se aplicará en reportes de asistencia, movimientos de almacén y cronogramas de obra. La información se mostrará ordenada por fechas, facilitando el seguimiento diario, semanal o mensual.
+
+3. Alfabético:
+
+ Usado en listas de materiales, insumos o nombres del personal, para facilitar la búsqueda rápida por nombre o código.
+
+4. Según audiencia:
+
+ Algunos módulos y dashboards estarán personalizados según el perfil del usuario:
+
+* Gerente de obra: acceso completo a estadísticas, control de inventario, personal y alertas estratégicas.
+
+
+* Supervisor de obra: enfoque en carga de datos operativos, seguimiento diario y generación de reportes.
+
+
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
