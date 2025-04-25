@@ -1179,6 +1179,12 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 ### 4.3.1. Landing Page Wireframe
 
 ### 4.3.2. Landing Page Mock-up
+<p align="center">
+  <img src="images/lm.png" alt="UH" width="1000">
+</p>
+
+[Ver diseño en Figma del MockUp Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-3564&t=5pm9hD3yZ8vMxGpa-1)
+
 
 ## 4.4. Web Applications UX/UI Design
 
