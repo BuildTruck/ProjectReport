@@ -1375,6 +1375,180 @@ Este es tanto para el gerente como para el supervisador
 
 ### 4.4.3. Web Applications Mock-ups
 
+ **Inicio de sesión**
+ <p align="center">
+  <img src="images/wm1.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm2.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm3.png" width="850">
+</p>
+
+
+### Gerente de Obra
+**Menú de proyectos**
+ <p align="center">
+  <img src="images/wm4.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm5.png"  width="850">
+</p>
+<p align="center">
+  <img src="images/wm6.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm7.png" width="850">
+</p>
+
+
+**Estadísticas generales**
+<p align="center">
+  <img src="images/wm8.png" width="850">
+</p>
+
+
+**Reportes globales**
+<p align="center">
+  <img src="images/wm9.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm10.png" width="850">
+</p>
+<br>
+
+**Configuración**
+<p align="center">
+  <img src="images/wm11.png" width="850">
+</p>
+Este es tanto para el gerente como para el supervisador
+<br>
+
+<br>
+
+**Perfil**
+<p align="center">
+  <img src="images/wm12.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm13.png" width="850">
+</p>
+Este es tanto para el gerente como para el supervisador
+<br>
+
+**Documentación**
+<p align="center">
+  <img src="images/wm14.png" width="850">
+</p>
+
+**Personal**
+<p align="center">
+  <img src="images/wm15.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm16.png" width="850">
+</p>
+
+**Inventario**
+<p align="center">
+  <img src="images/wm17.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm18.png" width="850">
+</p>
+
+**Incidentes**
+<p align="center">
+  <img src="images/wm19.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm20.png" width="850">
+</p>
+
+**Maquinaria**
+<p align="center">
+  <img src="images/wm21.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm22.png" width="850">
+</p>
+
+**Configuración de la Obra**
+<p align="center">
+  <img src="images/wm23.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm24.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm25.png" width="850">
+</p>
+
+### Supervisor de Obra
+
+**Menú de proyectos**
+<p align="center">
+  <img src="images/wm26.png" width="850">
+</p>
+
+**Personal**
+<p align="center">
+  <img src="images/wm27.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm28.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm29.png" width="850">
+</p>
+
+**Inventario**
+<p align="center">
+  <img src="images/wm30.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm31.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm32.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm33.png" width="850">
+</p>
+
+**Maquinaria**
+<p align="center">
+  <img src="images/wm34.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm35.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm36.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm37.png" width="850">
+</p>
+
+
+**Incidentes**
+<p align="center">
+  <img src="images/wm38.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm39.png" width="850">
+</p>
+
+**Documentación**
+<p align="center">
+  <img src="images/wm40.png" width="850">
+</p>
+<p align="center">
+  <img src="images/wm41.png" width="850">
+</p>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
