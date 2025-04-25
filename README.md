@@ -1197,19 +1197,94 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
  
  **Inicio de sesión**
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/ww1.png"  width="300">
-  <img src="images/ww2.png"  width="300">
-  <img src="images/ww3.png"  width="300">
+  <img src="images/ww1.png"  width="750">
+  <img src="images/ww2.png"  width="750">
+  <img src="images/ww3.png"  width="750">
 </div>
 
 ### Gerente de Obra
 **Menú de proyectos**
 <div style="display: flex; justify-content: center; gap: 3px;">
-  <img src="images/ww4.png"  width="250">
-  <img src="images/ww5.png"  width="250">
-  <img src="images/ww6.png"  width="250">
-   <img src="images/ww7.png"  width="250">
+  <img src="images/ww4.png"  width="750">
+  <img src="images/ww5.png"  width="750">
+  <img src="images/ww6.png"  width="750">
+   <img src="images/ww7.png"  width="750">
 </div>
+<br>
+
+**Estadísticas generales**
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="images/ww8.png"  width="750">
+</div>
+<br>
+
+**Reportes globales**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww9.png"  width="750">
+  <img src="images/ww10.png"  width="750">
+  
+</div>
+<br>
+
+**Configuración**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww11.png"  width="750">
+</div>
+<br>
+
+**Perfil**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww12.png"  width="750">
+  <img src="images/ww13.png"  width="750">
+</div>
+<br>
+
+**Documentación**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww14.png"  width="750">
+</div>
+<br>
+
+**Personal**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww15.png"  width="750">
+  <img src="images/ww16.png"  width="750">
+</div>
+<br>
+
+**Inventario**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww17.png"  width="750">
+  <img src="images/ww18.png"  width="750">
+</div>
+<br>
+
+**Incidentes**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww19.png"  width="750">
+  <img src="images/ww20.png"  width="750">
+</div>
+<br>
+
+**Maquinaria**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww21.png"  width="750">
+  <img src="images/ww22.png"  width="750">
+</div>
+<br>
+
+**Configuración de la Obra**
+<div style="display: flex; justify-content: center; gap: 3px;">
+  <img src="images/ww23.png"  width="750">
+  <img src="images/ww24.png"  width="750">
+  <img src="images/ww25.png"  width="750">
+</div>
+<br>
+
+
+
+
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
