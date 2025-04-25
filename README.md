@@ -1177,6 +1177,11 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+<p align="center">
+  <img src="images/lw.png" alt="UH" width="1000">
+</p>
+
+[Ver diseño en Figma del Wireframe Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-4373&t=5pm9hD3yZ8vMxGpa-1)
 
 ### 4.3.2. Landing Page Mock-up
 <p align="center">
