@@ -882,6 +882,48 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ## 3.4. Product Backlog
 
+| \# Orden  | User Story Id | Título  | Descripción  | Story Points (1 / 2 / 3 / 5 / 8\)  |
+| :---- | :---- | :---- | :---- | :---- |
+| 1 | US01 | Visualizar lista de obras asignadas | Como gerente, quiero ver una lista de todas las obras registradas en el sistema, para poder ingresar a sus detalles y gestionarlas. | 2 |
+| 2 | US02 |  Registrar nueva obra | Como **gerente**, quiero poder registrar una nueva obra, ingresando datos clave como nombre, ubicación, fecha, estado y supervisor asignado. | 3 |
+| 3 | US03 | Ver detalles de una obra | Como **gerente o supervisor**, quiero ver todos los datos registrados de una obra específica, para conocer su información general sin editarla directamente. | 2 |
+| 4 | US04 | Editar obra existente | Como **gerente**, quiero poder editar los datos de una obra registrada, para mantener la información actualizada. | 2 |
+| 5 | US05 | Visualizar lista de materiales por obra | Como **gerente**, quiero ver una lista detallada de materiales registrados en una obra específica, para monitorear su uso y disponibilidad. | 2 |
+| 6 | US06 | Ver detalle de un material registrado | Como **gerente o supervisor**, quiero hacer clic sobre un material y ver toda su información registrada, para conocer el historial o validar su estado. | 2 |
+| 7 | US07 | Añadir nuevo material al inventario | Como **supervisor**, quiero registrar un nuevo material en el inventario de obra, para mantener actualizado el control de insumos. | 3 |
+| 8 | US08 | Editar material existente | Como **supervisor**, quiero editar la información de un material ya registrado, para corregir o actualizar sus datos. | 3 |
+| 9 | US09 | Visualizar lista de incidentes por obra | Como **gerente o supervisor**, quiero ver una lista de los incidentes ocurridos en una obra, para monitorear problemas, accidentes o fallas. | 2 |
+| 10 | US10 | Registrar nuevo incidente | Como **supervisor**, quiero registrar cualquier incidente ocurrido en la obra, para documentar lo sucedido, sus consecuencias y medidas tomadas. | 3 |
+| 11 | US11 | Ver detalle de un incidente registrado | Como **gerente o supervisor**, quiero ver toda la información de un incidente registrado, para entender qué ocurrió y cómo fue gestionado. | 2 |
+| 12 | US12 | Editar un incidente registrado  | Como **supervisor**, quiero editar los datos de un incidente previamente registrado, para corregir errores o agregar nueva información. | 3 |
+| 13 | US13 |  Visualizar lista de personal en obra  | Como **gerente o supervisor**, quiero ver una lista del personal asignado a una obra, para tener control sobre los roles, estado y asistencia. | 2 |
+| 14 | US14 | Registrar nuevo personal | Como **supervisor**, quiero registrar a un nuevo miembro del personal, para que su información quede registrada en el sistema y asociada a la obra. | 3 |
+| 15 | US15 | Ver detalle de un trabajador | Como **gerente o supervisor**, quiero hacer clic sobre un trabajador para ver sus datos completos, sin necesidad de editarlos. | 3 |
+| 16 | US16 | Editar información del personal | Como **supervisor**, quiero editar los datos de un miembro del personal, para actualizar su información o corregir errores. | 5 |
+| 17 | US17 | Visualizar lista de maquinaria en obra | Como **gerente o supervisor**, quiero ver una lista de todas las maquinarias registradas en la obra, para monitorear su estado y disponibilidad. | 2 |
+| 18 | US18 | Registrar nueva maquinaria | Como **supervisor**, quiero poder registrar una nueva máquina en obra, para mantener actualizado el control de equipos disponibles. | 3 |
+| 19 | US19 | Ver detalle de una maquinaria | Como **gerente o supervisor**, quiero ver todos los datos de una máquina registrada, para conocer su estado, proveedor y descripción técnica. | 2 |
+| 20 | US20 | Editar datos de maquinaria existente | Como **supervisor**, quiero editar los datos de una máquina registrada, para actualizar su estado o corregir información. | 3 |
+| 21 | US21 | Visualizar panel de estadísticas generales | Como **gerente**, quiero acceder a un panel con estadísticas generales por obra, para monitorear el desempeño global del personal y la operatividad. | 5 |
+| 22 | US22 | Visualizar resumen de asistencia por obra | Como **gerente**, quiero ver un gráfico de barras que muestre la asistencia registrada en cada obra, para identificar el nivel de cumplimiento laboral. | 5 |
+| 23 | US23 | Ver ranking de obras con más personal | Como **gerente**, quiero identificar visualmente qué obras tienen más personal registrado, para redistribuir recursos si es necesario. | 5 |
+| 24 | US24 | Consultar tasa de ausencia laboral | Como **gerente**, quiero ver un gráfico con la tasa de ausencia laboral por obra, para detectar patrones de inasistencia. | 5 |
+| 25 | US25 | Visualizar galería de imágenes por obra | Como **supervisor**, quiero ver una galería de imágenes documentadas en la obra, con su título, descripción y fecha, para seguir el avance visual del proyecto. | 5 |
+| 26 | US26 | Subir nueva imagen a la galería | Como **supervisor**, quiero subir una nueva foto con descripción, para dejar registrada visualmente una etapa del proceso constructivo. | 5 |
+| 27 | US27 | Eliminar una imagen documentada | Como **supervisor**, quiero eliminar una imagen registrada por error o que no corresponde, para mantener limpia y precisa la galería visual. | 3 |
+| 28 | US28 | Acceder a la configuración general de una obra | Como **gerente**, quiero ingresar a la sección de configuración de obra para visualizar su información y tener opción de actualizarla. | 3 |
+| 29 | US29 | Editar información de la obra | Como **gerente**, quiero poder modificar los datos principales del proyecto, para mantener la información actualizada según el avance. | 3 |
+| 30 | US30 | Visualizar perfil de usuario | Como **usuario**, quiero ver mi información personal en un panel claro, para identificar mis datos registrados. | 2 |
+| 31 | US31 | Editar datos de perfil personal | Como **usuario**, quiero poder modificar mi nombre, correo o foto de perfil, para mantener actualizada mi información. | 3 |
+| 32 | US32 | Acceder a configuración de cuenta | Como **usuario**, quiero modificar configuraciones generales como idioma, tema visual y plan, para personalizar mi experiencia. | 3 |
+| 33 | US33 | Visualizar propuesta de valor de BuildTruck | Como **visitante**, quiero entender de forma clara qué es BuildTruck y cómo mejora la gestión en obra, para evaluar si es una solución adecuada para mi empresa. | 1 |
+| 34 | US34 | Visualizar características del sistema | Como **visitante**, quiero conocer las funcionalidades destacadas de la plataforma, para identificar si cubre las necesidades de mi negocio. | 1 |
+| 35 | US35 | Visualizar misión, visión y origen de BuildTruck | Como **visitante**, quiero saber quién creó BuildTruck y con qué propósito, para confiar en la solución ofrecida. | 1 |
+| 36 | US36 | Conocer planes de suscripción | Como **potencial cliente**, quiero ver claramente los diferentes planes de precios y sus beneficios, para elegir el que más se ajuste a mis necesidades. | 2 |
+| 37 | US37 | Enviar formulario de contacto | Como **visitante interesado**, quiero enviar un mensaje a través del formulario de contacto, para hacer consultas o solicitar una demostración. | 3 |
+
+
+
 <hr>
 
 # Capítulo IV: Product Design
