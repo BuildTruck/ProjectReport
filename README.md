@@ -1843,7 +1843,13 @@ Este es tanto para el gerente como para el supervisador
 
 ### 4.6.1. Software Architecture Context Diagrams
 
+#
+<p align="center">
+  <img src="images/structurizr-101472-Contexto.png" alt="PB" width="1000">
+</p>
+
 ### 4.6.2. Software Architecture Container Diagrams
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 
