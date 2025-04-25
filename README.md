@@ -1583,13 +1583,129 @@ Este es tanto para el gerente como para el supervisador
 
 ### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="images/ClassDiagramBT.png" alt="UH" width="1000">
+</p>
+
 ### 4.7.2. Class Dictionary
+
+## BaseEntity
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| id | int | Unique identifier for each entity in the system |
+| creationDate | Date | Date when the entity was created in the system |
+| status | String | Current status of the entity (active, inactive, etc.) |
+
+## Project
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| name | String | Name or title of the construction project |
+| location | String | Physical location where the project is being developed |
+| startDate | Date | Date when the project officially started |
+| estimatedEndDate | Date | Expected completion date for the project |
+| description | String | Detailed description of the project's scope and objectives |
+| status | String | Current status of the project (planning, in progress, finished) |
+
+## User
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| name | String | First name of the user |
+| email | String | Email address used for authentication and notifications |
+| role | String | Role of the user within the system (admin, supervisor, etc.) |
+| password | String | Encrypted password for user authentication |
+
+## Material
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| name | String | Name of the construction material |
+| type | String | Category or type of material |
+| quantity | int | Total quantity of the material registered |
+| stock | int | Current available quantity in stock |
+| unitPrice | double | Cost per unit of the material |
+
+## Staff
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| name | String | Full name of the staff member |
+| id | String | National identification number or document ID |
+| role | String | Role or position of the staff member in the project |
+| hiringDate | Date | Date when the staff member was hired |
+
+## Machinery
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| name | String | Name or model of the machinery |
+| type | String | Category or type of machinery |
+| code | String | Unique identification code or serial number |
+| status | String | Current operational status (operational, in maintenance, etc.) |
+
+## Notification
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| message | String | Content of the notification |
+| type | String | Type of notification (alert, information, warning) |
+| date | Date | Date and time when the notification was created |
+| read | boolean | Indicates whether the notification has been read by the user |
+
+## UserSession
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| instance | static UserSession | Single instance of the session management class |
+| currentUser | User | Reference to the currently authenticated user |
+
+## NotificationObserver
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| observers | List\<Observer\> | Collection of observers that will receive notifications |
+
+## AccessControlProxy
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| currentUser | User | Reference to the currently authenticated user for permission checks |
+
+## MaterialRepository
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| (inherits from IRepository) | | Repository responsible for Material entity persistence |
+
+## StaffRepository
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| (inherits from IRepository) | | Repository responsible for Staff entity persistence |
+
+## ProjectRepository
+
+| Attribute | Type | Description |
+|-----------|------|-------------|
+| (inherits from IRepository) | | Repository responsible for Project entity persistence |
+
+## Interfaces
+
+### IEntity
+Interface that defines the basic CRUD operations for all entities in the system.
+
+### Observer
+Interface that defines the notification mechanism for objects that need to be updated when changes occur.
+
+### IRepository
+Interface that defines the standard operations for data access repositories.
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
 
-<hr>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
