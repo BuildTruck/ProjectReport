@@ -2063,6 +2063,133 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
+En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
+
+**HTML:**
+
+Se seguirán las recomendaciones de la guía ["HTML Style Guide and Coding Conventions"](https://www.w3schools.com/html/html5_syntax.asp) de W3Schools y la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html). Las principales convenciones son:  
+**Sintaxis**: Usar HTML5 con DOCTYPE \<\!DOCTYPE html\>.
+
+**Nomenclatura**:
+
+* Nombres de archivos en minúsculas, con guiones para separar palabras (e.g., index-page.html).  
+  * Atributos y etiquetas en minúsculas (e.g., \<div id="main-content"\>).
+
+  **Formato**:
+
+  * Indentar con 2 espacios para anidamiento.  
+  * Evitar líneas excesivamente largas (máximo 80 caracteres).  
+  * Usar comillas dobles para valores de atributos (e.g., class="container").
+
+  **Buenas prácticas**:
+
+  * Incluir atributo alt en etiquetas \<img\> para accesibilidad.  
+  * Usar etiquetas semánticas (\<header\>, \<footer\>, \<article\>, etc.).  
+  * Evitar estilos en línea; usar CSS externo.
+
+**CSS:**
+
+Se adoptará la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html) para CSS. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Clases en minúsculas, separadas por guiones (e.g., button-primary, main-container).  
+  * Evitar IDs para estilos, priorizar clases.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Agrupar propiedades por categoría (e.g., posicionamiento, display, tipografía).  
+  * Usar notación abreviada cuando sea posible (e.g., margin: 10px 20px en lugar de especificar cada lado).
+
+  **Buenas prácticas**:
+
+  * Usar unidades relativas (rem, vw, %) en lugar de absolutas (px) cuando sea adecuado.  
+  * Evitar \!important salvo casos excepcionales.  
+  * Organizar archivos CSS por módulos o componentes.
+
+**JavaScript:**
+
+Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) adaptadas a JavaScript, dado que comparten similitudes. Las convenciones son:  
+**Nomenclatura**:
+
+* Variables y funciones en camelCase (e.g., userProfile).  
+  * Constantes en UPPER\_SNAKE\_CASE (e.g., MAX\_PROJECTS).  
+  * Clases en PascalCase (e.g., UserService).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar comillas simples (') para cadenas de texto.  
+  * Terminar declaraciones con punto y coma (;).
+
+  **Buenas prácticas**:
+
+  * Usar const por defecto, let solo si es necesario reasignar, evitar var.  
+  * Preferir funciones de flecha para callbacks (() \=\> {}) y funciones tradicionales para métodos (function name() {}).  
+  * Incluir comentarios JSDoc para funciones públicas.
+
+**TypeScript:**
+
+Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
+  * Interfaces con prefijo I solo si es necesario para claridad (e.g., IUser).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar tipos explícitos para parámetros y retornos de funciones.  
+  * Evitar any salvo en casos excepcionales.
+
+  **Buenas prácticas** (específicas para Angular):
+
+  * Usar sufijos para componentes (Component), servicios (Service), etc..  
+  * Organizar módulos Angular por funcionalidad (e.g., auth.module.ts).  
+  * Usar decoradores Angular de forma consistente (e.g., @Input, @Output).
+
+**Java:**
+
+Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/styleguide/javaguide.html) y las recomendaciones de ["Spring Boot Features"](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html). Las convenciones son:  
+**Nomenclatura**:
+
+* Clases en PascalCase.  
+  * Métodos y variables en camelCase.  
+  * Constantes en UPPER\_SNAKE\_CASE.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Líneas de máximo 100 caracteres.  
+  * Usar llaves {} para todos los bloques, incluso si son de una sola línea.
+
+  **Buenas prácticas** (específicas para Spring Boot):
+
+  * Usar anotaciones Spring de forma clara.  
+  * Estructurar proyectos con paquetes por funcionalidad (e.g., com.example.service).  
+  * Implementar manejo de excepciones centralizado con @ControllerAdvice.
+
+**Gherkin (para especificaciones):**
+
+Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las ["Gherkin Conventions for Readable Specifications"](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/). Las convenciones son:  
+**Nomenclatura**:
+
+* Escenarios en inglés, con títulos descriptivos en tercera persona (e.g., User logs in with valid credentials).  
+  * Usar palabras clave de Gherkin (Given, When, Then) de forma consistente.
+
+  **Formato**:
+
+  * Escribir pasos claros y concisos.  
+  * Usar tablas para datos estructurados.
+
+  **Buenas prácticas**:
+
+  * Evitar detalles técnicos en los pasos; centrarse en el comportamiento.  
+  * Reutilizar pasos comunes para mantener especificaciones DRY (Don't Repeat Yourself).
+
+Todas las convenciones detalladas en esta sección, nos garantizan un código limpio, consistente y alineado con estándares de la industria, facilitando la colaboración y el mantenimiento del proyecto.  
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
