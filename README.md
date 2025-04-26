@@ -890,6 +890,10 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ## 3.3. Impact Mapping
 
+<p align="center">
+  <img src="images/Impactmap.png" alt="PB" width="1000">
+</p>
+
 ## 3.4. Product Backlog
 [Ver diseño en Trello del Product Backlog](https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTId2c3303b9daa2ee2a1550a5b3ac169cf3F5B76F3/trello-agile-sprint-buildtruck)
 
