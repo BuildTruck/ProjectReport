@@ -46,7 +46,13 @@
 <hr>
 
 ## Registro de Versiones del Informe
+# 
 
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| TB1 | 27/04/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
+
+# 
 <hr>
 
 ## Project Report Collaboration Insights  
