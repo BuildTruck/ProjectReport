@@ -1989,12 +1989,75 @@ Interface that defines the standard operations for data access repositories.
 
 ### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="images/Buildtruck-database.png" alt="PB" width="1000">
+</p>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
 
 ### 5.1.1. Software Development Environment Configuration.
+
+En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
+**FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
+**Figura 1**  
+*Logo de Figma*
+
+<p align="center">
+  <img src="images/fig-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86)   
+**WEBSTORM:** Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.  
+**Figura 2**  
+*Logo de WebStorm*
+<p align="center">
+  <img src="images/storm-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
+**TYPESCRIPT:** Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
+**Figura 3**  
+*Logo de TypeScript*  
+
+<p align="center">
+  <img src="images/ts-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
+**ANGULAR:** Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
+**Figura 4**  
+*Logo de Angular*
+
+<p align="center">
+  <img src="images/angular-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8)   
+**GIT:** Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
+**Figura 5**  
+*Logo de Git*
+<p align="center">
+  <img src="images/git-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/LrRXiPXPNboAr5LY7](https://images.app.goo.gl/LrRXiPXPNboAr5LY7)   
+**GITHUB:** Es una plataforma en la nube que ofrece alojamiento de repositorios en Git, lo que permite compartir, almacenar y colaborar en proyectos de desarrollo de software entre programadores. También, incluye funcionalidades como revisión de código, historial de código, gestión de issues y flujos de trabajo de integración continua del equipo. GitHub facilita la colaboración entre miembros del equipo de trabajo mediante ramas, pull requests y revisiones de código. Además, permite  gestionar versiones, mantener un historial completo para el proyecto.  
+**Figura 6**  
+*Logo de Github*
+<p align="center">
+  <img src="images/hub-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
+
+
 
 ### 5.1.2. Source Code Management
 
