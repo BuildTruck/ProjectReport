@@ -2200,6 +2200,16 @@ Todas las convenciones detalladas en esta sección, nos garantizan un código li
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Bellido Salas, Raúl | raulbellidosalas | C | L | C |
+| Gómez Flores, Daniela Araceli | DanieGF1 | L | C | C |
+| Gutiérrez Condo, Maylhy Olinda | Ly009463 | C | C | L |
+| Luyo Correa, Sandra Paula | Paulu27 | C | C | C |
+| Roca Tineo, Steven Mathew | matthewsrt29 | C | C | C |
+
+
+
 ##### 5.2.1.3. Sprint Backlog 1
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
