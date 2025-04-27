@@ -434,7 +434,7 @@ Este segmento está conformado por personal encargado de la logística documenta
 </tr>
 <tr class="c1">
 <td class="c11" colspan="2" rowspan="1"><p></p></td>
-<td class="c0" colspan="1" rowspan="1"><p>BuildTruck</p><p><img src="images/BuildTruckLogo.jpg" alt="BuildTruck Logo" width="86" height="44"></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>BuildTruck</p><p><img src="images/BuildTruckLogoACL.jpg" alt="BuildTruck Logo" width="86" height="44"></p></td>
 <td class="c0" colspan="1" rowspan="1"><p>Procore</p><p><img src="images/ProcoreLogo.png" alt="Procore Logo" width="75" height="70"></p></td>
 <td class="c0" colspan="1" rowspan="1"><p>Buildertrend</p><p><img src="images/BuildertrendLogo.png" alt="Buildertrend Logo" width="69" height="69"></p></td>
 <td class="c0" colspan="1" rowspan="1"><p>PlanGrid</p><p><img src="images/PlanGridLogo.png" alt="PlanGrid Logo" width="64" height="69"></p></td>
