@@ -380,7 +380,12 @@ Tiene que presentar una paleta de colores contrastante para facilitar su lectura
 Debe de presentar un comportamiento fluido en sus interacciones.
  
 #### 1.2.2.3. Lean UX Hypothesis Statements
+* Creemos que las funciones que brinda BuildTrack son útiles y eficientes para poder llevar un buen manejo de empresas de construcción. Sabremos que hemos tenido éxito cuando el 60% de nuestros usuarios haya renovado su suscripción.  
+* Creemos que una funcionalidad que ajuste dinámicamente los niveles de inventario según el tamaño del proyecto reducirá los pedidos innecesarios de materiales, y lo sabremos porque el sistema registrará una disminución del 20% en órdenes de reposición duplicadas en los primeros dos meses.  
+* Creemos que permitir la sincronización automática de datos entre inventario, personal y obreros en una sola plataforma web optimizará la toma de decisiones, y lo sabremos porque el tiempo promedio para generar reportes operativos completos será inferior a 30 minutos.  
+* Creemos que una plataforma web que consolide todos los datos de inventario en un panel centralizado reducirá el tiempo necesario para conciliar existencias físicas y digitales, y lo sabremos porque el sistema registrará un promedio de actualización de inventario inferior a 40 minutos por operación.
 
+# 
 #### 1.2.2.4. Lean UX Canvas
 <p align="center">
   <img src="images/canvas.png" alt="UH" width="1000">
