@@ -63,7 +63,7 @@ Para poder lograr la elaboración grupal de este informe del proyecto, creamos p
 **Figura 1**  
 *Insights de ProjectReports*  
 <p align="center">
-  <img src="insightsReport.png" alt="PI5" width="1000">
+  <img src="images/insightsReport.png" alt="PI5" width="1000">
 </p> 
 
 *Nota.* Elaboración propia. 
