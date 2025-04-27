@@ -2329,6 +2329,17 @@ Gerente y Supervisor
 
 ## 4.5. Web Applications Prototyping
 
+Para realizar el prototype, utilizamos “Figma”, para esto le agregamos interacciones a los mock-ups realizados en el mismo programa.  
+Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=319-3382\&t=pKPhlG3YUiqtg228-1](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=319-3382&t=pKPhlG3YUiqtg228-1)   
+**Figura**  
+*Prototype de BuildTruck*  
+<p align="center">
+  <img src="images/PrototypeBuildTruck.png" alt="PB" width="1000">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [upc-pre-202510-1asi0730-4388-buildwise-prototypeproductnavigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/ETJAwGV0AA1DtXpeddfCicMBHjM0zOsLXK2smO95a_gRsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=D7NPX0) 
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagrams
