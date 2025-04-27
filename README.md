@@ -2548,19 +2548,64 @@ Todas las convenciones detalladas en esta sección, nos garantizan un código li
 
 ##### 5.2.1.1. Sprint Planning 1
 
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background:**  | En el sprint decidimos reunirnos para verificar el progreso de cada uno de los participantes y  el progreso desde el punto de vista grupal, luego de ello buscamos formas y acciones de mejora    |  |
+| Date | 2025-04-17 |
+| Time | 23:35 PM |
+| Location | Google Meet Group Call |
+| Prepared By | Gomez Flores, Daniela Aracelli |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew |
+| Sprint n \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
+| Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Our focus is on **implementing the core functionalities of the landing page and user registration module**. We believe it delivers **a clear entry point and structured onboarding experience** to **construction SMEs and administrative staff**, This will be confirmed when **users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction**. |
+| Sprint n Velocity | 3 |
+| Sum of Story Points | 12 |
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
 | :---- | :---- | :---- | :---- | :---- |
-| Bellido Salas, Raúl | raulbellidosalas | C | L | C |
-| Gómez Flores, Daniela Araceli | DanieGF1 | L | C | C |
-| Gutiérrez Condo, Maylhy Olinda | Ly009463 | C | C | L |
-| Luyo Correa, Sandra Paula | Paulu27 | C | C | C |
-| Roca Tineo, Steven Mathew | matthewsrt29 | C | C | C |
-
+| Bellido Salas, Raúl | raulbellidosalas | C | C | C |
+| Gómez Flores, Daniela Araceli | DanieGF1 | C | C | C |
+| Gutiérrez Condo, Maylhy Olinda | Ly009463 | C | L | C |
+| Luyo Correa, Sandra Paula | Paulu27 | C | C | L |
+| Roca Tineo, Steven Mathew | matthewsrt29 | L | C | C |
 
 
 ##### 5.2.1.3. Sprint Backlog 1
+
+En este primer sprint, nos enfocamos en desarrollar la Landing Page de BuildTruck. Para lograrlo, dividimos el trabajo en tareas específicas basadas en cada historia de usuario relacionada con la Landing Page, asignándolas a diferentes miembros del equipo. Además, utilizamos la herramienta “Trello” para organizar de manera más eficiente nuestro Backlog. 
+
+*sprint 1 de BuildTruck* 
+<p align="center">
+  <img src="images/sprint1.png" alt="PB" width="850">
+</p>
+
+[Visualizar el Sprint1 en Trello ](https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTId2c3303b9daa2ee2a1550a5b3ac169cf3F5B76F3/trello-agile-sprint-buildtruck) 
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US33 | Visualizar propuesta de valor de BuildTruck | T1 | Crear sección principal con propuesta de valor | Diseñar y programar un bloque en la parte superior de la landing page que contenga el título “Transformando la gestión en obra” y un subtítulo explicativo. | 2 | Maylhy Gutiérrez | Done |
+|  |  | T2 | Crear botón "Conoce más" | Crear un botón “Conoce más” que sea visible debajo del subtítulo y esté estilizado para resaltar. Configurar para que redirija a la sección de funcionalidades. | 1 | Maylhy Gutiérrez | Done |
+| US34 | Visualizar características del sistema | T1 | Crear sección de funcionalidades destacadas | Implementar tarjetas o bloques en la sección media de la landing page que presenten funcionalidades como Gestión inteligente de almacén, Control de asistencia y persona, Reportes y seguimiento del avance, Alertas y notificaciones. | 3 | Daniela Gómez | Done |
+| US35 | Visualizar misión, visión y origen de BuildTruck | T1 | Crear sección institucional | Diseñar sección baja con texto que explique que BuildTruck es desarrollado por estudiantes de ingeniería, más misión y visión. | 2 | Daniela Gómez | Done |
+| US36 | Conocer planes de suscripción | T1 | Crear sección comparativa de planes | Implementar tarjetas o una tabla para mostrar los planes Básico, Pro y Empresarial con precios en dólares y características principales. | 3 | Raúl Bellido | Done |
+| US37 | Enviar formulario de contacto | T1 | Crear formulario de contacto | Implementar formulario con campos obligatorios: nombre, correo, ciudad y mensaje. | 2 | Mathew | Done |
+|  |  | T2 | Crear botón "Enviar" en el formulario de contacto | Diseñar y agregar el botón “Enviar” que dispare la validación y envío del formulario. | 1 | Mathew | Done |
+|  |  | T3 | Validar formulario y mostrar mensajes de éxito/error | Programar validaciones para datos requeridos y formato de correo. Mostrar mensaje de confirmación o advertencia según el caso. | 3 | Mathew | InProcess |
+| US38 | Visualizar encabezado con navegación  | T1 | Crear encabezado con enlaces principales | Diseñar un encabezado visible en la parte superior con los enlaces: Producto, Nosotros, Planes, Registrar, Iniciar sesión. | 3 | Mathew | Done |
+|  |  | T2 | Implementar desplazamiento o redirección desde enlaces del encabezado | Configurar cada enlace para navegar a la sección correspondiente dentro de la misma página o a otras vistas. | 3 | Mathew | Done |
+|  |  | T3 | Estilizar el botón “Iniciar Sesión” para resaltar | Darle un diseño especial al botón "Iniciar Sesión" para que destaque del resto de los enlaces normales. | 1 | Mathew | Done |
+| US39 | Navegar a inicio de sesión desde botón | T1 | Configurar redirección del botón “Iniciar sesión” | Al hacer clic en “Iniciar sesión”, redirigir al formulario de login de la plataforma. | 2 | Raúl Bellido  | InProcess |
+| US40 | Visualizar información en el footer | T1 | Crear footer con derechos reservados y logotipo | Diseñar un footer que incluya los derechos de autor y el logotipo de BuildTruck. | 1 | Paula | Done |
+|  |  | T2 | Añadir íconos de redes sociales en el footer | Incluir los íconos de redes sociales activos y funcionales, enlazándolos a sus respectivas páginas oficiales. | 1 | Paula | Done |
+|  |  | T3 | Configurar enlaces de íconos para abrir en nueva pestaña | Asegurarse que los íconos de redes sociales abran la página externa en una nueva pestaña del navegador. | 1 | Paula | Done |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
