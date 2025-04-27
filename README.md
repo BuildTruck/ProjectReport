@@ -422,29 +422,122 @@ Este segmento está conformado por personal encargado de la logística documenta
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
-### 
 
-| Competitive Analysis Landscape |  |  |  |  |  |
-| :---- | :---- | ----- | ----- | ----- | ----- |
-| **¿Por qué llevar a cabo este análisis?**   |  | Elaborar este análisis es esencial para entender el posicionamiento de BuildTruck en el mercado de software de gestión para la construcción, identificar oportunidades de diferenciación y anticipar amenazas de competidores establecidos. Esto permite ajustar la propuesta de valor, optimizar estrategias de marketing y producto, y garantizar que BuildTruck responda a las necesidades específicas de las empresas constructoras, especialmente en un sector que está adoptando rápidamente la digitalización. |  |  |  |
-|  |  | BuildTruck  | Procore ![][image1] | Buildertrend ![][image2] | PlanGrid ![][image3] |
-| **Perfil** | **Overview** | BuildTruck es una plataforma web que centraliza la gestión operativa de empresas constructoras en tres áreas clave: inventario, personal y obreros, con un enfoque en accesibilidad y escalabilidad. | Procore es una plataforma que ayuda a optimizar y administrar proyectos de construcción desde la etapa previa hasta su finalización. | Buildertrend es un software de gestión de construcción diseñada para simplificar la comunicación y administrar proyectos, con un enfoque en construcciones de casas y remodeladores. | PlanGrid es una herramienta enfocada en la gestión de planos y documentos en tiempo real, con capacidades extendidas para la gestión de proyectos. |
-|  | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Su diseño simple y específico para PYMES constructoras, combinado con un enfoque en seguimiento en tiempo real y costos asequibles, la posiciona como una alternativa práctica frente a soluciones más complejas y costosas. | Ofrece productos y  servicios de gestión de preconstrucción, administración de proyectos, finanzas, recursos y datos.También brinda soporte de expertos de construcción. | Su facilidad de uso y herramientas específicas para la comunicación con clientes (portales de clientes) lo hacen ideal para pequeñas y medianas empresas que buscan mejorar la experiencia del cliente. | Su integración con el ecosistema Autodesk (como AutoCAD y BIM 360\) y su especialización en la gestión de planos digitales ofrecen un valor único para empresas que dependen de diseños técnicos precisos. |
-| **Perfil de Marketing** | **Mercado objetivo** | Gerentes de obra de obra y  supervisores de obra de obra. | Empresas constructoras de todos los tamaños, desde pequeñas firmas hasta grandes contratistas generales, con un enfoque en proyectos comerciales y residenciales. | Principalmente constructores residenciales, remodeladores y contratistas especializados de pequeño a mediano tamaño. | Contratistas, arquitectos e ingenieros en proyectos comerciales e industriales de mediano a gran tamaño. |
-|  | **Estrategias de marketing** | Enfoque en marketing digital por redes sociales enfocado en gerentes de obra de obra y  supervisores de obra de obra, webinars para explicar el funcionamiento de la plataforma y una versión de prueba gratuita.  | Publicidad digital enfocada en la productividad y la escalabilidad, presencia en eventos de la industria (como ferias de construcción), y contenido educativo (webinars, guías) para atraer a gerentes de proyectos y dueños de empresas. | Marketing de contenido (blogs, videos tutoriales), campañas en redes sociales dirigidas a propietarios de negocios, y programas de referidos para fomentar la adopción. | Colaboración con Autodesk para campañas globales, enfoque en la digitalización de planos, y presencia en conferencias técnicas y de diseño. |
-| **Perfil de Producto**  | **Productos & Servicios** | Gestión de inventario, seguimiento del personal, reportes operativos en tiempo real, y herramientas móviles. | Gestión de proyectos, control de documentos, seguimiento de recursos, reportes financieros, y aplicaciones móviles para uso en obra. | Gestión de proyectos, programación, seguimiento de costos, comunicación con clientes, y herramientas móviles. | Gestión de planos, colaboración en tiempo real, seguimiento de tareas, y reportes de campo. |
-|  | **Precios & Costos**  | Modelo de suscripción desde $50/mes (plan básico) hasta $200/mes para funciones avanzadas, con opciones escalables. | Modelo de suscripción basado en proyectos o usuarios, con precios que comienzan en aproximadamente $375/mes (plan básico) hasta miles de dólares para grandes empresas.  | Suscripción mensual desde $99/mes (plan inicial) hasta $399/mes para funciones avanzadas, con costos adicionales por usuario. | Desde $49/mes por usuario (plan básico) hasta planes personalizados para empresas grandes, integrados en el ecosistema Autodesk. |
-|  | **Canales de distribución (Web y/o Móvil)** | Venta directa online a través de la aplicación web, soporte vía chat y email. | Venta directa a través de su sitio web, equipo de ventas empresariales, y asociaciones con distribuidores de software. | Venta directa online, soporte a través de equipos de atención al cliente, y partnerships con asociaciones de constructores. | Venta a través de Autodesk, suscripciones directas online, y distribuidores autorizados. |
-| **Análisis SWOT** | **Fortalezas** | Costo accesible, facilidad de implementación, enfoque en necesidades operativas básicas. | Es una marca consolidada con una amplia base de usuarios e integración robusta con otras herramientas. | Interfaz intuitiva, fuerte enfoque en el cliente final, precios competitivos para PYMES. | Respaldo de Autodesk, especialización en planos y BIM, alta precisión técnica. |
-|  | **Debilidades** | Falta de reconocimiento de marca.  | Costo elevado para pequeñas empresas, curva de aprendizaje para usuarios no técnicos. | Menor escalabilidad para proyectos grandes o complejos, menos integraciones que competidores como Procore. | Dependencia del ecosistema Autodesk, menos enfoque en gestión de personal o inventario. |
-|  | **Oportunidades** | Creciente digitalización en constructoras, nicho en mercados desatendidos por competidores grandes. | Expansión en mercados emergentes con alta actividad constructiva, adopción de IA para análisis predictivo. | Crecimiento en el segmento de remodelación residencial, expansión internacional. | Creciente adopción de BIM en la construcción, expansión en mercados con alta regulación técnica. |
-|  | **Amenazas** | Competencia de soluciones establecidas, riesgo de ser percibida como "básica" frente a plataformas más robustas. | Competencia de soluciones más económicas, resistencia a la digitalización en algunas regiones. | Competencia de soluciones más especializadas, saturación en el mercado residencial. | Competencia de soluciones más completas, costo elevado para pequeñas empresas. |
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<style type="text/css">
+table td, table th { padding: 0; }
+.c11 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 150.5pt; border-top-color: #000000; border-bottom-style: solid; }
+.c13 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 451.4pt; border-top-color: #000000; border-bottom-style: solid; }
+.c0 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 75.2pt; border-top-color: #000000; border-bottom-style: solid; }
+.c17 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 301pt; border-top-color: #000000; border-bottom-style: solid; }
+.c16 { border-spacing: 0; border-collapse: collapse; margin-right: auto; }
+.c14 { background-color: #ffffff; max-width: 451.4pt; padding: 72pt 72pt 72pt 72pt; }
+.c1 { height: 21pt; }
+.c7 { height: 11pt; }
+</style>
+</head>
+<body>
+<table class="c16">
+<tr class="c1">
+<td class="c13" colspan="6" rowspan="1"><p>Competitive Analysis Landscape</p></td>
+</tr>
+<tr class="c1">
+<td class="c11" colspan="2" rowspan="1"><p>¿Por qué llevar a cabo este análisis?</p></td>
+<td class="c17" colspan="4" rowspan="1"><p>Elaborar este análisis es esencial para entender el posicionamiento de BuildTruck en el mercado de software de gestión para la construcción, identificar oportunidades de diferenciación y anticipar amenazas de competidores establecidos. Esto permite ajustar la propuesta de valor, optimizar estrategias de marketing y producto, y garantizar que BuildTruck responda a las necesidades específicas de las empresas constructoras, especialmente en un sector que está adoptando rápidamente la digitalización.</p></td>
+</tr>
+<tr class="c1">
+<td class="c11" colspan="2" rowspan="1"><p></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>BuildTruck</p><p><img src="images/BuildTruckLogo.jpg" alt="BuildTruck Logo" width="86" height="44"></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Procore</p><p><img src="images/ProcoreLogo.png" alt="Procore Logo" width="75" height="70"></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Buildertrend</p><p><img src="images/BuildertrendLogo.png" alt="Buildertrend Logo" width="69" height="69"></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>PlanGrid</p><p><img src="images/PlanGridLogo.png" alt="PlanGrid Logo" width="64" height="69"></p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="2"><p>Perfil</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Overview</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>BuildTruck es una plataforma web que centraliza la gestión operativa de empresas constructoras en tres áreas clave: inventario, personal y obreros, con un enfoque en accesibilidad y escalabilidad.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Procore es una plataforma que ayuda a optimizar y administrar proyectos de construcción desde la etapa previa hasta su finalización.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Buildertrend es un software de gestión de construcción diseñada para simplificar la comunicación y administrar proyectos, con un enfoque en construcciones de casas y remodeladores.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>PlanGrid es una herramienta enfocada en la gestión de planos y documentos en tiempo real, con capacidades extendidas para la gestión de proyectos.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Ventaja competitiva ¿Qué valor ofrece a los clientes?</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Su diseño simple y específico para PYMES constructoras, combinado con un enfoque en seguimiento en tiempo real y costos asequibles, la posiciona como una alternativa práctica frente a soluciones más complejas y costosas.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Ofrece productos y servicios de gestión de preconstrucción, administración de proyectos, finanzas, recursos y datos. También brinda soporte de expertos de construcción.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Su facilidad de uso y herramientas específicas para la comunicación con clientes (portales de clientes) lo hacen ideal para pequeñas y medianas empresas que buscan mejorar la experiencia del cliente.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Su integración con el ecosistema Autodesk (como AutoCAD y BIM 360) y su especialización en la gestión de planos digitales ofrecen un valor único para empresas que dependen de diseños técnicos precisos.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Mercado objetivo</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Gerentes de obra de obra y supervisores de obra de obra.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Empresas constructoras de todos los tamaños, desde pequeñas firmas hasta grandes contratistas generales, con un enfoque en proyectos comerciales y residenciales.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Principalmente constructores residenciales, remodeladores y contratistas especializados de pequeño a mediano tamaño.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Contratistas, arquitectos e ingenieros en proyectos comerciales e industriales de mediano a gran tamaño.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Estrategias de marketing</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Enfoque en marketing digital por redes sociales enfocado en gerentes de obra de obra y supervisores de obra de obra, webinars para explicar el funcionamiento de la plataforma y una versión de prueba gratuita.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Publicidad digital enfocada en la productividad y la escalabilidad, presencia en eventos de la industria (como ferias de construcción), y contenido educativo (webinars, guías) para atraer a gerentes de proyectos y dueños de empresas.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Marketing de contenido (blogs, videos tutoriales), campañas en redes sociales dirigidas a propietarios de negocios, y programas de referidos para fomentar la adopción.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Colaboración con Autodesk para campañas globales, enfoque en la digitalización de planos, y presencia en conferencias técnicas y de diseño.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Productos & Servicios</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Gestión de inventario, seguimiento del personal, reportes operativos en tiempo real, y herramientas móviles.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Gestión de proyectos, control de documentos, seguimiento de recursos, reportes financieros, y aplicaciones móviles para uso en obra.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Gestión de proyectos, programación, seguimiento de costos, comunicación con clientes, y herramientas móviles.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Gestión de planos, colaboración en tiempo real, seguimiento de tareas, y reportes de campo.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Precios & Costos</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Modelo de suscripción desde $50/mes (plan básico) hasta $200/mes para funciones avanzadas, con opciones escalables.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Modelo de suscripción basado en proyectos o usuarios, con precios que comienzan en aproximadamente $375/mes (plan básico) hasta miles de dólares para grandes empresas.</p><p></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Suscripción mensual desde $99/mes (plan inicial) hasta $399/mes para funciones avanzadas, con costos adicionales por usuario.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Desde $49/mes por usuario (plan básico) hasta planes personalizados para empresas grandes, integrados en el ecosistema Autodesk.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Canales de distribución (Web y/o Móvil)</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Venta directa online a través de la aplicación web, soporte vía chat y email.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Venta directa a través de su sitio web, equipo de ventas empresariales, y asociaciones con distribuidores de software.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Venta directa online, soporte a través de equipos de atención al cliente, y partnerships con asociaciones de constructores.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Venta a través de Autodesk, suscripciones directas online, y distribuidores autorizados.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="4"><p>Análisis SWOT</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Fortalezas</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Costo accesible, facilidad de implementación, enfoque en necesidades operativas básicas.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Es una marca consolidada con una amplia base de usuarios e integración robusta con otras herramientas.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Interfaz intuitiva, fuerte enfoque en el cliente final, precios competitivos para PYMES.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Respaldo de Autodesk, especialización en planos y BIM, alta precisión técnica.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Debilidades</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Falta de reconocimiento de marca.</p><p></p><p></p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Costo elevado para pequeñas empresas, curva de aprendizaje para usuarios no técnicos.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Menor escalabilidad para proyectos grandes o complejos, menos integraciones que competidores como Procore.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Dependencia del ecosistema Autodesk, menos enfoque en gestión de personal o inventario.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Oportunidades</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Creciente digitalización en constructoras, nicho en mercados desatendidos por competidores grandes.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Expansión en mercados emergentes con alta actividad constructiva, adopción de IA para análisis predictivo.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Crecimiento en el segmento de remodelación residencial, expansión internacional.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Creciente adopción de BIM en la construcción, expansión en mercados con alta regulación técnica.</p></td>
+</tr>
+<tr class="c1">
+<td class="c0" colspan="1" rowspan="1"><p>Amenazas</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Competencia de soluciones establecidas, riesgo de ser percibida como "básica" frente a plataformas más robustas.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Competencia de soluciones más económicas, resistencia a la digitalización en algunas regiones.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Competencia de soluciones más especializadas, saturación en el mercado residencial.</p></td>
+<td class="c0" colspan="1" rowspan="1"><p>Competencia de soluciones más completas, costo elevado para pequeñas empresas.</p></td>
+</tr>
+</table>
+</body>
 
-[image1]: <src: images/ProcoreLogo.png>
-
-[image2]: <src: images/Buildertrend.png>
-
-[image3]: <src: images/PlanGridLogo.png>
+#
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
