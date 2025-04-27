@@ -2004,7 +2004,7 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 **FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
 **Figura 1**  
 *Logo de Figma*
-
+a
 <p align="center">
   <img src="images/fig-logo.png" alt="PB" width="180">
 </p>
