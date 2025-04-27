@@ -56,6 +56,17 @@
 <hr>
 
 ## Project Report Collaboration Insights  
+Elaboramos el informe de nuestro proyecto en un repositorio llamado “ProjectReport” en nuestra organización llamada “BuilTrucuck” porque ahí desarrollaremos los productos de nuestra aplicación web del mismo nombre.  
+Enlace del repositorio “ProjectReport”: [https://github.com/BuildTruck/ProjectReport](https://github.com/BuildTruck/ProjectReport)   
+**TB1:**  
+Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
+**Figura 1**  
+*Insights de ProjectReports*  
+<p align="center">
+  <img src="insightsReport.png" alt="PI5" width="1000">
+</p> 
+
+*Nota.* Elaboración propia. 
 
 <hr>
 
