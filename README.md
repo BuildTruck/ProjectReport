@@ -166,6 +166,12 @@
 
 ## Student Outcome
 
+
+| Criterio específico | Acciones realizadas  | Conclusiones  |
+| :---- | :---- | :---- |
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**  |TB1: Bellido Salas, Raúl Participó en presentaciones orales de avances de los capítulos III, IV y V, explicando Style Guidelines, Web Guidelines y la base de datos. <br> TB1:Daniela Araceli Gómez Flores Realizó exposiciones claras sobre Lean UX Problem Statements, Impact Mapping y Domain-Driven Software Architecture, adaptando el lenguaje para el equipo y docentes. <br>TB1: Gutiérrez Condo, Maylhy Olinda Expuso el perfil de la Startup, los segmentos objetivo y los diseños de UI/UX de la Landing Page y la aplicación web, mostrando buena articulación y adaptabilidad según la audiencia.<br> TB1: Luyo Correa, Sandra Paula Presentó entrevistas realizadas, hallazgos de As-Is Scenario Mapping, y resultados de prototipos de aplicaciones, comunicándose de forma organizada y adecuada al público técnico y no técnico.<br>TB1: Roca Tineo, Steven Mathew Expuso con claridad aspectos de arquitectura de información, SEO, navegación web y lideró la explicación técnica de la Landing Page desarrollada, facilitando la comprensión de temas complejos. | Todos los miembros demostraron habilidades efectivas de comunicación oral en reuniones de equipo, presentaciones de avances y defensas de entregables. La adaptación del lenguaje técnico y de negocio fue clave para facilitar el entendimiento de diferentes públicos: compañeros, docentes y revisores. Esto evidencia el cumplimiento del Student Outcome 3 de ABET-EAC respecto a la comunicación oral |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia**  | TB1:Bellido Salas, Raúl Elaboró documentos técnicos como General Style Guidelines, Web Style Guidelines y Database Design Diagram. También redactó User Task Matrix y colaboró en la documentación de Sprint 1\. <br>TB1: Daniela Araceli Gómez Flores Desarrolló Lean UX Problem Statements, User Journey Mapping, Empathy Mapping, Organization Systems y Impact Mapping, escribiendo reportes claros y estructurados. Participó también en el armado de Domain-Driven Software Architecture. TB1:Gutiérrez Condo,<br>  Maylhy Olinda Escribió descripciones detalladas de la Startup, segmentación de usuarios, y elaboró documentos de diseño de Landing Page UI y Web Applications UX/UI Design.<br>  TB1: Luyo Correa, Sandra Paula Realizó Lean UX Assumptions, Lean UX Hypothesis Statements, As-Is Scenario Mapping, y reportes de entrevistas, además de documentación de Software Configuration Management.<br> TB1: Roca Tineo, Steven Mathew Redactó documentación técnica de Information Architecture, SEO & Meta Tags, Searching Systems, Navigation Systems, Class Diagrams, Class Dictionary y reportes de avance de la Landing Page. | Todos los integrantes demostraron habilidades sólidas para comunicar ideas de forma escrita, adaptándose a documentos técnicos, reportes de entrevistas, análisis de usuarios y especificaciones de software. La calidad y claridad en la redacción facilitó la correcta interpretación de requerimientos, diseños y resultados en cada fase del proyecto. Se destaca el trabajo de Steven Mathew Roca Tineo en la documentación técnica relacionada al desarrollo de la Landing Page. Esta comunicación escrita efectiva respalda el cumplimiento del Student Outcome 3 de ABET-EAC. |
+
 <hr>
 
 # Capítulo I: Introducción 
@@ -1031,6 +1037,30 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 #
 
 ## 2.4. Ubiquitous Language
+
+
+**Gerente de obra:** Persona que organiza, dirige y toma decisiones importantes en una construcción.
+
+**Supervisor de obra:** Persona que revisa todos los días que el trabajo en la construcción se haga bien y a tiempo.
+
+**Inventario:** Lista de todas las cosas (herramientas, materiales, maquinaria) que tiene una obra.
+
+**Reporte (gráfico estadístico):** Imagen o gráfico que muestra de forma visual datos importantes de la obra, como avances, gastos o uso de materiales.
+
+**Documento:** Cualquier archivo escrito que guarda información importante sobre la obra (como contratos, permisos, informes).
+
+**Proyecto:** Plan completo que describe todo lo que se va a construir y cómo se va a hacer.
+
+**Obra:** El lugar físico donde se está construyendo algo, como un edificio o una carretera.
+
+**Maquinaria:** Equipos grandes usados en la obra para mover tierra, construir o levantar cosas (por ejemplo, grúas o excavadoras).
+
+**Materiales:** Todo lo que se usa para construir, como cemento, ladrillos, varillas o pintura.
+
+**Permisos:** Autorizaciones que se piden al gobierno para poder construir legalmente.
+
+**Licencias:** Documentos oficiales que permiten a las personas o empresas hacer ciertas actividades de construcción.
+
 
 <hr>
 
