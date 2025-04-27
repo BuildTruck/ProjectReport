@@ -324,7 +324,7 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 6. Mi competencia principal en el mercado serán otras plataformas usadas para la gestión de obras.
 
-7. Los venceremos debido a nuestra interfaz simple y eficaz. Ofreceremos herramientas entendibles para poder facilitar los procesos de los administradores y supervisores.
+7. Los venceremos debido a nuestra interfaz simple y eficaz. Ofreceremos herramientas entendibles para poder facilitar los procesos de los gerentes y supervisores.
 
 8. Mi mayor riesgo de producto es que nuestros clientes no puedan adaptarse al funcionamiento de la plataforma.
 
@@ -332,7 +332,7 @@ La falta de digitalización en el sector construcción genera impactos significa
 
 **¿Quién es el usuario?**
 
-Los supervisores de obra y los asistentes administrativos.
+Los gerentes  y los supervisores de obra .
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
@@ -1238,6 +1238,8 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ## 4.1. Style Guidelines
 
+### 4.1.1. General Style Guidelines
+
 ### Colores
 
 La siguiente paleta de colores elegidos se basan en un contraste armónico que escogimos para representar comodidad visual y así desplegar nuestro servicio
@@ -1308,9 +1310,60 @@ Organizado: La información está estructurada de forma lógica, guiando al usua
 
 Sereno: Adoptamos un tono calmado y profesional, que invita a la confianza y evita la sobrecarga informativa.
 
-### 4.1.1. General Style Guidelines
-
 ### 4.1.2. Web Style Guidelines
+
+El diseño de la aplicación web BuildTruck sigue una línea de sobriedad, simplicidad y eficiencia, orientada a optimizar los procesos de gestión de obra. La estructura prioriza la claridad visual, dividiendo los procesos en formularios amplios y secciones bien definidas que aprovechan la mayor parte del espacio de pantalla disponible.
+
+### **Tarjetas:**
+
+Se emplea el componente "mat-card" de Angular Material para mostrar avisos relevantes y notificaciones dentro de la plataforma. Cada tarjeta incluye:
+
+* Una imagen representativa (asignada automáticamente si no se selecciona una imagen personalizada).  
+* Un título, un subtítulo y una breve descripción.  
+* Un hipervínculo que dirige a información o acciones relacionadas.
+
+Las tarjetas son utilizadas principalmente en la sección de Menú de Proyectos para el Gerente y el Supervisor de Obra, facilitando el acceso rápido a los proyectos activos.
+
+### **Imágenes:**
+
+Las imágenes en BuildTruck cumplen funciones claras y específicas:
+
+* Imagen de perfil: Tanto el Gerente como el Supervisor tienen su foto y la de la empresa visible en la parte superior izquierda, ayudando a identificar rápidamente la sesión activa.  
+* Imágenes de proyecto: Cada proyecto activo cuenta con una imagen de portada para su fácil identificación dentro del menú de proyectos.
+
+Nota: No se utilizan imágenes de fondo en las secciones de la aplicación, priorizando un entorno limpio y profesional, excepto en la pantalla de log-in donde se utiliza una imagen que refuerza la identidad visual de BuildTruck.
+
+### **Botones:**
+
+Los botones siguen un diseño uniforme:
+
+* Se ubican en la parte inferior de los formularios y secciones principales.
+
+* Permiten acciones como agregar, eliminar, actualizar registros (personal, inventario, proyectos).
+
+* El diseño de los botones tiene un alto contraste para destacar su importancia, utilizando la teoría del color:
+
+  * Botones rojos para acciones de eliminación o finalización de procesos.
+
+  * Botones naranjas para acciones principales y confirmaciones, siguiendo la paleta de colores de BuildTruck.
+
+### **Tablas:**
+
+Las tablas en BuildTruck están diseñadas con un estilo sencillo y claro:
+
+* Uso de colores distintivos de la marca (principalmente blanco y naranja).  
+* Cada fila representa un registro individual (personal, inventario).  
+* Son el eje principal de visualización de datos en secciones como Personal e Inventario para Supervisores.
+
+### **Pantallas Emergentes (Pop-ups):**
+
+Las pantallas emergentes se utilizan para confirmar acciones críticas, como:
+
+* Eliminación de registros.  
+* Confirmaciones de nuevos procesos.
+
+El fondo de la aplicación se oscurece al activarse una ventana emergente, enfocando la atención del usuario en la acción que requiere su decisión. Los pop-ups utilizan colores más vivos para remarcar su importancia.
+
 
 ## 4.2. Information Architecture
 
