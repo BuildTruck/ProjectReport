@@ -973,10 +973,10 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 ### 2.3.4. Empathy Mapping
 
 <p align="center">
-  <img src="images/ Empathy_map.png" alt="PB" width="1000">
+  <img src="images/Empathy_map.png" alt="PB" width="1000">
 </p>
 <p align="center">
-  <img src="images/ Empathy_map (1)" alt="PB" width="1000">
+  <img src="images/Empathy_map (1)" alt="PB" width="1000">
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
