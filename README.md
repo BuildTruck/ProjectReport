@@ -931,56 +931,73 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento objetivo \#1:**  
+
 **Figura n**  
 *As-Is Mapping del segmento \#1 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S1.jpg" alt="UH">
 </p> 
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
 **Figura n**  
 *Áreas positivas del As-Is Mapping del segmento \#1 de BuilTruck*
 <p align="center">
   <img src="images/AppsWeb_As-is_S1_AP.jpg" alt="UH">
 </p> 
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
 **Figura n**  
 *Áreas negativas del As-Is Mapping del segmento \#1 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S1_AN.jpg" alt="UH">
 </p>  
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
 **Figura n**  
 *Blank areas del As-Is Mapping del segmento \#1 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S1_BA.jpg" alt="UH">
 </p>  
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
 
 **Segmento objetivo \#2:**  
+
 **Figura n**  
 *As-Is Mapping del segmento \#2 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S2.jpg" alt="UH">
 </p> 
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
 **Figura n**  
 *Áreas positivas del As-Is Mapping del segmento \#2 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S2_AP.jpg" alt="UH">
 </p>  
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
 **Figura n**  
 *Áreas negativas del As-Is Mapping del segmento \#2 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S2_AN.jpg" alt="UH">
 </p>  
-*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)
+
 **Figura n**  
 *Blank areas del As-Is Mapping del segmento \#2 de BuilTruck*  
 <p align="center">
   <img src="images/AppsWeb_As-is_S2_BA.jpg" alt="UH">
-</p>   
+</p>
+
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
+
+#
 
 ## 2.4. Ubiquitous Language
 
@@ -989,6 +1006,75 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+**Segmento objetivo \#1:**  
+
+**Figura n**  
+*To-be Scenario Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S1.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas positivas del To-be Scenario Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S1_AP.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas negativas del To-be Scenario Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S1_AN.jpg" alt="UH">
+</p>   
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Blank areas del To-be Scenario Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S1_BA.jpg" alt="UH">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Segmento objetivo \#2:**  
+
+**Figura n**  
+*To-be Scenario Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S2.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas positivas del To-be Scenario Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S2_AP.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas negativas del To-be Scenario Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S2_AN.jpg" alt="UH">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Blank areas del To-be Scenario Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_To-be_S2_BA.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
 
 ## 3.2. User Stories
 
