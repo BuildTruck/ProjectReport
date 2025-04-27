@@ -2693,6 +2693,33 @@ En este primer sprint, nos enfocamos en desarrollar la Landing Page de BuildTruc
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+Imagenes del despliegue de la landing page
+
+[Landing Page BuildTruck](https://buildtruck.github.io/LandingPage/)
+
+<p align="center">
+  <img src="images/LPV1.png" width="850">
+</p>
+
+<p align="center">
+  <img src="images/LPV2.png" width="850">
+</p>
+
+<p align="center">
+  <img src="images/LPV3.png" width="850">
+</p>
+
+<p align="center">
+  <img src="images/LPV4.png" width="850">
+</p>
+
+<p align="center">
+  <img src="images/LPV5.png" width="850">
+</p>
+
+
+[Video Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EXA7kWcdbL9OmtCoFOB77iwBgSTFBbeN4nIrdPAKoauM-A?e=T8TKbM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
