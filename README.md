@@ -527,6 +527,15 @@ Este segmento está conformado por personal encargado de la logística documenta
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+* Ofreceremos un plan de suscripción básico a $50/mes (como se sugirió) con funciones esenciales (gestión de inventario y personal), mucho más bajo que los $375/mes de Procore o los $99/mes de Buildertrend.  
+* Al lanzar contenido gratuito como webinars y guías PDF sobre los beneficios de la digitalización operativa y sobre el funcionamiento de nuestra aplicación web dirigido a empresas que aún usan métodos manuales, posicionaremos a BuildTruck como el primer paso accesible frente a soluciones más avanzadas.  
+* Implementaremos una prueba gratuita de 30 días, frente a los 14 días usuales de competidores, con acceso completo a la plataforma, destacando de esta manera la facilidad de uso y la implementación sin necesidad de soporte técnico extenso, a diferencia de otros competidores, que tienes una curva de aprendizaje pronunciada.  
+* Desarrollaremos características específicas como alertas automáticas de bajo inventario para así diferenciarnos de las plataformas de competencia que se centran más en planos o que priorizan más la comunicación con clientes.  
+* Ofreceremos soporte vía chat o teléfono con tiempos de respuesta rápidos, superando el soporte de la competencia que a menudo requiere obtener tickets y es más tardado.  
+* Ofreceremos planes escalables según el número de proyectos, permitiendo a los usuarios crecer con BuildTruck sin sentirse forzados a pagar planes caros desde un inicio, a diferencia de algunos competidores.
+
+#
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
