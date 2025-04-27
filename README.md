@@ -2215,6 +2215,104 @@ Este es tanto para el gerente como para el supervisador
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+User Goal 1: Gestión de obras
+User Persona:
+Gerente
+<p align="center">
+  <img src="images/gestion_de_obras_Gerente_uf.png" alt="PB" width="1000">
+</p>
+
+
+User Goal 2: Gestión de Inventario
+User Persona:
+Gerente
+<p align="center">
+  <img src="images/Inventario_Gerente_uf.png" alt="PB" width="1000">
+</p>
+Supervisor
+<p align="center">
+  <img src="images/Inventario_Supervisor_uf.png" alt="PB" width="1000">
+</p>
+
+
+User Goal 3: Gestión de Incidentes
+User Persona:
+Gerente
+<p align="center">
+  <img src="images/Registro_Incidentes_Gerente_uf.png" alt="PB" width="1000">
+</p>
+Supervisor
+<p align="center">
+  <img src="images/gestion_personal_supervisor_uf.png" alt="PB" width="1000">
+</p>
+
+
+User Goal 4: Gestión de Personal
+User Persona:
+Gerente
+
+<p align="center">
+  <img src="images/gestion_personal_gerente_uf.png" alt="PB" width="1000">
+</p>
+Supervisor
+<p align="center">
+  <img src="images/gestion_personal_supervisor_uf.png" alt="PB" width="1000">
+</p>
+
+
+
+
+
+User Goal 5: Gestión de Personal
+User Persona:
+Gerente
+
+<p align="center">
+  <img src="images/Registro_Maquinaria_Gerente_uf.png" alt="PB" width="1000">
+</p>
+Supervisor
+<p align="center">
+  <img src="Registro_Maquinaria_Supervisor_uf.png" alt="PB" width="1000">
+</p>
+
+
+User Goal 6: Documentación visual
+User Persona:
+Gerente
+<p align="center">
+  <img src="Documentacion_visual_gerente_uf.png" alt="PB" width="1000">
+</p>
+Supervisor
+<p align="center">
+  <img src="Documentacion_visual_supervisor_uf.png" alt="PB" width="1000">
+</p>
+
+
+User Goal 7:Configuración de la obra
+User Persona:
+Gerente
+
+<p align="center">
+  <img src="Configuracion_Obra_uf.png" alt="PB" width="1000">
+</p>
+
+User Goal 7: Configuración de perfil de usuario
+User Persona:
+Gerente y Supervisor
+
+<p align="center">
+  <img src="Configuracion_user_uf.png" alt="PB" width="1000">
+</p>
+
+User Goal 7: Inicio de sesión
+User Persona:
+Gerente y Supervisor
+
+<p align="center">
+  <img src="Log_in_uf.png" alt="PB" width="1000">
+</p>
+
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
