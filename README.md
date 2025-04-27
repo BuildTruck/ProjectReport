@@ -2641,94 +2641,79 @@ Es un lenguaje de marcado ligero que permite escribir documentación de forma si
 
 ### 5.1.2. Source Code Management
 
-Esta sección define las convenciones de codificación y guías de estilo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript y C\#. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente aceptados para garantizar un código claro, consistente y mantenible. Las guías adoptadas incluyen estándares de W3Schools, Google, Vue.js, Microsoft, SpecFlow (para Gherkin) y MDN, entre otros. A continuación, se describen las prácticas para cada lenguaje.  
-**HTML**  
-Las convenciones para HTML se basan en "HTML Style Guide and Coding Conventions" de W3Schools y la "Google HTML/CSS Style Guide". Las reglas clave son:
+En este proyecto, el control de versiones se gestionará mediante Git, utilizando el modelo de trabajo GitFlow descrito por Vincent Driessen en “A successful Git branching model”. Este enfoque organiza el desarrollo a través de ramas específicas para diferentes propósitos. Además, se implementarán las prácticas de Semantic Versioning 2.0.0 para el versionado de releases y Conventional Commits para estructurar los mensajes de commit, garantizando claridad y trazabilidad. En esta sección detallaremos estas estructuras de control.  
+Para desarrollar BuildTruck creamos los siguientes repositorios:
 
-* Sintaxis: Usar HTML5 con declaración \<\!DOCTYPE html\> en cada archivo.  
-* Nomenclatura:  
-  * Archivos en minúsculas con guiones para separar palabras (e.g., login-page.html).  
-  * Etiquetas y atributos en minúsculas (e.g., \<div class="main-section"\>).  
-* Formato:  
-  * Indentación de 2 espacios para anidamiento.  
-  * Líneas de máximo 80 caracteres.  
-  * Usar comillas dobles para atributos (e.g., href="styles.css").  
-* Buenas prácticas:  
-  * Emplear etiquetas semánticas (\<article\>, \<section\>, \<footer\>) para accesibilidad.  
-  * Incluir atributo alt en imágenes para SEO y accesibilidad.  
-  * Evitar estilos en línea, delegando el diseño a CSS.
+* Repositorio para el Project Report: [https://github.com/BuildTruck/ProjectReport](https://github.com/BuildTruck/ProjectReport)   
+* Repositorio para Landing Page: [https://github.com/BuildTruck/LandingPage](https://github.com/BuildTruck/LandingPage)   
+* Repositorio para Web Services: [https://github.com/BuildTruck/WebServices](https://github.com/BuildTruck/WebServices)   
+* Repositorio para Frontend Web Applications: [https://github.com/BuildTruck/FrontendWebApps](https://github.com/BuildTruck/FrontendWebApps)
 
-**CSS**  
-Para CSS, se adopta la "Google HTML/CSS Style Guide". Las convenciones incluyen:
+**Flujo de trabajo GitFlow**  
+Esta estrategia se basa en la creación de ramas con roles definidos para gestionar el desarrollo, las releases y las correcciones.
 
-* Nomenclatura:  
-  * Clases en minúsculas con guiones (e.g., header-nav, submit-button).  
-  * Evitar IDs para estilos, priorizando clases.  
-* Formato:  
-  * Indentación de 2 espacios.  
-  * Agrupar propiedades por tipo (e.g., posicionamiento, tipografía, colores).  
-  * Usar notación abreviada cuando sea posible (e.g., border: 1px solid \#000).  
-* Buenas prácticas:  
-  * Usar unidades relativas (rem, vw) para adaptabilidad.  
-  * Evitar \!important salvo en casos excepcionales.  
-  * Organizar CSS en archivos modulares por componente o página.
+* **Ramas**  
+  - **main:**  
+    * Contiene el código estable y listo para producción.  
+    * Solo recibe merges de ramas de release y hotfix, cada uno etiquetado con una versión según Semantic Versioning 2.0.0.  
+    * Se protege para evitar commits directos.  
+  - **develop:**  
+    * Sirve como rama de integración para las nuevas funcionalidades y correcciones.  
+    * Representa el estado más reciente del desarrollo, pero no necesariamente es estable.  
+    * Es la base para ramas de features y releases.  
+  - **Features (feature/\*):**  
+    * Cada funcionalidad nueva o cambio importante se desarrolla en una rama independiente derivada de develop.  
+    * **Convención de nombramiento**: Los nombres de las ramas seguirán el formato feature/\<descripción\>, usando kebab-case para una descripción breve y clara del cambio (e.g., feature/user-login).  
+    * Al completar la funcionalidad, la rama se fusiona en develop mediante un pull request, con revisión de código obligatoria.  
+  - **Release (release/\*):**  
+    * Son ramas que se crean desde develop cuando el proyecto está listo para una nueva versión.  
+    * Convención de nombramiento: Se nombran como release/\<versión\>, donde \<versión\> sigue el formato de Semantic Versioning release/2.0.0.  
+    * Estas ramas permiten ajustes menores, como correcciones de bugs o actualizaciones de metadatos, pero no nuevas funcionalidades.  
+    * Una vez finalizadas, se fusionan en main (con una etiqueta de versión 2.0.0) y en develop para propagar los cambios.  
+  - **Hotfix (hotfix/\*):**  
+    * Son ramas que se derivan de main para solucionar problemas críticos en producción.  
+    * Convención de nombramiento: Se nombran como hotfix/\<versión\>, reflejando la versión parcheada (e.g., hotfix/2.0.1 para un parche en v2.0.0).  
+    * Tras completarse, se fusionan en main (etiquetando la nueva versión, e.g., v2.0.0) y en develop para mantener la consistencia.
 
-**JavaScript**  
-Las convenciones para JavaScript se derivan de la "Google JavaScript Style Guide", "MDN JavaScript Guidelines", "W3C JavaScript Style Guide" y la "Vue Style Guide". Las reglas son:
+**Semantic Versioning**  
+El versionado de las releases se regirá por Semantic Versioning 2.0.0, utilizando el formato MAJOR.MINOR.PATCH:
 
-* Nomenclatura:  
-  * Variables y funciones en camelCase (e.g., fetchData, userProfile).  
-  * Constantes en UPPER\_SNAKE\_CASE (e.g., BASE\_URL).  
-  * Componentes Vue en PascalCase (e.g., UserCard).  
-* Formato:  
-  * Indentación de 2 espacios.  
-  * Usar comillas simples (') para cadenas.  
-  * Terminar declaraciones con punto y coma (;).  
-* Buenas prácticas (específicas para Vue):  
-  * Usar nombres de componentes descriptivos y con múltiples palabras (e.g., AppHeader).  
-  * Definir props con tipos y valores por defecto en Vue.  
-  * Usar async/await para operaciones asíncronas en lugar de promesas encadenadas.  
-  * Incluir comentarios JSDoc para funciones públicas.
+* **MAJOR:** Se incrementa para cambios que rompen compatibilidad.  
+* **MINOR:** Se incrementa para nuevas funcionalidades compatibles.  
+* **PATCH:** Se incrementa para correcciones de errores compatibles. Cada release en main se etiquetará con su versión correspondiente, asegurando un seguimiento claro de las versiones.
 
-**C\#**  
-Para C\#, se siguen las "C\# Coding Conventions" y las "Microsoft ASP.NET Core Coding Guidelines". Las convenciones son:
+**Conventional Commits**  
+Los mensajes de commit seguirán la especificación de Conventional Commits para mantener consistencia y facilitar la generación automática de changelogs. La estructura será:  
+\<tipo\>(\<ámbito\>): \<descripción\>  
+\[cuerpo opcional\]  
+\[pie opcional\]
 
-* Nomenclatura:  
-  * Clases y métodos en PascalCase (e.g., UserService, GetUserById).  
-  * Variables privadas con prefijo \_ y camelCase (e.g., \_userRepository).  
-  * Interfaces con prefijo I (e.g., IUserRepository).  
-* Formato:  
-  * Indentación de 4 espacios.  
-  * Usar llaves {} para todos los bloques, incluso de una sola línea.  
-  * Líneas de máximo 120 caracteres.  
-* Buenas prácticas (específicas para ASP.NET Core):  
-  * Usar inyección de dependencias para servicios (e.g., IService en constructores).  
-  * Estructurar controladores con nombres descriptivos (e.g., UsersController).  
-  * Implementar manejo de errores centralizado con middleware.
+* **Tipos principales**  
+  - **feat:** Nueva funcionalidad (afecta la versión MINOR).  
+  - **fix:** Corrección de errores (afecta la versión PATCH).  
+  - **docs:** Actualizaciones en documentación.  
+  - **style:** Cambios de formato o estilo sin impacto funcional.  
+  - **refactor:** Reorganización del código sin cambios funcionales.  
+  - **test:** Añadir o modificar pruebas.  
+  - **chore:** Tareas de mantenimiento.  
+* **Ámbito:** Específica el módulo o componente afectado.  
+* **Descripción:** Breve, en minúsculas, máximo 50 caracteres, sin punto final.  
+* **Cuerpo:** Detalles adicionales, si es necesario.  
+* **Pie:** Referencias a tickets o breaking changes.
 
-**Gherkin (para especificaciones)**  
-Para especificaciones de pruebas, se utilizará Gherkin siguiendo las "Gherkin Conventions for Readable Specifications". Las reglas son:
+**Resumen de la Implementación**
 
-* Nomenclatura:  
-  * Escenarios en inglés con títulos claros en tercera persona (e.g., User authenticates successfully).  
-  * Usar palabras clave estándar (Given, When, Then).  
-* Formato:  
-  * Pasos breves y enfocados en el comportamiento.  
-  * Usar tablas para datos estructurados.  
-* Buenas prácticas:  
-  * Evitar detalles técnicos en los pasos.  
-  * Reutilizar pasos genéricos para reducir duplicación.
+* **Ramas principales:** **main** para producción, **develop** para integración.  
+* **Ramas auxiliares:**  
+  - **Features:** feature/\<descripción\> (e.g., feature/user-login).  
+  - **Releases:** release/\<versión\> (e.g., release/2.0.0).  
+  - **Hotfixes:** hotfix/\<versión\> (e.g., hotfix/2.0.1).  
+* **Versionado:** Semantic Versioning (MAJOR.MINOR.PATCH, e.g., v2.0.0).  
+* **Commits:** Conventional Commits (e.g., feat(login): add session support).
 
-**Resumen**
+Esta configuración asegura un flujo de trabajo estructurado, con versionado claro y mensajes de commit estandarizados, promoviendo colaboración eficiente y mantenimiento del proyecto.
 
-* HTML: W3Schools y Google, nombres en minúsculas, semántica.  
-* CSS: Google, clases en kebab-case, unidades relativas.  
-* JavaScript: Google, MDN, W3C y Vue, camelCase, componentes Vue en PascalCase.  
-* C\#: Microsoft y ASP.NET Core, PascalCase, inyección de dependencias.  
-* Gherkin: SpecFlow, pasos claros y reutilizables.  
-* Idioma: Nomenclaturas en inglés.
 
-Estas convenciones aseguran un código estandarizado, facilitando la colaboración y el mantenimiento del proyecto.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -3109,3 +3094,7 @@ W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www
 <hr>
 
 ## Anexos
+
+Link de video de exposición:  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361\_upc\_edu\_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+
