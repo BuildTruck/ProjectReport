@@ -2272,7 +2272,7 @@ Gerente
 </p>
 Supervisor
 <p align="center">
-  <img src="Registro_Maquinaria_Supervisor_uf.png" alt="PB" width="1000">
+  <img src="images/Registro_Maquinaria_Supervisor_uf.png" alt="PB" width="1000">
 </p>
 
 
@@ -2280,11 +2280,11 @@ User Goal 6: Documentación visual
 User Persona:
 Gerente
 <p align="center">
-  <img src="Documentacion_visual_gerente_uf.png" alt="PB" width="1000">
+  <img src="images/Documentacion_visual_gerente_uf.png" alt="PB" width="1000">
 </p>
 Supervisor
 <p align="center">
-  <img src="Documentacion_visual_supervisor_uf.png" alt="PB" width="1000">
+  <img src="images/Documentacion_visual_supervisor_uf.png" alt="PB" width="1000">
 </p>
 
 
@@ -2293,7 +2293,7 @@ User Persona:
 Gerente
 
 <p align="center">
-  <img src="Configuracion_Obra_uf.png" alt="PB" width="1000">
+  <img src="images/Configuracion_Obra_uf.png" alt="PB" width="1000">
 </p>
 
 User Goal 7: Configuración de perfil de usuario
@@ -2301,7 +2301,7 @@ User Persona:
 Gerente y Supervisor
 
 <p align="center">
-  <img src="Configuracion_user_uf.png" alt="PB" width="1000">
+  <img src="images/Configuracion_user_uf.png" alt="PB" width="1000">
 </p>
 
 User Goal 7: Inicio de sesión
@@ -2309,7 +2309,7 @@ User Persona:
 Gerente y Supervisor
 
 <p align="center">
-  <img src="Log_in_uf.png" alt="PB" width="1000">
+  <img src="images/Log_in_uf.png" alt="PB" width="1000">
 </p>
 
 
@@ -2331,6 +2331,11 @@ Gerente y Supervisor
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<p align="center">
+  <img src="images/structurizr-UsuariosComponentes.png" alt="PB" width="1000">
+</p>
+
 
 ## 4.7. Software Object-Oriented Design
 
