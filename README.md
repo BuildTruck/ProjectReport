@@ -3094,3 +3094,7 @@ W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www
 <hr>
 
 ## Anexos
+
+Link de video de exposición:  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361\_upc\_edu\_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+
