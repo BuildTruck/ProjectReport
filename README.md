@@ -2641,6 +2641,95 @@ Es un lenguaje de marcado ligero que permite escribir documentación de forma si
 
 ### 5.1.2. Source Code Management
 
+Esta sección define las convenciones de codificación y guías de estilo para los lenguajes utilizados en el proyecto: HTML, CSS, JavaScript y C\#. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente aceptados para garantizar un código claro, consistente y mantenible. Las guías adoptadas incluyen estándares de W3Schools, Google, Vue.js, Microsoft, SpecFlow (para Gherkin) y MDN, entre otros. A continuación, se describen las prácticas para cada lenguaje.  
+**HTML**  
+Las convenciones para HTML se basan en "HTML Style Guide and Coding Conventions" de W3Schools y la "Google HTML/CSS Style Guide". Las reglas clave son:
+
+* Sintaxis: Usar HTML5 con declaración \<\!DOCTYPE html\> en cada archivo.  
+* Nomenclatura:  
+  * Archivos en minúsculas con guiones para separar palabras (e.g., login-page.html).  
+  * Etiquetas y atributos en minúsculas (e.g., \<div class="main-section"\>).  
+* Formato:  
+  * Indentación de 2 espacios para anidamiento.  
+  * Líneas de máximo 80 caracteres.  
+  * Usar comillas dobles para atributos (e.g., href="styles.css").  
+* Buenas prácticas:  
+  * Emplear etiquetas semánticas (\<article\>, \<section\>, \<footer\>) para accesibilidad.  
+  * Incluir atributo alt en imágenes para SEO y accesibilidad.  
+  * Evitar estilos en línea, delegando el diseño a CSS.
+
+**CSS**  
+Para CSS, se adopta la "Google HTML/CSS Style Guide". Las convenciones incluyen:
+
+* Nomenclatura:  
+  * Clases en minúsculas con guiones (e.g., header-nav, submit-button).  
+  * Evitar IDs para estilos, priorizando clases.  
+* Formato:  
+  * Indentación de 2 espacios.  
+  * Agrupar propiedades por tipo (e.g., posicionamiento, tipografía, colores).  
+  * Usar notación abreviada cuando sea posible (e.g., border: 1px solid \#000).  
+* Buenas prácticas:  
+  * Usar unidades relativas (rem, vw) para adaptabilidad.  
+  * Evitar \!important salvo en casos excepcionales.  
+  * Organizar CSS en archivos modulares por componente o página.
+
+**JavaScript**  
+Las convenciones para JavaScript se derivan de la "Google JavaScript Style Guide", "MDN JavaScript Guidelines", "W3C JavaScript Style Guide" y la "Vue Style Guide". Las reglas son:
+
+* Nomenclatura:  
+  * Variables y funciones en camelCase (e.g., fetchData, userProfile).  
+  * Constantes en UPPER\_SNAKE\_CASE (e.g., BASE\_URL).  
+  * Componentes Vue en PascalCase (e.g., UserCard).  
+* Formato:  
+  * Indentación de 2 espacios.  
+  * Usar comillas simples (') para cadenas.  
+  * Terminar declaraciones con punto y coma (;).  
+* Buenas prácticas (específicas para Vue):  
+  * Usar nombres de componentes descriptivos y con múltiples palabras (e.g., AppHeader).  
+  * Definir props con tipos y valores por defecto en Vue.  
+  * Usar async/await para operaciones asíncronas en lugar de promesas encadenadas.  
+  * Incluir comentarios JSDoc para funciones públicas.
+
+**C\#**  
+Para C\#, se siguen las "C\# Coding Conventions" y las "Microsoft ASP.NET Core Coding Guidelines". Las convenciones son:
+
+* Nomenclatura:  
+  * Clases y métodos en PascalCase (e.g., UserService, GetUserById).  
+  * Variables privadas con prefijo \_ y camelCase (e.g., \_userRepository).  
+  * Interfaces con prefijo I (e.g., IUserRepository).  
+* Formato:  
+  * Indentación de 4 espacios.  
+  * Usar llaves {} para todos los bloques, incluso de una sola línea.  
+  * Líneas de máximo 120 caracteres.  
+* Buenas prácticas (específicas para ASP.NET Core):  
+  * Usar inyección de dependencias para servicios (e.g., IService en constructores).  
+  * Estructurar controladores con nombres descriptivos (e.g., UsersController).  
+  * Implementar manejo de errores centralizado con middleware.
+
+**Gherkin (para especificaciones)**  
+Para especificaciones de pruebas, se utilizará Gherkin siguiendo las "Gherkin Conventions for Readable Specifications". Las reglas son:
+
+* Nomenclatura:  
+  * Escenarios en inglés con títulos claros en tercera persona (e.g., User authenticates successfully).  
+  * Usar palabras clave estándar (Given, When, Then).  
+* Formato:  
+  * Pasos breves y enfocados en el comportamiento.  
+  * Usar tablas para datos estructurados.  
+* Buenas prácticas:  
+  * Evitar detalles técnicos en los pasos.  
+  * Reutilizar pasos genéricos para reducir duplicación.
+
+**Resumen**
+
+* HTML: W3Schools y Google, nombres en minúsculas, semántica.  
+* CSS: Google, clases en kebab-case, unidades relativas.  
+* JavaScript: Google, MDN, W3C y Vue, camelCase, componentes Vue en PascalCase.  
+* C\#: Microsoft y ASP.NET Core, PascalCase, inyección de dependencias.  
+* Gherkin: SpecFlow, pasos claros y reutilizables.  
+* Idioma: Nomenclaturas en inglés.
+
+Estas convenciones aseguran un código estandarizado, facilitando la colaboración y el mantenimiento del proyecto.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
