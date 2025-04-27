@@ -2258,46 +2258,13 @@ Interface that defines the standard operations for data access repositories.
 
 ### 5.1.1. Software Development Environment Configuration.
 
-En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
-**FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
-**Figura 1**  
-*Logo de Figma*
-a
-<p align="center">
-  <img src="images/fig-logo.png" alt="PB" width="180">
-</p>
+En este proyecto se han utilizado distintas herramientas para cada aspecto de nuestro proyecto: Project Management, Product UX/UI Design, Software Development, Software Deployment y Software Documentation. A continuación, daremos una breve presentación de cada uno de estos programas y los usos que les dimos.
 
+* **Project Management**
 
-*Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86)   
-**WEBSTORM:** Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.  
-**Figura 2**  
-*Logo de WebStorm*
-<p align="center">
-  <img src="images/storm-logo.png" alt="PB" width="180">
-</p>
-
-
-*Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
-**TYPESCRIPT:** Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
-**Figura 3**  
-*Logo de TypeScript*  
-
-<p align="center">
-  <img src="images/ts-logo.png" alt="PB" width="180">
-</p>
-
-
-*Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
-**ANGULAR:** Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
-**Figura 4**  
-*Logo de Angular*
-
-<p align="center">
-  <img src="images/angular-logo.png" alt="PB" width="180">
-</p>
-
-*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8)   
-**GIT:** Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
+  
+  - **Git**
+Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
 **Figura 5**  
 *Logo de Git*
 <p align="center">
@@ -2305,7 +2272,10 @@ a
 </p>
 
 *Nota.* Obtenido de: [https://images.app.goo.gl/LrRXiPXPNboAr5LY7](https://images.app.goo.gl/LrRXiPXPNboAr5LY7)   
-**GITHUB:** Es una plataforma en la nube que ofrece alojamiento de repositorios en Git, lo que permite compartir, almacenar y colaborar en proyectos de desarrollo de software entre programadores. También, incluye funcionalidades como revisión de código, historial de código, gestión de issues y flujos de trabajo de integración continua del equipo. GitHub facilita la colaboración entre miembros del equipo de trabajo mediante ramas, pull requests y revisiones de código. Además, permite  gestionar versiones, mantener un historial completo para el proyecto.  
+  - **Github**
+
+Es una plataforma en línea que permite almacenar, compartir y colaborar en proyectos de programación utilizando el sistema de control de versiones Git. Es útil porque facilita el trabajo en equipo, permite llevar un historial de los cambios realizados en el código, recuperar versiones anteriores si algo sale mal y coordinar contribuciones de varios desarrolladores desde distintas ubicaciones. Además, ofrece herramientas para revisar código, reportar errores, gestionar tareas y documentar el proyecto, lo que mejora la organización, la calidad del software y acelera el desarrollo. En nuestro proyecto, utilizaremos GitHub para el informe de nuestro proyecto, Landing Page, Web Services y Frontend Web Applications.
+
 **Figura 6**  
 *Logo de Github*
 <p align="center">
@@ -2315,7 +2285,98 @@ a
 
 *Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
 
+* **Requirements Management**  
+  - **Trello**
 
+Trello es una herramienta de gestión de proyectos basada en tableros y tarjetas que permite organizar tareas de manera visual y flexible. Es especialmente útil para manejar un product backlog en proyectos de desarrollo, ya que facilita la priorización, categorización y seguimiento de historias de usuario, tareas o funcionalidades pendientes. Su interfaz intuitiva permite a nuestro equipo ver el estado de cada elemento del backlog, colaborar en tiempo real, asignar responsables y fechas límite, y adaptarse fácilmente a cambios en las prioridades, lo que mejora la organización y la eficiencia en el flujo de trabajo ágil. Por estas razones, decidimos usar esta herramienta.
+
+* **Product UX/UI Design**  
+  - **UXPressia**
+
+Es una herramienta en línea diseñada para crear los siguientes ítems que implementamos en nuestro informe: User Personas, Empathy maps, Journey Maps e Impact Maps. Es útil porque permite entender mejor las necesidades, emociones y puntos de contacto de los usuarios con un producto o servicio, lo que ayuda a tomar decisiones centradas en el usuario. Además, ofrece plantillas personalizables, integración con otras plataformas y la posibilidad de compartir fácilmente los resultados con interesados, mejorando así la comunicación y la planificación estratégica en proyectos de diseño o desarrollo.
+
+- **Miro**
+
+Miro es una plataforma de pizarras colaborativas en línea que permite visualizar ideas, procesos y flujos de trabajo de forma dinámica y compartida. La utilizamos para realizar el As-Is y To-Be Scenario Mapping por sus herramientas de diagramación, plantillas, colaboración en tiempo real y facilidad para integrar comentarios de manera visual e interactiva.
+
+- **Figma**
+
+Figma es una herramienta de diseño de interfaces y prototipado colaborativo en línea que permite crear, probar y refinar diseños de productos digitales en tiempo real. Es especialmente útil para el diseño centrado en el usuario, ya que facilita la creación de wireframes, mockups y prototipos interactivos que pueden ser compartidos y comentados por todo el equipo, sin necesidad de instalar software. Además, su capacidad para trabajar simultáneamente en un mismo archivo mejora la colaboración entre diseñadores, desarrolladores y otros interesados, acelerando el ciclo de diseño, asegurando la coherencia visual y reduciendo errores antes del desarrollo final.
+
+**Figura 1**  
+*Logo de Figma*
+<p align="center">
+  <img src="images/fig-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86) 
+
+* **Software Development**
+
+  - **WEBSTORM**
+Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.
+
+**Figura 2**  
+*Logo de WebStorm*
+<p align="center">
+  <img src="images/storm-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
+
+  - **HTML**
+
+HTML (HyperText Markup Language) es el lenguaje de marcado estándar que se utiliza para estructurar y presentar contenido en la web. Es esencial en cualquier proyecto de desarrollo web, ya que define la estructura básica de las páginas, organizando elementos como textos, imágenes, enlaces, formularios y más. Usar HTML permite que los navegadores interpreten y muestren correctamente la información al usuario, y es la base sobre la cual se aplican estilos (CSS) y comportamientos (JavaScript), lo que lo convierte en un componente fundamental para construir sitios web funcionales y accesibles.
+
+- **CSS**
+
+CSS (Cascading Style Sheets) es el lenguaje utilizado para definir la apariencia visual de los elementos HTML en una página web. Es fundamental en un proyecto de desarrollo porque permite controlar el diseño, los colores, las fuentes, los márgenes, las animaciones y la disposición de los contenidos, logrando que las interfaces sean atractivas, coherentes y adaptables a distintos dispositivos. Separar el contenido (HTML) de la presentación (CSS) facilita el mantenimiento, mejora la accesibilidad y permite aplicar estilos de forma eficiente a múltiples páginas o componentes, optimizando tanto la experiencia del usuario como el flujo de trabajo del equipo de diseño y desarrollo.
+
+- **JavaScript**
+
+JavaScript es un lenguaje de programación orientado a objetos y basado en eventos que se utiliza principalmente para crear interactividad en sitios web. Es fundamental en proyectos de desarrollo web porque permite dinamizar el contenido HTML, responder a acciones del usuario, validar formularios, manipular el DOM y comunicarse con servidores sin recargar la página. Gracias a su versatilidad y compatibilidad con todos los navegadores modernos, así como a su uso en frameworks como React, Vue o Angular, JavaScript permite construir aplicaciones web dinámicas, rápidas y con una excelente experiencia de usuario.
+
+- **C\#**
+
+C\# (pronunciado "C sharp") es un lenguaje de programación moderno, orientado a objetos, desarrollado por Microsoft, ideal para crear aplicaciones de escritorio, web, móviles y videojuegos, especialmente dentro del ecosistema .NET. Es útil en proyectos de programación porque combina la potencia de lenguajes como C++ con una sintaxis más sencilla y segura, lo que permite desarrollar software robusto, escalable y de alto rendimiento. Además, cuenta con una amplia comunidad, soporte continuo, y herramientas integradas como Visual Studio, lo que facilita la depuración, el mantenimiento del código y el desarrollo colaborativo en equipos profesionales.
+
+- **TYPESCRIPT**
+Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
+**Figura 3**  
+*Logo de TypeScript*  
+
+<p align="center">
+  <img src="images/ts-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
+- **ANGULAR**
+Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
+**Figura 4**  
+*Logo de Angular*
+
+<p align="center">
+  <img src="images/angular-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8) 
+
+* **Software Deployment**  
+  - **GitHub Pages:**
+
+GitHub Pages es un servicio gratuito de GitHub que permite publicar sitios web estáticos directamente desde un repositorio. Es muy útil en proyectos de desarrollo web porque permite desplegar fácilmente una página sin necesidad de configurar servidores ni servicios externos, lo que agiliza la presentación de portafolios, documentación, prototipos o productos finales. Al estar integrado con Git, cualquier cambio en el repositorio puede reflejarse automáticamente en el sitio, facilitando la colaboración, el control de versiones y la actualización continua del contenido de manera sencilla y eficiente.
+
+* **Software Documentation**  
+  - **Google Docs**
+
+Es una herramienta de procesamiento de texto en línea que permite crear, editar y compartir documentos de forma colaborativa y en tiempo real. Es útil para la documentación de software porque facilita la redacción de manuales de usuario, guías paso a paso, especificaciones técnicas y otros materiales sin necesidad de instalar software adicional. Además, su sistema de comentarios, control de versiones, compatibilidad con múltiples formatos y facilidad para compartir con distintos niveles de acceso lo convierten en una opción práctica para equipos que buscan una solución sencilla, accesible y colaborativa para organizar y mantener su documentación.
+
+- **Markdown**
+
+Es un lenguaje de marcado ligero que permite escribir documentación de forma simple y legible, usando solo texto plano con una sintaxis fácil de aprender. Es especialmente útil en proyectos de software porque permite crear documentación técnica directamente en el repositorio, facilitando su mantenimiento junto al código fuente. Al ser compatible con plataformas como GitHub, GitLab, Read the Docs y otros generadores estáticos, Markdown permite generar documentación clara, versionada y accesible, manteniendo el enfoque en la simplicidad, portabilidad y colaboración entre desarrolladores.  
+
+#
 
 ### 5.1.2. Source Code Management
 
