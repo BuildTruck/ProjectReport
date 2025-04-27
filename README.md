@@ -1993,6 +1993,10 @@ Interface that defines the standard operations for data access repositories.
 
 ### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="images/Buildtruck-database.png" alt="PB" width="1000">
+</p>
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2000,9 +2004,195 @@ Interface that defines the standard operations for data access repositories.
 
 ### 5.1.1. Software Development Environment Configuration.
 
+En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
+**FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
+**Figura 1**  
+*Logo de Figma*
+
+<p align="center">
+  <img src="images/fig-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86)   
+**WEBSTORM:** Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.  
+**Figura 2**  
+*Logo de WebStorm*
+<p align="center">
+  <img src="images/storm-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
+**TYPESCRIPT:** Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
+**Figura 3**  
+*Logo de TypeScript*  
+
+<p align="center">
+  <img src="images/ts-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
+**ANGULAR:** Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
+**Figura 4**  
+*Logo de Angular*
+
+<p align="center">
+  <img src="images/angular-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8)   
+**GIT:** Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
+**Figura 5**  
+*Logo de Git*
+<p align="center">
+  <img src="images/git-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/LrRXiPXPNboAr5LY7](https://images.app.goo.gl/LrRXiPXPNboAr5LY7)   
+**GITHUB:** Es una plataforma en la nube que ofrece alojamiento de repositorios en Git, lo que permite compartir, almacenar y colaborar en proyectos de desarrollo de software entre programadores. También, incluye funcionalidades como revisión de código, historial de código, gestión de issues y flujos de trabajo de integración continua del equipo. GitHub facilita la colaboración entre miembros del equipo de trabajo mediante ramas, pull requests y revisiones de código. Además, permite  gestionar versiones, mantener un historial completo para el proyecto.  
+**Figura 6**  
+*Logo de Github*
+<p align="center">
+  <img src="images/hub-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
+
+
+
 ### 5.1.2. Source Code Management
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
+
+**HTML:**
+
+Se seguirán las recomendaciones de la guía ["HTML Style Guide and Coding Conventions"](https://www.w3schools.com/html/html5_syntax.asp) de W3Schools y la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html). Las principales convenciones son:  
+**Sintaxis**: Usar HTML5 con DOCTYPE \<\!DOCTYPE html\>.
+
+**Nomenclatura**:
+
+* Nombres de archivos en minúsculas, con guiones para separar palabras (e.g., index-page.html).  
+  * Atributos y etiquetas en minúsculas (e.g., \<div id="main-content"\>).
+
+  **Formato**:
+
+  * Indentar con 2 espacios para anidamiento.  
+  * Evitar líneas excesivamente largas (máximo 80 caracteres).  
+  * Usar comillas dobles para valores de atributos (e.g., class="container").
+
+  **Buenas prácticas**:
+
+  * Incluir atributo alt en etiquetas \<img\> para accesibilidad.  
+  * Usar etiquetas semánticas (\<header\>, \<footer\>, \<article\>, etc.).  
+  * Evitar estilos en línea; usar CSS externo.
+
+**CSS:**
+
+Se adoptará la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html) para CSS. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Clases en minúsculas, separadas por guiones (e.g., button-primary, main-container).  
+  * Evitar IDs para estilos, priorizar clases.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Agrupar propiedades por categoría (e.g., posicionamiento, display, tipografía).  
+  * Usar notación abreviada cuando sea posible (e.g., margin: 10px 20px en lugar de especificar cada lado).
+
+  **Buenas prácticas**:
+
+  * Usar unidades relativas (rem, vw, %) en lugar de absolutas (px) cuando sea adecuado.  
+  * Evitar \!important salvo casos excepcionales.  
+  * Organizar archivos CSS por módulos o componentes.
+
+**JavaScript:**
+
+Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) adaptadas a JavaScript, dado que comparten similitudes. Las convenciones son:  
+**Nomenclatura**:
+
+* Variables y funciones en camelCase (e.g., userProfile).  
+  * Constantes en UPPER\_SNAKE\_CASE (e.g., MAX\_PROJECTS).  
+  * Clases en PascalCase (e.g., UserService).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar comillas simples (') para cadenas de texto.  
+  * Terminar declaraciones con punto y coma (;).
+
+  **Buenas prácticas**:
+
+  * Usar const por defecto, let solo si es necesario reasignar, evitar var.  
+  * Preferir funciones de flecha para callbacks (() \=\> {}) y funciones tradicionales para métodos (function name() {}).  
+  * Incluir comentarios JSDoc para funciones públicas.
+
+**TypeScript:**
+
+Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
+  * Interfaces con prefijo I solo si es necesario para claridad (e.g., IUser).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar tipos explícitos para parámetros y retornos de funciones.  
+  * Evitar any salvo en casos excepcionales.
+
+  **Buenas prácticas** (específicas para Angular):
+
+  * Usar sufijos para componentes (Component), servicios (Service), etc..  
+  * Organizar módulos Angular por funcionalidad (e.g., auth.module.ts).  
+  * Usar decoradores Angular de forma consistente (e.g., @Input, @Output).
+
+**Java:**
+
+Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/styleguide/javaguide.html) y las recomendaciones de ["Spring Boot Features"](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html). Las convenciones son:  
+**Nomenclatura**:
+
+* Clases en PascalCase.  
+  * Métodos y variables en camelCase.  
+  * Constantes en UPPER\_SNAKE\_CASE.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Líneas de máximo 100 caracteres.  
+  * Usar llaves {} para todos los bloques, incluso si son de una sola línea.
+
+  **Buenas prácticas** (específicas para Spring Boot):
+
+  * Usar anotaciones Spring de forma clara.  
+  * Estructurar proyectos con paquetes por funcionalidad (e.g., com.example.service).  
+  * Implementar manejo de excepciones centralizado con @ControllerAdvice.
+
+**Gherkin (para especificaciones):**
+
+Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las ["Gherkin Conventions for Readable Specifications"](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/). Las convenciones son:  
+**Nomenclatura**:
+
+* Escenarios en inglés, con títulos descriptivos en tercera persona (e.g., User logs in with valid credentials).  
+  * Usar palabras clave de Gherkin (Given, When, Then) de forma consistente.
+
+  **Formato**:
+
+  * Escribir pasos claros y concisos.  
+  * Usar tablas para datos estructurados.
+
+  **Buenas prácticas**:
+
+  * Evitar detalles técnicos en los pasos; centrarse en el comportamiento.  
+  * Reutilizar pasos comunes para mantener especificaciones DRY (Don't Repeat Yourself).
+
+Todas las convenciones detalladas en esta sección, nos garantizan un código limpio, consistente y alineado con estándares de la industria, facilitando la colaboración y el mantenimiento del proyecto.  
+
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -2013,6 +2203,16 @@ Interface that defines the standard operations for data access repositories.
 ##### 5.2.1.1. Sprint Planning 1
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Bellido Salas, Raúl | raulbellidosalas | C | L | C |
+| Gómez Flores, Daniela Araceli | DanieGF1 | L | C | C |
+| Gutiérrez Condo, Maylhy Olinda | Ly009463 | C | C | L |
+| Luyo Correa, Sandra Paula | Paulu27 | C | C | C |
+| Roca Tineo, Steven Mathew | matthewsrt29 | C | C | C |
+
+
 
 ##### 5.2.1.3. Sprint Backlog 1
 
