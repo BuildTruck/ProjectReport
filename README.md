@@ -601,7 +601,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL: [https://www.youtube.com/watch?v=NxvsVJWn1Qk](https://www.youtube.com/watch?v=NxvsVJWn1Qk)** 
+
 
 ### **Características demográficas**
 
@@ -658,7 +658,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL: [https://www.youtube.com/watch?v=dCbovmOhDYU](https://www.youtube.com/watch?v=dCbovmOhDYU)** 
+
 
 ### **Características demográficas**
 
@@ -704,13 +704,42 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 *Imagen del usuario número 3 entrevistado* 
 
 <p align="center">
-  <img src="images/.png" alt="UH" width="1000">
+  <img src="images/interview-7.png" alt="UH" width="1000">
 </p>
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL:**
+**Características demográficas**
 
+* ¿Cuál es tu edad aproximadamente?.  
+   28 años     
+* ¿En qué lugar trabajas o estás actualmente asignado(a)?.  
+  Actualmente estoy asignado en una obra de construcción de un complejo de oficinas en Lima.  
+* ¿Cuál es tu cargo o rol específico dentro de tu trabajo?.  
+  Soy gerente de obra. Me encargo de coordinar todo el proyecto en campo, asegurar que se cumplan los plazos, el presupuesto y la calidad esperada.
+
+**Preguntas principales**
+
+* ¿Cuáles son tus principales responsabilidades diarias sobre las obras?.  
+  Mis principales responsabilidades son coordinar al personal, supervisar avances diarios, controlar el stock de materiales, hacer reportes diarios y comunicarme con el equipo de oficina técnica.
+
+* ¿Cómo gestionas actualmente el seguimiento de materiales y personal en campo?.  
+   Por ahora, usamos Excel para llevar un control de materiales. Para el personal, llevamos un registro manual en planillas diarias que luego entregamos al área administrativa.  
+* ¿Cuántos proyectos diriges en tu cargo?.  
+  Actualmente tengo dos proyectos a mi cargo. Uno está en la etapa final y el otro acaba de empezar.  
+* ¿Cuáles son los mayores retos que enfrentas al momento de controlar el avance del proyecto?.  
+  La falta de comunicación rápida entre los equipos, la pérdida de información entre tantos reportes manuales y la dificultad para actualizar en tiempo real el avance de materiales y recursos humanos.
+
+**Preguntas sobre el proyecto**
+
+* ¿Qué te parecería contar con una plataforma que te permita monitorear inventario, personal y actividades?.  
+  ¡Sería ideal\! Nos ahorraría tiempo y nos permitiría tomar decisiones más rápido en el día a día.  
+* ¿Qué funcionalidades serían esenciales para ti en una plataforma de gestión de obra?.  
+   Que tenga un control claro de inventario, avance de actividades en tiempo real y alertas automáticas cuando falte algo crítico.  
+* ¿Con qué frecuencia necesitarías revisar o actualizar la información sobre materiales o personal?.  
+  Mínimo dos veces al día. Una al inicio de la jornada para saber con qué contamos y otra a mitad del día para ver el avance o si hay algo urgente que solucionar.  
+* ¿Qué tipo de notificaciones o alertas te serían realmente útiles para tomar decisiones rápidas?.  
+  Notificaciones cuando el stock esté por agotarse, alertas de ausencias de personal clave, y avisos cuando una actividad crítica esté retrasada.
 
 
 ***----Segmento objetivo \#2:  Supervisores de obra***   
@@ -724,7 +753,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL: [https://www.youtube.com/watch?v=AWGu8-JQXoY](https://www.youtube.com/watch?v=AWGu8-JQXoY)** 
+ 
 
 ### **Características demográficas**
 
@@ -775,7 +804,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL: [https://www.youtube.com/watch?v=Eay8RcW29Sc](https://www.youtube.com/watch?v=Eay8RcW29Sc)** 
+
 
 ### **Características demográficas**
 
@@ -829,7 +858,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia. Se le presentaron al usuario las preguntas previamente elaboradas por el equipo.* 
 
-**URL: [https://www.youtube.com/watch?v=79fSLnYdrwA](https://www.youtube.com/watch?v=79fSLnYdrwA)** 
+
 
 ### **Características demográficas**
 
@@ -872,6 +901,8 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 * Si tuvieras que diseñar una app para tu trabajo, ¿qué funciones serían imprescindibles?.  
    Me gustaría una galería visual donde se pueda comparar el antes y el después del diseño estructural de los planos, para ver claramente el progreso del trabajo.
+
+[Ver el video de las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EcTa4QCn7SdBhY44MrPfIhEBPDr54LGCKhsWTHMfhgi4Yw?e=xQnplv)
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -2548,6 +2579,34 @@ Todas las convenciones detalladas en esta sección, nos garantizan un código li
 <hr>
 
 ## Bibliografía
+
+BID. (2022). *Transformación digital en sectores tradicionales: desafíos y oportunidades*. [https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf](https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf) 
+
+Buildertrend. (s.f.). *Product overview.* [https://buildertrend.com/product-overview/\#undefined](https://buildertrend.com/product-overview/#undefined)
+
+Cámara Peruana de la Construcción \[CAPECO\]. (2020). *Informe sobre eficiencia en la construcción*. [https://iec.capeco.org](https://iec.capeco.org) 
+
+Cámara Peruana de la Construcción \[CAPECO\]. (2023). *Informe Económico de la Construcción*. [https://iec.capeco.org/ediciones/](https://iec.capeco.org/ediciones/) 
+
+Conventional Commits. (s.f.). *Conventional Commits v1.0.0.* [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/) 
+
+McKinsey & Company. (2020). *Transformación digital en el sector construcción*. [https://www.mckinsey.com/pe/transformacion-digital-elevando-el-desempeno-de-la-cadena-de-abastecimiento-a-un-nuevo-nivel](https://www.mckinsey.com/pe/transformacion-digital-elevando-el-desempeno-de-la-cadena-de-abastecimiento-a-un-nuevo-nivel) 
+
+McKinsey Global Institute. (2017). *Reinventing Construction: A productivity revolution*. [https://www.mckinsey.com/capabilities/operations/our-insights/reinventing-construction-through-a-productivity-revolution](https://www.mckinsey.com/capabilities/operations/our-insights/reinventing-construction-through-a-productivity-revolution) 
+
+Ministerio de Vivienda, Construcción y Saneamiento \[MVCS\]. (2023). *Boletín de Obras Ejecutadas*.  [https://www.mef.gob.pe/contenidos/inv\_publica/docs/metodologia\_sectorial/Pautas\_Saneamiento.pdf](https://www.mef.gob.pe/contenidos/inv_publica/docs/metodologia_sectorial/Pautas_Saneamiento.pdf) 
+
+PricewaterhouseCoopers \[PwC\]. (2021). *Impacto de la digitalización en las PYMEs peruanas*. [https://www.pwc.pe/es/pwc-advance-11-.pdf](https://www.pwc.pe/es/pwc-advance-11-.pdf) 
+
+PricewaterhouseCoopers LATAM \[PwC LATAM\]. (2021). *Diagnóstico de Madurez Digital en el Sector Construcción*. [https://www.pwc.pe/es/informe-de-sostenibilidad-impacto-y-transparencia-2022.pdf](https://www.pwc.pe/es/informe-de-sostenibilidad-impacto-y-transparencia-2022.pdf) 
+
+Driessen, V. (2010, 5 de enero). *A successful Git branching model.* Nvie. [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/) 
+
+Semantic Versioning. (s.f.). *Semantic Versioning 2.0.0.* [https://semver.org/](https://semver.org/) 
+
+PlanGrid. (s.f.). *PlanGrid: Construction software. Autodesk Construction Cloud.* [https://construction.autodesk.com/products/plangrid/](https://construction.autodesk.com/products/plangrid/) 
+
+Procore. (s.f.). *Procore: Software de gestión de construcción.* [https://www.procore.com/es](https://www.procore.com/es) 
 
 <hr>
 
