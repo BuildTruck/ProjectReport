@@ -963,7 +963,21 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ### 2.3.3. User Journey Mapping
 
+<p align="center">
+  <img src="images/journey_mapp (1).png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/journey_mapp (2).png" alt="PB" width="1000">
+</p>
+
 ### 2.3.4. Empathy Mapping
+
+<p align="center">
+  <img src="images/ Empathy_map.png" alt="PB" width="1000">
+</p>
+<p align="center">
+  <img src="images/ Empathy_map (1)" alt="PB" width="1000">
+</p>
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -2727,6 +2741,33 @@ Todas las convenciones detalladas en esta sección, nos garantizan un código li
 
 
 ### 5.1.4. Software Deployment Configuration
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+1. **Registro en GitHub** Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.
+2. **Creación del repositorio**
+  * Hicimos clic en el botón "New" para generar un nuevo repositorio.
+  * Le asignamos el nombre "LandingPage" dentro de nuestra organización "BuildTruck"
+3. **Configuración del repositorio**
+  * Nos aseguramos de que el repositorio sea de acceso público.
+4. **Carga de los archivos de la landing page**
+  * Accedimos al repositorio creado.
+  * Esperamos a que todos los contribuyentes hagan los commits del desarrollo para darle Merge a la rama develop.
+  * Finalmente, confirmamos la acción con "Commit changes" para guardar los archivos.
+5. **Activación de GitHub Pages**
+  * Entramos a la sección "Settings" del repositorio.
+  * Nos desplazamos hasta encontrar el apartado "GitHub Pages".
+  * Elegimos la rama "feature/develop" y guardamos los cambios con "Save".
+**Figura**
+<p align="center">
+  <img src="images/SDConfiguration1.png" alt="PB" width="850">
+</p>
+*Explicación del paso 5*
+
+*Nota.* Elaboración propia.
+6. **Verificación del sitio web** En pocos minutos, el sitio se publica en la siguiente dirección: https://buildtruck.github.io/LandingPage/ 
+Accedemos a esta URL desde el navegador para confirmar que el sitio está activo.
+7. **Actualización del sitio**
+  * Cuando necesitemos modificar el sitio, solo debemos realizar commits y darle mege de nuevo  siguiendo los mismos pasos.
+  * Los cambios se verán reflejados automáticamente en línea.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -2846,6 +2887,23 @@ Imagenes del despliegue de la landing page
 Para este primer sprint no fue contemplada la evidencia de documentación de los servicios
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.
+
+Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público "LandingPage" dentro de nuestra organización "BuildTruck". Luego, subimos los archivos de la página, activamos GitHub Pages seleccionando la rama "feature/develop" desde la configuración del repositorio y verificamos que el sitio estuviera disponible en línea en [BuildTruck](https://buildtruck.github.io/LandingPage/). Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.
+
+**Figura**
+*Evidencia de deployment 1*
+<p align="center">
+  <img src="images/SDEvidence1.png" width="850">
+</p>
+Nota. Elaboración propia.
+
+**Figura**
+*Evidencia de deployment 2*
+<p align="center">
+  <img src="images/SDEvidence2.png" width="850">
+</p>
+Nota. Elaboración propia.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -2861,6 +2919,14 @@ Para este primer sprint no fue contemplada la evidencia de documentación de los
   <img src="images/insights1.png" width="850">
 </p>
 
+
+READ.ME:
+
+<p align="center">
+  <img src="images/insights3.png" width="850">
+</p>
+
+LANDING PAGE:
 <p align="center">
   <img src="images/insights2.png" width="850">
 </p>
