@@ -2933,6 +2933,17 @@ LANDING PAGE:
 
 ## Conclusiones
 
+El desarrollo de BuildWise ha representado un esfuerzo estratégico e interdisciplinario orientado a responder a la creciente necesidad de transformación digital en el sector construcción. A través de la creación de BuildTruck, nuestra plataforma web principal, hemos logrado diseñar e implementar una solución capaz de optimizar el control de inventarios, la gestión de personal y el seguimiento de obreros en obra, tres pilares fundamentales para la eficiencia operativa de cualquier empresa constructora.
+
+
+Este proyecto ha sido llevado a cabo bajo un enfoque de trabajo colaborativo y organizado, reflejado en el registro sistemático de versiones del informe, la definición de perfiles de equipo, y la aplicación de metodologías modernas como Lean UX y técnicas de elicitation y análisis de requerimientos. Estas etapas permitieron identificar las verdaderas necesidades del usuario, conceptualizar soluciones centradas en el cliente y validar continuamente nuestras hipótesis de diseño.
+
+
+El proceso de desarrollo avanzó mediante la definición de una arquitectura de software orientada al dominio, la creación de wireframes, mockups y prototipos, así como la implementación técnica en entornos controlados de software, siguiendo buenas prácticas de gestión de código y despliegue. Cada sprint fue registrado mediante evidencias de avances y colaboración, asegurando la transparencia y el aprendizaje continuo dentro del equipo.
+
+
+Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuitiva y el uso de herramientas tecnológicas modernas, BuildWise no solo ha conseguido materializar una solución digital robusta, sino también sentar las bases para alcanzar su visión de ser líderes en soluciones tecnológicas para el sector construcción en América Latina. Este proyecto reafirma nuestro compromiso con la innovación, la eficiencia y la transformación positiva del sector, y marca el inicio de una trayectoria de crecimiento y consolidación en el mercado.
+
 <hr>
 
 ## Bibliografía
