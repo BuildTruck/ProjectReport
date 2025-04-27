@@ -423,20 +423,6 @@ Este segmento está conformado por personal encargado de la logística documenta
 
 ### 2.1.1. Análisis competitivo
 
-<head>
-<meta content="text/html; charset=UTF-8" http-equiv="content-type">
-<style type="text/css">
-table td, table th { padding: 0; }
-.c11 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 150.5pt; border-top-color: #000000; border-bottom-style: solid; }
-.c13 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 451.4pt; border-top-color: #000000; border-bottom-style: solid; }
-.c0 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 75.2pt; border-top-color: #000000; border-bottom-style: solid; }
-.c17 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 301pt; border-top-color: #000000; border-bottom-style: solid; }
-.c16 { border-spacing: 0; border-collapse: collapse; margin-right: auto; }
-.c14 { background-color: #ffffff; max-width: 451.4pt; padding: 72pt 72pt 72pt 72pt; }
-.c1 { height: 21pt; }
-.c7 { height: 11pt; }
-</style>
-</head>
 <body>
 <table class="c16">
 <tr class="c1">
