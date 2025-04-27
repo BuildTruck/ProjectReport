@@ -3094,6 +3094,17 @@ Semantic Versioning. (s.f.). *Semantic Versioning 2.0.0.* [https://semver.org/](
 PlanGrid. (s.f.). *PlanGrid: Construction software. Autodesk Construction Cloud.* [https://construction.autodesk.com/products/plangrid/](https://construction.autodesk.com/products/plangrid/) 
 
 Procore. (s.f.). *Procore: Software de gestión de construcción.* [https://www.procore.com/es](https://www.procore.com/es) 
+Google. (s.f.). *Google HTML/CSS style guide*. [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)  
+Google. (s.f.). *Google Java style guide*. [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)  
+Google. (s.f.). *Google JavaScript style guide*. [https://google.github.io/styleguide/jsguide.html](https://google.github.io/styleguide/jsguide.html)  
+Microsoft. (s.f.). *C\# coding conventions*. [https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)  
+Microsoft. (s.f.). *ASP.NET Core engineering guidelines: Coding guidelines*. [https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines\#coding-guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines)  
+Mozilla Developer Network. (s.f.). *MDN JavaScript guidelines*. [https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code\_guidelines/JavaScript](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)  
+SpecFlow. (s.f.). *Gherkin conventions for readable specifications*. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)  
+Vue.js. (s.f.). *Vue style guide*. [https://vuejs.org/v2/style-guide/](https://vuejs.org/v2/style-guide/)  
+W3Schools. (s.f.). *HTML style guide and coding conventions*. [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp)  
+W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www.w3schools.com/js/js\_conventions.asp](https://www.w3schools.com/js/js_conventions.asp)  
+
 
 <hr>
 
