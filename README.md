@@ -2691,10 +2691,28 @@ En este primer sprint, nos enfocamos en desarrollar la Landing Page de BuildTruc
 |  |  | T3 | Configurar enlaces de íconos para abrir en nueva pestaña | Asegurarse que los íconos de redes sociales abran la página externa en una nueva pestaña del navegador. | 1 | Paula | Done |
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
+#### **5.2.1.4. Development Evidence for Sprint Review.** 
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | ----- | :---- |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | a70a737 | feat: landingPage add 1 | \- | 20/04/2025 |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | da4353f | feat: adding carpets | \- | 25/04/2025 |
+| Ly009463/BuilTruck/LandingPage | feature/develop | 731c3b7 | feat: main section | \- | 27/04/2025 |
+| raulbellidosalas/BuilTruck/LandingPage | feature/develop | 919771b | feat: added the Plans Section | \- | 27/04/2025 |
+| DanieGF1/BuilTruck/LandingPage | feature/develop | e783724 | feat: feature section | \- | 27/04/2025 |
+| Paulu27/BuilTruck/LandingPage | feature/develop | c291c8b | feat: Added FAQ Section | \- | 27/04/2025 |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | 7898961 | fix: adding fonts and completing html | \- | 27/04/2025 |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | b266001 | feat: adding styles | \- | 27/04/2025 |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | f4d7528 | feat: adding js functions | \- | 27/04/2025 |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
-Imagenes del despliegue de la landing page
 
+En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despliegue del landing page siendo ciertas funcionalidades las faltantes. La cual muestra diferentes
+secciones donde el usuario puede encontrar información importante acerca del producto y del start up. A continuación se
+muestran algunas evidencias:
+
+Imagenes del despliegue de la landing page
 [Landing Page BuildTruck](https://buildtruck.github.io/LandingPage/)
 
 <p align="center">
@@ -2722,12 +2740,27 @@ Imagenes del despliegue de la landing page
 
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<hr>
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de la sección formulario de la landing page |
+| Daniela Araceli Gómez Flores | Implementación de la sección features de la landing page |
+| Maylhy Olinda Gutierrez Condo | Implementación de la sección main de la landing page |
+| Raúl Bellido Salas | Implementación de la sección plans de la landing page |
+| Sandra Paula Luyo Correa | Implementación de la sección FAQ de la landing page |
+
+<p align="center">
+  <img src="images/insights1.png" width="850">
+</p>
+
+<p align="center">
+  <img src="images/insights2.png" width="850">
+</p>
 
 ## Conclusiones
 
