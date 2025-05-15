@@ -3168,6 +3168,8 @@ En el sprint 1 se alcanzo un desarrollo parcial en la implementación del despli
 secciones donde el usuario puede encontrar información importante acerca del producto y del start up. A continuación se
 muestran algunas evidencias:
 
+
+
 Imagenes del despliegue de la landing page
 [Landing Page BuildTruck](https://buildtruck.github.io/LandingPage/)
 
@@ -3197,6 +3199,7 @@ Imagenes del despliegue de la landing page
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 <p class="c2 c12 c18"><span class="c19 c25"></span></p><table class="c26"><tr class="c17"><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c10">Endpoint</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c0"><span class="c10">Path</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c0"><span class="c10">Descripci&oacute;n</span></p></td></tr><tr class="c23"><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c10">Workers Endpoint</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c15 c5"><a class="c16" >/personnel</a></span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar datos de trabajadores (ejemplo: nombres, roles).</span></p></td></tr><tr class="c22"><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c10">Materials Endpoint</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c2"><span class="c5">/materials</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar datos relacionados con materiales (ejemplo: cemento, acero).</span></p></td></tr><tr class="c24"><td class="c1" colspan="1" rowspan="1"><p class="c2 c18"><span class="c19 c5"></span></p><p class="c2"><span class="c5">Materials Entry Endpoint</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c15 c5"><a class="c16" >/material-entries</a></span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para la entrada de materiales al inventario</span></p></td></tr><tr class="c24"><td class="c13" colspan="1" rowspan="1"><p class="c2 c18"><span class="c5 c19"></span></p><p class="c2"><span class="c5">Materials Usages Endpoint</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c0"><span class="c15 c5"><a class="c16">/material-usages</a></span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para registrar el uso de materiales al inventario</span></p></td></tr><tr class="c14"><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c19 c5">Users Endpoint</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c5 c15"><a class="c16" >/users</a></span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar los usuarios para el log-in</span></p></td></tr><tr class="c9"><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c10">Incidents Endpoint</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c2"><span class="c5">/incidents</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar datos de incidentes (ejemplo: accidentes, fallos).</span></p></td></tr><tr class="c9"><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c10">Machines Endpoint</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c5">/machinery</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar datos de maquinaria (ejemplo: excavadoras, placas).</span></p></td></tr><tr class="c9"><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c10">Project Endpoint</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c2"><span class="c5">/projects</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar datos de proyectos (ejemplo: presupuestos, estados).</span></p></td></tr><tr class="c14"><td class="c1" colspan="1" rowspan="1"><p class="c2 c18"><span class="c19 c5"></span></p><p class="c2"><span class="c5">Documents Endpoint</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c5">/documents</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c2 c12"><span class="c5">Punto de acceso para gestionar los documentos de una obra</span></p></td></tr></table><p class="c2 c12 c18"><span class="c4"></span></p>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.
 
@@ -3387,6 +3390,13 @@ Estas implementaciones representan un avance significativo en nuestro objetivo d
 Para una mejor comprensión del flujo de trabajo y las funcionalidades implementadas, hemos preparado un video demostrativo:
 
 [Ver demostración de BuildTruck - Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 2. 
+
+<p align="center">
+  <img src="images/team.png" alt="PB" width="850">
+</p>
+
 
 ## Conclusiones
 
