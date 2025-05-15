@@ -3079,6 +3079,8 @@ Accedemos a esta URL desde el navegador para confirmar que el sitio está activo
   * Cuando necesitemos modificar el sitio, solo debemos realizar commits y darle mege de nuevo  siguiendo los mismos pasos.
   * Los cambios se verán reflejados automáticamente en línea.
 
+
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
@@ -3328,6 +3330,63 @@ LANDING PAGE:
 | Ly009463/BuildTruck/FrontendWebApps | feature/develop | 731c3b7 | feat:main section | | 27/04/2025 |
 | matthewsr29/BuildTruck/FrontendWebApps | feature/develop | da4353f | feat: adding carpets | | 25/04/2025 |
 | matthewsr29/BuildTruck/FrontendWebApps | feature/develop | a70a737 | feat: landingPage add 1 | | 20/04/2025 |
+
+### 5.1.5. Execution Evidence for Sprint Review. 
+
+
+Durante este sprint, hemos logrado implementar funcionalidades esenciales para el sistema de gestión BuildTruck, estableciendo una base sólida para la administración de proyectos de construcción. Las principales características desarrolladas incluyen:
+
+1. **Sistema de autenticación completo** con diferentes niveles de acceso según roles de usuario (gerente y supervisor)
+2. **Administración integral de proyectos**, permitiendo la creación, visualización, edición y seguimiento de proyectos de construcción
+3. **Gestión de inventario **, facilitando el control de activos en las obras
+4. **Sistema de documentación**, para el almacenamiento y consulta de documentos relacionados con cada proyecto
+5. **Internacionalización (i18n)** para soportar múltiples idiomas en la plataforma
+6. **Sistema de navegación robusto** entre páginas con manejo de rutas protegidas y página 404 personalizada
+
+Estas implementaciones representan un avance significativo en nuestro objetivo de crear una plataforma integral para la gestión de proyectos de construcción, permitiendo a los usuarios gestionar eficientemente sus recursos y dar seguimiento preciso a sus obras.
+
+## Capturas de pantalla de las principales vistas
+
+### Login y Autenticación
+
+<p align="center">
+  <img src="images/DEV2.1.png" alt="PB" width="850">
+</p>
+
+
+### Dashboard principal
+
+<p align="center">
+  <img src="images/DEV2.2.png" alt="PB" width="850">
+</p>
+
+
+### Gestión de proyectos
+
+<p align="center">
+  <img src="images/DEV2.3.png" alt="PB" width="850">
+</p>
+
+
+### Inventario 
+
+
+*Panel de control de inventario con listado de materiales disponibles y su estado*
+
+### Sistema de documentación
+
+*Interfaz para la gestión documental de cada proyecto con función de carga y visualización*
+
+### Navegación y características adicionales
+
+## Demostración en video y url de la web
+
+[Ingresar a Aplicacion web con las caracteristicas implementadas de BuildTruck - Sprint 2 ](https://buildtruck.github.io/LandingPage/)
+
+
+Para una mejor comprensión del flujo de trabajo y las funcionalidades implementadas, hemos preparado un video demostrativo:
+
+[Ver demostración de BuildTruck - Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones
 
