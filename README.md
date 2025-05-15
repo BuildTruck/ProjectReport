@@ -1457,7 +1457,7 @@ El diseño de la aplicación web BuildTruck sigue una línea de sobriedad, simpl
 
 ### **Tarjetas:**
 
-Se emplea el componente "mat-card" de Angular Material para mostrar avisos relevantes y notificaciones dentro de la plataforma. Cada tarjeta incluye:
+Se emplea el componente "mat-card" de Vue Material para mostrar avisos relevantes y notificaciones dentro de la plataforma. Cada tarjeta incluye:
 
 * Una imagen representativa (asignada automáticamente si no se selecciona una imagen personalizada).  
 * Un título, un subtítulo y una breve descripción.  
@@ -2779,7 +2779,7 @@ Figma es una herramienta de diseño de interfaces y prototipado colaborativo en 
 * **Software Development**
 
   - **WEBSTORM**
-Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.
+Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Vue, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.
 
 **Figura 2**  
 *Logo de WebStorm*
@@ -2799,14 +2799,14 @@ CSS (Cascading Style Sheets) es el lenguaje utilizado para definir la apariencia
 
 - **JavaScript**
 
-JavaScript es un lenguaje de programación orientado a objetos y basado en eventos que se utiliza principalmente para crear interactividad en sitios web. Es fundamental en proyectos de desarrollo web porque permite dinamizar el contenido HTML, responder a acciones del usuario, validar formularios, manipular el DOM y comunicarse con servidores sin recargar la página. Gracias a su versatilidad y compatibilidad con todos los navegadores modernos, así como a su uso en frameworks como React, Vue o Angular, JavaScript permite construir aplicaciones web dinámicas, rápidas y con una excelente experiencia de usuario.
+JavaScript es un lenguaje de programación orientado a objetos y basado en eventos que se utiliza principalmente para crear interactividad en sitios web. Es fundamental en proyectos de desarrollo web porque permite dinamizar el contenido HTML, responder a acciones del usuario, validar formularios, manipular el DOM y comunicarse con servidores sin recargar la página. Gracias a su versatilidad y compatibilidad con todos los navegadores modernos, así como a su uso en frameworks como React, Vue o Vue, JavaScript permite construir aplicaciones web dinámicas, rápidas y con una excelente experiencia de usuario.
 
 - **C\#**
 
 C\# (pronunciado "C sharp") es un lenguaje de programación moderno, orientado a objetos, desarrollado por Microsoft, ideal para crear aplicaciones de escritorio, web, móviles y videojuegos, especialmente dentro del ecosistema .NET. Es útil en proyectos de programación porque combina la potencia de lenguajes como C++ con una sintaxis más sencilla y segura, lo que permite desarrollar software robusto, escalable y de alto rendimiento. Además, cuenta con una amplia comunidad, soporte continuo, y herramientas integradas como Visual Studio, lo que facilita la depuración, el mantenimiento del código y el desarrollo colaborativo en equipos profesionales.
 
 - **TYPESCRIPT**
-Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
+Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Vue, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
 **Figura 3**  
 *Logo de TypeScript*  
 
@@ -2816,16 +2816,16 @@ Es un lenguaje de programación creado por Microsoft que está diseñado para fa
 
 
 *Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
-- **ANGULAR**
+- **Vue**
 Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
 **Figura 4**  
-*Logo de Angular*
+*Logo de Vue*
 
 <p align="center">
-  <img src="images/angular-logo.png" alt="PB" width="180">
+  <img src="images/vue_logo.png" alt="PB" width="180">
 </p>
 
-*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8) 
+*Nota.* Obtenido de: [https://i.imgur.com/scrcyJ3.png](https://i.imgur.com/scrcyJ3.png) 
 
 * **Software Deployment**  
   - **GitHub Pages:**
@@ -2921,7 +2921,7 @@ Esta configuración asegura un flujo de trabajo estructurado, con versionado cla
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
+En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Vue, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
 
 **HTML:**
 
@@ -2988,7 +2988,7 @@ Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeSc
 
 **TypeScript:**
 
-Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Vue Coding Style Guide"]( https://vuejs.org/style-guide/) para proyectos con Vue. Las convenciones incluyen:  
 **Nomenclatura**:
 
 * Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
@@ -3000,11 +3000,11 @@ Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/style
   * Usar tipos explícitos para parámetros y retornos de funciones.  
   * Evitar any salvo en casos excepcionales.
 
-  **Buenas prácticas** (específicas para Angular):
+  **Buenas prácticas** (específicas para Vue):
 
   * Usar sufijos para componentes (Component), servicios (Service), etc..  
-  * Organizar módulos Angular por funcionalidad (e.g., auth.module.ts).  
-  * Usar decoradores Angular de forma consistente (e.g., @Input, @Output).
+  * Organizar módulos Vue por funcionalidad (e.g., auth.module.ts).  
+  * Usar decoradores Vue de forma consistente (e.g., @Input, @Output).
 
 **Java:**
 
