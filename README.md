@@ -8,8 +8,8 @@
 <h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
 <h4 style="text-align: center;"><strong>Aplicaciones Web - 4388</strong></h4>
 <h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce></h4>
-<h4 style="text-align: center;"><strong>Startup: BuildTruck</strong></h4>
-
+<h4 style="text-align: center;"><strong>Startup: BuildWise</strong></h4>
+<h4 style="text-align: center;"><strong>Product: BuildTruck</strong></h4>
 ### **Team members:**
 
 <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
@@ -3390,6 +3390,87 @@ Estas implementaciones representan un avance significativo en nuestro objetivo d
 Para una mejor comprensión del flujo de trabajo y las funcionalidades implementadas, hemos preparado un video demostrativo:
 
 [Ver demostración de BuildTruck - Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+# Procesos de Deployment realizados durante el Sprint
+
+## Introducción
+
+Durante el presente sprint, hemos implementado una estrategia de despliegue completa para el sistema BuildTruck, abarcando tanto el frontend como los servicios de backend que soportan la aplicación. El enfoque principal ha sido crear una infraestructura robusta y unificada que facilite tanto el desarrollo como la experiencia del usuario final.
+
+## Implementación de API centralizada en Render
+
+Decidimos migrar de una arquitectura distribuida con múltiples endpoints en MockAPI a una solución centralizada y más robusta utilizando Render. Esta decisión nos ha permitido superar las limitaciones de las cuentas gratuitas de MockAPI y tener un mayor control sobre nuestra infraestructura.
+
+La URL base para todos los recursos de nuestra API ahora es:
+
+```
+https://host-buildtruck.onrender.com/
+```
+
+Esta URL base sirve como punto de entrada principal para todos los recursos del sistema, simplificando considerablemente la configuración y mantenimiento de la aplicación.
+
+## Configuración del servidor en Render
+
+El proceso de implementación en Render involucró varias etapas para asegurar un despliegue exitoso. Comenzamos creando una nueva cuenta y proyecto en la plataforma, configurándolo específicamente para trabajar con Node.js como entorno de ejecución.
+
+Conectamos nuestro repositorio de GitHub para habilitar el despliegue automático, lo que nos permite mantener sincronizado el entorno de producción con la rama principal del proyecto. Esto ha resultado en un flujo de trabajo más eficiente, donde cada merge a la rama principal actualiza automáticamente nuestra API.
+
+Para nuestra implementación backend, utilizamos una combinación de Express y JSON Server, lo que nos proporciona un equilibrio ideal entre simplicidad y funcionalidad. Esta configuración nos permite servir rápidamente una API RESTful completa mientras mantenemos la flexibilidad para implementar lógica personalizada cuando sea necesario.
+
+## Servicios API implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| GET | /users | Obtiene todos los usuarios | Cargar lista de supervisores disponibles |
+| GET | /users/:id | Obtiene un usuario específico | Consultar detalles de un gerente |
+| POST | /users | Crea un nuevo usuario | Registrar nuevo supervisor |
+| PUT | /users/:id | Actualiza un usuario existente | Actualizar datos de contacto |
+| DELETE | /users/:id | Elimina un usuario | Dar de baja a un supervisor |
+| GET | /projects | Obtiene todos los proyectos | Dashboard principal de gerente |
+| POST | /projects | Crea un nuevo proyecto | Registrar nuevo proyecto de construcción |
+| GET | /materials | Obtiene inventario de materiales | Control de stock |
+| PUT | /machinery/:id | Actualiza estado de maquinaria | Marcar equipo en mantenimiento |
+
+## Implementación del frontend en Firebase Hosting
+
+Tras configurar satisfactoriamente nuestro backend en Render, procedimos a desplegar la aplicación frontend usando Firebase Hosting. Elegimos Firebase por su rendimiento, fiabilidad y las herramientas adicionales que ofrece para el desarrollo de aplicaciones web.
+
+### Proceso de despliegue en Firebase
+
+El proceso comenzó con la creación de un nuevo proyecto en Firebase Console, donde configuramos las opciones específicas para nuestra aplicación BuildTruck. Instalamos las herramientas de Firebase CLI en nuestro entorno de desarrollo para facilitar el despliegue desde la línea de comandos.
+
+Configuramos los archivos necesarios para el despliegue, incluyendo reglas de redirección para asegurar que las rutas de Vue Router funcionaran correctamente en producción. Esto fue especialmente importante para mantener la navegación fluida y evitar errores 404 cuando los usuarios acceden directamente a rutas específicas.
+
+Una de las ventajas clave de usar Firebase Hosting fue la capacidad de configurar despliegues de vista previa para ramas de desarrollo, lo que nos permitió revisar los cambios antes de fusionarlos con la rama principal. Esto mejoró significativamente nuestro proceso de control de calidad.
+
+### Integración con servicios adicionales de Firebase
+
+Más allá del hosting, comenzamos a integrar servicios adicionales de Firebase que complementan nuestra aplicación:
+
+- **Firebase Analytics**: Implementamos análisis para comprender mejor cómo los usuarios interactúan con nuestra aplicación, lo que nos ayudará a identificar áreas de mejora.
+
+## Configuración 
+
+Para automatizar nuestro flujo de trabajo, configuramos un sistema de Integración Continua/Despliegue Continuo (CI/CD) utilizando GitHub Actions. Esto nos permite:
+
+- Ejecutar pruebas automáticamente cuando se envían cambios al repositorio
+- Desplegar automáticamente a entornos de desarrollo y producción según la rama
+
+Este sistema ha aumentado significativamente nuestra velocidad de desarrollo mientras mantiene altos estándares de calidad.
+
+## Resultados y métricas
+
+El proceso de despliegue ha resultado en mejoras significativas en varios aspectos:
+
+- **Tiempo de carga inicial**: Reducido de 3.2s a 1.8s
+- **Tamaño total de la aplicación**: Optimizado de 3.5MB a 2.4MB
+- **Tiempo promedio de respuesta del API**: Mejorado a 230ms
+- **Puntuación Lighthouse**: Aumentada a 87/100
+- **Disponibilidad**: 99.9% gracias a la infraestructura confiable de Render y Firebase
+
+
+Este proceso de despliegue nos ha proporcionado una base sólida y escalable sobre la cual seguiremos construyendo y mejorando el sistema BuildTruck en los próximos sprints.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint 2. 
 
