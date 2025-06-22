@@ -51,8 +51,8 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
-| TP1 | 15/05/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
-| TB2 | 21/06/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
+| TP1 | 15/05/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la segunda entrega, incorporamos la documentación correspondiente al Sprint 2 y realizamos actualizaciones en las conclusiones y anexos del informe de reporte. Asimismo, mejoramos la landing page y desarrollamos la primera versión del Frontend Web Applications. |
+| TB2 | 21/06/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En esta tercera entrega, en nuestro informe, incluimos la documentación del Sprint 3 realizado, realizamos Validation Interviews (diseño de entrevistas, registro de las mismas y evaluaciones basadas en heurísticas), además de producir el Video About-the-Product y actualizar las conclusiones, la bibliografía y los anexos. |
 
 # 
 <br>
@@ -64,7 +64,7 @@
 Elaboramos el informe de nuestro proyecto en un repositorio llamado “ProjectReport” en nuestra organización llamada “BuilTruck” porque ahí desarrollaremos los productos de nuestra aplicación web del mismo nombre.  
 Enlace del repositorio “ProjectReport”: [https://github.com/BuildTruck/ProjectReport](https://github.com/BuildTruck/ProjectReport)   
 
-**TB1:**  
+<ins>**TB1:**</ins>  
 Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
 **Figura 1**  
 *Insights de ProjectReports*  
@@ -74,22 +74,25 @@ Para poder lograr la elaboración grupal de este informe del proyecto, creamos p
 
 *Nota.* Elaboración propia. 
 
-**TP1:**  
-Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
+<ins>**TP1:**</ins>  
+Para la elaboración del informe del TP1, al igual que en la entrega anterior, comenzamos utilizando un documento de Google para monitorear los avances del Sprint 2. Posteriormente, transformamos el contenido realizado al formato markdown y lo subimos como commits al repositorio del project report en GitHub. A continuación, presentaremos las analíticas de participación:  
 **Figura 2**  
 *Insights de ProjectReports 2*  
 <p align="center">
-  <img src="images/insightsReport2.png" alt="PI5" width="1000">
+  <img src="images/insightsReport2.PNG" alt="PI5" width="1000">
 </p> 
 
-**TB2:**  
-Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
+*Nota.* Elaboración propia.
+
+<ins>**TB2:**</ins>  
+Para la documentación de esta entrega, hemos realizado los commits de nuestras respectivas partes en el repositorio "ProjectReport". A continuación, presentamos los Insights del repositorio mencionado para verificar la participación de cada miembro del equipo.  
 **Figura 3**  
 *Insights de ProjectReports 3*  
 <p align="center">
-  <img src="images/insightsReport3.png" alt="PI5" width="1000">
+  <img src="images/insightsReport3.PNG" alt="PI5" width="1000">
 </p> 
 
+*Nota.* Elaboración propia.
 <hr>
 
 # **Tabla de Contenidos**
@@ -3576,7 +3579,7 @@ Conectamos nuestro repositorio de GitHub para habilitar el despliegue automátic
 
 Para nuestra implementación backend, utilizamos una combinación de Express y JSON Server, lo que nos proporciona un equilibrio ideal entre simplicidad y funcionalidad. Esta configuración nos permite servir rápidamente una API RESTful completa mientras mantenemos la flexibilidad para implementar lógica personalizada cuando sea necesario.
 
-## Servicios API implementados
+**Servicios API implementados**
 
 | Método HTTP | Endpoint | Descripción | Ejemplo de uso |
 |-------------|----------|-------------|----------------|
@@ -3590,11 +3593,11 @@ Para nuestra implementación backend, utilizamos una combinación de Express y J
 | GET | /materials | Obtiene inventario de materiales | Control de stock |
 | PUT | /machinery/:id | Actualiza estado de maquinaria | Marcar equipo en mantenimiento |
 
-## Implementación del frontend en Firebase Hosting
+**Implementación del frontend en Firebase Hosting**
 
 Tras configurar satisfactoriamente nuestro backend en Render, procedimos a desplegar la aplicación frontend usando Firebase Hosting. Elegimos Firebase por su rendimiento, fiabilidad y las herramientas adicionales que ofrece para el desarrollo de aplicaciones web.
 
-### Proceso de despliegue en Firebase
+**Proceso de despliegue en Firebase**
 
 El proceso comenzó con la creación de un nuevo proyecto en Firebase Console, donde configuramos las opciones específicas para nuestra aplicación BuildTruck. Instalamos las herramientas de Firebase CLI en nuestro entorno de desarrollo para facilitar el despliegue desde la línea de comandos.
 
@@ -3602,13 +3605,13 @@ Configuramos los archivos necesarios para el despliegue, incluyendo reglas de re
 
 Una de las ventajas clave de usar Firebase Hosting fue la capacidad de configurar despliegues de vista previa para ramas de desarrollo, lo que nos permitió revisar los cambios antes de fusionarlos con la rama principal. Esto mejoró significativamente nuestro proceso de control de calidad.
 
-### Integración con servicios adicionales de Firebase
+**Integración con servicios adicionales de Firebase**
 
 Más allá del hosting, comenzamos a integrar servicios adicionales de Firebase que complementan nuestra aplicación:
 
 - **Firebase Analytics**: Implementamos análisis para comprender mejor cómo los usuarios interactúan con nuestra aplicación, lo que nos ayudará a identificar áreas de mejora.
 
-## Configuración 
+**Configuración**
 
 Para automatizar nuestro flujo de trabajo, configuramos un sistema de Integración Continua/Despliegue Continuo (CI/CD) utilizando GitHub Actions. Esto nos permite:
 
@@ -3617,7 +3620,7 @@ Para automatizar nuestro flujo de trabajo, configuramos un sistema de Integraci�
 
 Este sistema ha aumentado significativamente nuestra velocidad de desarrollo mientras mantiene altos estándares de calidad.
 
-## Resultados y métricas
+**Resultados y métricas**
 
 El proceso de despliegue ha resultado en mejoras significativas en varios aspectos:
 
@@ -3640,23 +3643,111 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 
 #### **5.2.3.1. Sprint Planning 3**
 
+
+
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 
-#### **5.2.3.3. Sprint Backlog 3**
+| Team Member (Last Name, First Name) | GitHub Username | DocumentationLeader (L) / Collaborator (C) | App Web Leader (L) / Collaborator (C) | BackEnd Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Bellido Salas, Raúl | raulbellidosalas | C | C | C |
+| Gómez Flores, Daniela Araceli | DanieGF1 | C | C | C |
+| Gutiérrez Condo, Maylhy Olinda | Ly009463 | C | L | C |
+| Luyo Correa, Sandra Paula | Paulu27 | L | C | C |
+| Roca Tineo, Steven Mathew | matthewsrt29 | C | C | L |
 
-#### **5.2.3.4. Development Evidence for Sprint Review**
+#### **5.2.3.3. Sprint Backlog 3**  
 
-#### **5.2.3.5. Execution Evidence for Sprint Review**
+#### **5.2.3.4. Development Evidence for Sprint Review**  
 
-#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+| Repository  | Branch | Commit Id | Commit | Message Body |
+| :---- | :---- | :---- | :---- | ----- |
+| matthewsrt29/BuilTruck/LandingPage | feature/develop | 9351010 | feat: personnel api | \- |
+| Paulu27/BuilTruck/LandingPage | feature/develop | b6ccc47 | feat: Add Configuration backend | \- |
+| Ly009463/BuilTruck/LandingPage | feature/develop | d7e2524 | feat: Create Materials bounded Context | \- |
+| raulbellidosalas/BuilTruck/LandingPage | feature/develop | 03f3d3d  | feat: Added machineries endpoint | \- |
+| DanieGF1/BuilTruck/LandingPage | feature/develop | 9f99313  | feat: feature-incidents | \- |
+
+#### **5.2.3.5. Execution Evidence for Sprint Review**  
+
+
+
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review**  
+
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
-#### **5.2.3.8. Team Collaboration Insights during Sprint**
+#### **5.2.3.8. Team Collaboration Insights during Sprint**  
+
+Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue BuildTruck/BackendWebApps.
+
+Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://github.com/BuildTruck/BackendWebApps)
+
+**Figura**  
+*Team Collaboration Insights durante Sprint 3*  
+<p align="center">
+  <img src="images/CollaborationInsights3.PNG" alt="PB" width="850">
+</p>
 
 ## **5.3. Validation Interviews.**
 
 ### ***5.3.1. Diseño de Entrevistas.***
+
+<ins>**Diseño de entrevista para segmento objetivo \#1: Gerente de obra**<ins>  
+
+**Inicio**
+
+* ¿Podrías contarme brevemente cómo gestionas actualmente tus obras?  
+* ¿Qué herramientas digitales estás usando actualmente?
+
+**Exploración del Landing Page**
+
+* ¿Qué entiendes que hace esta plataforma?  
+* ¿Te interesa probarla? ¿Por qué sí o no?  
+* ¿Qué cambiarías del texto o diseño?
+
+**Interacción con el prototipo**
+
+* ¿Esta vista del inventario te parece útil?  
+* ¿Esto reemplazaría alguna herramienta que usas hoy?  
+* ¿Qué mejorarías del flujo de generación de reportes?
+
+**Cierre**
+
+* ¿Te imaginas usando esta aplicación día a día para observar lo que pasa en todas las obras de tu empresa?  
+* ¿Qué obstáculos ves para implementar una plataforma como esta?  
+* ¿Le recomendarías esta app a otro colega?  
+    
+<br>
+
+<ins>**Diseño de entrevista para segmento objetivo \#2: Supervisor de obra**</ins>  
+
+**Inicio**
+
+* ¿Cómo controlas actualmente al personal de tu obra?  
+* ¿Cómo haces solicitudes de materiales o reportes?  
+* ¿Cómo registras el inventario?
+
+**Exploración del Landing Page**
+
+* ¿Qué te transmite esta plataforma?  
+* ¿Cuál entendiste que es la funcionalidad y objetivo de BuildTruck?  
+* ¿Crees que está pensada también para ti?  
+* ¿Qué cambiarías en esta página?
+
+**Interacción con el prototipo**
+
+* ¿Esto te ahorraría trabajo?  
+* ¿Te parece fácil registrar la asistencia?  
+* ¿Los formularios de inserción de datos te parecen claros y que piden la suficiente información?  
+* ¿Subir fotos del avance es algo que haces hoy? ¿Cómo?
+
+**Cierre**
+
+* ¿Qué es lo que más te gustó?  
+* ¿Qué agregarías?  
+* ¿Usarías esto desde tu celular, tablet o laptop cada día?
+
+
 
 ### ***5.3.2. Registro de Entrevistas.***
 
