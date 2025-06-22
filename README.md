@@ -3686,6 +3686,14 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 #### **5.2.3.5. Execution Evidence for Sprint Review**  
 
 
+**Figura**
+*Execution evidence*
+<p align="center">
+<img src="images/deploy1.1Sprint3.png" alt="PB" width="850">
+</p>
+
+**Sprint 3 Navigation Demo:** [BuildTruck Navigation System](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+> Demonstración completa del sistema de navegación y funcionalidades implementadas en BuildTruck Backend
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**  
 
