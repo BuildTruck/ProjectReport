@@ -3644,6 +3644,22 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 #### **5.2.3.1. Sprint Planning 3**
 
 
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:**  En el sprint decidimos reunirnos para verificar el progreso de cada uno de los participantes y finalizar de manera efectiva el entregable de esta ocasión |  |
+| Date | 2025-06-19 |
+| Time | 21:00 PM |
+| Location | Discord Call |
+| Prepared By | Roca Tineo, Steven Mathew |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew |
+| Sprint n \- Review Summary | Revisamos nuestro avance y validamos el funcionamiento de los endpoints. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos los puntos a terminar en el documento. |
+| Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner y al tutor sobre el avance Hacer reuniones interdiarias para priorizar el avance  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Our focus is on **implementing the core functionalities of the web service and user registration module**. We believe it delivers **a clear way to interact with the back end service** to **construction SMEs and administrative staff**, This will be confirmed when **users are able to successfully access the platform, complete the registration process, and navigate to use and interact with the web service through our swagger deployed page** |
+| Sprint n Velocity | 3 |
+| Sum of Story Points | 7 |
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 
@@ -3672,6 +3688,68 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**  
+
+
+Durante el Sprint 3, el enfoque se centró en la implementación del web service para la aplicación web de BuildTruck. A lo largo de este Sprint, integramos con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
+
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de BuildTruck y sus correspondientes tablas en la base de datos:
+
+1. **Gestión de Usuarios y Roles (Users and Roles)**:  
+* **Tabla Users**  
+* **Operaciones CRUD**  
+  * GET: Obtener todos los usuarios o un usuario específico.  
+  * POST: Crear un nuevo usuario o subir una foto de perfil.  
+    PUT: Actualizar un usuario existente o Actualizar la contraseña de un usuario.  
+  * DELETE: Eliminar un usuario o borrar la foto de perfil de un usuario.  
+* **Descripción**: Gestión de usuarios y sus roles dentro del sistema, permitiendo la creación, actualización y eliminación de usuarios.
+
+2. **Gestión de Proyectos (Projects)**:  
+* **Tablas Projects**  
+* **Operaciones CRUD**:  
+  * GET: Obtener todos los proyectos asignados a un manager.  
+  * POST: Crear un nuevo proyecto.  
+  * PUT: Actualizar un proyecto existente.  
+  * DELETE: Eliminar un proyecto.  
+* **Descripción**: Permite gestionar los proyectos de construcción, registrar nuevos proyectos y actualizar su información.
+
+3. **Gestión de Trabajadores (Personnel)**:  
+* **Tabla Personnel**   
+* **Operaciones CRUD**:  
+  * GET: Obtener trabajadores.  
+  * POST: Crear un nuevo trabajador.  
+  * PUT: Actualizar los datos de los trabajadores.  
+  * DELETE: Eliminar trabajador por ID.  
+* **Descripción**: Gestión de trabajadores asignados a de los proyectos.
+
+4. **Gestión de Materiales (Materials)**:  
+* **Tabla Materials**  
+* **Operaciones CRUD**:  
+  * GET: Consultar los materiales disponibles o entradas/salidas de materiales.  
+  * POST: Registrar la entrada de materiales.  
+  * PUT: Actualizar la cantidad de materiales.  
+  * DELETE: Eliminar registros de materiales.  
+* **Descripción**: Registro y seguimiento de materiales en inventario, incluyendo las fechas de entrada y salida.
+
+
+5. **Gestión de Maquinaria (Machinery)**:  
+* **Tabla Machinery**  
+* **Operaciones CRUD**:  
+  * GET: Obtener la lista de maquinaria u obtener la maquinaria activa por projecto.  
+  * POST: Registrar nueva maquinaria.  
+  * PUT: Actualizar el estado de la maquinaria.  
+  * DELETE: Eliminar maquinaria.
+
+* **Descripción**: Gestión de la maquinaria asignada a los proyectos, permitiendo registrar, actualizar y eliminar maquinaria.
+
+6. **Gestión de Incidentes (Incidents)**:  
+* **Tabla Incidents**  
+* **Operaciones CRUD**:  
+  * GET: Obtener los detalles de los incidentes registrados.  
+  * POST: Registrar un nuevo incidente.  
+  * PUT: Actualizar un incidente.  
+  * DELETE: Eliminar un incidente.
+
+* **Descripción**: Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
 
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
