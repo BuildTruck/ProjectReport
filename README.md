@@ -4240,7 +4240,7 @@ TABLA RESUMEN:
 **Figura**
 *Video About-the-product*
 <p align="center">
-<img src="img/abouttheproduct.jpg">
+<img src="images/abouttheproduct.jpg">
 </p>
 
 *Nota.* Elaboración propia. [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EeDqzFNFfHFMgHMUMIsZoo8Bk8AoZVVMAZnApF3LC1V-3g?e=eFWtmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EeDqzFNFfHFMgHMUMIsZoo8Bk8AoZVVMAZnApF3LC1V-3g?e=eFWtmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
@@ -4272,7 +4272,7 @@ Este esfuerzo conjunto no solo dio como resultado una herramienta funcional para
 **Figura**  
 *Video About-the-team*
 <p align="center">
-<img src="img/About-the-team.png">
+<img src="images/About-the-team.png">
 </p>
 
 *Nota.* Elaboración propia. [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
