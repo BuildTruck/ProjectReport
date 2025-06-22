@@ -4094,7 +4094,128 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 
 ### ***5.3.2. Registro de Entrevistas.***
 
+## *** Entrevistado #1: Victor Bellido ***
+Figura
+Imagen del usuario número 1 entrevistado
+
+raulsupervisor.JPG
+
+El supervisor actualmente controla el personal con tareos físicos y gestiona materiales mediante hojas de requerimiento manuales. Valora que la plataforma clasifique claramente los recursos (materiales, equipos, personal), pero propone mejoras clave como subclasificaciones más detalladas (equipo pesado/liviano, personal técnico vs. operario) e integrar herramientas de planificación temporal. Destaca que la solución optimizaría el control de costos en tiempo real y la usaría diariamente en dispositivos móviles, aunque su adopción total dependería de incorporar sus sugerencias para una gestión más estratégica y especializada.
+
+## *** Entrevistada #2: Denisse Vargas ***
+Figura
+Imagen del usuario número 2 entrevistada
+
+danielasupervisor.JPG
+
+Denisse controla al personal y recursos con métodos manuales (Excel, WhatsApp y fichas físicas), lo cual considera lento e impreciso. Al usar BuildTruck, siente que está diseñada para su día a día en obra, valorando su enfoque práctico. Le parece útil para registrar asistencia, subir fotos, gestionar inventario y ver reportes desde el celular. Resaltó la importancia de tener accesos rápidos, formularios simples y alertas. Para ella, la principal ventaja es la centralización de la información, que le ahorraría tiempo y mejoraría el orden del proyecto. Está dispuesta a usar la plataforma regularmente desde su celular si se mantiene clara y funcional.
+
+## *** Entrevistada #3: Milagros Arellano ***
+Figura
+Imagen del usuario número 3 entrevistada
+
+danielasupervisro2.JPG
+
+Milagros actualmente gestiona la obra con herramientas manuales como listas impresas, llamadas y notas escritas, lo que genera demoras y desorganización. Encuentra en BuildTruck una solución práctica y centrada en el trabajo real de campo. Destaca que la plataforma transmite orden, facilita el control del día a día y permite gestionar sin depender de una oficina. Sugiere mejoras como paneles rápidos, recordatorios, y formularios que puedan repetir datos comunes. Considera que usarla desde el celular haría su trabajo más ágil y eficiente. Ve valor en tener todo digitalizado en un solo lugar, especialmente para evitar errores y pérdidas de información.
+
+### *** Segmento objetivo #2: Gerentes de obra ***
+
+## *** Entrevistado #4: Naim Napuri ***
+Figura
+Imagen del usuario número 4 entrevistado
+
+mayñlhygerente.JPG 
+
+Naim, gerente de obra, explicó que actualmente gestiona sus proyectos mediante reportes enviados por WhatsApp o correo, y controla el inventario y personal en hojas de Excel, lo que vuelve el proceso lento y propenso a errores. Indicó que usa herramientas como Google Drive, Excel y ocasionalmente Trello o Google Forms. Al explorar la plataforma BuildTruck, comprendió que centraliza la gestión de obras, y mostró interés en usarla ya que ayudaría a organizar todo en un solo lugar, ahorrando tiempo y evitando la duplicación de datos. Opinó que el diseño es atractivo, pero sugirió mejorar algunos íconos e imágenes borrosas. Consideró muy útil la vista del inventario y afirmó que BuildTruck podría reemplazar las herramientas actuales. Reconoció que el mayor reto sería la adaptación del equipo, pero aun así recomendaría la plataforma a otros colegas por su capacidad de ofrecer control, visibilidad y eficiencia en tiempo real.
+
+## *** Entrevistada #5: Lourdes Salas ***
+Figura
+Imagen del usuario número 5 entrevistada
+
+raulgerente.JPG
+
+La gerente gestiona sus obras mediante expedientes técnicos y utiliza Excel como herramienta principal. Considera la plataforma evaluada como eficiente y oportuna, destacando especialmente su módulo de inventario por mostrar información completa sobre materiales, cantidades y costos. Aunque no sugiere cambios inmediatos en el diseño, muestra interés en adoptar la herramienta como complemento a sus procesos actuales, reconociendo su potencial para modernizar la gestión. Su principal motivación es acceder a información centralizada y recomendaría la plataforma a colegas para explorar nuevas soluciones tecnológicas en el sector.
+
+## *** Entrevistado #6: Antonio Enciso ***
+Figura
+Imagen del usuario número 6 entrevistado
+
+mathewgerente.JPG
+
+El gerente de obra entrevistado comentó que actualmente controla al personal mediante listas en papel y se comunica por WhatsApp. Las solicitudes de materiales y reportes las hace físicamente o por llamadas, y el inventario lo registra manualmente en cuadernos o plantillas de Excel. Al explorar la landing page de BuildTruck, percibió la plataforma como una herramienta moderna para organizar mejor los registros diarios, entendiendo que su objetivo es centralizar la gestión de proyectos, personal, inventario y reportes. Le pareció que sí está pensada para su rol, especialmente si se mejora el registro de avances o asistencia. Sugirió hacer más visible la opción de cambiar el idioma. Al interactuar con el prototipo, destacó la facilidad para registrar asistencia y el ahorro de tiempo al usar la app desde una PC o celular. Consideró claros los formularios, aunque recomendó incluir ejemplos o ayudas visuales. Valoró la centralización por proyectos y propuso agregar alertas o recordatorios automáticos. Señaló que usaría la plataforma principalmente desde su celular.
+
+
 ### ***5.3.3. Evaluaciones según heurísticas.***
+
+### *** UX Heuristics & Principles Evaluation ***
+
+## Usability – Inclusive Design – Information Architecture
+
+## CARRERA : Ingeniería de Software
+## CURSO : Aplicaciones Web
+## SECCIÓN: 4388
+## PROFESORES:
+
+Mori Paiva, Hugo Allan
+Reupo-Musayón, Naldo
+Sánchez Ponce, Alex Humberto
+Sánchez Seña, Alberto Wilmer
+Velásquez Núñez, Ángel Augusto
+Villafuerte Bazán, Óscar Iván
+
+## CLIENTE(S) : 
+
+Victor Bellido
+Denisse Vargas
+Naim Napuri
+Milagros Arellano
+Antonio Enciso
+Lourdes Salas
+
+## SITE o APP A EVALUAR: BuildTruck
+
+## TAREAS A EVALUAR: 
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1	Control y registro de asistencia del personal.
+2	Registro y visualización del inventario (stock actual, entradas y salidas).
+3	Generación y visualización de reportes por obra.
+4	Solicitudes de materiales a almacén/residente.
+5	Subida de fotos para avances de obra.
+6	Acceso móvil desde el celular o laptop.
+7	Exploración y comprensión de la landing page.
+8	Navegación entre pestañas y módulos.
+9	Claridad y utilidad de los formularios.
+10	Visualización general por proyecto.
+11	Alertas o recordatorios automáticos.
+12	Clasificación y subclasificación de recursos (materiales/personas/maquinaria).
+13	Planificación temporal de recursos (cronograma, calendario de uso).
+14	Cambiar el idioma de la plataforma.
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+| Nivel | Descripción |
+|----|----------|
+|1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+|3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+TABLA RESUMEN:
+| # | Problema |Escala de severidad | Heurística/Principio violada(o) |
+|----|----------|-----------|---------------------|  
+| 1 | Registro de asistencia requiere demasiados pasos (ej.: no permite escanear QR o marcar múltiples personas a la vez).| 3 | Flexibilidad y eficiencia (Nielsen #7)|
+| 2 | Inventario no muestra stock mínimo/alertas automáticas (usuarios no notan faltantes hasta revisar manualmente).| 3 | Visibilidad del estado del sistema (Nielsen #1)|
+| 3 |Reportes no se pueden filtrar por fechas/rubros específicos (ej.: solo generan PDFs genéricos).| 2 | Reconocimiento antes que recuerdo (Nielsen #6)|
+| 4 | Formularios de solicitud de materiales no guardan datos recurrentes (ej.: mismos materiales por obra).| 2 | Prevención de errores (Nielsen #5)|
+| 5 | Subida de fotos no permite etiquetar avances (mezcla imágenes sin contexto).| 2 | Match with real world (Nielsen #2)|
+| 6 | Navegación móvil lenta entre módulos (pestañas tardan en cargar).| 3 | Eficiencia (Usabilidad móvil)|
+| 7 | Landing page no explica funcionalidades clave (ej.: cómo crear un reporte rápido).| 2 | Ayuda y documentación (Nielsen #10)|
+
+
 
 ## **5.4. Video About-the-Product.**
 
