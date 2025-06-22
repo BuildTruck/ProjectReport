@@ -4235,6 +4235,24 @@ Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuit
 
 ## **Video About the team**
 
+El video "About-the-Team" resalta el esfuerzo colectivo y los logros obtenidos por el equipo detrás del proyecto BuildTruck, desarrollado en el marco del curso de Aplicaciones Web. A lo largo del proceso, el equipo colaboró de manera efectiva utilizando reuniones regulares y herramientas como GitHub, Discord y WhatsApp para coordinar tareas, superar desafíos y avanzar en la creación de una plataforma funcional. Desde la elaboración de wireframes, la investigación de segmentos objetivos, la realización de entrevistas y el diseño de prototipos hasta el desarrollo de frontend, backend y la documentación de sprints, cada miembro aportó su experiencia, enfrentando retos como la gestión del tiempo y la integración de funcionalidades. Este trabajo no solo resultó en un producto viable, sino que también fortaleció habilidades técnicas y de organización grupal, preparándolos para futuros proyectos. A continuación, se presentan las contribuciones individuales que hicieron posible este éxito.
+
+* **Raúl Bellido Salas** (Código U20231931), estudiante de Ingeniería de Software, diseñó los wireframes de BuildTruck, investigó segmentos objetivos (gerentes y supervisores) y realizó entrevistas para las entregas TB1 y actual, incluyendo la validación de prototipos. Desarrolló endpoints para frontend y backend, destacando una organización moderadamente efectiva, aunque señaló la necesidad de mejorar el control del tiempo y apoyar más en la corrección de errores y soluciones.  
+* **Daniela Araceli Gómez Flores** (Código U202311184), del quinto ciclo de Ingeniería de Software, lideró la estructura, diseño y arquitectura basada en Domain-Driven Design en TB1, implementó la sección de incidentes y estadísticas (con un gráfico de asistencia) en la Frontend Web Application, y creó diagramas C4. Promovió una colaboración inclusiva, aunque reconoció que le faltó involucrarse más en el backend general.  
+* **Maylhy Olinda Gutiérrez Condo** (Código U20231112), de Ingeniería de Software, desarrolló el bounded context del módulo de materiales, incluyendo tablas de entrada y uso, colaboró en correcciones de heurísticas y sprints, y apoyó al equipo cumpliendo todas sus responsabilidades, destacando su aprendizaje en backend, frontend y trabajo en equipo.  
+* **Sandra Paula Luyo Correa** (Código U202314513), del quinto ciclo de Ingeniería de Software, realizó el To-Be Scenario Mapping, prototipado, gestión de configuración y código fuente en TB1, corrigió TB1, documentó Sprint 2, y desarrolló el backend de configuraciones en TB2. Valoró la colaboración constante y aprendió sobre diseño y gestión de proyectos.  
+* **Steven Mathew Roca Tineo** (Código U202311361), del quinto ciclo de Ingeniería de Software, elaboró historias de usuario, programó partes de la landing page (hero section, footer, cards) y desarrolló frontend (login, autenticación, vista de admin, creación de proyectos con API de mapas, layouts para manager, supplier y admin). Destacó la buena comunicación y su aprendizaje en Vue y C\# para futuros cursos.
+
+Este esfuerzo conjunto no solo dio como resultado una herramienta funcional para BuildTruck, sino que también enriqueció las competencias del equipo en desarrollo web, metodologías ágiles y colaboración, preparándolos para desafíos académicos y profesionales futuros.
+
+**Figura**  
+*Video About-the-team*
+<p align="center">
+<img src="img/About-the-team.png">
+</p>
+
+*Nota.* Elaboración propia. [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 # **Bibliografía**
 
 BID. (2022). *Transformación digital en sectores tradicionales: desafíos y oportunidades*. [https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf](https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf) 
@@ -4287,6 +4305,12 @@ W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www
 
 # **Anexos**
 
-Link de video de exposición:  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361\_upc\_edu\_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+Anexo A. Link de video de exposición:  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ERlCQ2h8UWxJrzgn5IzTlIYBGuySU1eyCCajJrt7Tv0yWQ?e=4Ecz4O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ERlCQ2h8UWxJrzgn5IzTlIYBGuySU1eyCCajJrt7Tv0yWQ?e=4Ecz4O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Anexo B. Link de About-the-team:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Anexo C. Video About-the-product:
+[]()
 
