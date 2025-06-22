@@ -3673,6 +3673,42 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 #### **5.2.3.3. Sprint Backlog 3**  
 
+
+
+| Sprint \# | Sprint 3 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US17 | Visualizar lista de personal en obra | T1 | Crear tabla para visualizar personal por obra | Tabla con columnas: nombre, DNI, rol, estado | 2 | Raul | Done |
+|  |  | T2 | Hacer el endpoint del  backend (GET /api/personnel?projectId=) | Obtener personal filtrado por obra desde el backend | 2 | Paula | Done |
+|  |  | T3 | Estilizar tabla para vista responsiva | Formato responsive con scroll horizontal en móviles | 1 | Paula | Done |
+|  |  | T4 | Implementar botón “Descargar lista” (PDF/Excel) | Conexión con endpoint de exportación de personal | 2 | Mathew | Done |
+| US18 | Registrar nuevo personal | T1 | Crear botón “Registrar personal” | Visible para supervisores dentro del módulo	 | 1 | Mathew | Done |
+|  |  | T2 | Diseñar formulario de registro | Campos: nombre, ingreso, DNI, teléfono, rol, correo	 | 2 | Daniela | Done |
+|  |  | T3 | Validar campos obligatorios	 | Validación básica en frontend	 | 1 | Daniela | InProcess |
+|  |  | T4 | Enviar datos al backend (POST /api/personnel)	 | Conexión al API y visualización de nuevo trabajador	 | 2 | Mathew | Done |
+|  |  | T5 | Notificar y actualizar tabla	 | Mostrar mensaje de éxito y nueva fila	 | 1 | Mathew | InProcess |
+| US19 | Ver detalle de un trabajador | T1 | Navegar a vista de detalle al hacer clic	 | Acceder desde fila de la tabla de personal	 | 1 | Mathew | Done |
+|  |  | T2 | Mostrar información completa del trabajador	 | Vista solo lectura con datos completos y fotografía	 | 2 | Maylhy | Done |
+|  |  | T3 | Añadir botón “Descargar ficha”	 | Botón visible solo para gerentes	 | 1 | Maylhy | Done |
+|  |  | T4 | Generar ficha en PDF	 | Integración con exportación en PDF	 | 2 | Mathew | In process |
+| US20  | Editar información del personal | T1 | Habilitar modo edición desde vista detalle	 | Solo para supervisores	 | 1 | Raul | Done |
+|  |  | T2 | Habilitar campos editables	 | Inputs para editar datos básicos	 | 2 | Paula | Done |
+|  |  | T3 | Validar campos antes de enviar	 | Validación de correo, DNI, nombre	 | 1 | Maylhy | Done |
+|  |  | T4 | Confirmar y mostrar mensaje de éxito	 | Notificación de guardado exitoso	 | 1 | Paula | Done |
+| US31 | Eliminar una imagen documentada | T1 | Implementar botón “Eliminar imagen” | Mostrar opción en galería para supervisores	 | 1 | Raul | Done |
+|  |  | T2 | 	Mostrar alerta de confirmación | Modal con opción de confirmar/cancelar	 | 1 | Maylhy | Done |
+|  |  | T3 | 	Realizar el backend para eliminar imagen (DELETE /api/v1/users/{id}/profile-image o ruta específica) | Eliminar registro e imagen de Cloudinary	 | 2 | Mathew | Done |
+|  |  | T4 | Actualizar galería tras eliminación | Refrescar lista sin recargar vista completa	 | 1 | Maylhy | Done |
+| US01  | Visualizar lista de obras asignadas | T1 | Endpoint GET de obras para gerente | Implementar /api/v1/projects/by-manager/{id} para retornar proyectos por gerente autenticado. | 2 | Daniela | Done |
+| US02  | Registrar nueva obra | T1 | Endpoint POST para crear obra	 | Implementar /api/v1/projects/create para registrar nueva obra.	 | 2 | Raul | Done |
+| US05 | Visualizar lista de materiales por obra | T1 | 	Endpoint GET de materiales por obra | 	Implementar /api/materials/project/{projectId} para devolver materiales asociados. | 2 | Paula | Done |
+| US06 | Ver detalle de material | T1 | Endpoint GET para obtener detalle de material	 | Implementar /api/materials/{id} (confirmar si usaste este endpoint o uno combinado).	 | 2 | Maylhy | Done |
+| US08  | Editar material | T1 | Endpoint PUT para editar material	 | Implementar lógica en API para actualizar un material existente.	 | 2 | Maylhy | Done |
+| US09 | Registrar uso de materiales | T1 | Endpoint POST para registrar uso de material | Implementar /api/material-usages y lógica para descontar stock. | 2 | Maylhy | Done |
+
+
+
 #### **5.2.3.4. Development Evidence for Sprint Review**  
 
 | Repository  | Branch | Commit Id | Commit | Message Body |
