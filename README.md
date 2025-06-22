@@ -1,18 +1,17 @@
-<h1 style="text-align: center;"><strong>Informe del Trabajo Final</strong></h1>
-<h3 style="text-align: center;"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
+<h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
+<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
 
-<div style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
-</div>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
 
-<h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
-<h4 style="text-align: center;"><strong>Aplicaciones Web - 4388</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce></h4>
-<h4 style="text-align: center;"><strong>Startup: BuildWise</strong></h4>
-<h4 style="text-align: center;"><strong>Product: BuildTruck</strong></h4>
-### **Team members:**
+<h4 align="center"><strong>Ingeniería de Software</strong></h4>
+<h4 align="center"><strong>Aplicaciones Web - 4388</strong></h4>
+<h4 align="center"><strong>Docente: Alex Humberto Sánchez Ponce</h4>
+<h4 align="center"><strong>Startup: BuildWise</strong></h4>
+<h4 align="center">Product: BuildTruck</strong></h4>
 
-<table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+<p align="center"><strong>Team members:</strong></p>
+
+<table align="center"; style="width: 100%; border-collapse: collapse; margin: 0 auto;">
   <tr>
     <th style="border: 1px solid black; padding: 8px; text-align: center;">Nombre</th>
     <th style="border: 1px solid black; padding: 8px; text-align: center;">Código</th>
@@ -41,23 +40,30 @@
   </tr>
 </table>
 
-<h3 style="text-align: center;"><strong>Ciclo 2025-01</strong></h3>
+<h3 align="center"><strong>Ciclo 2025-01</strong></h3>
 
 <hr>
 
-## Registro de Versiones del Informe
-# 
+# **Registro de Versiones del Informe**
+
+#
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | 27/04/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
+| TP1 | 15/05/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
+| TB2 | 21/06/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
 
 # 
-<hr>
+<br>
 
-## Project Report Collaboration Insights  
-Elaboramos el informe de nuestro proyecto en un repositorio llamado “ProjectReport” en nuestra organización llamada “BuilTrucuck” porque ahí desarrollaremos los productos de nuestra aplicación web del mismo nombre.  
+
+# **Project Report Collaboration Insights**
+
+
+Elaboramos el informe de nuestro proyecto en un repositorio llamado “ProjectReport” en nuestra organización llamada “BuilTruck” porque ahí desarrollaremos los productos de nuestra aplicación web del mismo nombre.  
 Enlace del repositorio “ProjectReport”: [https://github.com/BuildTruck/ProjectReport](https://github.com/BuildTruck/ProjectReport)   
+
 **TB1:**  
 Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
 **Figura 1**  
@@ -68,110 +74,195 @@ Para poder lograr la elaboración grupal de este informe del proyecto, creamos p
 
 *Nota.* Elaboración propia. 
 
+**TP1:**  
+Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
+**Figura 2**  
+*Insights de ProjectReports 2*  
+<p align="center">
+  <img src="images/insightsReport2.png" alt="PI5" width="1000">
+</p> 
+
+**TB2:**  
+Para poder lograr la elaboración grupal de este informe del proyecto, creamos primero un documento en google y posteriormente agregamos las partes en GitHub en formato markdown. A continuación, se mostrará una imagen de los insights de los commits realizados por cada miembro en dicho repositorio.  
+**Figura 3**  
+*Insights de ProjectReports 3*  
+<p align="center">
+  <img src="images/insightsReport3.png" alt="PI5" width="1000">
+</p> 
+
 <hr>
 
-## Tabla de Contenidos
+# **Tabla de Contenidos**
 
-<details>
-    <summary>Capítulo I: Introducción </summary>    
-        <ul>
-            <li><a href="#11-Startup-Profile">1.1. Startup Profile</a></li>
-            <li><a href="#111-Descripción-de-la-Startup">1.1.1. Descripción de la Startup</a></li>
-            <li><a href="#112-Perfiles-de-Integrantes-del-Equipo">1.1.2. Perfiles de Integrantes del Equipo</a></li>
-            <li><a href="#12-Solution-Profile">1.2. Solution Profile</a></li>
-            <li><a href="#121-Antecedentes-y-Problemática">1.2.1. Antecedentes y Problemática</a></li>
-            <li><a href="#122-Lean-UX-Process">1.2.2. Lean UX Process</a></li>
-            <li><a href="#1221-Lean-UX-Problem-Statements">1.2.2.1. Lean UX Problem Statements</a></li>
-            <li><a href="#1222-Lean-UX-Assumptions">1.2.2.2. Lean UX Assumptions</a></li>
-            <li><a href="#1223-Lean-UX-Hypothesis-Statements">1.2.2.3. Lean UX Hypothesis Statements</a></li>
-            <li><a href="#1224-Lean-UX-Canvas">1.2.2.4. Lean UX Canvas</a></li>
-            <li><a href="#13-Segmentos-Objetivos">1.3. Segmentos Objetivos</a></li>
+<a href="#registro-de-versiones-del-informe">Registro de Versiones del Informe</a>
+
+<a href="#project-report-collaboration-insights">Project Report Collaboration Insights</a>
+
+<a href="#tabla-de-contenidos">Tabla de Contenidos</a>
+
+<a href="#student-outcome">Student Outcome</a>
+
+<a href="#capítulo-i-introducción">Capítulo I: Introducción</a>    
+    	<ul>
+            <a href="#11-startup-profile">1.1. Startup Profile</a><br>
+	    <ul>
+            <a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a><br>
+            <a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a><br>
+	    </ul>
+            <a href="#12-solution-profile">1.2. Solution Profile</a><br>
+	    <ul>
+            <a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a><br>
+            <a href="#122-lean-ux-process">1.2.2. Lean UX Process</a><br>
+		<ul>
+            <a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a><br>
+            <a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a><br>
+            <a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a><br>
+            <a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a><br>
+		</ul>
+	    </ul>
+            <a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a><br>
         </ul>    
-</details>
 
-<details>
-    <summary>Capítulo II: Requirements Elicitation & Analysis</summary>
+
+
+<a href="#capítulo-ii-requirements-elicitation--analysis">Capítulo II: Requirements Elicitation & Analysis</a>
         <ul>
-            <li><a href="#21-competidores">2.1. Competidores</a></li>
-            <li><a href="#211-Análisis-competitivo">2.1.1. Análisis competitivo</a></li>
-            <li><a href="#212-Estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></li>
-            <li><a href="#22-Entrevistas">2.2. Entrevistas</a></li>
-            <li><a href="#221-Diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></li>
-            <li><a href="#222-Registro-de-entrevistas">2.2.2. Registro de entrevistas</a></li>
-            <li><a href="#223-Análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></li>
-            <li><a href="#23-Needfinding">2.3. Needfinding</a></li>
-            <li><a href="#231-User-Personas">2.3.1. User Personas</a></li>
-            <li><a href="#232-User-Task-Matrix">2.3.2. User Task Matrix</a></li>
-            <li><a href="#233-User-Journey-Mapping">2.3.3. User Journey Mapping</a></li>
-            <li><a href="#234-Empathy-Mapping">2.3.4. Empathy Mapping</a></li>
-            <li><a href="#235-As-is-Scenario-Mapping">2.3.5. As-is Scenario Mapping</a></li>
-            <li><a href="#24-Ubiquitous-Language">2.4. Ubiquitous Language</a></li>
+            <a href="#21-competidores">2.1. Competidores</a><br>
+		<ul>
+            <a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a><br>
+            <a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a><br>
+		</ul>
+            <a href="#22-entrevistas">2.2. Entrevistas</a><br>
+		<ul>
+            <a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a><br>
+            <a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a><br>
+            <a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a><br>
+		</ul>
+            <a href="#23-needfinding">2.3. Needfinding</a><br>
+		<ul>
+            <a href="#231-user-personas">2.3.1. User Personas</a><br>
+            <a href="#232-user-task-matrix">2.3.2. User Task Matrix</a><br>
+            <a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a><br>
+            <a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a><br>
+            <a href="#235-as-is-scenario-mapping">2.3.5. As-is Scenario Mapping</a><br>
+		</ul>
+            <a href="#24-ubiquitous-language">2.4. Ubiquitous Language</a><br>
         </ul>   
-</details>
 
-<details>
-    <summary>Capítulo III: Requirements Specification </summary>
+<a href="#capítulo-iii-requirements-specification">Capítulo III: Requirements Specification </a>
         <ul>
-            <li><a href="#31-To-Be-Scenario-Mapping">3.1. To-Be Scenario Mapping</a></li>
-            <li><a href="#32-User-Stories">3.2. User Stories</a></li>
-            <li><a href="#33-Impact-Mapping">3.3. Impact Mapping</a></li>
-            <li><a href="#34-Product-Backlog">3.4. Product Backlog</a></li>
+            <a href="#31-to-be-scenario-mapping">3.1. To-Be Scenario Mapping</a><br>
+            <a href="#32-user-stories">3.2. User Stories</a><br>
+            <a href="#33-impact-mapping">3.3. Impact Mapping</a><br>
+            <a href="#34-product-backlog">3.4. Product Backlog</a><br>
         </ul>    
-</details>
 
-<details>
-    <summary>Capítulo IV: Product Design </summary>
+<a href="#capítulo-iv-product-design">Capítulo IV: Product Design </a>
         <ul>
-            <li><a href="#41-Style-Guidelines">4.1. Style Guidelines</a></li>
-            <li><a href="#411-General-Style-Guidelines">4.1.1. General Style Guidelines</a></li>
-            <li><a href="#412-Web-Style-Guidelines">4.1.2. Web Style Guidelines</a></li>
-            <li><a href="#42-Information-Architecture">4.2. Information Architecture</a></li>
-            <li><a href="#421-Organization-Systems">4.2.1. Organization Systems</a></li>
-            <li><a href="#422-Labeling-Systems">4.2.2. Labeling Systems</a></li>
-            <li><a href="#423-SEO-Tags-and-Meta-Tags">4.2.3. SEO Tags and Meta Tags</a></li>
-            <li><a href="#424-Searching-Systems">4.2.4. Searching Systems</a></li>
-            <li><a href="#425-Navigation-Systems">4.2.5. Navigation Systems</a></li>
-            <li><a href="#43-Landing-Page-UI-Design">4.3. Landing Page UI Design</a></li>
-            <li><a href="#431-Landing-Page-Wireframe">4.3.1. Landing Page Wireframe</a></li>
-            <li><a href="#432-Landing-Page-Mock-up">4.3.2. Landing Page Mock-up</a></li>
-            <li><a href="#44-Web-Applications-UXUI-Design">4.4. Web Applications UX/UI Design</a></li>
-            <li><a href="#441-Web-Applications-Wireframes">4.4.1. Web Applications Wireframes</a></li>
-            <li><a href="#442-Web-Applications-Wireflow-Diagrams">4.4.2. Web Applications Wireflow Diagrams</a></li>
-            <li><a href="#443-Web-Applications-Mock-ups">4.4.3. Web Applications Mock-ups</a></li>
-            <li><a href="#444-Web-Applications-User-Flow-Diagrams">4.4.4. Web Applications User Flow Diagrams</a></li>
-            <li><a href="#45-Web-Applications-Prototyping">4.5. Web Applications Prototyping</a></li>
-            <li><a href="#46-Domain-Driven-Software-Architecture">4.6. Domain-Driven Software Architecture</a></li>
-            <li><a href="#461-Software-Architecture-Context-Diagrams">4.6.1. Software Architecture Context Diagrams</a></li>
-            <li><a href="#462-Software-Architecture-Container-Diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
-            <li><a href="#463-Software-Architecture-Components-Diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
-            <li><a href="#47-Software-Object-Oriented-Design">4.7. Software Object-Oriented Design</a></li>
-            <li><a href="#471-Class-Diagrams">4.7.1. Class Diagrams</a></li>
-            <li><a href="#472-Class-Dictionary">4.7.2. Class Dictionary</a></li>
-            <li><a href="#48-Database-Design">4.8. Database Design</a></li>
-            <li><a href="#481-Database-Diagram">4.8.1. Database Diagram</a></li>
+            <a href="#41-style-guidelines">4.1. Style Guidelines</a><br>
+		<ul>
+            <a href="#411-general-style-guidelines">4.1.1. General Style Guidelines</a><br>
+            <a href="#412-web-style-guidelines">4.1.2. Web Style Guidelines</a><br>
+		</ul>
+            <a href="#42-information-architecture">4.2. Information Architecture</a><br>
+		<ul>
+            <a href="#421-organization-systems">4.2.1. Organization Systems</a><br>
+            <a href="#422-labeling-systems">4.2.2. Labeling Systems</a><br>
+            <a href="#423-seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</a><br>
+            <a href="#424-searching-systems">4.2.4. Searching Systems</a><br>
+            <a href="#425-navigation-systems">4.2.5. Navigation Systems</a><br>
+		</ul>
+            <a href="#43-landing-page-ui-design">4.3. Landing Page UI Design</a><br>
+		<ul>
+            <a href="#431-landing-page-wireframe">4.3.1. Landing Page Wireframe</a><br>
+            <a href="#432-landing-page-mock-up">4.3.2. Landing Page Mock-up</a><br>
+		</ul>
+            <a href="#44-web-applications-uxui-design">4.4. Web Applications UX/UI Design</a><br>
+		<ul>
+            <a href="#441-web-applications-wireframes">4.4.1. Web Applications Wireframes</a><br>
+            <a href="#442-web-applications-wire-diagrams">4.4.2. Web Applications Wireflow Diagrams</a><br>
+            <a href="#443-web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a><br>
+            <a href="#444-web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a><br>
+		</ul>
+            <a href="#45-web-applications-prototyping">4.5. Web Applications Prototyping</a><br>
+            <a href="#46-domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a><br>
+		<ul>
+            <a href="#461-software-architecture-context-diagrams">4.6.1. Software Architecture Context Diagrams</a><br>
+            <a href="#462-software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a><br>
+            <a href="#463-software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a><br>
+		</ul>
+            <a href="#47-software-object-oriented-design">4.7. Software Object-Oriented Design</a><br>
+		<ul>
+            <a href="#471-class-diagrams">4.7.1. Class Diagrams</a><br>
+            <a href="#472-class-dictionary">4.7.2. Class Dictionary</a><br>
+		</ul>
+            <a href="#48-database-design">4.8. Database Design</a><br>
+		<ul>
+            <a href="#481-database-diagram">4.8.1. Database Diagram</a><br>
+		</ul>
         </ul>    
-</details>
 
-<details>
-    <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
+<a href="#capítulo-v-product-implementation-validation--deployment">Capítulo V: Product Implementation, Validation & Deployment </a>
         <ul>
-            <li><a href="#51-software-configuration-management">5.1. Software Configuration Management</a></li>
-            <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
-            <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
-            <li><a href="#513-source-code-style-guide-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
-            <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
-            <li><a href="#52-landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></li>
-            <li><a href="#521-sprint-1">5.2.1. Sprint 1</a></li>
-            <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
-            <li><a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
-            <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
-            <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
-            <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
-        </ul>        
-</details>
+            <a href="#51-software-configuration-management">5.1. Software Configuration Management</a><br>
+	<ul>
+            <a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a><br>
+            <a href="#512-source-code-management">5.1.2. Source Code Management</a><br>
+            <a href="#513-source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a><br>
+            <a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a><br>
+	</ul>
+            <a href="#52-landing-page-services--applications-implementation">5.2. Landing Page, Services & Applications Implementation</a><br>
+		<ul>
+            <a href="#521-sprint-1">5.2.1. Sprint 1</a><br>
+			<ul>
+            <a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a><br>
+            <a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a><br>
+            <a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5216-software-deployment-evidence-for-sprint-review">5.2.1.6. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5217-team-collaboration-insights-during-sprint">5.2.1.7. Team Collaboration Insights during Sprint</a><br>
+			</ul>
+	    <a href="#522-sprint-2">5.2.2. Sprint 2</a><br>
+			<ul>
+            <a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a><br>
+            <a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a><br>
+            <a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a><br>
+			</ul>
+	    <a href="#523-sprint-3">5.2.3. Sprint 3</a><br>
+			<ul>
+            <a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a><br>
+            <a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a><br>
+            <a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
+        <a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
+<br>
+<a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
+
+</ul>
+</ul>
+<a href="#53-validation-interviews">5.3. Validation Interviews.</a>
+<ul>
+<a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas.</a><br>
+<a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas.</a><br>
+<a href="#533-evaluaciones-según-heurísticas">5.3.3. Evaluaciones según heurísticas.</a>
+</ul>
+<a href="#54-video-about-the-product">5.4. Video About-the-Product.</a>
+</ul>        
+
+<a href="#conclusiones">Conclusiones</a>
+<ul><a href="#video-about-the-team">Video About the team</a></ul>
+
+<a href="#bibliografía">Bibliografía</a>
+
+<a href="#anexos">Anexos</a>
 
 <hr>
 
@@ -179,19 +270,90 @@ Para poder lograr la elaboración grupal de este informe del proyecto, creamos p
 
 # 
 
-| Criterio específico | Acciones realizadas  | Conclusiones  |
-| :---- | :---- | :---- |
-| **<br>Trabaja en equipo para proporcionar liderazgo en forma conjunta.**<br> | **<br>TB1:<br>Bellido Salas, Raúl**<br> Participó en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyó en la planeación de las entregas. **<br>Daniela Araceli Gómez Flores**<br> Lideró la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomentando la participación activa de todo el equipo. **<br>Gutiérrez Condo, Maylhy Olinda**<br> Organizó y distribuyó tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo. **<br>Luyo Correa, Sandra Paula**<br> Coordinó actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración. **<br>Roca Tineo, Steven Mathew**<br> Lideró técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a sus compañeros. **<br>TP:**<br>  **<br>Luyo Correa, Sandra Paula**<br> Participó en las correcciones del TB1 y lideró la documentación del Sprint 2\. Asumió responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información. **<br>Gómez Flores, Daniela Araceli**<br> Tomó iniciativa en la implementación de la sección de Incidentes y lideró la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia. **<br>Gutiérrez Condo, Maylhy Olinda**<br> Coordinó las correcciones del TB1 y organizó la documentación del Sprint 2\. Desarrolló las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración. **<br>Roca Tineo, Steven Mathew**<br> Asumió el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordinó la implementación de la internacionalización y manejo de errores. **<br>Salas Bellido, Raúl**<br> Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento.  | **<br>TB1:**<br> Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa. **<br>TP:**<br> El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida. |
-| **<br>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**<br> | **<br>TB1: Bellido Salas, Raúl**<br> Contribuyó en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada. **<br>Daniela Araceli Gómez Flores**<br> Promovió la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura. **<br>Gutiérrez Condo, Maylhy Olinda**<br> Facilitó un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes. **<br>Luyo Correa, Sandra Paula**<br> Planificó tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones. **<br>Roca Tineo, Steven Mathew**<br> Coordinó la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea. **<br>TP**<br>: **<br>Luyo Correa, Sandra Paula**<br> Facilitó un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición. **<br>Gómez Flores, Daniela Araceli**<br> Propició la colaboración en el desarrollo de funcionalidades críticas. Coordinó esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia. **<br>Gutiérrez Condo, Maylhy Olinda**<br> Estimuló la participación del equipo en las decisiones sobre funcionalidades compartidas. Planificó las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma. **<br>Roca Tineo, Steven Mathew**<br> Estableció metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico. **<br>Salas Bellido, Raúl**<br> Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema. | **<br>TB1:**<br> El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada. **<br>TP**<br>: El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.  |
+<table border="1">
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong></td>
+    <td>
+      <strong>TB1:</strong><br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Participó en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyó en la planeación de las entregas.<br>
+      <strong>Daniela Araceli Gómez Flores</strong><br>
+      Lideró la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomentando la participación activa de todo el equipo.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Organizó y distribuyó tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo.<br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Coordinó actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Lideró técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a sus compañeros.<br>
+      <strong>TP:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Participó en las correcciones del TB1 y lideró la documentación del Sprint 2. Asumió responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Tomó iniciativa en la implementación de la sección de Incidentes y lideró la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Coordinó las correcciones del TB1 y organizó la documentación del Sprint 2. Desarrolló las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Asumió el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordinó la implementación de la internacionalización y manejo de errores.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento.
+    </td>
+    <td>
+      <strong>TB1:</strong><br>
+      Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.<br>
+      <strong>TP:</strong><br>
+      El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
+    <td>
+      <strong>TB1:</strong><br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Contribuyó en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.<br>
+      <strong>Daniela Araceli Gómez Flores</strong><br>
+      Promovió la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Facilitó un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes.<br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Planificó tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Coordinó la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea.<br>
+      <strong>TP:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Facilitó un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Propició la colaboración en el desarrollo de funcionalidades críticas. Coordinó esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Estimuló la participación del equipo en las decisiones sobre funcionalidades compartidas. Planificó las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Estableció metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.<br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema.
+    </td>
+    <td>
+      <strong>TB1:</strong><br>
+      El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.<br>
+      <strong>TP:</strong><br>
+      El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.<br>
+      <strong>TB2:</strong><br>
+      Lo que realizó
+    </td>
+  </tr>
+</table>
 
 # 
 <hr>
 
-# Capítulo I: Introducción 
+# **Capítulo I: Introducción** 
 
-## 1.1. Startup Profile
+## **1.1. Startup Profile**
 
-### 1.1.1. Descripción de la Startup
+### ***1.1.1. Descripción de la Startup***
 
 BuildWise es una startup tecnológica orientada al desarrollo de soluciones digitales que optimizan la gestión operativa de las empresas del sector construcción. Esta iniciativa surge como respuesta a la necesidad urgente de digitalizar y eficientizar los procesos relacionados con el control de almacén, personal y obreros, aspectos fundamentales en el éxito de cualquier proyecto constructivo.
 
@@ -208,7 +370,7 @@ Misión:
 Proporcionar a las empresas constructoras una plataforma digital integral que facilite el control de recursos, personal y operatividad en obra, contribuyendo a una gestión más eficiente, transparente y productiva.
 
 
-### 1.1.2. Perfiles de Integrantes del Equipo
+### ***1.1.2. Perfiles de Integrantes del Equipo***
 <p align="center">
   <img src="images/PerfilMtt.png" alt="PI1" width="1000">
 </p>
@@ -229,9 +391,9 @@ Proporcionar a las empresas constructoras una plataforma digital integral que fa
   <img src="images/PerfilR.png" alt="PI5" width="1000">
 </p> 
 
-## 1.2. Solution Profile
+## **1.2. Solution Profile**
 
-### 1.2.1. Antecedentes y problemática
+### ***1.2.1. Antecedentes y problemática***
 
 *What:*
 
@@ -638,7 +800,8 @@ La alta incidencia de accidentes en este sector revela la urgencia de herramient
 
 ### 2.2.2. Registro de entrevistas
 A continuación, se detallan las transcripciones, las pruebas recopiladas y un resumen de cada una de las entrevistas realizadas a los usuarios.  
-***----Segmento objetivo \#1: Gerentes de obra*** 
+
+***Segmento objetivo \#1: Gerentes de obra*** 
 
 **Figura 1** 
 
@@ -3334,7 +3497,7 @@ LANDING PAGE:
 | matthewsr29/BuildTruck/FrontendWebApps | feature/develop | da4353f | feat: adding carpets | | 25/04/2025 |
 | matthewsr29/BuildTruck/FrontendWebApps | feature/develop | a70a737 | feat: landingPage add 1 | | 20/04/2025 |
 
-### 5.1.5. Execution Evidence for Sprint Review. 
+### ***5.2.2.5. Execution Evidence for Sprint Review.*** 
 
 
 Durante este sprint, hemos logrado implementar funcionalidades esenciales para el sistema de gestión BuildTruck, estableciendo una base sólida para la administración de proyectos de construcción. Las principales características desarrolladas incluyen:
@@ -3348,57 +3511,52 @@ Durante este sprint, hemos logrado implementar funcionalidades esenciales para e
 
 Estas implementaciones representan un avance significativo en nuestro objetivo de crear una plataforma integral para la gestión de proyectos de construcción, permitiendo a los usuarios gestionar eficientemente sus recursos y dar seguimiento preciso a sus obras.
 
-## Capturas de pantalla de las principales vistas
+<ins>**Capturas de pantalla de las principales vistas**</ins>
 
-### Login y Autenticación
+**Login y Autenticación**
 
 <p align="center">
   <img src="images/DEV2.1.png" alt="PB" width="850">
 </p>
 
 
-### Dashboard principal
+**Dashboard principal**
 
 <p align="center">
   <img src="images/DEV2.2.png" alt="PB" width="850">
 </p>
 
-
-### Gestión de proyectos
+**Gestión de proyectos**
 
 <p align="center">
   <img src="images/DEV2.3.png" alt="PB" width="850">
 </p>
 
 
-### Inventario 
+**Inventario:** Panel de control de inventario con listado de materiales disponibles y su estado*
 
+**Sistema de documentación:** Interfaz para la gestión documental de cada proyecto con función de carga y visualización*
 
-*Panel de control de inventario con listado de materiales disponibles y su estado*
+<ins>**Navegación y características adicionales**</ins>
 
-### Sistema de documentación
+**Demostración en video y url de la web**
 
-*Interfaz para la gestión documental de cada proyecto con función de carga y visualización*
-
-### Navegación y características adicionales
-
-## Demostración en video y url de la web
-
-[Ingresar a Aplicacion web con las caracteristicas implementadas de BuildTruck - Sprint 2 ](https://buildtruck.github.io/LandingPage/)
+[https://buildtruck.github.io/LandingPage/](https://buildtruck.github.io/LandingPage/)
 
 
 Para una mejor comprensión del flujo de trabajo y las funcionalidades implementadas, hemos preparado un video demostrativo:
 
-[Ver demostración de BuildTruck - Sprint 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Eez73sMZ6R5Fub1nmdlO5SMB5yVZ41PRsvhu20e4GZlwRw?e=kYLr0H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-# Procesos de Deployment realizados durante el Sprint
+#### **5.2.2.7. Software Deployment Evidence for Sprint Review.**
 
-## Introducción
+<ins>**Procesos de Deployment realizados durante el Sprint**</ins>
+
+**Introducción**
 
 Durante el presente sprint, hemos implementado una estrategia de despliegue completa para el sistema BuildTruck, abarcando tanto el frontend como los servicios de backend que soportan la aplicación. El enfoque principal ha sido crear una infraestructura robusta y unificada que facilite tanto el desarrollo como la experiencia del usuario final.
 
-## Implementación de API centralizada en Render
+**Implementación de API centralizada en Render**
 
 Decidimos migrar de una arquitectura distribuida con múltiples endpoints en MockAPI a una solución centralizada y más robusta utilizando Render. Esta decisión nos ha permitido superar las limitaciones de las cuentas gratuitas de MockAPI y tener un mayor control sobre nuestra infraestructura.
 
@@ -3410,7 +3568,7 @@ https://host-buildtruck.onrender.com/
 
 Esta URL base sirve como punto de entrada principal para todos los recursos del sistema, simplificando considerablemente la configuración y mantenimiento de la aplicación.
 
-## Configuración del servidor en Render
+**Configuración del servidor en Render**
 
 El proceso de implementación en Render involucró varias etapas para asegurar un despliegue exitoso. Comenzamos creando una nueva cuenta y proyecto en la plataforma, configurándolo específicamente para trabajar con Node.js como entorno de ejecución.
 
@@ -3472,29 +3630,57 @@ El proceso de despliegue ha resultado en mejoras significativas en varios aspect
 
 Este proceso de despliegue nos ha proporcionado una base sólida y escalable sobre la cual seguiremos construyendo y mejorando el sistema BuildTruck en los próximos sprints.
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint 2. 
+#### **5.2.2.8. Team Collaboration Insights during Sprint 2.** 
 
 <p align="center">
   <img src="images/team.png" alt="PB" width="850">
 </p>
 
+### ***5.2.3. Sprint 3***
 
-## Conclusiones
+#### **5.2.3.1. Sprint Planning 3**
+
+#### **5.2.3.2. Aspect Leaders and Collaborators**
+
+#### **5.2.3.3. Sprint Backlog 3**
+
+#### **5.2.3.4. Development Evidence for Sprint Review**
+
+#### **5.2.3.5. Execution Evidence for Sprint Review**
+
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+
+#### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+#### **5.2.3.8. Team Collaboration Insights during Sprint**
+
+## **5.3. Validation Interviews.**
+
+### ***5.3.1. Diseño de Entrevistas.***
+
+### ***5.3.2. Registro de Entrevistas.***
+
+### ***5.3.3. Evaluaciones según heurísticas.***
+
+## **5.4. Video About-the-Product.**
+
+
+
+# **Conclusiones**
 
 El desarrollo de BuildWise ha representado un esfuerzo estratégico e interdisciplinario orientado a responder a la creciente necesidad de transformación digital en el sector construcción. A través de la creación de BuildTruck, nuestra plataforma web principal, hemos logrado diseñar e implementar una solución capaz de optimizar el control de inventarios, la gestión de personal y el seguimiento de obreros en obra, tres pilares fundamentales para la eficiencia operativa de cualquier empresa constructora.
 
-
 Este proyecto ha sido llevado a cabo bajo un enfoque de trabajo colaborativo y organizado, reflejado en el registro sistemático de versiones del informe, la definición de perfiles de equipo, y la aplicación de metodologías modernas como Lean UX y técnicas de elicitation y análisis de requerimientos. Estas etapas permitieron identificar las verdaderas necesidades del usuario, conceptualizar soluciones centradas en el cliente y validar continuamente nuestras hipótesis de diseño.
 
-
 El proceso de desarrollo avanzó mediante la definición de una arquitectura de software orientada al dominio, la creación de wireframes, mockups y prototipos, así como la implementación técnica en entornos controlados de software, siguiendo buenas prácticas de gestión de código y despliegue. Cada sprint fue registrado mediante evidencias de avances y colaboración, asegurando la transparencia y el aprendizaje continuo dentro del equipo.
-
 
 Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuitiva y el uso de herramientas tecnológicas modernas, BuildWise no solo ha conseguido materializar una solución digital robusta, sino también sentar las bases para alcanzar su visión de ser líderes en soluciones tecnológicas para el sector construcción en América Latina. Este proyecto reafirma nuestro compromiso con la innovación, la eficiencia y la transformación positiva del sector, y marca el inicio de una trayectoria de crecimiento y consolidación en el mercado.
 
 <hr>
 
-## Bibliografía
+## **Video About the team**
+
+# **Bibliografía**
 
 BID. (2022). *Transformación digital en sectores tradicionales: desafíos y oportunidades*. [https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf](https://publications.iadb.org/publications/spanish/document/Talento-digital-en-el-Peru-2022-que-demanda-el-mercado-laboral-resultados-de-una-muestra-de-empresas-lideres.pdf) 
 
@@ -3544,7 +3730,7 @@ W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www
 
 <hr>
 
-## Anexos
+# **Anexos**
 
 Link de video de exposición:  
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361\_upc\_edu\_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
