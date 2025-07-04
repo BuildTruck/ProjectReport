@@ -1,7 +1,8 @@
 <h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
 <h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
+<p align="center">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;"></p>
 
 <h4 align="center"><strong>Ingeniería de Software</strong></h4>
 <h4 align="center"><strong>Aplicaciones Web - 4388</strong></h4>
@@ -43,23 +44,22 @@
 <h3 align="center"><strong>Ciclo 2025-01</strong></h3>
 
 <hr>
+<hr>
 
 # **Registro de Versiones del Informe**
 
-#
-
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
-| TB1 | 27/04/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
-| TP1 | 15/05/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En la segunda entrega, incorporamos la documentación correspondiente al Sprint 2 y realizamos actualizaciones en las conclusiones y anexos del informe de reporte. Asimismo, mejoramos la landing page y desarrollamos la primera versión del Frontend Web Applications. |
-| TB2 | 21/06/2025 | Bellido Salas, Raúl Daniela Araceli, Gómez Flores Gutiérrez Condo, Maylhy Olinda Luyo Correa, Sandra Paula Roca Tineo, Steven Mathew | En esta tercera entrega, en nuestro informe, incluimos la documentación del Sprint 3 realizado, realizamos Validation Interviews (diseño de entrevistas, registro de las mismas y evaluaciones basadas en heurísticas), además de producir el Video About-the-Product y actualizar las conclusiones, la bibliografía y los anexos. |
+| TB1 | 27/04/2025 | Bellido Salas, Raúl <br> Gómez Flores, Daniela Araceli <br> Gutiérrez Condo, Maylhy Olinda <br> Luyo Correa, Sandra Paula <br> Roca Tineo, Steven Mathew | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de BuilTruck. |
+| TP1 | 15/05/2025 | Bellido Salas, Raúl <br> Gómez Flores, Daniela Araceli <br> Gutiérrez Condo, Maylhy Olinda <br> Luyo Correa, Sandra Paula <br> Roca Tineo, Steven Mathew | En la segunda entrega, incorporamos la documentación correspondiente al Sprint 2 y realizamos actualizaciones en las conclusiones y anexos del informe de reporte. Asimismo, mejoramos la landing page y desarrollamos la primera versión del Frontend Web Applications. |
+| TB2 | 21/06/2025 | Bellido Salas, Raúl <br> Gómez Flores, Daniela Araceli <br> Gutiérrez Condo, Maylhy Olinda <br> Luyo Correa, Sandra Paula <br> Roca Tineo, Steven Mathew | En esta tercera entrega, en nuestro informe, incluimos la documentación del Sprint 3 realizado, realizamos Validation Interviews (diseño de entrevistas, registro de las mismas y evaluaciones basadas en heurísticas), además de producir el Video About-the-Product y actualizar las conclusiones, la bibliografía y los anexos. |
+| TF | 07/07/2025 | Bellido Salas, Raúl <br> Gómez Flores, Daniela Araceli <br> Gutiérrez Condo, Maylhy Olinda <br> Luyo Correa, Sandra Paula <br> Roca Tineo, Steven Mathew | En esta última entrega, en el reporte del proyecto, agregamos todo lo realizado y requerido del Sprint 4 de BuildTruck. Adjuntamos las versiones finales del Video about the product y Video About the team. También, escribimos las conclusiones y recomendaciones finales de nuestro proyecto |
+<hr>
+<hr>
 
-# 
 <br>
 
-
 # **Project Report Collaboration Insights**
-
 
 Elaboramos el informe de nuestro proyecto en un repositorio llamado “ProjectReport” en nuestra organización llamada “BuilTruck” porque ahí desarrollaremos los productos de nuestra aplicación web del mismo nombre.  
 Enlace del repositorio “ProjectReport”: [https://github.com/BuildTruck/ProjectReport](https://github.com/BuildTruck/ProjectReport)   
@@ -89,11 +89,21 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 **Figura 3**  
 *Insights de ProjectReports 3*  
 <p align="center">
-  <img src="images/insightsReport3.PNG" alt="PI5" width="1000">
+  <img src="images/insights3.PNG" alt="PI5" width="1000">
 </p> 
 
 *Nota.* Elaboración propia.
 <hr>
+
+<ins>**TF:**</ins>  
+Para la documentación de esta entrega final, hemos realizado los commits de las partes asignadas a cada uno en el repositorio "ProjectReport". A continuación, presentamos una imagen de los Collaboration Insights del repositorio mencionado para verificar la participación de cada miembro del equipo en esta entrega.  
+**Figura 4**  
+*Insights del Project Report del TF*  
+<p align="center">
+  <img src="images/insights4.PNG" alt="PI5" width="1000">
+</p> 
+
+*Nota.* Elaboración propia.
 
 # **Tabla de Contenidos**
 
@@ -245,11 +255,20 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
             <a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a><br>
             <a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a><br>
             <a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
-        <a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
-<br>
-<a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
-
-</ul>
+            <a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
+      </ul>
+      <a href="#524-sprint-4">5.2.4. Sprint 4</a><br>
+      <ul>
+            <a href="#5241-sprint-planning-2">5.2.4.1. Sprint Planning 3</a><br>
+            <a href="#5242-aspect-leaders-and-collaborators">5.2.4.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5243-sprint-backlog-3">5.2.4.3. Sprint Backlog 3</a><br>
+            <a href="#5244-development-evidence-for-sprint-review">5.2.4.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5245-execution-evidence-for-sprint-review">5.2.4.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#5247-software-deployment-evidence-for-sprint-review">5.2.4.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5248-team-collaboration-insights-during-sprint">5.2.4.8. Team Collaboration Insights during Sprint</a>
+      <ul>
 </ul>
 <a href="#53-validation-interviews">5.3. Validation Interviews.</a>
 <ul>
@@ -261,7 +280,10 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 </ul>        
 
 <a href="#conclusiones">Conclusiones</a>
-<ul><a href="#video-about-the-team">Video About the team</a></ul>
+<ul>
+  <a href="#recomendaciones">Recomendaciones</a><br>
+  <a href="#video-about-the-team">Video About the team</a>
+</ul>
 
 <a href="#bibliografía">Bibliografía</a>
 
@@ -269,9 +291,8 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 
 <hr>
 
-## Student Outcome
-
-# 
+# **Student Outcome**
+ 
 
 <table border="1">
   <tr>
@@ -303,13 +324,39 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
       <strong>Roca Tineo, Steven Mathew</strong><br>
       Asumió el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordinó la implementación de la internacionalización y manejo de errores.<br>
       <strong>Salas Bellido, Raúl</strong><br>
-      Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento.
+      Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento. <br>
+      <strong>TB2:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
+      <strong>TF:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
     </td>
     <td>
       <strong>TB1:</strong><br>
       Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.<br>
       <strong>TP:</strong><br>
-      El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.
+      El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.<br>
+      <strong>TB2:</strong><br>
+      En esta entrega, como equipo BuildWise, demostramos nuestra capacidad de trabajar en conjunto asumiendo el liderazgo de forma compartida, según las necesidades del proyecto BuildTruck. Cada integrante tomó iniciativa en distintos frentes, liderando la elaboración de reportes, el diseño de entrevistas de validación, la implementación técnica de funcionalidades y la documentación de avances. Esta distribución equilibrada de responsabilidades nos permitió avanzar de manera organizada, potenciando nuestras fortalezas individuales en beneficio del equipo. Gracias a esta colaboración equitativa y al liderazgo distribuido, logramos consolidar una versión más robusta y alineada con los objetivos de BuildTruck.<br>
+      <strong>TF:</strong><br>
+      En esta etapa final, el trabajo en equipo fue esencial para proporcionar liderazgo compartido en las diversas áreas del proyecto BuildTruck. Cada miembro asumió responsabilidades específicas y lideró aspectos técnicos y documentales, desde la integración de módulos funcionales hasta la consolidación del reporte. La coordinación entre nosotros permitió solucionar errores, tomar decisiones de manera consensuada y avanzar como un equipo cohesionado. Esta entrega refleja cómo el liderazgo no se centró en una sola persona, sino que fue asumido de forma conjunta y efectiva para lograr una entrega final sólida y completa.
     </td>
   </tr>
   <tr>
@@ -336,7 +383,29 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
       <strong>Roca Tineo, Steven Mathew</strong><br>
       Estableció metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.<br>
       <strong>Bellido Salas, Raúl</strong><br>
-      Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema.
+      Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema. <br>
+      <strong>TB2:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
+      <strong>TF:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
     </td>
     <td>
       <strong>TB1:</strong><br>
@@ -344,7 +413,9 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
       <strong>TP:</strong><br>
       El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.<br>
       <strong>TB2:</strong><br>
-      Lo que realizó
+      Como equipo BuildWise, nuestro objetivo en esta entrega fue fortalecer el desarrollo colaborativo de BuildTruck, nuestra aplicación para el buen manejo de obras de construcción. Para lograrlo, establecimos metas claras, planificamos tareas específicas y trabajamos de manera coordinada, asegurando la participación activa de todos los integrantes. Cada miembro aportó desde su rol, ya sea en la elaboración del Project Report, diseño y análisis de entrevistas de validación, desarrollo de endpoints para los distintos módulos del sistema o la documentación de evidencia técnica. Esta entrega refleja nuestro compromiso con un entorno inclusivo, donde la comunicación, la planificación y el cumplimiento de objetivos fueron clave para avanzar con solidez hacia una solución útil para el sector construcción.<br>
+      <strong>TF:</strong><br>
+      Durante el desarrollo del trabajo final, en BuildWise mantuvimos un entorno de colaboración activa e inclusiva, donde cada integrante participó en la planificación y ejecución de tareas clave. Establecimos metas claras como la finalización del Sprint 4, la integración completa entre backend y frontend, y la mejora del reporte final. Coordinamos esfuerzos para cumplir estos objetivos mediante correcciones, mejoras y documentación técnica. Esta entrega evidencia cómo, mediante una organización efectiva y la participación equitativa de todos, consolidamos los avances funcionales y formales de BuildTruck.
     </td>
   </tr>
 </table>
@@ -362,14 +433,13 @@ BuildWise es una startup tecnológica orientada al desarrollo de soluciones digi
 
 Fundada por estudiantes de Ingeniería de Software de la Universidad de Ciencias Aplicadas de Perú, la startup tiene como propósito brindar herramientas tecnológicas accesibles, escalables y de fácil implementación que faciliten el seguimiento en tiempo real de recursos y personal en obra.
 
-Servicios y Producto Principal:
-
+**Servicios y Producto Principal:**  
 Su producto principal es BuildTruck, una plataforma web diseñada para permitir a las empresas constructoras llevar un control eficiente y centralizado de sus operaciones en tres áreas clave: inventario, personal y obreros. 
 
-Visión:
+**Visión:**  
 Ser la plataforma líder en soluciones tecnológicas para el sector construcción en América Latina, transformando la gestión de proyectos en obra a través de herramientas inteligentes y colaborativas.
 
-Misión:
+**Misión:**   
 Proporcionar a las empresas constructoras una plataforma digital integral que facilite el control de recursos, personal y operatividad en obra, contribuyendo a una gestión más eficiente, transparente y productiva.
 
 
@@ -398,7 +468,7 @@ Proporcionar a las empresas constructoras una plataforma digital integral que fa
 
 ### ***1.2.1. Antecedentes y problemática***
 
-*What:*
+***What:***
 
 ¿Cuál es el problema?
 
@@ -407,7 +477,7 @@ En las pequeñas y medianas empresas del sector construcción en Perú, hay una 
 ¿Cuál es la relación con la persona en cuestión?
 Los supervisores de obra y asistentes administrativos son los principales afectados por esta ineficiencia. Ellos ejecutan el control diario de materiales y personal, pero no cuentan con herramientas que se adapten a la realidad del campo, por lo que terminan con sobrecarga de trabajo y dificultades para comunicar datos con rapidez a las oficinas administrativas.
 
-*When:*
+***When:***
 
 ¿Cuándo sucede el problema?
 El problema se presenta de forma constante durante toda la jornada laboral. Desde el ingreso de materiales al almacén, hasta el cierre diario con los reportes de asistencia del personal y el avance físico de la obra.
@@ -417,7 +487,7 @@ Como señala el Observatorio Laboral del Ministerio de Trabajo (2022), la intens
 ¿Cuándo utiliza el cliente el producto?
 La plataforma BuildTruck sería utilizada durante horarios de trabajo, y especialmente en momentos clave como el inicio de faenas, recepción de insumos, control de asistencia y envío de reportes a las oficinas centrales.
 
-*Where:*
+***Where:***
 
 ¿Dónde está el cliente cuando utiliza el producto?
 Los supervisores suelen estar físicamente en la obra, moviéndose entre áreas como almacén, oficinas temporales, y zonas de trabajo de obreros. Por su parte, los asistentes administrativos se encuentran en oficinas.
@@ -430,7 +500,7 @@ Según el Ministerio de Vivienda, Construcción y Saneamiento (2023), la dispers
 ¿Dónde surge el problema?
 Principalmente en campo. Por ejemplo, al no poder confirmar la disponibilidad de un material necesario o al detectar errores en los registros de asistencia. Pero también ocurre al emitir informes semanales desde oficinas sin una base de datos.
 
-*Who:*
+***Who:***
 
 ¿Quiénes están involucrados?
 Supervisores de obra, asistentes administrativos, encargados de almacén, ingenieros residentes, jefes de proyecto y personal operativo de la constructora.
@@ -443,12 +513,12 @@ BuildTruck será utilizado principalmente por supervisores y asistentes, pero ta
 
 Como indica el BID (2022) en su informe sobre transformación digital en sectores tradicionales, herramientas adaptadas al flujo real de trabajo incrementan la productividad hasta en un 30%.
 
-*Why:*
+***Why:***
 
 ¿Por qué ocurre esta situación?
 La razón principal es la baja madurez digital del sector construcción en el Perú. Muchas MYPES no invierten en software por desconocimiento, miedo al cambio o falta de personal capacitado. El estudio de PwC LATAM (2021) reveló que más del 70% de empresas constructoras en la región operan con bajo o nulo nivel de digitalización, especialmente en obras medianas y pequeñas.
 
-*How:*
+***How:***
 
 ¿En qué condiciones los clientes usan nuestro producto?
 En oficinas, la plataforma se usaría en PC o laptop, con conexión más estable y mayor necesidad de generar reportes o visualizar estadísticas.
@@ -459,7 +529,7 @@ Los compradores pueden conocer el servicio a través de redes como LinkedIn, o p
 ¿Cómo prefieren acceder al contenido?
 Por medio de interfaces visuales, dashboards simples y reportes automáticos. Necesitan ver la información de forma clara y rápida, sin procesos complejos. Debe poder usarse sin formación técnica avanzada, ya que muchos usuarios no tienen experiencia previa con software especializado.
 
-*How Much:*
+***How Much:***
 
 La falta de digitalización en el sector construcción genera impactos significativos en la eficiencia operativa de las empresas:
 
@@ -473,26 +543,26 @@ La falta de digitalización en el sector construcción genera impactos significa
   <img src="images/GraficoHM.png" alt="UH" width="1000">
 </p>
 
-### 1.2.2. Lean UX Process
+### ***1.2.2. Lean UX Process***
 
-#### 1.2.2.1. Lean UX Problem Statements
+#### **1.2.2.1. Lean UX Problem Statements**
 
 
-#### 1. Nuestra plataforma ha sido diseñada para permitir a pequeñas y medianas empresas constructoras, así como a trabajadores administrativos, gestionar eficientemente sus proyectos de construcción, desde la solicitud de servicios hasta el monitoreo de avances y gastos. A través de esta herramienta digital, buscamos facilitar la administración y mejorar la transparencia de los procesos constructivos.
-#### Hemos observado que una de las principales dificultades para estas empresas es la falta de un sistema centralizado y amigable que les permita realizar un seguimiento detallado de los proyectos en curso, registrar avances, visualizar presupuestos y comunicarse de forma efectiva con los diferentes actores involucrados en la obra. Esto genera desorganización, demoras en la entrega de reportes y problemas en la toma de decisiones.
+1. Nuestra plataforma ha sido diseñada para permitir a pequeñas y medianas empresas constructoras, así como a trabajadores administrativos, gestionar eficientemente sus proyectos de construcción, desde la solicitud de servicios hasta el monitoreo de avances y gastos. A través de esta herramienta digital, buscamos facilitar la administración y mejorar la transparencia de los procesos constructivos.
+Hemos observado que una de las principales dificultades para estas empresas es la falta de un sistema centralizado y amigable que les permita realizar un seguimiento detallado de los proyectos en curso, registrar avances, visualizar presupuestos y comunicarse de forma efectiva con los diferentes actores involucrados en la obra. Esto genera desorganización, demoras en la entrega de reportes y problemas en la toma de decisiones.
 ¿Cómo podemos mejorar la experiencia de las pequeñas y medianas empresas en la gestión de sus obras mediante una plataforma más intuitiva, accesible y con herramientas integradas que faciliten el seguimiento de cada fase del proyecto?
 
-#### 2. Nuestro sistema fue creado con el objetivo de optimizar la gestión de proyectos de construcción, reducir errores administrativos y proporcionar a los usuarios una visión clara y precisa del estado de sus obras, recursos utilizados y cumplimiento de plazos.
-#### Hemos identificado que muchos trabajadores administrativos aún dependen de hojas de cálculo, comunicaciones dispersas para registrar y compartir información. Esto no solo dificulta el acceso a datos actualizados, sino que también incrementa la posibilidad de errores y retrabajos.
+2. Nuestro sistema fue creado con el objetivo de optimizar la gestión de proyectos de construcción, reducir errores administrativos y proporcionar a los usuarios una visión clara y precisa del estado de sus obras, recursos utilizados y cumplimiento de plazos.
+Hemos identificado que muchos trabajadores administrativos aún dependen de hojas de cálculo, comunicaciones dispersas para registrar y compartir información. Esto no solo dificulta el acceso a datos actualizados, sino que también incrementa la posibilidad de errores y retrabajos.
 
 ¿Cómo podemos digitalizar y automatizar los procesos administrativos dentro de los proyectos de construcción, garantizando que los trabajadores administrativos cuenten con herramientas fáciles de usar que les permitan organizar, registrar y compartir información de forma eficiente?
 
-#### 3. Además, hemos detectado que algunas pequeñas empresas enfrentan barreras tecnológicas, ya sea por desconocimiento en el uso de herramientas digitales o por la falta de plataformas diseñadas específicamente para su contexto. Esto puede llevar a que no aprovechen completamente los beneficios de una solución digital.
+3. Además, hemos detectado que algunas pequeñas empresas enfrentan barreras tecnológicas, ya sea por desconocimiento en el uso de herramientas digitales o por la falta de plataformas diseñadas específicamente para su contexto. Esto puede llevar a que no aprovechen completamente los beneficios de una solución digital.
 
 ¿Cómo podemos diseñar una plataforma adaptable a diferentes niveles de experiencia tecnológica, que permita a empresas de distintos tamaños adoptar y aprovechar fácilmente todas las funcionalidades del sistema sin requerir una curva de aprendizaje elevada?
 
 
-#### 1.2.2.2. Lean UX Assumptions
+#### **1.2.2.2. Lean UX Assumptions**
 
 **Assumptions worksheet**
 
@@ -570,16 +640,16 @@ Debe de presentar un comportamiento fluido en sus interacciones.
 * Creemos que una plataforma web que consolide todos los datos de inventario en un panel centralizado reducirá el tiempo necesario para conciliar existencias físicas y digitales, y lo sabremos porque el sistema registrará un promedio de actualización de inventario inferior a 40 minutos por operación.
 
 # 
-#### 1.2.2.4. Lean UX Canvas
+#### **1.2.2.4. Lean UX Canvas**
 <p align="center">
   <img src="images/canvas.png" alt="UH" width="1000">
 </p>
 
 
 
-## 1.3. Segmentos Objetivos
+## **1.3. Segmentos Objetivos**
 
-#### **Segmento Objetivo 1: Gerentes de obra**  
+<ins>**Segmento Objetivo 1: Gerentes de obra**</ins>  
 
 Los gerentes de obra son profesionales clave en la ejecución de proyectos constructivos, especialmente en el contexto de pequeñas y medianas empresas (PYMEs) peruanas. Su rol abarca desde la supervisión técnica en campo hasta la toma de decisiones administrativas, actuando como eje articulador entre el personal operativo, los proveedores, los subcontratistas y la alta dirección. Esta versatilidad responde a la estructura operativa reducida que caracteriza a muchas PYMEs del sector construcción, donde un mismo profesional debe asumir múltiples responsabilidades.
 
@@ -631,11 +701,11 @@ La alta incidencia de accidentes en este sector revela la urgencia de herramient
 
 <hr>
 
-# Capítulo II: Requirements Elicitation & Analysis
+# **Capítulo II: Requirements Elicitation & Analysis**
 
-## 2.1. Competidores
+## **2.1. Competidores**
 
-### 2.1.1. Análisis competitivo
+### ***2.1.1. Análisis competitivo***
 
 <body>
 <table class="c16">
@@ -739,7 +809,7 @@ La alta incidencia de accidentes en este sector revela la urgencia de herramient
 
 #
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+### ***2.1.2. Estrategias y tácticas frente a competidores***
 
 * Ofreceremos un plan de suscripción básico a $50/mes (como se sugirió) con funciones esenciales (gestión de inventario y personal), mucho más bajo que los $375/mes de Procore o los $99/mes de Buildertrend.  
 * Al lanzar contenido gratuito como webinars y guías PDF sobre los beneficios de la digitalización operativa y sobre el funcionamiento de nuestra aplicación web dirigido a empresas que aún usan métodos manuales, posicionaremos a BuildTruck como el primer paso accesible frente a soluciones más avanzadas.  
@@ -750,9 +820,9 @@ La alta incidencia de accidentes en este sector revela la urgencia de herramient
 
 #
 
-## 2.2. Entrevistas
+## **2.2. Entrevistas**
 
-### 2.2.1. Diseño de entrevistas
+### ***2.2.1. Diseño de entrevistas***
 
 ***-Segmento objetivo \#1: Gerentes de obra*** 
 
@@ -1119,7 +1189,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 [Ver el video de las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EcTa4QCn7SdBhY44MrPfIhEBPDr54LGCKhsWTHMfhgi4Yw?e=xQnplv)
 
-### 2.2.3. Análisis de entrevistas
+### ***2.2.3. Análisis de entrevistas***
 
 **Figura 7** 
 
@@ -1151,9 +1221,9 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota. Elaboración propia*
 
-## 2.3. Needfinding
+## **2.3. Needfinding**
 
-### 2.3.1. User Personas
+### ***2.3.1. User Personas***
 
 <p align="center">
   <img src="images/UserPersonasappweb.png" alt="PB" width="1000">
@@ -1163,7 +1233,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 </p>
 
 
-### 2.3.2. User Task Matrix
+### ***2.3.2. User Task Matrix***
 
 
 | TASK MATRIX |  | Andrea Palacios Guzman  |  | Luis Alberto Ramirez |  |
@@ -1178,7 +1248,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 |  **Inspeccionar cumplimiento de estándares** |  |  | **Alta** | **A veces** | **Alta** |
 
 
-### 2.3.3. User Journey Mapping
+### ***2.3.3. User Journey Mapping***
 
 <p align="center">
   <img src="images/journey_mapp (1).png" alt="PB" width="1000">
@@ -1187,7 +1257,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
   <img src="images/journey_mapp (2).png" alt="PB" width="1000">
 </p>
 
-### 2.3.4. Empathy Mapping
+### ***2.3.4. Empathy Mapping***
 
 <p align="center">
   <img src="images/Empathy_map.png" alt="PB" width="1000">
@@ -1196,7 +1266,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
   <img src="images/Empathy_map (1).png" alt="PB" width="1000">
 </p>
 
-### 2.3.5. As-is Scenario Mapping
+### ***2.3.5. As-is Scenario Mapping***
 
 **Segmento objetivo \#1:**  
 
@@ -1265,10 +1335,9 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
 
-#
 
-## 2.4. Ubiquitous Language
 
+## **2.4. Ubiquitous Language**
 
 **Gerente de obra:** Persona que organiza, dirige y toma decisiones importantes en una construcción.
 
@@ -1295,9 +1364,9 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 <hr>
 
-# Capítulo III: Requirements Specification
+# **Capítulo III: Requirements Specification**
 
-## 3.1. To-Be Scenario Mapping
+## **3.1. To-Be Scenario Mapping**
 
 **Segmento objetivo \#1:**  
 
@@ -1368,7 +1437,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
 
 
-## 3.2. User Stories
+## **3.2. User Stories**
 
 | Epic | ID |
 | ----- | :---: |
@@ -1480,13 +1549,13 @@ Technical Stories
 
 
 
-## 3.3. Impact Mapping
+## **3.3. Impact Mapping**
 
 <p align="center">
   <img src="images/Impactmap.png" alt="PB" width="1000">
 </p>
 
-## 3.4. Product Backlog
+## **3.4. Product Backlog**
 [Ver diseño en Trello del Product Backlog](https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTId2c3303b9daa2ee2a1550a5b3ac169cf3F5B76F3/trello-agile-sprint-buildtruck)
 
 
@@ -1543,11 +1612,11 @@ Technical Stories
 
 <hr>
 
-# Capítulo IV: Product Design
+# **Capítulo IV: Product Design**
 
-## 4.1. Style Guidelines
+## **4.1. Style Guidelines**
 
-### 4.1.1. General Style Guidelines
+### ***4.1.1. General Style Guidelines***
 
 ### Colores
 
@@ -1674,14 +1743,14 @@ Las pantallas emergentes se utilizan para confirmar acciones críticas, como:
 El fondo de la aplicación se oscurece al activarse una ventana emergente, enfocando la atención del usuario en la acción que requiere su decisión. Los pop-ups utilizan colores más vivos para remarcar su importancia.
 
 
-## 4.2. Information Architecture
+## **4.2. Information Architecture**
 
-### 4.2.1. Organization Systems
+### ***4.2.1. Organization Systems***
 
 Se aplicarán distintos sistemas de organización de contenido tanto visual como estructural, adaptados al flujo operativo de nuestros usuarios. Esto nos permitirá ofrecer una experiencia más clara, intuitiva y eficaz durante el uso de la plataforma.
-#
+
 * Organización Visual del Contenido
-#
+
 
 1. Jerárquica:
 
@@ -1694,37 +1763,31 @@ Se aplicarán distintos sistemas de organización de contenido tanto visual como
 3. Matricial:
 
    Aplicada en módulos de consulta de información cruzada, como el seguimiento simultáneo de múltiples obras. Los datos serán organizados en una matriz que permita visualizar relaciones entre proyectos, materiales, personal y tiempo.
-#
+
 * Esquemas de Categorización del Contenido
-#
+
 1. Por Tópicos:
 
    Será el sistema predominante en el menú lateral de navegación. Las funcionalidades estarán agrupadas en temas específicos como:
-   #
 
     * Inventario
 
-
     * Personal
-
 
     * Proyectos
 
-
     * Reportes
 
-
     * Configuración
-#
 
 2. Cronológico:
 
     Este sistema se aplicará en reportes de asistencia, movimientos de almacén y cronogramas de obra. La información se mostrará ordenada por fechas, facilitando el seguimiento diario, semanal o mensual.
-#
+
 3. Alfabético:
 
    Usado en listas de materiales, insumos o nombres del personal, para facilitar la búsqueda rápida por nombre o código.
-#
+
 4. Según audiencia:
 
    Algunos módulos y dashboards estarán personalizados según el perfil del usuario:
@@ -1735,26 +1798,25 @@ Se aplicarán distintos sistemas de organización de contenido tanto visual como
     * Supervisor de obra: enfoque en carga de datos operativos, seguimiento diario y generación de reportes.
 
 
-### 4.2.2. Labeling Systems
+### ***4.2.2. Labeling Systems***
 
 En BuildTruck, se ha implementado un sistema de etiquetado pensado para ser claro, funcional y adaptado al contexto operativo del sector construcción. Su propósito es reducir la sobrecarga cognitiva y permitir que los usuarios comprendan e interactúen con la plataforma de forma rápida e intuitiva.
-#
+
 1. Principios utilizados:
-#
+
 * Simplicidad y claridad:
  
    Se prioriza el uso de términos breves, directos y familiares para el entorno de obra (por ejemplo: “Reporte diario”, “Materiales”, “Asistencia”, “Obreros”, “Avance”, “Notificaciones”). Esto facilita que los usuarios identifiquen las funciones sin esfuerzo, incluso sin formación técnica.
-#
+
 * Evitar ambigüedad:
  
    Se evita el uso de tecnicismos o jerga innecesaria que pueda generar confusión. Por ejemplo, se prefiere utilizar la etiqueta “Registro de materiales” en lugar de “Logística de recursos”, manteniendo siempre un lenguaje claro y accesible.
-#
+
 * Consistencia visual:
 
    Las etiquetas mantienen una presentación uniforme en toda la interfaz, incluyendo botones, menús, formularios y tarjetas. Esto garantiza que el usuario reconozca patrones visuales y entienda de inmediato para qué sirve cada opción.
-#
+
 2. Asociaciones comunes entre etiquetas:
-#
 * “Reporte” siempre se relaciona con acciones como “Generar”, “Visualizar”, “Descargar”, “Compartir”.
 
 
@@ -1764,7 +1826,7 @@ En BuildTruck, se ha implementado un sistema de etiquetado pensado para ser clar
 * “Obreros” se asocia con aspectos como “Asistencia”, “Tareas” y “Evaluación”.
 
 
-### 4.2.3. SEO Tags and Meta Tags
+### ***4.2.3. SEO Tags and Meta Tags***
 
 Las Meta Tags nos ayudan a indicar información codificada y especificar los metadatos. Estas no son visualizadas en los sitios web, estos son leídos por los navegadores o rastreadores web. Estas Meta Tags facilitan el análisis de archivos HTML y facilitan el mantenimiento del contenido del archivo. Además, estas etiquetas nos ayudan en el posicionamiento de nuestra página web en los buscadores.
 
@@ -1827,7 +1889,7 @@ Para optimizar el compartir en redes sociales.
 * `<meta property="og:type" content="website">`  
 * `<meta property="og:url" content="https://www.buildtrack.com">`
 
-### 4.2.4. Searching Systems
+### ***4.2.4. Searching Systems***
 
 En esta sección se explican los medios de ayuda que se brindarán al usuario para la búsqueda de datos dentro del producto digital.
 
@@ -1881,7 +1943,7 @@ En esta sección se explican los medios de ayuda que se brindarán al usuario pa
 * Indicadores visuales de color según estado  
 * Acciones rápidas disponibles para cada resultado
 
-### 4.2.5. Navigation Systems
+### ***4.2.5. Navigation Systems***
 
 En esta sección se explican las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones.
 
@@ -1931,16 +1993,16 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 * Notificaciones   
 * Enlaces entre módulos relacionados
 
-## 4.3. Landing Page UI Design
+## **4.3. Landing Page UI Design**
 
-### 4.3.1. Landing Page Wireframe
+### ***4.3.1. Landing Page Wireframe***
 <p align="center">
   <img src="images/lw.png" alt="LP" width="1000">
 </p>
 
 [Ver diseño en Figma del Wireframe Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-4373&t=5pm9hD3yZ8vMxGpa-1)
 
-### 4.3.2. Landing Page Mock-up
+### ***4.3.2. Landing Page Mock-up***
 <p align="center">
   <img src="images/lm.png" alt="LM" width="1000">
 </p>
@@ -1948,9 +2010,9 @@ En esta sección se explican las acciones y técnicas que guiarán a los usuario
 [Ver diseño en Figma del MockUp Landing BuildTruck](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=178-3564&t=5pm9hD3yZ8vMxGpa-1)
 
 
-## 4.4. Web Applications UX/UI Design
+## **4.4. Web Applications UX/UI Design**
 
-### 4.4.1. Web Applications Wireframes.
+### ***4.4.1. Web Applications Wireframes.***
  
  **Inicio de sesión**
  <p align="center">
@@ -2592,7 +2654,7 @@ Gerente y Supervisor
 </p>
 
 
-## 4.5. Web Applications Prototyping
+## **4.5. Web Applications Prototyping**
 
 Para realizar el prototype, utilizamos “Figma”, para esto le agregamos interacciones a los mock-ups realizados en el mismo programa.  
 Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=319-3382\&t=pKPhlG3YUiqtg228-1](https://www.figma.com/design/awxKE1YMs3M6vNmVuE4naE/BuildTruck?node-id=319-3382&t=pKPhlG3YUiqtg228-1)   
@@ -2605,56 +2667,55 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 *Nota.* Elaboración propia. Obtenido de [upc-pre-202510-1asi0730-4388-buildwise-prototypeproductnavigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/ETJAwGV0AA1DtXpeddfCicMBHjM0zOsLXK2smO95a_gRsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=D7NPX0) 
 
 
-## 4.6. Domain-Driven Software Architecture
+## **4.6. Domain-Driven Software Architecture**
 
-### 4.6.1. Software Architecture Context Diagrams
+### ***4.6.1. Software Architecture Context Diagrams***
 
-#
 <p align="center">
   <img src="images/structurizr-101472-Contexto.png" alt="PB" width="1000">
 </p>
 
-### 4.6.2. Software Architecture Container Diagrams
+### ***4.6.2. Software Architecture Container Diagrams***
 
 <p align="center">
   <img src="images/structurizr-101472-Contenedor.png" alt="PB" width="1000">
 </p>
 
-### 4.6.3. Software Architecture Components Diagrams
+### ***4.6.3. Software Architecture Components Diagrams***
 
 <p align="center">
   <img src="images/structurizr-UsuariosComponentes.png" alt="PB" width="1000">
 </p>
 
 
-## 4.7. Software Object-Oriented Design
+## **4.7. Software Object-Oriented Design**
 
-### 4.7.1. Class Diagrams
+### ***4.7.1. Class Diagrams***
 
 <p align="center">
   <img src="images/ClassDiagramBT.png" alt="UH" width="1000">
 </p>
 
-### 4.7.2. Class Dictionary
-# Class Dictionary
+### ***4.7.2. Class Dictionary***
 
-## Base Attributes for All Entities
+<ins>**Base Attributes for All Entities**</ins>
+
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | id | int | Unique identifier for each entity in the system |
 | creationDate | Date | Date when the entity was created in the system |
 | status | String | Current status of the entity (active, inactive, etc.) |
 
-## User System
+<ins>**User System**</ins>
 
-### IUser (Interface)
+**IUser (Interface)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | login() | void | Authenticates a user into the system |
 | logout() | void | Ends a user's session in the system |
 | editProfile() | void | Allows user to modify their profile information |
 
-### User (Abstract Class)
+**User (Abstract Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | id | int | Unique identifier for the user |
@@ -2664,7 +2725,7 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 | role | string | User's role in the system (Manager, Supervisor, etc.) |
 | profilePicture | string | URL or path to the user's profile picture |
 
-### Manager (Class)
+**Manager (Class)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | viewProjects() | List<Project> | Retrieves all projects for viewing |
@@ -2674,7 +2735,7 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 | viewMachinery() | List<Machinery> | Views machinery status and information |
 | downloadReports() | File | Downloads reports about system entities |
 
-### Supervisor (Class)
+**Supervisor (Class)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | managePersonnel() | void | Add, edit or remove personnel information |
@@ -2683,29 +2744,30 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 | manageDocumentation() | void | Handle project documentation |
 | manageIncidents() | void | Record and track incidents |
 
-### UserFactory (Class)
+**UserFactory (Class)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | createUser(type: string) | IUser | Creates and returns a specific type of user |
 
-### UserConfiguration (Class)
+**UserConfiguration (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | language | string | User's preferred language in the system |
 | viewMode | string | User's preferred view mode (light/dark) |
 | plan | string | Subscription plan or access level |
 
-### UserProfile (Class)
+**UserProfile (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | name | string | User's full name |
 | email | string | User's contact email |
 | phone | string | User's contact phone number |
 | profilePicture | string | URL to profile picture |
+<hr>
 
-## Project System
+<ins>**Project System**</ins>
 
-### Project (Class)
+**Project (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | id | int | Unique identifier for the project |
@@ -2720,10 +2782,10 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 | viewSummary() | ProjectSummary | Returns a summary of the project |
 | getStatistics() | ProjectStatistics | Returns statistics about the project |
 
-### ProjectItem (Abstract Class)
+**ProjectItem (Abstract Class)**
 Serves as a base class for project components
 
-### ProjectDocument (Class)
+**ProjectDocument (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | title | string | Title of the document |
@@ -2733,7 +2795,7 @@ Serves as a base class for project components
 | Method | Return Type | Description |
 | viewDetail() | DocumentDetail | Returns detailed information about the document |
 
-### ProjectConfiguration (Class)
+**ProjectConfiguration (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | language | string | Project's configured language |
@@ -2742,9 +2804,9 @@ Serves as a base class for project components
 | Method | Return Type | Description |
 | editConfiguration() | void | Modifies project configuration settings |
 
-## Material Management System
+<ins>**Material Management System**</ins>
 
-### Material (Class)
+Material (Class)
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | name | string | Name of the material |
@@ -2756,12 +2818,12 @@ Serves as a base class for project components
 | Method | Return Type | Description |
 | applyMovement(strategy: MaterialMovementStrategy) | void | Applies a stock movement strategy |
 
-### MaterialMovementStrategy (Interface)
+**MaterialMovementStrategy (Interface)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | execute() | void | Executes a material movement operation |
 
-### MaterialEntry (Class)
+**MaterialEntry (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | date | Date | Date of material entry |
@@ -2771,7 +2833,7 @@ Serves as a base class for project components
 | Method | Return Type | Description |
 | execute() | void | Performs the entry operation |
 
-### MaterialUsage (Class)
+**MaterialUsage (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | date | Date | Date of material usage |
@@ -2781,15 +2843,16 @@ Serves as a base class for project components
 | Method | Return Type | Description |
 | execute() | void | Performs the usage operation |
 
-### Supplier (Class)
+**Supplier (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | name | string | Name of the supplier |
 | taxId | string | Tax identification number |
+<hr>
 
-## Personnel Management
+<ins>**Personnel Management**</ins>
 
-### Worker (Class)
+**Worker (Class)**
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | id | int | Unique identifier for the worker |
@@ -2800,10 +2863,11 @@ Serves as a base class for project components
 | phone | string | Contact phone number |
 | email | string | Contact email address |
 | hireDate | Date | Date when worker was hired |
+<hr>
 
-## Incident Management
+<ins>**Incident Management**</ins>
 
-### Incident (Class)
+<ins>**Incident (Class)**</ins>
 | Attribute | Type | Description |
 |-----------|------|-------------|
 | date | Date | Date when incident occurred |
@@ -2812,27 +2876,28 @@ Serves as a base class for project components
 | status | string | Current status of the incident |
 | Method | Return Type | Description |
 | viewDetail() | IncidentDetail | Returns detailed information about the incident |
+<hr>
 
-## Notification System
+<ins>**Notification System**</ins>
 
-### Observer (Interface)
+**Observer (Interface)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | update(alert: string) | void | Receives notification updates |
 
-### NotificationSystem (Class)
+**NotificationSystem (Class)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | subscribe(observer: Observer) | void | Registers an observer to receive notifications |
 | notify(incident: Incident) | void | Sends notification about an incident |
 
-### StockAlert (Class)
+**StockAlert (Class)**
 | Method | Return Type | Description |
 |--------|-------------|-------------|
 | checkStock(material: Material) | boolean | Checks if material stock is below minimum |
 | notifyIfLow(material: Material) | void | Sends notification if stock is low |
 
-## Relationships
+<ins>**Relationships**<ins>
 
 1. User-Role Relationship:
    - User has one UserConfiguration
@@ -2865,31 +2930,31 @@ Serves as a base class for project components
    - Material uses MaterialMovementStrategy
    - MaterialEntry and MaterialUsage implement MaterialMovementStrategy
 
-## Interfaces
+<ins>**Interfaces**</ins>
 
-### IEntity
+**IEntity**  
 Interface that defines the basic CRUD operations for all entities in the system.
 
-### Observer
+**Observer**  
 Interface that defines the notification mechanism for objects that need to be updated when changes occur.
 
-### IRepository
+**IRepository**  
 Interface that defines the standard operations for data access repositories.
 
-## 4.8. Database Design
+## **4.8. Database Design**
 
-### 4.8.1. Database Diagram
+### **4.8.1. Database Diagram**
 
 <p align="center">
   <img src="images/Buildtruck-database.png" alt="PB" width="1000">
 </p>
 
 
-# Capítulo V: Product Implementation, Validation & Deployment
+# **Capítulo V: Product Implementation, Validation & Deployment**
 
-## 5.1. Software Configuration Management.
+## **5.1. Software Configuration Management.**
 
-### 5.1.1. Software Development Environment Configuration.
+### ***5.1.1. Software Development Environment Configuration.***
 
 En este proyecto se han utilizado distintas herramientas para cada aspecto de nuestro proyecto: Project Management, Product UX/UI Design, Software Development, Software Deployment y Software Documentation. A continuación, daremos una breve presentación de cada uno de estos programas y los usos que les dimos.
 
@@ -3011,7 +3076,7 @@ Es un lenguaje de marcado ligero que permite escribir documentación de forma si
 
 #
 
-### 5.1.2. Source Code Management
+### ***5.1.2. Source Code Management***
 
 En este proyecto, el control de versiones se gestionará mediante Git, utilizando el modelo de trabajo GitFlow descrito por Vincent Driessen en “A successful Git branching model”. Este enfoque organiza el desarrollo a través de ramas específicas para diferentes propósitos. Además, se implementarán las prácticas de Semantic Versioning 2.0.0 para el versionado de releases y Conventional Commits para estructurar los mensajes de commit, garantizando claridad y trazabilidad. En esta sección detallaremos estas estructuras de control.  
 Para desarrollar BuildTruck creamos los siguientes repositorios:
@@ -3087,7 +3152,7 @@ Esta configuración asegura un flujo de trabajo estructurado, con versionado cla
 
 
 
-### 5.1.3. Source Code Style Guide & Conventions
+### ***5.1.3. Source Code Style Guide & Conventions***
 
 En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Vue, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
 
@@ -3216,7 +3281,7 @@ Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir p
 Todas las convenciones detalladas en esta sección, nos garantizan un código limpio, consistente y alineado con estándares de la industria, facilitando la colaboración y el mantenimiento del proyecto.  
 
 
-### 5.1.4. Software Deployment Configuration
+### ***5.1.4. Software Deployment Configuration***
 Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
 1. **Registro en GitHub** Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.
 2. **Creación del repositorio**
@@ -3247,11 +3312,11 @@ Accedemos a esta URL desde el navegador para confirmar que el sitio está activo
 
 
 
-## 5.2. Landing Page, Services & Applications Implementation
+## **5.2. Landing Page, Services & Applications Implementation**
 
-### 5.2.1. Sprint 1
+### ***5.2.1. Sprint 1***
 
-##### 5.2.1.1. Sprint Planning 1
+##### **5.2.1.1. Sprint Planning 1**
 
 Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
 
@@ -3431,7 +3496,7 @@ LANDING PAGE:
 
 # 
 
-#### 5.2.2.3. Sprint Backlog 2. 
+#### **5.2.2.3. Sprint Backlog 2.** 
 
 *sprint 2 de BuildTruck*
 
@@ -3444,7 +3509,7 @@ LANDING PAGE:
 <p class="c26 c5"><span class="c0"></span></p><table class="c35"><tr class="c12"><td class="c33" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sprint #</span></p></td><td class="c37" colspan="7" rowspan="1"><p class="c1"><span class="c0">Sprint 2</span></p></td></tr><tr class="c12"><td class="c41" colspan="2" rowspan="1"><p class="c1"><span class="c0">User Story</span></p></td><td class="c39" colspan="6" rowspan="1"><p class="c1"><span class="c0">Work Item/Task</span></p></td></tr><tr class="c38"><td class="c33" colspan="1" rowspan="1"><p class="c1"><span class="c0">Id</span></p></td><td class="c27" colspan="1" rowspan="1"><p class="c1"><span class="c0">Title</span></p></td><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">Id</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Title</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Description</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estimation (Hours)</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Assigned To</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Status (To-do / InProcess / ToReview / Done)</span></p></td></tr><tr class="c12"><td class="c21" colspan="1" rowspan="6"><p class="c1"><span class="c0">US01</span></p></td><td class="c10" colspan="1" rowspan="6"><p class="c1"><span class="c0">Visualizar lista de obras asignadas</span></p></td><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear componente de tarjeta de obra</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Desarrollar tarjeta con imagen, nombre, descripci&oacute;n y bot&oacute;n &ldquo;Ingresar&rdquo;.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar vista de lista de obras</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear layout responsivo que muestre las tarjetas de proyectos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener obras desde backend</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar con API para recuperar obras asignadas al gerente.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar bot&oacute;n &ldquo;Ingresar&rdquo; en cada tarjeta</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redireccionar a vista de detalle de obra seg&uacute;n ID.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar bot&oacute;n &ldquo;A&ntilde;adir nuevo proyecto&rdquo;</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Colocar bot&oacute;n visible en la vista de obras.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T6</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redireccionar al formulario de nueva obra</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enlazar bot&oacute;n con la vista del formulario de registro.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">InProcess</span></p></td></tr><tr class="c12"><td class="c21" colspan="1" rowspan="5"><p class="c1"><span class="c0">US02</span></p></td><td class="c10" colspan="1" rowspan="5"><p class="c1"><span class="c0">&nbsp;Registrar nueva obra</span></p></td><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear formulario de registro de obra</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Incluir campos: nombre, ubicaci&oacute;n, estado, descripci&oacute;n, fecha y supervisor.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos obligatorios</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar bot&oacute;n &ldquo;Crear&rdquo; solo si todos los campos est&aacute;n completos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar formulario con backend</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar datos a la API para registrar obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">InProcess</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redireccionar a lista de obras tras crear</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar obra nueva en la lista tras el registro.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar formulario responsivo</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar compatibilidad visual en dispositivos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">InProcess</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="4"><p class="c1"><span class="c0">US03</span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c1"><span class="c0">Ver detalles de una obra</span></p></td><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear vista de detalle de obra (solo lectura)</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar campos: nombre, imagen, ubicaci&oacute;n, estado, fecha, supervisor.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener datos desde backend</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Llamar API con ID de obra seleccionada.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar vista de detalle</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar presentaci&oacute;n clara y legible.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar navegaci&oacute;n desde tarjeta</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Al hacer clic en &ldquo;Ingresar&rdquo;, redirigir con ID al detalle.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="4"><p class="c1"><span class="c0">US05</span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c1"><span class="c0">Visualizar lista de materiales del inventario por obra</span></p></td><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear tabla para lista de materiales</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Incluir columnas: fecha, nombre, tipo, unidad, cantidad, stock, precio, proveedor, total, estado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar navegaci&oacute;n desde obra a inventario</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Permitir acceso a inventario desde la vista de obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar con backend de inventario</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener lista de materiales por ID de obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar tabla con scroll y responsividad</span></p></td><td class="c14" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar usabilidad en distintos dispositivos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="4"><p class="c1"><span class="c0">US06</span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c1"><span class="c0">Consultar detalle de un material en el inventario</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear vista detallada del material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar campos: nombre, tipo, unidad, cantidad, stock, precio, proveedor, fecha, RUC, forma de pago, comprobante, estado, descripci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar navegaci&oacute;n desde tabla de materiales</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Al hacer clic en un material, redirigir a su vista detallada.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener informaci&oacute;n desde API de materiales</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Usar ID del material para consultar su informaci&oacute;n completa.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar vista de detalle de material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Presentaci&oacute;n clara, con posibles secciones colapsables.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="6"><p class="c1"><span class="c0">US07</span></p></td><td class="c3" colspan="1" rowspan="6"><p class="c1"><span class="c0">A&ntilde;adir nuevo material al inventario</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear bot&oacute;n &ldquo;A&ntilde;adir material&rdquo;</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Colocar bot&oacute;n visible en vista de inventario.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear formulario de registro de material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: nombre, tipo, unidad, cantidad, stock, precio, proveedor, fecha, etc.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos requeridos</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar que todos los campos est&eacute;n completos antes de enviar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar formulario con backend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar datos del nuevo material a la API.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Actualizar tabla de inventario tras registro</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar nuevo material y mensaje de &eacute;xito.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T6</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar formulario y vista</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar compatibilidad visual y responsividad.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="5"><p class="c1"><span class="c0">US08</span></p></td><td class="c3" colspan="1" rowspan="5"><p class="c1"><span class="c0">Editar informaci&oacute;n de un material del inventario</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear bot&oacute;n &ldquo;Editar&rdquo; en vista de detalle del material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Activar modo de edici&oacute;n de campos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar campos para modificaci&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Permitir cambios sobre los datos del material.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar validaciones al editar</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar que los cambios sigan reglas de negocio.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar cambios al backend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Actualizar material en base de datos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar mensaje de &eacute;xito y datos actualizados</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Confirmar acci&oacute;n al usuario y actualizar vista.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="6"><p class="c1"><span class="c0">US09</span></p></td><td class="c3" colspan="1" rowspan="6"><p class="c1"><span class="c0">Registrar el uso de materiales del inventario</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear bot&oacute;n &ldquo;Registrar uso&rdquo; en la vista de inventario</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Acceder al formulario de consumo.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear formulario de uso de material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: cantidad, fecha, tipo de uso, motivo.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar datos y existencia de stock suficiente</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Prevenir consumos mayores al stock actual.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Descontar stock autom&aacute;ticamente</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ajustar cantidad tras registrar el uso.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Guardar movimiento en historial</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar informaci&oacute;n del uso a backend.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T6</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar confirmaci&oacute;n de registro</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Notificar al usuario que el consumo fue guardado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="4"><p class="c1"><span class="c0">US11</span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c1"><span class="c0">Definir nivel m&iacute;nimo de stock por material</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar campo &ldquo;Stock m&iacute;nimo&rdquo; al formulario de material</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">En el registro y edici&oacute;n de materiales.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar valor m&iacute;nimo ingresado</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar que sea mayor o igual a cero.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Guardar valor m&iacute;nimo en backend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar valor junto con los dem&aacute;s datos del material.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Preparar funcionalidad para futuras alertas</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Registrar valor m&iacute;nimo para comparaci&oacute;n futura.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="5"><p class="c1"><span class="c0">US13</span></p></td><td class="c18" colspan="1" rowspan="5"><p class="c1"><span class="c0">Visualizar lista de incidentes por obra</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear secci&oacute;n &ldquo;Incidentes&rdquo; dentro de la vista de obra</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Acceso desde men&uacute; lateral o pesta&ntilde;a.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear tabla de incidentes por obra</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Columnas: fecha, tipo, gravedad, estado, responsable, bot&oacute;n &ldquo;Ver m&aacute;s&rdquo;.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar tabla con backend de incidentes</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener incidentes registrados por ID de obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear bot&oacute;n &ldquo;Ver m&aacute;s&rdquo; para detalles </span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redirigir a vista de detalle del incidente.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar tabla y vista</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar buena presentaci&oacute;n visual y orden l&oacute;gico.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="5"><p class="c1"><span class="c0">US14</span></p></td><td class="c18" colspan="1" rowspan="5"><p class="c1"><span class="c0">Registrar nuevo incidente</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear bot&oacute;n &ldquo;A&ntilde;adir nuevo incidente&rdquo;</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Disponible en el m&oacute;dulo de incidentes de una obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar formulario de registro</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: fecha, tipo, gravedad, descripci&oacute;n, medidas tomadas, estado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar validaciones del formulario</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos requeridos y formatos correctos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar formulario con backend</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar datos del incidente a la API para su almacenamiento.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Actualizar lista de incidentes y mostrar mensaje</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Refrescar tabla y confirmar con notificaci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="5"><p class="c1"><span class="c0">US15</span></p></td><td class="c18" colspan="1" rowspan="5"><p class="c1"><span class="c0">Ver detalle de un incidente registrado</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar navegaci&oacute;n desde tabla de incidentes a detalle</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Click en fila o bot&oacute;n &ldquo;Ver m&aacute;s&rdquo;.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear vista de detalle del incidente</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar todos los campos registrados en formato de solo lectura.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar bot&oacute;n de descarga del incidente (PDF)</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Solo visible para gerentes.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Generar reporte PDF con formato compatible</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Usar librer&iacute;a de generaci&oacute;n de documentos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Descargar archivo desde frontend</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conexi&oacute;n entre cliente y backend para generar/descargar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="5"><p class="c1"><span class="c0">US16</span></p></td><td class="c18" colspan="1" rowspan="5"><p class="c1"><span class="c0">Editar un incidente registrado</span></p><p class="c1 c5"><span class="c0"></span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar bot&oacute;n &ldquo;Editar&rdquo; en vista de detalle del incidente</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Solo para usuarios con rol supervisor.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar campos para edici&oacute;n</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Permitir modificaci&oacute;n de datos existentes.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar datos editados</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Revisar que se cumplan las reglas del formulario.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar datos actualizados al backend</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Petici&oacute;n PUT/PATCH para guardar cambios.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Confirmar cambios al usuario</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar notificaci&oacute;n y refrescar detalle.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c25" colspan="1" rowspan="4"><p class="c1"><span class="c0">US21</span></p></td><td class="c27 c28" colspan="1" rowspan="4"><p class="c1"><span class="c0">Visualizar lista de maquinaria en obra</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear secci&oacute;n &ldquo;Maquinaria&rdquo; dentro de la vista de obra</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar acceso desde men&uacute; o pesta&ntilde;a.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar tabla de maquinaria</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Columnas: nombre o tipo, c&oacute;digo o placa, fecha, estado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Conectar con backend para obtener datos</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Listado filtrado por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estilizar y ordenar tabla</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar visibilidad clara y responsiva.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c25" colspan="1" rowspan="5"><p class="c1"><span class="c0">US22</span></p></td><td class="c27 c28" colspan="1" rowspan="5"><p class="c1"><span class="c0">Registrar nueva maquinaria</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar bot&oacute;n &ldquo;A&ntilde;adir maquinaria&rdquo;</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">En m&oacute;dulo de maquinaria por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar formulario de registro de maquinaria</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: nombre, c&oacute;digo o placa, estado, proveedor, fecha, descripci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">3</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos obligatorios</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Requeridos: nombre, c&oacute;digo, estado, fecha.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar datos al backend para registrar maquinaria</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Petici&oacute;n POST con informaci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Actualizar lista de maquinaria y notificar</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Refrescar tabla y mostrar mensaje de &eacute;xito.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c25" colspan="1" rowspan="5"><p class="c1"><span class="c0">US23</span></p></td><td class="c27 c28" colspan="1" rowspan="5"><p class="c1"><span class="c0">Ver detalle de una maquinaria</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar navegaci&oacute;n al detalle desde la lista de maquinaria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Click sobre una fila o bot&oacute;n &ldquo;Ver m&aacute;s&rdquo;.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear vista detallada de la maquinaria</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar campos como nombre, c&oacute;digo, estado, proveedor, fecha, descripci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar bot&oacute;n para &ldquo;Descargar ficha t&eacute;cnica&rdquo;</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Visible para gerente.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Generar ficha t&eacute;cnica en PDF o formato descargable</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Incluir todos los datos de la maquinaria.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Integrar funci&oacute;n de descarga desde frontend</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Llamada al backend para obtener archivo y descargar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c25" colspan="1" rowspan="5"><p class="c1"><span class="c0">US24</span></p></td><td class="c27 c28" colspan="1" rowspan="5"><p class="c1"><span class="c0">Editar datos de maquinaria existente</span></p></td><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar bot&oacute;n &ldquo;Editar&rdquo; en vista de detalle</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Solo para supervisores.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c28 c29" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar campos editables del formulario</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Estado, proveedor, descripci&oacute;n, etc.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos al modificar</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Revisar campos obligatorios o formatos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar cambios al backend y actualizar maquinaria</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">PUT/PATCH en la API.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c8" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar mensaje de &eacute;xito y refrescar datos</span></p></td><td class="c14 c28" colspan="1" rowspan="1"><p class="c1"><span class="c0">Confirmaci&oacute;n visual al usuario.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ra&uacute;l</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="6"><p class="c1"><span class="c0">US25</span></p></td><td class="c18" colspan="1" rowspan="6"><p class="c31"><span class="c0">Visualizar panel de estad&iacute;sticas generales</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Crear secci&oacute;n &ldquo;Estad&iacute;sticas generales&rdquo;</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Accesible solo para gerentes.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Dise&ntilde;ar estructura base del panel</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Grillas o tarjetas con resumen general.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Implementar gr&aacute;fico de asistencia</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Datos agregados por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Implementar gr&aacute;fico de ausencias</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Datos de ausencias del personal por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Implementar resumen de personal por obra</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Total de trabajadores registrados.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T6</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c31"><span class="c0">Conectar con endpoints de estad&iacute;sticas del backend</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener datos en tiempo real o por periodo.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">InProcess</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="4"><p class="c1"><span class="c0">US26</span></p></td><td class="c18" colspan="1" rowspan="4"><p class="c1"><span class="c0">Visualizar resumen de asistencia por obra</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar gr&aacute;fico de barras de asistencia por obra</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar porcentaje o cantidad por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener datos desde backend (asistencia por obra)</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Endpoint filtrado por fechas u obras.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Integrar gr&aacute;fico en panel de estad&iacute;sticas generales</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Visualizaci&oacute;n responsiva.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar tooltip o leyenda para contexto</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar valores exactos al pasar el mouse.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="4"><p class="c1"><span class="c0">US27</span></p></td><td class="c18" colspan="1" rowspan="4"><p class="c1"><span class="c0">Ver ranking de obras con m&aacute;s personal</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar gr&aacute;fico circular (pie chart) con obras y su personal</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Visualmente atractivo y claro.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">In Process</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener datos del backend (personal por obra)</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Endpoint que devuelva conteo total por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Integrar el gr&aacute;fico en el panel de estad&iacute;sticas</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ordenar del mayor al menor.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar color por obra y leyenda</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mejora visual y claridad.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c17" colspan="1" rowspan="4"><p class="c1"><span class="c0">US28</span></p></td><td class="c18" colspan="1" rowspan="4"><p class="c1"><span class="c0">Consultar tasa de ausencia laboral</span></p></td><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar gr&aacute;fico tipo donut para tasa de ausencia</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar porcentaje de ausencias por obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear secci&oacute;n de ausencias laborales en el panel estad&iacute;stico</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Subsecci&oacute;n clara dentro del panel de estad&iacute;sticas.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar consulta al backend para obtener datos de ausencias por obra</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Endpoint nuevo o reutilizable.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c16" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c22" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar gr&aacute;fico con colores diferenciados y leyenda</span></p></td><td class="c2" colspan="1" rowspan="1"><p class="c1"><span class="c0">Claridad visual en comparaci&oacute;n entre obras.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Daniela</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c21" colspan="1" rowspan="4"><p class="c1"><span class="c0">US29</span></p></td><td class="c10" colspan="1" rowspan="4"><p class="c1"><span class="c0">Visualizar galer&iacute;a de im&aacute;genes por obra</span></p></td><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear secci&oacute;n &ldquo;Documentaci&oacute;n visual&rdquo; en la vista de obra</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Accesible solo para supervisores.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar galer&iacute;a en formato de cuadr&iacute;cula (grid)</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Miniaturas con hover o clic para ver en grande.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar t&iacute;tulo, descripci&oacute;n y fecha por cada imagen</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Datos visibles o en tooltip/modal.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-Do</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Integrar con backend para obtener im&aacute;genes de la obra</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Endpoint con paginaci&oacute;n o carga progresiva.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c21" colspan="1" rowspan="5"><p class="c1"><span class="c0">US30</span></p></td><td class="c10" colspan="1" rowspan="5"><p class="c1"><span class="c0">Subir nueva imagen a la galer&iacute;a</span></p></td><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">A&ntilde;adir bot&oacute;n &ldquo;A&ntilde;adir imagen&rdquo; en la galer&iacute;a</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Accesible solo para supervisores.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dise&ntilde;ar formulario de subida de imagen</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: t&iacute;tulo, fecha, ubicaci&oacute;n (opcional), imagen, descripci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos y tipos de archivo (imagen)</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Verificar extensiones y tama&ntilde;os.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar carga de imagen al servidor</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Con feedback visual de progreso.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c19 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c29 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar la nueva imagen a la galer&iacute;a al confirmar</span></p></td><td class="c14 c24" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar al inicio.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="3"><p class="c1"><span class="c0">US32</span></p></td><td class="c3" colspan="1" rowspan="3"><p class="c1"><span class="c0">Acceder a la configuraci&oacute;n general de una obra</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Agregar opci&oacute;n de &ldquo;Configuraci&oacute;n&rdquo; en la vista de obra</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Visible solo para gerentes.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear vista de formulario con datos actuales del proyecto</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Campos: nombre, ubicaci&oacute;n, estado, inicio, supervisor, descripci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener datos desde el backend para prellenar el formulario</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Llamada a API por ID de obra.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="5"><p class="c1"><span class="c0">US33</span></p></td><td class="c3" colspan="1" rowspan="5"><p class="c1"><span class="c0">Editar informaci&oacute;n de la obra</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar modo edici&oacute;n en formulario de configuraci&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Bot&oacute;n &ldquo;Editar&rdquo; cambia a modo editable.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar campos modificados antes de guardar</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Revisar datos obligatorios y formatos.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Enviar cambios al backend y actualizar obra</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">PUT o PATCH por ID.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar notificaci&oacute;n visual de &eacute;xito</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Confirmaci&oacute;n clara tras guardar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar opci&oacute;n para cancelar edici&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Restablece valores originales sin guardar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Sandra</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="4"><p class="c1"><span class="c0">US34</span></p></td><td class="c3" colspan="1" rowspan="4"><p class="c1"><span class="c0">Visualizar perfil de usuario</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear secci&oacute;n &quot;Perfil&quot; accesible desde men&uacute; de navegaci&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar solo si el usuario est&aacute; autenticado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar vista con campos: nombre, correo y fotograf&iacute;a</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Presentar informaci&oacute;n en panel limpio y claro.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener informaci&oacute;n del perfil desde el backend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Llamada al endpoint de datos del usuario actual.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar imagen de perfil con opci&oacute;n de placeholder si no existe</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Imagen circular o cuadrada.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="5"><p class="c1"><span class="c0">US35</span></p></td><td class="c3" colspan="1" rowspan="5"><p class="c1"><span class="c0">Editar datos de perfil personal</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">A&ntilde;adir bot&oacute;n &ldquo;Editar perfil&rdquo; en vista de perfil</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Visible para usuario autenticado.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Habilitar campos editables para nombre, correo y foto</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Input text y selector de imagen.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar datos modificados antes de enviar</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Revisar formato del correo y longitud de nombre.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Subir imagen al servidor (si se modific&oacute;)</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Procesamiento y guardado de imagen.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-do</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Guardar cambios en backend y actualizar la vista</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar notificaci&oacute;n visual al guardar.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c13" colspan="1" rowspan="5"><p class="c1"><span class="c0">US36</span></p></td><td class="c3" colspan="1" rowspan="5"><p class="c1"><span class="c0">Acceder a configuraci&oacute;n de cuenta</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear nueva secci&oacute;n &ldquo;Configuraci&oacute;n&rdquo; en men&uacute; de usuario</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Accesible desde panel superior o perfil.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Dise&ntilde;ar formulario con selectores de idioma, tema visual y plan</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Usar select inputs o radio buttons.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Obtener configuraci&oacute;n actual del usuario al entrar</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Prellenar opciones actuales.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Aplicar cambios localmente (tema) e informar al backend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Cambiar tema inmediatamente y persistir configuraci&oacute;n.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">2</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-do</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar notificaci&oacute;n de &eacute;xito tras guardar configuraci&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Feedback visual claro.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Maylhy</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-do</span></p></td></tr><tr class="c12"><td class="c15" colspan="1" rowspan="3"><p class="c1"><span class="c0">US45</span></p></td><td class="c27 c32" colspan="1" rowspan="3"><p class="c1"><span class="c0">Acceder a la pantalla de bienvenida</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear una vista de bienvenida accesible desde el dominio base</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Ejemplo: / o /inicio si est&aacute; separado de la landing.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar opci&oacute;n destacada &ldquo;Iniciar sesi&oacute;n&rdquo; con llamado a la acci&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Puede ser bot&oacute;n o tarjeta clara con &iacute;cono.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redirigir al formulario de login al seleccionar iniciar sesi&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Validar navegaci&oacute;n sin errores.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c30" colspan="1" rowspan="5"><p class="c1"><span class="c0">US46</span></p></td><td class="c23" colspan="1" rowspan="5"><p class="c1"><span class="c0">&nbsp;Iniciar sesi&oacute;n </span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Crear formulario de login con campos para correo y contrase&ntilde;a</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Con inputs validados y etiquetas claras.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar validaci&oacute;n de campos vac&iacute;os en frontend</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">No permitir env&iacute;o si hay campos vac&iacute;os.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Integrar autenticaci&oacute;n con backend y verificaci&oacute;n de credenciales</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Manejar tokens, sesiones o cookies seg&uacute;n el stack.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mostrar mensaje de error si las credenciales son incorrectas</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mensaje: &ldquo;Correo o contrase&ntilde;a incorrectos&rdquo;.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T5</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redirigir al panel de inicio adecuado seg&uacute;n el rol</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">L&oacute;gica condicional seg&uacute;n rol recibido desde backend.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">1</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c33 c34" colspan="1" rowspan="4"><p class="c1"><span class="c0">US47</span></p></td><td class="c27 c34" colspan="1" rowspan="4"><p class="c1"><span class="c0">Cerrar sesi&oacute;n</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T1</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">A&ntilde;adir bot&oacute;n o &iacute;tem de men&uacute; para cerrar sesi&oacute;n en la UI</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Accesible desde men&uacute; lateral o superior.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T2</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Implementar l&oacute;gica de cierre de sesi&oacute;n </span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Limpieza de datos del usuario en el frontend/backend.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T3</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Redirigir al usuario a la pantalla de acceso tras cerrar sesi&oacute;n</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Asegurar que no pueda volver con bot&oacute;n de retroceso.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">Done</span></p></td></tr><tr class="c12"><td class="c4" colspan="1" rowspan="1"><p class="c1"><span class="c0">T4</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c1"><span class="c0">Opcional: mostrar notificaci&oacute;n &ldquo;Sesi&oacute;n cerrada correctamente&rdquo;</span></p></td><td class="c11" colspan="1" rowspan="1"><p class="c1"><span class="c0">Para mejor feedback.</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c1"><span class="c0">0.5</span></p></td><td class="c9" colspan="1" rowspan="1"><p class="c1"><span class="c0">Mathew</span></p></td><td class="c6" colspan="1" rowspan="1"><p class="c1"><span class="c0">To-do</span></p></td></tr></table><p class="c5 c26"><span class="c40"></span></p>
 
 
-#### 5.2.2.4.  Development Evidence for Sprint Review.
+#### **5.2.2.4.  Development Evidence for Sprint Review.**
 
 
 | Repository | Branch | Commit Id | Commit | Message Body | Committed on (Date) |
@@ -3798,19 +3863,21 @@ A continuación, se detallan las funcionalidades implementadas para cada uno de 
 
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 
-## Procesos de Deployment realizados durante el Sprint
+<ins>**Procesos de Deployment realizados durante el Sprint**</ins>
 
 Durante el presente sprint, hemos implementado una estrategia de despliegue completa para el **backend de BuildTruck**, desarrollado en **.NET 8** con **Entity Framework Core** y **MySQL**. El enfoque principal ha sido crear una infraestructura robusta en AWS EC2 que proporcione APIs RESTful escalables y un entorno de producción confiable para soportar las operaciones del sistema BuildTruck.
 
-### Implementación de Backend .NET en AWS EC2
+**Implementación de Backend .NET en AWS EC2**
 
 Decidimos implementar nuestro backend en **Amazon Web Services (AWS) EC2** utilizando una arquitectura containerizada con **Docker** y **Docker Compose**. Esta decisión nos ha permitido tener control total sobre la infraestructura, escalabilidad y un entorno de producción robusto.
 
-**Figura**
+**Figura**  
 *Amazon web service intancia de BuildTruck*
 <p align="center">
 <img src="images/deploySprint3.png" alt="PB" width="850">
 </p>
+
+*Nota.* Elaboración propia.
 
 **URL base del API:**
 ```
@@ -3822,24 +3889,24 @@ http://52.23.83.194:5000/api/
 http://52.23.83.194:5000/swagger/index.html
 ```
 
-### Configuración de la Infraestructura
+**Configuración de la Infraestructura**
 
-#### Especificaciones del Servidor
-- **Instancia:** AWS EC2 t2.micro
-- **Sistema Operativo:** Amazon Linux 2023
-- **RAM:** 1 GB
-- **CPU:** 1 vCPU
-- **Almacenamiento:** 8 GB SSD
-- **IP Pública:** 52.23.83.194
+- **Especificaciones del Servidor**
+  - **Instancia:** AWS EC2 t2.micro
+  - **Sistema Operativo:** Amazon Linux 2023
+  - **RAM:** 1 GB
+  - **CPU:** 1 vCPU
+  - **Almacenamiento:** 8 GB SSD
+  - **IP Pública:** 52.23.83.194
 
-#### Stack Tecnológico Implementado
-- **.NET 8:** Framework principal del backend
-- **Entity Framework Core:** ORM para manejo de base de datos
-- **MySQL 8.0:** Sistema de gestión de base de datos
-- **Docker & Docker Compose:** Containerización y orquestación
-- **Swagger/OpenAPI:** Documentación automática de APIs
+- **Stack Tecnológico Implementado**
+  - **.NET 8:** Framework principal del backend
+  - **Entity Framework Core:** ORM para manejo de base de datos
+  - **MySQL 8.0:** Sistema de gestión de base de datos
+  - **Docker & Docker Compose:** Containerización y orquestación
+  - **Swagger/OpenAPI:** Documentación automática de APIs
 
-### Servicios API Implementados
+**Servicios API Implementados**
 
 | Método HTTP | Endpoint | Descripción | Ejemplo de uso |
 |-------------|----------|-------------|----------------|
@@ -3895,15 +3962,15 @@ http://52.23.83.194:5000/swagger/index.html
 | PUT | `/api/v1/projects/{id}/update` | Actualiza un proyecto existente | Modificar estado o detalles del proyecto |
 | DELETE | `/api/v1/projects/{id}` | Elimina un proyecto | Dar de baja proyecto completado |
 
-### Proceso de Containerización
+**Proceso de Containerización**
 
-#### Dockerfile Multi-stage
+- **Dockerfile Multi-stage**
 Implementamos un **Dockerfile multi-stage** optimizado que:
-- **Stage 1 (Build):** Utiliza `mcr.microsoft.com/dotnet/sdk:8.0` para compilar la aplicación
-- **Stage 2 (Runtime):** Utiliza `mcr.microsoft.com/dotnet/aspnet:8.0` para ejecutar la aplicación
-- **Optimización:** Reduce el tamaño final del container de 1.2GB a 450MB
+  - **Stage 1 (Build):** Utiliza `mcr.microsoft.com/dotnet/sdk:8.0` para compilar la aplicación
+  - **Stage 2 (Runtime):** Utiliza `mcr.microsoft.com/dotnet/aspnet:8.0` para ejecutar la aplicación
+  - **Optimización:** Reduce el tamaño final del container de 1.2GB a 450MB
 
-#### Docker Compose Configuration
+- **Docker Compose Configuration**
 ```yaml
 services:
   buildtruck-backend:
@@ -3926,11 +3993,11 @@ services:
     restart: always
 ```
 
-### Configuración de CI/CD con GitHub Actions
+**Configuración de CI/CD con GitHub Actions**
 
 Implementamos un pipeline automatizado que incluye:
 
-#### Pipeline de Despliegue
+- **Pipeline de Despliegue**
 ```yaml
 name: Deploy to AWS EC2
 on:
@@ -3953,36 +4020,35 @@ jobs:
             docker-compose down
             docker-compose up -d --build
 ```
+**Configuración de Base de Datos**
 
-### Configuración de Base de Datos
+- **MySQL 8.0 Configuration**
+  - **Puerto:** 3306
+  - **Base de datos:** buildtruckdb
+  - **Collation:** utf8mb4_unicode_ci
+  - **Engine:** InnoDB
+  - **Backup automático:** Configurado via Docker volumes
 
-#### MySQL 8.0 Configuration
-- **Puerto:** 3306
-- **Base de datos:** buildtruckdb
-- **Collation:** utf8mb4_unicode_ci
-- **Engine:** InnoDB
-- **Backup automático:** Configurado via Docker volumes
-
-#### Entity Framework Migrations
+**Entity Framework Migrations**
 ```bash
 # Migraciones automáticas en startup
 dotnet ef database update
 ```
 
-### Configuración de Seguridad
+**Configuración de Seguridad**
 
-#### Security Groups de AWS
-- **Puerto 22:** SSH para administración
-- **Puerto 80:** HTTP (redirigido a 5000)
-- **Puerto 5000:** API Backend
-- **Puerto 3306:** MySQL (restringido a VPC)
+- **Security Groups de AWS**
+  - **Puerto 22:** SSH para administración
+  - **Puerto 80:** HTTP (redirigido a 5000)
+  - **Puerto 5000:** API Backend
+  - **Puerto 3306:** MySQL (restringido a VPC)
 
-#### Variables de Entorno Seguras
-- Contraseñas de base de datos via Docker secrets
-- API keys protegidas con variables de entorno
-- Configuración de CORS para dominios específicos
+- **Variables de Entorno Seguras**
+  - Contraseñas de base de datos via Docker secrets
+  - API keys protegidas con variables de entorno
+  - Configuración de CORS para dominios específicos
 
-### Resultados y Métricas del Deployment
+**Resultados y Métricas del Deployment**
 
 El proceso de despliegue ha resultado en mejoras significativas:
 
@@ -3994,30 +4060,29 @@ El proceso de despliegue ha resultado en mejoras significativas:
 | **Uptime del servidor** | 24/7 | 24/7 ✅ |
 | **Capacidad de requests/seg** | 500 req/s | > 100 req/s ✅ |
 | **Tamaño del container** | 450MB | < 1GB ✅ |
+<hr>
+<br>
 
-
-#### Métricas de Sistema
+**Métricas de Sistema**
 ```
 Database: Connected
 Memory Usage: 340MB / 1GB
 CPU Usage: 15%
 ```
 
-### Entorno de Producción Configurado
+**Entorno de Producción Configurado**
 
-#### URLs de Acceso
-- **API Base:** http://52.23.83.194:5000/api/
-- **Swagger UI:** http://52.23.83.194:5000/swagger/index.html
+  **URLs de Acceso**
+- **API Base:** [http://52.23.83.194:5000/api/](http://52.23.83.194:5000/api/)
+- **Swagger UI:** [http://52.23.83.194:5000/swagger/index.html](http://52.23.83.194:5000/swagger/index.html)
 
-
-
-**Figura**
+**Figura**  
 *Swagger UI Page BuildTruckBack.API*
 <p align="center">
 <img src="images/deploy1.1Sprint3.png" alt="PB" width="850">
 </p>
 
-#### Configuración de Auto-restart
+- **Configuración de Auto-restart**
 Todos los servicios están configurados con `restart: always` para garantizar disponibilidad continua ante fallos del sistema.
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**  
@@ -4031,6 +4096,96 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 <p align="center">
   <img src="images/CollaborationInsights3.PNG" alt="PB" width="850">
 </p>
+
+### ***5.2.4. Sprint 4.***
+
+##### **5.2.4.1. Sprint Planning 4.** 
+
+
+##### **5.2.4.2. Aspect Leaders and Collaborators.** 
+
+<table class="c8">
+<tr class="c3">
+<td><p><b>Team Member (Last Name, First Name)</b></p></td>
+<td><p><b>GitHub Username</b></p></td>
+<td><p><b>Project Report Leader (L) / Collaborator (C)</b></p></td>
+<td><p><b>FrontEnd Leader (L) / Collaborator (C)</b></p></td>
+<td><p><b>Backend Leader (L) / Collaborator (C)</b></p></td>
+</tr>
+<tr class="c3">
+<td><p>Bellido Salas, Raúl</p></td>
+<td><p>raulbellidosalas</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+</tr>
+<tr class="c3">
+<td><p>Gómez Flores, Daniela Araceli</p></td>
+<td><p>DanieGF1</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+</tr>
+<tr class="c3">
+<td><p>Gutiérrez Condo, Maylhy Olinda</p></td>
+<td><p>Ly009463</p></td>
+<td><p>C</p></td>
+<td><p>L</p></td>
+<td><p>C</p></td>
+</tr>
+<tr class="c3">
+<td><p>Luyo Correa, Sandra Paula</p></td>
+<td><p>Paulu27</p></td>
+<td><p>L</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+</tr>
+<tr class="c3">
+<td><p>Roca Tineo, Steven Mathew</p></td>
+<td><p>matthewsrt29</p></td>
+<td><p>C</p></td>
+<td><p>C</p></td>
+<td><p>L</p></td>
+</tr>
+</table>
+
+##### **5.2.4.3. Sprint Backlog 4.** 
+
+
+##### **5.2.4.4. Development Evidence for Sprint Review.** 
+
+
+##### **5.2.4.5. Execution Evidence for Sprint Review.** 
+
+
+##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
+
+
+##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
+
+
+##### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+Para poder integrar nuestro trabajo e implementarlo a la aplicación, como en las entregas anteriores, usamos GitHub. Los repositorios usados fueron:
+- BuildTruck/BackendWebApps: [https://github.com/BuildTruck/BackendWebApps](https://github.com/BuildTruck/BackendWebApps)
+- BuildTruck/FrontendWebApps: [https://github.com/BuildTruck/FrontendWebApps](https://github.com/BuildTruck/FrontendWebApps)
+
+**Figura 104**  
+*Team Collaboration Insights de BackendWebApps durante Sprint 4*
+<p align="center">
+  <img src="images/CollaborationInsights4_1.PNG" alt="PB" width="1000">
+</p>
+	
+*Nota.* Elaboración propia. Obtenido de [https://github.com/BuildTruck/BackendWebApps](https://github.com/BuildTruck/BackendWebApps)
+
+**Figura 105**  
+*Team Collaboration Insights de FrontendWebApps durante Sprint 4*
+<p align="center">
+  <img src="images/CollaborationInsights4_2.PNG" alt="PB" width="1000">
+</p>
+	
+*Nota.* Elaboración propia. Obtenido de [https://github.com/BuildTruck/FrontendWebApps](https://github.com/BuildTruck/FrontendWebApps)
+
 
 ## **5.3. Validation Interviews.**
 
@@ -4092,87 +4247,99 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 * ¿Usarías esto desde tu celular, tablet o laptop cada día?
 
 
-### 5.3.2. Registro de Entrevistas.
+### **5.3.2. Registro de Entrevistas.**
 
-## Entrevistado #1: Victor Bellido 
-Figura
-Imagen del usuario número 1 entrevistado
+<ins>**Registro de entrevistas para segmento objetivo: Supervisor de obra**<ins>  
+
+**Entrevistado #1: Victor Bellido**  
+**Figura**  
+*Imagen del usuario número 1 entrevistado*
 
 <p align="center">
   <img src="images/raulsupervisor.JPG" width="850">
 </p>
 
+*Nota.* Elaboración propia. Obtenido de []()
 
 El supervisor actualmente controla el personal con tareos físicos y gestiona materiales mediante hojas de requerimiento manuales. Valora que la plataforma clasifique claramente los recursos (materiales, equipos, personal), pero propone mejoras clave como subclasificaciones más detalladas (equipo pesado/liviano, personal técnico vs. operario) e integrar herramientas de planificación temporal. Destaca que la solución optimizaría el control de costos en tiempo real y la usaría diariamente en dispositivos móviles, aunque su adopción total dependería de incorporar sus sugerencias para una gestión más estratégica y especializada.
 
-##  Entrevistada #2: Denisse Vargas 
-Figura
-Imagen del usuario número 2 entrevistada
+**Entrevistada #2: Denisse Vargas**   
+
+**Figura**  
+*Imagen del usuario número 2 entrevistada*
 
 <p align="center">
   <img src="images/danielasupervisor.JPG" width="850">
 </p>
 
+*Nota.* Elaboración propia. Obtenido de []()
 
 Denisse controla al personal y recursos con métodos manuales (Excel, WhatsApp y fichas físicas), lo cual considera lento e impreciso. Al usar BuildTruck, siente que está diseñada para su día a día en obra, valorando su enfoque práctico. Le parece útil para registrar asistencia, subir fotos, gestionar inventario y ver reportes desde el celular. Resaltó la importancia de tener accesos rápidos, formularios simples y alertas. Para ella, la principal ventaja es la centralización de la información, que le ahorraría tiempo y mejoraría el orden del proyecto. Está dispuesta a usar la plataforma regularmente desde su celular si se mantiene clara y funcional.
 
-## Entrevistada #3: Milagros Arellano
-Figura
-Imagen del usuario número 3 entrevistada
+
+**Entrevistada #3: Milagros Arellano**  
+
+**Figura**  
+*Imagen del usuario número 3 entrevistada*
 
 <p align="center">
   <img src="images/danielasupervisro2.JPG" width="850">
 </p>
 
+*Nota.* Elaboración propia. Obtenido de []()
 
 Milagros actualmente gestiona la obra con herramientas manuales como listas impresas, llamadas y notas escritas, lo que genera demoras y desorganización. Encuentra en BuildTruck una solución práctica y centrada en el trabajo real de campo. Destaca que la plataforma transmite orden, facilita el control del día a día y permite gestionar sin depender de una oficina. Sugiere mejoras como paneles rápidos, recordatorios, y formularios que puedan repetir datos comunes. Considera que usarla desde el celular haría su trabajo más ágil y eficiente. Ve valor en tener todo digitalizado en un solo lugar, especialmente para evitar errores y pérdidas de información.
 
-### Segmento objetivo #2: Gerentes de obra 
+**Registro de entrevistas del segmento objetivo: Gerentes de obra** 
 
-## Entrevistado #4: Naim Napuri
-Figura
-Imagen del usuario número 4 entrevistado
+**Entrevistado #4: Naim Napuri**  
+
+**Figura**  
+*Imagen del usuario número 4 entrevistado*
 
 <p align="center">
   <img src="images/mayñlhygerente.JPG" width="850">
 </p>
- 
+
+ *Nota.* Elaboración propia. Obtenido de []()
 
 Naim, gerente de obra, explicó que actualmente gestiona sus proyectos mediante reportes enviados por WhatsApp o correo, y controla el inventario y personal en hojas de Excel, lo que vuelve el proceso lento y propenso a errores. Indicó que usa herramientas como Google Drive, Excel y ocasionalmente Trello o Google Forms. Al explorar la plataforma BuildTruck, comprendió que centraliza la gestión de obras, y mostró interés en usarla ya que ayudaría a organizar todo en un solo lugar, ahorrando tiempo y evitando la duplicación de datos. Opinó que el diseño es atractivo, pero sugirió mejorar algunos íconos e imágenes borrosas. Consideró muy útil la vista del inventario y afirmó que BuildTruck podría reemplazar las herramientas actuales. Reconoció que el mayor reto sería la adaptación del equipo, pero aun así recomendaría la plataforma a otros colegas por su capacidad de ofrecer control, visibilidad y eficiencia en tiempo real.
 
-## Entrevistada #5: Lourdes Salas
-Figura
-Imagen del usuario número 5 entrevistada
+**Entrevistada #5: Lourdes Salas**  
+**Figura**  
+*Imagen del usuario número 5 entrevistada*
 
 <p align="center">
   <img src="images/raulgerente.JPG" width="850">
 </p>
 
+*Nota.* Elaboración propia. Obtenido de []()
 
 La gerente gestiona sus obras mediante expedientes técnicos y utiliza Excel como herramienta principal. Considera la plataforma evaluada como eficiente y oportuna, destacando especialmente su módulo de inventario por mostrar información completa sobre materiales, cantidades y costos. Aunque no sugiere cambios inmediatos en el diseño, muestra interés en adoptar la herramienta como complemento a sus procesos actuales, reconociendo su potencial para modernizar la gestión. Su principal motivación es acceder a información centralizada y recomendaría la plataforma a colegas para explorar nuevas soluciones tecnológicas en el sector.
 
-## Entrevistado #6: Antonio Enciso
-Figura
-Imagen del usuario número 6 entrevistado
+**Entrevistado #6: Antonio Enciso**  
+
+**Figura**  
+*Imagen del usuario número 6 entrevistado*
 
 <p align="center">
   <img src="images/mathewgerente.JPG" width="850">
 </p>
 
+*Nota.* Elaboración propia. Obtenido de []()
 
 El gerente de obra entrevistado comentó que actualmente controla al personal mediante listas en papel y se comunica por WhatsApp. Las solicitudes de materiales y reportes las hace físicamente o por llamadas, y el inventario lo registra manualmente en cuadernos o plantillas de Excel. Al explorar la landing page de BuildTruck, percibió la plataforma como una herramienta moderna para organizar mejor los registros diarios, entendiendo que su objetivo es centralizar la gestión de proyectos, personal, inventario y reportes. Le pareció que sí está pensada para su rol, especialmente si se mejora el registro de avances o asistencia. Sugirió hacer más visible la opción de cambiar el idioma. Al interactuar con el prototipo, destacó la facilidad para registrar asistencia y el ahorro de tiempo al usar la app desde una PC o celular. Consideró claros los formularios, aunque recomendó incluir ejemplos o ayudas visuales. Valoró la centralización por proyectos y propuso agregar alertas o recordatorios automáticos. Señaló que usaría la plataforma principalmente desde su celular.
 
 
-### 5.3.3. Evaluaciones según heurísticas.
+### **5.3.3. Evaluaciones según heurísticas.**
 
-### UX Heuristics & Principles Evaluation 
+<p align="center"><strong>UX Heuristics & Principles Evaluation</strong></p>
+<p align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></p>
 
-## Usability – Inclusive Design – Information Architecture
-
-## CARRERA : Ingeniería de Software
-## CURSO : Aplicaciones Web
-## SECCIÓN: 4388
-## PROFESORES:
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones Web
+**SECCIÓN:** 4388
+**PROFESORES:**
 
 Mori Paiva, Hugo Allan
 Reupo-Musayón, Naldo
@@ -4181,7 +4348,7 @@ Sánchez Seña, Alberto Wilmer
 Velásquez Núñez, Ángel Augusto
 Villafuerte Bazán, Óscar Iván
 
-## CLIENTE(S) : 
+**CLIENTE(S):** 
 
 Victor Bellido
 Denisse Vargas
@@ -4190,28 +4357,28 @@ Milagros Arellano
 Antonio Enciso
 Lourdes Salas
 
-## SITE o APP A EVALUAR: BuildTruck
+***SITE o APP A EVALUAR:*** BuildTruck
 
-## TAREAS A EVALUAR: 
+***TAREAS A EVALUAR:***
 
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*  
 
-1	Control y registro de asistencia del personal.
-2	Registro y visualización del inventario (stock actual, entradas y salidas).
-3	Generación y visualización de reportes por obra.
-4	Solicitudes de materiales a almacén/residente.
-5	Subida de fotos para avances de obra.
-6	Acceso móvil desde el celular o laptop.
-7	Exploración y comprensión de la landing page.
-8	Navegación entre pestañas y módulos.
-9	Claridad y utilidad de los formularios.
-10	Visualización general por proyecto.
-11	Alertas o recordatorios automáticos.
-12	Clasificación y subclasificación de recursos (materiales/personas/maquinaria).
-13	Planificación temporal de recursos (cronograma, calendario de uso).
-14	Cambiar el idioma de la plataforma.
+1.	Control y registro de asistencia del personal.
+2.	Registro y visualización del inventario (stock actual, entradas y salidas).
+3.	Generación y visualización de reportes por obra.
+4.	Solicitudes de materiales a almacén/residente.
+5.	Subida de fotos para avances de obra.
+6.	Acceso móvil desde el celular o laptop.
+7.	Exploración y comprensión de la landing page.
+8.	Navegación entre pestañas y módulos.
+9.	Claridad y utilidad de los formularios.
+10.	Visualización general por proyecto.
+11.	Alertas o recordatorios automáticos.
+12.	Clasificación y subclasificación de recursos (materiales/personas/maquinaria).
+13.	Planificación temporal de recursos (cronograma, calendario de uso).
+14.	Cambiar el idioma de la plataforma.
 
-## ESCALA DE SEVERIDAD:
+***ESCALA DE SEVERIDAD:***  
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | Nivel | Descripción |
@@ -4222,7 +4389,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 
-TABLA RESUMEN:
+***TABLA RESUMEN:***
 | # | Problema |Escala de severidad | Heurística/Principio violada(o) |
 |----|----------|-----------|---------------------|  
 | 1 | Registro de asistencia requiere demasiados pasos (ej.: no permite escanear QR o marcar múltiples personas a la vez).| 3 | Flexibilidad y eficiencia (Nielsen #7)|
@@ -4232,7 +4399,7 @@ TABLA RESUMEN:
 | 5 | Subida de fotos no permite etiquetar avances (mezcla imágenes sin contexto).| 2 | Match with real world (Nielsen #2)|
 | 6 | Navegación móvil lenta entre módulos (pestañas tardan en cargar).| 3 | Eficiencia (Usabilidad móvil)|
 | 7 | Landing page no explica funcionalidades clave (ej.: cómo crear un reporte rápido).| 2 | Ayuda y documentación (Nielsen #10)|
-
+<hr>
 
 
 ## **5.4. Video About-the-Product.**
@@ -4255,10 +4422,11 @@ El proceso de desarrollo avanzó mediante la definición de una arquitectura de 
 
 Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuitiva y el uso de herramientas tecnológicas modernas, BuildWise no solo ha conseguido materializar una solución digital robusta, sino también sentar las bases para alcanzar su visión de ser líderes en soluciones tecnológicas para el sector construcción en América Latina. Este proyecto reafirma nuestro compromiso con la innovación, la eficiencia y la transformación positiva del sector, y marca el inicio de una trayectoria de crecimiento y consolidación en el mercado.
 
-<hr>
+
+## **Recomendaciones**
+
 
 ## **Video About the team**
-
 El video "About-the-Team" resalta el esfuerzo colectivo y los logros obtenidos por el equipo detrás del proyecto BuildTruck, desarrollado en el marco del curso de Aplicaciones Web. A lo largo del proceso, el equipo colaboró de manera efectiva utilizando reuniones regulares y herramientas como GitHub, Discord y WhatsApp para coordinar tareas, superar desafíos y avanzar en la creación de una plataforma funcional. Desde la elaboración de wireframes, la investigación de segmentos objetivos, la realización de entrevistas y el diseño de prototipos hasta el desarrollo de frontend, backend y la documentación de sprints, cada miembro aportó su experiencia, enfrentando retos como la gestión del tiempo y la integración de funcionalidades. Este trabajo no solo resultó en un producto viable, sino que también fortaleció habilidades técnicas y de organización grupal, preparándolos para futuros proyectos. A continuación, se presentan las contribuciones individuales que hicieron posible este éxito.
 
 * **Raúl Bellido Salas** (Código U20231931), estudiante de Ingeniería de Software, diseñó los wireframes de BuildTruck, investigó segmentos objetivos (gerentes y supervisores) y realizó entrevistas para las entregas TB1 y actual, incluyendo la validación de prototipos. Desarrolló endpoints para frontend y backend, destacando una organización moderadamente efectiva, aunque señaló la necesidad de mejorar el control del tiempo y apoyar más en la corrección de errores y soluciones.  
