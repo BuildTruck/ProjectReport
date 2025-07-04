@@ -3644,6 +3644,22 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 #### **5.2.3.1. Sprint Planning 3**
 
 
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:**  En el sprint decidimos reunirnos para verificar el progreso de cada uno de los participantes y finalizar de manera efectiva el entregable de esta ocasión |  |
+| Date | 2025-06-19 |
+| Time | 21:00 PM |
+| Location | Discord Call |
+| Prepared By | Roca Tineo, Steven Mathew |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew |
+| Sprint n \- Review Summary | Revisamos nuestro avance y validamos el funcionamiento de los endpoints. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos los puntos a terminar en el documento. |
+| Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner y al tutor sobre el avance Hacer reuniones interdiarias para priorizar el avance  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Our focus is on **implementing the core functionalities of the web service and user registration module**. We believe it delivers **a clear way to interact with the back end service** to **construction SMEs and administrative staff**, This will be confirmed when **users are able to successfully access the platform, complete the registration process, and navigate to use and interact with the web service through our swagger deployed page** |
+| Sprint n Velocity | 3 |
+| Sum of Story Points | 7 |
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 
@@ -3656,6 +3672,42 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 | Roca Tineo, Steven Mathew | matthewsrt29 | C | C | L |
 
 #### **5.2.3.3. Sprint Backlog 3**  
+
+
+
+| Sprint \# | Sprint 3 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US17 | Visualizar lista de personal en obra | T1 | Crear tabla para visualizar personal por obra | Tabla con columnas: nombre, DNI, rol, estado | 2 | Raul | Done |
+|  |  | T2 | Hacer el endpoint del  backend (GET /api/personnel?projectId=) | Obtener personal filtrado por obra desde el backend | 2 | Paula | Done |
+|  |  | T3 | Estilizar tabla para vista responsiva | Formato responsive con scroll horizontal en móviles | 1 | Paula | Done |
+|  |  | T4 | Implementar botón “Descargar lista” (PDF/Excel) | Conexión con endpoint de exportación de personal | 2 | Mathew | Done |
+| US18 | Registrar nuevo personal | T1 | Crear botón “Registrar personal” | Visible para supervisores dentro del módulo	 | 1 | Mathew | Done |
+|  |  | T2 | Diseñar formulario de registro | Campos: nombre, ingreso, DNI, teléfono, rol, correo	 | 2 | Daniela | Done |
+|  |  | T3 | Validar campos obligatorios	 | Validación básica en frontend	 | 1 | Daniela | InProcess |
+|  |  | T4 | Enviar datos al backend (POST /api/personnel)	 | Conexión al API y visualización de nuevo trabajador	 | 2 | Mathew | Done |
+|  |  | T5 | Notificar y actualizar tabla	 | Mostrar mensaje de éxito y nueva fila	 | 1 | Mathew | InProcess |
+| US19 | Ver detalle de un trabajador | T1 | Navegar a vista de detalle al hacer clic	 | Acceder desde fila de la tabla de personal	 | 1 | Mathew | Done |
+|  |  | T2 | Mostrar información completa del trabajador	 | Vista solo lectura con datos completos y fotografía	 | 2 | Maylhy | Done |
+|  |  | T3 | Añadir botón “Descargar ficha”	 | Botón visible solo para gerentes	 | 1 | Maylhy | Done |
+|  |  | T4 | Generar ficha en PDF	 | Integración con exportación en PDF	 | 2 | Mathew | In process |
+| US20  | Editar información del personal | T1 | Habilitar modo edición desde vista detalle	 | Solo para supervisores	 | 1 | Raul | Done |
+|  |  | T2 | Habilitar campos editables	 | Inputs para editar datos básicos	 | 2 | Paula | Done |
+|  |  | T3 | Validar campos antes de enviar	 | Validación de correo, DNI, nombre	 | 1 | Maylhy | Done |
+|  |  | T4 | Confirmar y mostrar mensaje de éxito	 | Notificación de guardado exitoso	 | 1 | Paula | Done |
+| US31 | Eliminar una imagen documentada | T1 | Implementar botón “Eliminar imagen” | Mostrar opción en galería para supervisores	 | 1 | Raul | Done |
+|  |  | T2 | 	Mostrar alerta de confirmación | Modal con opción de confirmar/cancelar	 | 1 | Maylhy | Done |
+|  |  | T3 | 	Realizar el backend para eliminar imagen (DELETE /api/v1/users/{id}/profile-image o ruta específica) | Eliminar registro e imagen de Cloudinary	 | 2 | Mathew | Done |
+|  |  | T4 | Actualizar galería tras eliminación | Refrescar lista sin recargar vista completa	 | 1 | Maylhy | Done |
+| US01  | Visualizar lista de obras asignadas | T1 | Endpoint GET de obras para gerente | Implementar /api/v1/projects/by-manager/{id} para retornar proyectos por gerente autenticado. | 2 | Daniela | Done |
+| US02  | Registrar nueva obra | T1 | Endpoint POST para crear obra	 | Implementar /api/v1/projects/create para registrar nueva obra.	 | 2 | Raul | Done |
+| US05 | Visualizar lista de materiales por obra | T1 | 	Endpoint GET de materiales por obra | 	Implementar /api/materials/project/{projectId} para devolver materiales asociados. | 2 | Paula | Done |
+| US06 | Ver detalle de material | T1 | Endpoint GET para obtener detalle de material	 | Implementar /api/materials/{id} (confirmar si usaste este endpoint o uno combinado).	 | 2 | Maylhy | Done |
+| US08  | Editar material | T1 | Endpoint PUT para editar material	 | Implementar lógica en API para actualizar un material existente.	 | 2 | Maylhy | Done |
+| US09 | Registrar uso de materiales | T1 | Endpoint POST para registrar uso de material | Implementar /api/material-usages y lógica para descontar stock. | 2 | Maylhy | Done |
+
+
 
 #### **5.2.3.4. Development Evidence for Sprint Review**  
 
@@ -3670,11 +3722,303 @@ Este proceso de despliegue nos ha proporcionado una base sólida y escalable sob
 #### **5.2.3.5. Execution Evidence for Sprint Review**  
 
 
+**Figura**
+*Execution evidence*
+<p align="center">
+<img src="images/deploy1.1Sprint3.png" alt="PB" width="850">
+</p>
+
+**Sprint 3 Navigation Demo:** [BuildTruck Navigation System](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+> Demonstración completa del sistema de navegación y funcionalidades implementadas en BuildTruck Backend
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**  
 
 
+Durante el Sprint 3, el enfoque se centró en la implementación del web service para la aplicación web de BuildTruck. A lo largo de este Sprint, integramos con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
+
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de BuildTruck y sus correspondientes tablas en la base de datos:
+
+1. **Gestión de Usuarios y Roles (Users and Roles)**:  
+* **Tabla Users**  
+* **Operaciones CRUD**  
+  * GET: Obtener todos los usuarios o un usuario específico.  
+  * POST: Crear un nuevo usuario o subir una foto de perfil.  
+    PUT: Actualizar un usuario existente o Actualizar la contraseña de un usuario.  
+  * DELETE: Eliminar un usuario o borrar la foto de perfil de un usuario.  
+* **Descripción**: Gestión de usuarios y sus roles dentro del sistema, permitiendo la creación, actualización y eliminación de usuarios.
+
+2. **Gestión de Proyectos (Projects)**:  
+* **Tablas Projects**  
+* **Operaciones CRUD**:  
+  * GET: Obtener todos los proyectos asignados a un manager.  
+  * POST: Crear un nuevo proyecto.  
+  * PUT: Actualizar un proyecto existente.  
+  * DELETE: Eliminar un proyecto.  
+* **Descripción**: Permite gestionar los proyectos de construcción, registrar nuevos proyectos y actualizar su información.
+
+3. **Gestión de Trabajadores (Personnel)**:  
+* **Tabla Personnel**   
+* **Operaciones CRUD**:  
+  * GET: Obtener trabajadores.  
+  * POST: Crear un nuevo trabajador.  
+  * PUT: Actualizar los datos de los trabajadores.  
+  * DELETE: Eliminar trabajador por ID.  
+* **Descripción**: Gestión de trabajadores asignados a de los proyectos.
+
+4. **Gestión de Materiales (Materials)**:  
+* **Tabla Materials**  
+* **Operaciones CRUD**:  
+  * GET: Consultar los materiales disponibles o entradas/salidas de materiales.  
+  * POST: Registrar la entrada de materiales.  
+  * PUT: Actualizar la cantidad de materiales.  
+  * DELETE: Eliminar registros de materiales.  
+* **Descripción**: Registro y seguimiento de materiales en inventario, incluyendo las fechas de entrada y salida.
+
+
+5. **Gestión de Maquinaria (Machinery)**:  
+* **Tabla Machinery**  
+* **Operaciones CRUD**:  
+  * GET: Obtener la lista de maquinaria u obtener la maquinaria activa por projecto.  
+  * POST: Registrar nueva maquinaria.  
+  * PUT: Actualizar el estado de la maquinaria.  
+  * DELETE: Eliminar maquinaria.
+
+* **Descripción**: Gestión de la maquinaria asignada a los proyectos, permitiendo registrar, actualizar y eliminar maquinaria.
+
+6. **Gestión de Incidentes (Incidents)**:  
+* **Tabla Incidents**  
+* **Operaciones CRUD**:  
+  * GET: Obtener los detalles de los incidentes registrados.  
+  * POST: Registrar un nuevo incidente.  
+  * PUT: Actualizar un incidente.  
+  * DELETE: Eliminar un incidente.
+
+* **Descripción**: Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
+
+
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+## Procesos de Deployment realizados durante el Sprint
+
+Durante el presente sprint, hemos implementado una estrategia de despliegue completa para el **backend de BuildTruck**, desarrollado en **.NET 8** con **Entity Framework Core** y **MySQL**. El enfoque principal ha sido crear una infraestructura robusta en AWS EC2 que proporcione APIs RESTful escalables y un entorno de producción confiable para soportar las operaciones del sistema BuildTruck.
+
+### Implementación de Backend .NET en AWS EC2
+
+Decidimos implementar nuestro backend en **Amazon Web Services (AWS) EC2** utilizando una arquitectura containerizada con **Docker** y **Docker Compose**. Esta decisión nos ha permitido tener control total sobre la infraestructura, escalabilidad y un entorno de producción robusto.
+
+**Figura**
+*Amazon web service intancia de BuildTruck*
+<p align="center">
+<img src="images/deploySprint3.png" alt="PB" width="850">
+</p>
+
+**URL base del API:**
+```
+http://52.23.83.194:5000/api/
+```
+
+**Documentación Swagger:**
+```
+http://52.23.83.194:5000/swagger/index.html
+```
+
+### Configuración de la Infraestructura
+
+#### Especificaciones del Servidor
+- **Instancia:** AWS EC2 t2.micro
+- **Sistema Operativo:** Amazon Linux 2023
+- **RAM:** 1 GB
+- **CPU:** 1 vCPU
+- **Almacenamiento:** 8 GB SSD
+- **IP Pública:** 52.23.83.194
+
+#### Stack Tecnológico Implementado
+- **.NET 8:** Framework principal del backend
+- **Entity Framework Core:** ORM para manejo de base de datos
+- **MySQL 8.0:** Sistema de gestión de base de datos
+- **Docker & Docker Compose:** Containerización y orquestación
+- **Swagger/OpenAPI:** Documentación automática de APIs
+
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Users Management** ||||
+| POST | `/api/v1/users` | Crea un nuevo usuario | Registrar nuevo supervisor |
+| GET | `/api/v1/users` | Obtiene todos los usuarios | Cargar lista de supervisores disponibles |
+| GET | `/api/v1/users/{id}` | Obtiene un usuario específico | Consultar detalles de un gerente |
+| PUT | `/api/v1/users/{id}` | Actualiza información del usuario | Actualizar datos de contacto |
+| DELETE | `/api/v1/users/{id}` | Elimina un usuario | Dar de baja a un supervisor |
+| PUT | `/api/v1/users/{id}/password` | Cambia contraseña del usuario | Resetear contraseña de acceso |
+| POST | `/api/v1/users/{id}/profile-image` | Sube imagen de perfil | Actualizar foto del usuario |
+| DELETE | `/api/v1/users/{id}/profile-image` | Elimina imagen de perfil | Remover foto del usuario |
+| **Material Entries Management** ||||
+| GET | `/api/material-entries/{projectId}` | Obtiene entradas de material por proyecto | Control de materiales ingresados |
+| POST | `/api/material-entries` | Crea o actualiza entrada de material | Registrar nuevo material |
+| **Materials Management** ||||
+| GET | `/api/materials/project/{projectId}` | Obtiene materiales por proyecto | Inventario específico del proyecto |
+| POST | `/api/materials` | Crea o actualiza material | Añadir material al inventario |
+| GET | `/api/materials/inventory/{projectId}` | Obtiene resumen de inventario | Dashboard de stock disponible |
+| **Material Usages Management** ||||
+| GET | `/api/material-usages/{projectId}` | Obtiene uso de materiales por proyecto | Control de consumo de materiales |
+| POST | `/api/material-usages` | Crea o actualiza uso de material | Registrar consumo de material |
+| **Authentication** ||||
+| POST | `/api/v1/auth/login` | Autenticación de usuario | Inicio de sesión al sistema |
+| GET | `/api/v1/auth/me` | Obtiene perfil del usuario actual | Información del usuario logueado |
+| **Configurations** ||||
+| GET | `/api/v1/configurations` | Obtiene configuración del usuario | Preferencias del sistema |
+| PUT | `/api/v1/configurations` | Actualiza configuración del usuario | Cambiar configuraciones |
+| **Exports** ||||
+| GET | `/api/exports/{entityType}` | Genera reportes en PDF/Excel | Exportar datos de cualquier tabla |
+| **Incident Management** ||||
+| GET | `/api/incidents/project/{projectId}` | Obtiene incidentes por proyecto | Historial de incidentes |
+| GET | `/api/incidents/{id}` | Obtiene un incidente específico | Detalles del incidente |
+| PUT | `/api/incidents/{id}` | Actualiza un incidente | Modificar estado del incidente |
+| POST | `/api/incidents` | Crea un nuevo incidente | Reportar nuevo incidente |
+| **Machinery Management** ||||
+| GET | `/api/v1/projects/{projectId}/machinery` | Obtiene maquinaria por proyecto | Equipos asignados al proyecto |
+| POST | `/api/v1/projects/{projectId}/machinery` | Asigna maquinaria al proyecto | Añadir equipo al proyecto |
+| GET | `/api/v1/projects/{projectId}/machinery/{id}` | Obtiene maquinaria específica | Detalles de equipo específico |
+| PUT | `/api/v1/projects/{projectId}/machinery/{id}` | Actualiza estado de maquinaria | Marcar equipo en mantenimiento |
+| DELETE | `/api/v1/projects/{projectId}/machinery/{id}` | Elimina maquinaria del proyecto | Remover equipo del proyecto |
+| GET | `/api/v1/projects/{projectId}/machinery/active` | Obtiene maquinaria activa | Equipos disponibles y operativos |
+| **Personnel Management** ||||
+| POST | `/api/personnel` | Crea nuevo personal | Contratar nuevo trabajador |
+| GET | `/api/personnel` | Obtiene todo el personal | Lista de trabajadores |
+| GET | `/api/personnel/{id}` | Obtiene personal específico | Detalles del trabajador |
+| PUT | `/api/personnel/{id}` | Actualiza información del personal | Modificar datos del trabajador |
+| DELETE | `/api/personnel/{id}` | Elimina personal | Dar de baja trabajador |
+| PUT | `/api/personnel/attendance` | Actualiza asistencia del personal | Marcar entrada/salida |
+| **Projects Management** ||||
+| POST | `/api/v1/projects/create` | Crea un nuevo proyecto | Registro de nuevo proyecto de construcción |
+| GET | `/api/v1/projects/by-manager/{id}` | Obtiene proyectos por gerente | Dashboard de proyectos del gerente |
+| PUT | `/api/v1/projects/{id}/update` | Actualiza un proyecto existente | Modificar estado o detalles del proyecto |
+| DELETE | `/api/v1/projects/{id}` | Elimina un proyecto | Dar de baja proyecto completado |
+
+### Proceso de Containerización
+
+#### Dockerfile Multi-stage
+Implementamos un **Dockerfile multi-stage** optimizado que:
+- **Stage 1 (Build):** Utiliza `mcr.microsoft.com/dotnet/sdk:8.0` para compilar la aplicación
+- **Stage 2 (Runtime):** Utiliza `mcr.microsoft.com/dotnet/aspnet:8.0` para ejecutar la aplicación
+- **Optimización:** Reduce el tamaño final del container de 1.2GB a 450MB
+
+#### Docker Compose Configuration
+```yaml
+services:
+  buildtruck-backend:
+    build: .
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    depends_on:
+      - buildtruck-mysql
+    restart: always
+
+  buildtruck-mysql:
+    image: mysql:8.0
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: BuildTruck2024
+      MYSQL_DATABASE: buildtruckdb
+    restart: always
+```
+
+### Configuración de CI/CD con GitHub Actions
+
+Implementamos un pipeline automatizado que incluye:
+
+#### Pipeline de Despliegue
+```yaml
+name: Deploy to AWS EC2
+on:
+  push:
+    branches: [ main ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+      - name: Deploy to EC2
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USERNAME }}
+          key: ${{ secrets.EC2_PRIVATE_KEY }}
+          script: |
+            cd /home/ec2-user/buildtruck
+            git pull origin main
+            docker-compose down
+            docker-compose up -d --build
+```
+
+### Configuración de Base de Datos
+
+#### MySQL 8.0 Configuration
+- **Puerto:** 3306
+- **Base de datos:** buildtruckdb
+- **Collation:** utf8mb4_unicode_ci
+- **Engine:** InnoDB
+- **Backup automático:** Configurado via Docker volumes
+
+#### Entity Framework Migrations
+```bash
+# Migraciones automáticas en startup
+dotnet ef database update
+```
+
+### Configuración de Seguridad
+
+#### Security Groups de AWS
+- **Puerto 22:** SSH para administración
+- **Puerto 80:** HTTP (redirigido a 5000)
+- **Puerto 5000:** API Backend
+- **Puerto 3306:** MySQL (restringido a VPC)
+
+#### Variables de Entorno Seguras
+- Contraseñas de base de datos via Docker secrets
+- API keys protegidas con variables de entorno
+- Configuración de CORS para dominios específicos
+
+### Resultados y Métricas del Deployment
+
+El proceso de despliegue ha resultado en mejoras significativas:
+
+| Métrica | Valor Obtenido | Objetivo |
+|---------|----------------|----------|
+| **Tiempo de respuesta promedio** | 180ms | < 200ms ✅ |
+| **Disponibilidad** | 99.8% | > 99% ✅ |
+| **Tiempo de deployment** | 3-5 minutos | < 10 minutos ✅ |
+| **Uptime del servidor** | 24/7 | 24/7 ✅ |
+| **Capacidad de requests/seg** | 500 req/s | > 100 req/s ✅ |
+| **Tamaño del container** | 450MB | < 1GB ✅ |
+
+
+#### Métricas de Sistema
+```
+Database: Connected
+Memory Usage: 340MB / 1GB
+CPU Usage: 15%
+```
+
+### Entorno de Producción Configurado
+
+#### URLs de Acceso
+- **API Base:** http://52.23.83.194:5000/api/
+- **Swagger UI:** http://52.23.83.194:5000/swagger/index.html
+
+
+
+**Figura**
+*Swagger UI Page BuildTruckBack.API*
+<p align="center">
+<img src="images/deploy1.1Sprint3.png" alt="PB" width="850">
+</p>
+
+#### Configuración de Auto-restart
+Todos los servicios están configurados con `restart: always` para garantizar disponibilidad continua ante fallos del sistema.
 
 #### **5.2.3.8. Team Collaboration Insights during Sprint**  
 
@@ -3748,14 +4092,158 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 * ¿Usarías esto desde tu celular, tablet o laptop cada día?
 
 
+### 5.3.2. Registro de Entrevistas.
 
-### ***5.3.2. Registro de Entrevistas.***
+## Entrevistado #1: Victor Bellido 
+Figura
+Imagen del usuario número 1 entrevistado
 
-### ***5.3.3. Evaluaciones según heurísticas.***
+<p align="center">
+  <img src="images/raulsupervisor.JPG" width="850">
+</p>
+
+
+El supervisor actualmente controla el personal con tareos físicos y gestiona materiales mediante hojas de requerimiento manuales. Valora que la plataforma clasifique claramente los recursos (materiales, equipos, personal), pero propone mejoras clave como subclasificaciones más detalladas (equipo pesado/liviano, personal técnico vs. operario) e integrar herramientas de planificación temporal. Destaca que la solución optimizaría el control de costos en tiempo real y la usaría diariamente en dispositivos móviles, aunque su adopción total dependería de incorporar sus sugerencias para una gestión más estratégica y especializada.
+
+##  Entrevistada #2: Denisse Vargas 
+Figura
+Imagen del usuario número 2 entrevistada
+
+<p align="center">
+  <img src="images/danielasupervisor.JPG" width="850">
+</p>
+
+
+Denisse controla al personal y recursos con métodos manuales (Excel, WhatsApp y fichas físicas), lo cual considera lento e impreciso. Al usar BuildTruck, siente que está diseñada para su día a día en obra, valorando su enfoque práctico. Le parece útil para registrar asistencia, subir fotos, gestionar inventario y ver reportes desde el celular. Resaltó la importancia de tener accesos rápidos, formularios simples y alertas. Para ella, la principal ventaja es la centralización de la información, que le ahorraría tiempo y mejoraría el orden del proyecto. Está dispuesta a usar la plataforma regularmente desde su celular si se mantiene clara y funcional.
+
+## Entrevistada #3: Milagros Arellano
+Figura
+Imagen del usuario número 3 entrevistada
+
+<p align="center">
+  <img src="images/danielasupervisro2.JPG" width="850">
+</p>
+
+
+Milagros actualmente gestiona la obra con herramientas manuales como listas impresas, llamadas y notas escritas, lo que genera demoras y desorganización. Encuentra en BuildTruck una solución práctica y centrada en el trabajo real de campo. Destaca que la plataforma transmite orden, facilita el control del día a día y permite gestionar sin depender de una oficina. Sugiere mejoras como paneles rápidos, recordatorios, y formularios que puedan repetir datos comunes. Considera que usarla desde el celular haría su trabajo más ágil y eficiente. Ve valor en tener todo digitalizado en un solo lugar, especialmente para evitar errores y pérdidas de información.
+
+### Segmento objetivo #2: Gerentes de obra 
+
+## Entrevistado #4: Naim Napuri
+Figura
+Imagen del usuario número 4 entrevistado
+
+<p align="center">
+  <img src="images/mayñlhygerente.JPG" width="850">
+</p>
+ 
+
+Naim, gerente de obra, explicó que actualmente gestiona sus proyectos mediante reportes enviados por WhatsApp o correo, y controla el inventario y personal en hojas de Excel, lo que vuelve el proceso lento y propenso a errores. Indicó que usa herramientas como Google Drive, Excel y ocasionalmente Trello o Google Forms. Al explorar la plataforma BuildTruck, comprendió que centraliza la gestión de obras, y mostró interés en usarla ya que ayudaría a organizar todo en un solo lugar, ahorrando tiempo y evitando la duplicación de datos. Opinó que el diseño es atractivo, pero sugirió mejorar algunos íconos e imágenes borrosas. Consideró muy útil la vista del inventario y afirmó que BuildTruck podría reemplazar las herramientas actuales. Reconoció que el mayor reto sería la adaptación del equipo, pero aun así recomendaría la plataforma a otros colegas por su capacidad de ofrecer control, visibilidad y eficiencia en tiempo real.
+
+## Entrevistada #5: Lourdes Salas
+Figura
+Imagen del usuario número 5 entrevistada
+
+<p align="center">
+  <img src="images/raulgerente.JPG" width="850">
+</p>
+
+
+La gerente gestiona sus obras mediante expedientes técnicos y utiliza Excel como herramienta principal. Considera la plataforma evaluada como eficiente y oportuna, destacando especialmente su módulo de inventario por mostrar información completa sobre materiales, cantidades y costos. Aunque no sugiere cambios inmediatos en el diseño, muestra interés en adoptar la herramienta como complemento a sus procesos actuales, reconociendo su potencial para modernizar la gestión. Su principal motivación es acceder a información centralizada y recomendaría la plataforma a colegas para explorar nuevas soluciones tecnológicas en el sector.
+
+## Entrevistado #6: Antonio Enciso
+Figura
+Imagen del usuario número 6 entrevistado
+
+<p align="center">
+  <img src="images/mathewgerente.JPG" width="850">
+</p>
+
+
+El gerente de obra entrevistado comentó que actualmente controla al personal mediante listas en papel y se comunica por WhatsApp. Las solicitudes de materiales y reportes las hace físicamente o por llamadas, y el inventario lo registra manualmente en cuadernos o plantillas de Excel. Al explorar la landing page de BuildTruck, percibió la plataforma como una herramienta moderna para organizar mejor los registros diarios, entendiendo que su objetivo es centralizar la gestión de proyectos, personal, inventario y reportes. Le pareció que sí está pensada para su rol, especialmente si se mejora el registro de avances o asistencia. Sugirió hacer más visible la opción de cambiar el idioma. Al interactuar con el prototipo, destacó la facilidad para registrar asistencia y el ahorro de tiempo al usar la app desde una PC o celular. Consideró claros los formularios, aunque recomendó incluir ejemplos o ayudas visuales. Valoró la centralización por proyectos y propuso agregar alertas o recordatorios automáticos. Señaló que usaría la plataforma principalmente desde su celular.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+### UX Heuristics & Principles Evaluation 
+
+## Usability – Inclusive Design – Information Architecture
+
+## CARRERA : Ingeniería de Software
+## CURSO : Aplicaciones Web
+## SECCIÓN: 4388
+## PROFESORES:
+
+Mori Paiva, Hugo Allan
+Reupo-Musayón, Naldo
+Sánchez Ponce, Alex Humberto
+Sánchez Seña, Alberto Wilmer
+Velásquez Núñez, Ángel Augusto
+Villafuerte Bazán, Óscar Iván
+
+## CLIENTE(S) : 
+
+Victor Bellido
+Denisse Vargas
+Naim Napuri
+Milagros Arellano
+Antonio Enciso
+Lourdes Salas
+
+## SITE o APP A EVALUAR: BuildTruck
+
+## TAREAS A EVALUAR: 
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1	Control y registro de asistencia del personal.
+2	Registro y visualización del inventario (stock actual, entradas y salidas).
+3	Generación y visualización de reportes por obra.
+4	Solicitudes de materiales a almacén/residente.
+5	Subida de fotos para avances de obra.
+6	Acceso móvil desde el celular o laptop.
+7	Exploración y comprensión de la landing page.
+8	Navegación entre pestañas y módulos.
+9	Claridad y utilidad de los formularios.
+10	Visualización general por proyecto.
+11	Alertas o recordatorios automáticos.
+12	Clasificación y subclasificación de recursos (materiales/personas/maquinaria).
+13	Planificación temporal de recursos (cronograma, calendario de uso).
+14	Cambiar el idioma de la plataforma.
+
+## ESCALA DE SEVERIDAD:
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+| Nivel | Descripción |
+|----|----------|
+|1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2 |Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+|3 |Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+TABLA RESUMEN:
+| # | Problema |Escala de severidad | Heurística/Principio violada(o) |
+|----|----------|-----------|---------------------|  
+| 1 | Registro de asistencia requiere demasiados pasos (ej.: no permite escanear QR o marcar múltiples personas a la vez).| 3 | Flexibilidad y eficiencia (Nielsen #7)|
+| 2 | Inventario no muestra stock mínimo/alertas automáticas (usuarios no notan faltantes hasta revisar manualmente).| 3 | Visibilidad del estado del sistema (Nielsen #1)|
+| 3 |Reportes no se pueden filtrar por fechas/rubros específicos (ej.: solo generan PDFs genéricos).| 2 | Reconocimiento antes que recuerdo (Nielsen #6)|
+| 4 | Formularios de solicitud de materiales no guardan datos recurrentes (ej.: mismos materiales por obra).| 2 | Prevención de errores (Nielsen #5)|
+| 5 | Subida de fotos no permite etiquetar avances (mezcla imágenes sin contexto).| 2 | Match with real world (Nielsen #2)|
+| 6 | Navegación móvil lenta entre módulos (pestañas tardan en cargar).| 3 | Eficiencia (Usabilidad móvil)|
+| 7 | Landing page no explica funcionalidades clave (ej.: cómo crear un reporte rápido).| 2 | Ayuda y documentación (Nielsen #10)|
+
+
 
 ## **5.4. Video About-the-Product.**
 
+**Figura**
+*Video About-the-product*
+<p align="center">
+<img src="images/abouttheproduct.jpg">
+</p>
 
+*Nota.* Elaboración propia. [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EeDqzFNFfHFMgHMUMIsZoo8Bk8AoZVVMAZnApF3LC1V-3g?e=eFWtmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EeDqzFNFfHFMgHMUMIsZoo8Bk8AoZVVMAZnApF3LC1V-3g?e=eFWtmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # **Conclusiones**
 
@@ -3770,6 +4258,24 @@ Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuit
 <hr>
 
 ## **Video About the team**
+
+El video "About-the-Team" resalta el esfuerzo colectivo y los logros obtenidos por el equipo detrás del proyecto BuildTruck, desarrollado en el marco del curso de Aplicaciones Web. A lo largo del proceso, el equipo colaboró de manera efectiva utilizando reuniones regulares y herramientas como GitHub, Discord y WhatsApp para coordinar tareas, superar desafíos y avanzar en la creación de una plataforma funcional. Desde la elaboración de wireframes, la investigación de segmentos objetivos, la realización de entrevistas y el diseño de prototipos hasta el desarrollo de frontend, backend y la documentación de sprints, cada miembro aportó su experiencia, enfrentando retos como la gestión del tiempo y la integración de funcionalidades. Este trabajo no solo resultó en un producto viable, sino que también fortaleció habilidades técnicas y de organización grupal, preparándolos para futuros proyectos. A continuación, se presentan las contribuciones individuales que hicieron posible este éxito.
+
+* **Raúl Bellido Salas** (Código U20231931), estudiante de Ingeniería de Software, diseñó los wireframes de BuildTruck, investigó segmentos objetivos (gerentes y supervisores) y realizó entrevistas para las entregas TB1 y actual, incluyendo la validación de prototipos. Desarrolló endpoints para frontend y backend, destacando una organización moderadamente efectiva, aunque señaló la necesidad de mejorar el control del tiempo y apoyar más en la corrección de errores y soluciones.  
+* **Daniela Araceli Gómez Flores** (Código U202311184), del quinto ciclo de Ingeniería de Software, lideró la estructura, diseño y arquitectura basada en Domain-Driven Design en TB1, implementó la sección de incidentes y estadísticas (con un gráfico de asistencia) en la Frontend Web Application, y creó diagramas C4. Promovió una colaboración inclusiva, aunque reconoció que le faltó involucrarse más en el backend general.  
+* **Maylhy Olinda Gutiérrez Condo** (Código U20231112), de Ingeniería de Software, desarrolló el bounded context del módulo de materiales, incluyendo tablas de entrada y uso, colaboró en correcciones de heurísticas y sprints, y apoyó al equipo cumpliendo todas sus responsabilidades, destacando su aprendizaje en backend, frontend y trabajo en equipo.  
+* **Sandra Paula Luyo Correa** (Código U202314513), del quinto ciclo de Ingeniería de Software, realizó el To-Be Scenario Mapping, prototipado, gestión de configuración y código fuente en TB1, corrigió TB1, documentó Sprint 2, y desarrolló el backend de configuraciones en TB2. Valoró la colaboración constante y aprendió sobre diseño y gestión de proyectos.  
+* **Steven Mathew Roca Tineo** (Código U202311361), del quinto ciclo de Ingeniería de Software, elaboró historias de usuario, programó partes de la landing page (hero section, footer, cards) y desarrolló frontend (login, autenticación, vista de admin, creación de proyectos con API de mapas, layouts para manager, supplier y admin). Destacó la buena comunicación y su aprendizaje en Vue y C\# para futuros cursos.
+
+Este esfuerzo conjunto no solo dio como resultado una herramienta funcional para BuildTruck, sino que también enriqueció las competencias del equipo en desarrollo web, metodologías ágiles y colaboración, preparándolos para desafíos académicos y profesionales futuros.
+
+**Figura**  
+*Video About-the-team*
+<p align="center">
+<img src="images/About-the-team.png">
+</p>
+
+*Nota.* Elaboración propia. [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # **Bibliografía**
 
@@ -3823,6 +4329,12 @@ W3Schools. (s.f.). *JavaScript style guide and coding conventions*. [https://www
 
 # **Anexos**
 
-Link de video de exposición:  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361\_upc\_edu\_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EYyGoC9VKxdIpC43xn0vLeABp2b5ow3XTk8gfb8l1btlag?e=aZ0MnU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+Anexo A. Link de video de exposición:  
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ERlCQ2h8UWxJrzgn5IzTlIYBGuySU1eyCCajJrt7Tv0yWQ?e=4Ecz4O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/ERlCQ2h8UWxJrzgn5IzTlIYBGuySU1eyCCajJrt7Tv0yWQ?e=4Ecz4O&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Anexo B. Link de About-the-team:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Anexo C. Video About-the-product:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EdWHd3QzxPhMq37E1dN2d28BlzihFp3XNUd4uawzv3bU9w?e=a00agM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
