@@ -260,9 +260,9 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
       </ul>
       <a href="#524-sprint-4">5.2.4. Sprint 4</a><br>
       <ul>
-            <a href="#5241-sprint-planning-4">5.2.4.1. Sprint Planning 3</a><br>
+            <a href="#5241-sprint-planning-4">5.2.4.1. Sprint Planning 4</a><br>
             <a href="#5242-aspect-leaders-and-collaborators">5.2.4.2. Aspect Leaders and Collaborators</a><br>
-            <a href="#5243-sprint-backlog-4">5.2.4.3. Sprint Backlog 3</a><br>
+            <a href="#5243-sprint-backlog-4">5.2.4.3. Sprint Backlog 4</a><br>
             <a href="#5244-development-evidence-for-sprint-review">5.2.4.4. Development Evidence for Sprint Review</a><br>
             <a href="#5245-execution-evidence-for-sprint-review">5.2.4.5. Execution Evidence for Sprint Review</a><br>
             <a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a><br>
