@@ -89,7 +89,7 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 **Figura 3**  
 *Insights de ProjectReports 3*  
 <p align="center">
-  <img src="images/insights3.PNG" alt="PI5" width="1000">
+  <img src="images/insights3.png" alt="PI5" width="1000">
 </p> 
 
 *Nota.* Elaboración propia.
@@ -249,7 +249,7 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
 			</ul>
 	    <a href="#523-sprint-3">5.2.3. Sprint 3</a><br>
 			<ul>
-            <a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a><br>
+            <a href="#5231-sprint-planning-3">5.2.3.1. Sprint Planning 3</a><br>
             <a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a><br>
             <a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a><br>
             <a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a><br>
@@ -260,9 +260,9 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
       </ul>
       <a href="#524-sprint-4">5.2.4. Sprint 4</a><br>
       <ul>
-            <a href="#5241-sprint-planning-2">5.2.4.1. Sprint Planning 3</a><br>
+            <a href="#5241-sprint-planning-4">5.2.4.1. Sprint Planning 3</a><br>
             <a href="#5242-aspect-leaders-and-collaborators">5.2.4.2. Aspect Leaders and Collaborators</a><br>
-            <a href="#5243-sprint-backlog-3">5.2.4.3. Sprint Backlog 3</a><br>
+            <a href="#5243-sprint-backlog-4">5.2.4.3. Sprint Backlog 3</a><br>
             <a href="#5244-development-evidence-for-sprint-review">5.2.4.4. Development Evidence for Sprint Review</a><br>
             <a href="#5245-execution-evidence-for-sprint-review">5.2.4.5. Execution Evidence for Sprint Review</a><br>
             <a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a><br>
