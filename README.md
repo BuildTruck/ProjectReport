@@ -268,7 +268,7 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
             <a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a><br>
             <a href="#5247-software-deployment-evidence-for-sprint-review">5.2.4.7. Software Deployment Evidence for Sprint Review</a><br>
             <a href="#5248-team-collaboration-insights-during-sprint">5.2.4.8. Team Collaboration Insights during Sprint</a>
-      <ul>
+      </ul>
 </ul>
 <a href="#53-validation-interviews">5.3. Validation Interviews.</a>
 <ul>
