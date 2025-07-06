@@ -4425,24 +4425,37 @@ El gerente de obra entrevistado comentó que actualmente controla al personal me
 <p align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></p>
 
 **CARRERA:** Ingeniería de Software  
-**CURSO:** Aplicaciones Web
+
+**CURSO:** Aplicaciones Web 
+
 **SECCIÓN:** 4388
+
 **PROFESORES:**
 
 Mori Paiva, Hugo Allan
+
 Reupo-Musayón, Naldo
+
 Sánchez Ponce, Alex Humberto
+
 Sánchez Seña, Alberto Wilmer
+
 Velásquez Núñez, Ángel Augusto
+
 Villafuerte Bazán, Óscar Iván
 
 **CLIENTE(S):** 
 
 Victor Bellido
+
 Denisse Vargas
+
 Naim Napuri
+
 Milagros Arellano
+
 Antonio Enciso
+
 Lourdes Salas
 
 ***SITE o APP A EVALUAR:*** BuildTruck
@@ -4488,6 +4501,131 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 6 | Navegación móvil lenta entre módulos (pestañas tardan en cargar).| 3 | Eficiencia (Usabilidad móvil)|
 | 7 | Landing page no explica funcionalidades clave (ej.: cómo crear un reporte rápido).| 2 | Ayuda y documentación (Nielsen #10)|
 <hr>
+
+#
+#
+
+***PROBLEMA 1:***
+
+**Severidad:** 3
+
+**Heurística:** Flexibilidad y eficiencia del uso (Nielsen #7)
+
+**Problema:** El registro de asistencia requiere demasiados pasos y no permite escanear códigos QR ni marcar múltiples personas al mismo tiempo, lo que reduce la eficiencia del proceso.
+
+Figura
+Captura
+
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Implementar opciones para escanear códigos QR y permitir selección múltiple de trabajadores para agilizar el proceso de registro de asistencia.
+#
+
+
+***PROBLEMA 2:***
+
+**Severidad:** 3
+
+**Heurística:** Visibilidad del estado del sistema (Nielsen #1)
+
+**Problema:** El módulo de inventario no muestra alertas automáticas ni el stock mínimo, lo que obliga al usuario a revisar manualmente cada ítem para detectar faltantes.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Añadir indicadores visuales de stock mínimo y alertas automáticas que notifiquen al usuario cuando algún material esté por agotarse.
+#
+
+
+***PROBLEMA 3:***
+
+**Severidad:** 2
+
+**Heurística:** Reconocimiento antes que recuerdo (Nielsen #6)
+
+**Problema:** El módulo de reportes no permite filtrar por fechas ni rubros específicos; solo se generan archivos PDF genéricos, lo que limita su utilidad y obliga al usuario a recordar qué buscar manualmente.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Incorporar filtros avanzados por fecha, rubro, obra o tipo de reporte, y generar vistas previas antes de exportar el archivo final.
+#
+
+
+***PROBLEMA 4:***
+
+**Severidad:** 2
+
+**Heurística:** Prevención de errores (Nielsen #5)
+
+**Problema:** Los formularios de solicitud de materiales no permiten guardar datos recurrentes. Esto hace que se deban llenar repetidamente los mismos campos para obras similares, aumentando el riesgo de errores.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Agregar la opción de guardar plantillas o autocompletado de solicitudes frecuentes por obra o usuario.
+#
+
+
+***PROBLEMA 5:***
+
+**Severidad:** 2
+
+**Heurística:** Compatibilidad con el mundo real (Match with real world) (Nielsen #2)
+
+**Problema:** La subida de fotos en los reportes no permite etiquetar avances. Las imágenes se mezclan sin contexto, dificultando su interpretación posterior.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Permitir que los usuarios etiqueten o clasifiquen las imágenes subidas, añadiendo campos como fecha, actividad, responsable u observaciones.
+#
+
+
+***PROBLEMA 6:***
+
+**Severidad:** 3
+
+**Heurística:** Eficiencia (Usabilidad móvil)
+
+**Problema:** En la versión móvil, la navegación entre módulos es lenta. Las pestañas tardan en cargar y esto genera una experiencia frustrante en campo.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Optimizar el rendimiento móvil reduciendo tiempos de carga mediante lazy loading, uso eficiente de recursos y almacenamiento local temporal.
+#
+
+
+***PROBLEMA 7:***
+
+**Severidad:** 2
+
+**Heurística:** Ayuda y documentación (Nielsen #10)
+
+**Problema:** La landing page no brinda una guía o explicación clara sobre las funcionalidades clave del sistema, como por ejemplo cómo generar un reporte rápido.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Agregar textos breves o recursos interactivos (tooltips, videos cortos o guías rápidas) que orienten al usuario sobre las funciones principales al ingresar.
+#
 
 
 ## **5.4. Video About-the-Product.**
