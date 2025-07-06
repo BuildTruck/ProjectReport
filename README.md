@@ -4110,6 +4110,20 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 
 ##### **5.2.4.1. Sprint Planning 4.** 
 
+| Sprint \# | Sprint 4 |
+| :---- | :---- |
+| **Sprint Planning Background:**  | En este último sprint, el equipo se reunió para alinear los esfuerzos finales orientados al cierre exitoso del proyecto. Se discutieron las últimas pautas de la revisión de la TB2, se priorizaron las correcciones pendientes y se definieron tareas finales relacionadas a la integración total del sistema, asegurando una entrega funcional y completa.    |  |
+| Date | 2025-07-03 |
+| Time | 19:00 PM |
+| Location | Discord Call |
+| Prepared By | Roca Tineo, Steven Mathew |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew |
+| Sprint n \- Review Summary | El Sprint 3 permitió avanzar con el desarrollo de funcionalidades clave del sistema. Durante la revisión de la TB2, se identificaron algunas observaciones a corregir, como ajustes en el módulo de incidentes (bounded context), detalles en el módulo de configuraciones, y la necesidad de asegurar la conexión completa entre el backend y frontend. Estas observaciones fueron tomadas como base para definir las tareas del Sprint 4.Finalmente revisamos los puntos a terminar en el documento. |
+| Sprint n \- Retrospective Summary | Start: Entre los puntos destacados por el equipo, se resaltó la mejora en la comunicación y coordinación interna, especialmente a través de reuniones interdiarias. Como oportunidad de mejora, se identificó la necesidad de evitar acumular tareas hacia el final del sprint. También se valoró el compromiso de los integrantes y el acompañamiento recibido por parte del tutor del curso.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Our focus is on finalizing the key corrections from the TB2 review and fully integrating the developed modules. We believe it delivers a stable, cohesive, and ready-to-demo system for construction SMEs and administrative users. This will be confirmed when the users can register, navegar el sistema desde la interfaz frontend conectada al backend, y validar funcionalidades clave como incidentes y configuraciones a través de Swagger. |
+| Sprint n Velocity | 4 |
+| Sum of Story Points | 6 |
 
 ##### **5.2.4.2. Aspect Leaders and Collaborators.** 
 
