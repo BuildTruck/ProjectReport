@@ -3740,38 +3740,47 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 
 
+
 | Sprint \# | Sprint 3 |  |  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
 | US17 | Visualizar lista de personal en obra | T1 | Crear tabla para visualizar personal por obra | Tabla con columnas: nombre, DNI, rol, estado | 2 | Raul | Done |
-|  |  | T2 | Hacer el endpoint del  backend (GET /api/personnel?projectId=) | Obtener personal filtrado por obra desde el backend | 2 | Paula | Done |
+|  |  |  |  |  |  |  |  |
 |  |  | T3 | Estilizar tabla para vista responsiva | Formato responsive con scroll horizontal en móviles | 1 | Paula | Done |
-|  |  | T4 | Implementar botón “Descargar lista” (PDF/Excel) | Conexión con endpoint de exportación de personal | 2 | Mathew | Done |
-| US18 | Registrar nuevo personal | T1 | Crear botón “Registrar personal” | Visible para supervisores dentro del módulo	 | 1 | Mathew | Done |
-|  |  | T2 | Diseñar formulario de registro | Campos: nombre, ingreso, DNI, teléfono, rol, correo	 | 2 | Daniela | Done |
-|  |  | T3 | Validar campos obligatorios	 | Validación básica en frontend	 | 1 | Daniela | InProcess |
-|  |  | T4 | Enviar datos al backend (POST /api/personnel)	 | Conexión al API y visualización de nuevo trabajador	 | 2 | Mathew | Done |
-|  |  | T5 | Notificar y actualizar tabla	 | Mostrar mensaje de éxito y nueva fila	 | 1 | Mathew | InProcess |
-| US19 | Ver detalle de un trabajador | T1 | Navegar a vista de detalle al hacer clic	 | Acceder desde fila de la tabla de personal	 | 1 | Mathew | Done |
-|  |  | T2 | Mostrar información completa del trabajador	 | Vista solo lectura con datos completos y fotografía	 | 2 | Maylhy | Done |
-|  |  | T3 | Añadir botón “Descargar ficha”	 | Botón visible solo para gerentes	 | 1 | Maylhy | Done |
-|  |  | T4 | Generar ficha en PDF	 | Integración con exportación en PDF	 | 2 | Mathew | In process |
-| US20  | Editar información del personal | T1 | Habilitar modo edición desde vista detalle	 | Solo para supervisores	 | 1 | Raul | Done |
-|  |  | T2 | Habilitar campos editables	 | Inputs para editar datos básicos	 | 2 | Paula | Done |
-|  |  | T3 | Validar campos antes de enviar	 | Validación de correo, DNI, nombre	 | 1 | Maylhy | Done |
-|  |  | T4 | Confirmar y mostrar mensaje de éxito	 | Notificación de guardado exitoso	 | 1 | Paula | Done |
-| US31 | Eliminar una imagen documentada | T1 | Implementar botón “Eliminar imagen” | Mostrar opción en galería para supervisores	 | 1 | Raul | Done |
-|  |  | T2 | 	Mostrar alerta de confirmación | Modal con opción de confirmar/cancelar	 | 1 | Maylhy | Done |
-|  |  | T3 | 	Realizar el backend para eliminar imagen (DELETE /api/v1/users/{id}/profile-image o ruta específica) | Eliminar registro e imagen de Cloudinary	 | 2 | Mathew | Done |
-|  |  | T4 | Actualizar galería tras eliminación | Refrescar lista sin recargar vista completa	 | 1 | Maylhy | Done |
-| US01  | Visualizar lista de obras asignadas | T1 | Endpoint GET de obras para gerente | Implementar /api/v1/projects/by-manager/{id} para retornar proyectos por gerente autenticado. | 2 | Daniela | Done |
-| US02  | Registrar nueva obra | T1 | Endpoint POST para crear obra	 | Implementar /api/v1/projects/create para registrar nueva obra.	 | 2 | Raul | Done |
-| US05 | Visualizar lista de materiales por obra | T1 | 	Endpoint GET de materiales por obra | 	Implementar /api/materials/project/{projectId} para devolver materiales asociados. | 2 | Paula | Done |
-| US06 | Ver detalle de material | T1 | Endpoint GET para obtener detalle de material	 | Implementar /api/materials/{id} (confirmar si usaste este endpoint o uno combinado).	 | 2 | Maylhy | Done |
-| US08  | Editar material | T1 | Endpoint PUT para editar material	 | Implementar lógica en API para actualizar un material existente.	 | 2 | Maylhy | Done |
-| US09 | Registrar uso de materiales | T1 | Endpoint POST para registrar uso de material | Implementar /api/material-usages y lógica para descontar stock. | 2 | Maylhy | Done |
-
+| TS18 | Endpoint GET de lista de personal por obra | T2 | Hacer el endpoint del backend (GET /api/personnel?projectId=) | Obtener personal filtrado por obra desde el backend | 2 | Paula | Done |
+| US18 | Registrar nuevo personal | T1 | Crear botón “Registrar personal” | Visible para supervisores dentro del módulo | 1 | Mathew | Done |
+|  |  | T2 | Diseñar formulario de registro | Campos: nombre, ingreso, DNI, teléfono, rol, correo | 2 | Daniela | Done |
+|  |  | T3 | Validar campos obligatorios | Validación básica en frontend | 1 | Daniela | InProcess |
+|  |  |  |  |  |  |  |  |
+|  |  | T4 | Notificar y actualizar tabla | Mostrar mensaje de éxito y nueva fila | 1 | Mathew | InProcess |
+| TS19 | Endpoint POST para registrar nuevo personal | T5 | Enviar datos al backend (POST /api/personnel) | Conexión al API y visualización de nuevo trabajador | 2 | Mathew | Done |
+| US19 | Ver detalle de un trabajador | T1 | Navegar a vista de detalle al hacer clic | Acceder desde fila de la tabla de personal | 1 | Mathew | Done |
+|  |  | T2 | Mostrar información completa del trabajador | Vista solo lectura con datos completos y fotografía | 2 | Maylhy | Done |
+|  |  | T3 | Añadir botón “Descargar ficha” | Botón visible solo para gerentes | 1 | Maylhy | Done |
+|  |  | T4 | Generar ficha en PDF | Integración con exportación en PDF | 2 | Mathew | In process |
+| TS20 | Endpoint GET para obtener detalle de trabajador | T1 | Recibir datos del backend (GET/api/personnel)  |  | 1 | Raul | Done |
+| US20 | Editar información del personal | T1 | Habilitar modo edición desde vista detalle | Solo para supervisores | 1 | Raul | Done |
+|  |  | T2 | Habilitar campos editables | Inputs para editar datos básicos | 2 | Paula | Done |
+|  |  | T3 | Validar campos antes de enviar | Validación de correo, DNI, nombre | 1 | Maylhy | Done |
+|  |  | T4 | Confirmar y mostrar mensaje de éxito | Notificación de guardado exitoso | 1 | Paula | Done |
+|  |  |  |  |  |  |  |  |
+| US31 | Eliminar una imagen documentada | T1 | Implementar botón “Eliminar imagen” | Mostrar opción en galería para supervisores | 1 | Raul | Done |
+|  |  | T2 | Mostrar alerta de confirmación | Modal con opción de confirmar/cancelar | 1 | Maylhy | Done |
+|  |  | T3 | Actualizar galería tras eliminación | Refrescar lista sin recargar vista completa | 1 | Maylhy | Done |
+| TS31 | Endpoint DELETE para eliminar imagen documentada | T1 | Realizar el backend para eliminar imagen (DELETE /api/v1/users/{id}/profile-image o ruta específica) | Eliminar registro e imagen de Cloudinary | 2 | Mathew | Done |
+| US01 | Visualizar lista de obras asignadas | T1 | Visualizar las obras en interfaz gráfica | Implementar una pestaña donde se vean las obras asignadas | 2 | Daniela | Done |
+| TS01 | Endpoint GET de obras para gerente | T1 | Endpoint GET de obras para gerente | Implementar /api/v1/projects/by-manager/{id} para retornar proyectos por gerente autenticado. | 2 | Daniela | Done |
+| US02 | Registrar nueva obra | T1 | Ingresar las obras a través de la interfaz gráfica | Implementar una opción que lleve a un formulario donde ingresar una nueva obra  | 2 | Raul | Done |
+| TS02 | Endpoint POST para registrar nueva obra | T1 | Endpoint POST para crear obra | Implementar /api/v1/projects/create para registrar nueva obra. | 2 | Raul | Done |
+| US05 | Visualizar lista de materiales por obra | T1 | Visualizar los materiales en interfaz gráfica | Implementar una pestaña donde se vean los materiales asignados | 2 | Paula | Done |
+| TS05 | Endpoint GET de materiales por obra | T1 | Endpoint GET de materiales por obra | Implementar /api/materials/project/{projectId} para devolver materiales asociados. | 2 | Paula | Done |
+| US06 | Ver detalle de material | T1 | Visualizar el detalle de los materiales en interfaz gráfica | Implementar una pestaña donde se vean los materiales asignados a detalle | 2 | Maylhy | Done |
+| TS06	 | Endpoint GET de detalle de material | T1 | Endpoint GET para obtener detalle de material | Implementar /api/materials/{id} (confirmar si usaste este endpoint o uno combinado). | 2 | Maylhy | Done |
+| US08 | Editar material | T1 | Endpoint PUT para editar material | Implementar lógica en API para actualizar un material existente. | 2 | Maylhy | Done |
+| TS08 | Endpoint PUT para editar un material | T1 | Endpoint PUT para editar material | Implementar lógica en API para actualizar un material existente. | 2 | Maylhy | Done |
+| US09 | Registrar uso de materiales | T1 | Visualizar el uso de materiales en interfaz gráfica | Implementar una pestaña donde se vean los materiales usados | 2 | Maylhy | Done |
+| TS09 | Endpoint POST para registrar salida de material | T1 | Endpoint POST para registrar uso de material | Implementar /api/material-usages y lógica para descontar stock. | 2 | Maylhy | Done |
 
 
 #### **5.2.3.4. Development Evidence for Sprint Review**  
@@ -4101,6 +4110,20 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 
 ##### **5.2.4.1. Sprint Planning 4.** 
 
+| Sprint \# | Sprint 4 |
+| :---- | :---- |
+| **Sprint Planning Background:**  | En este último sprint, el equipo se reunió para alinear los esfuerzos finales orientados al cierre exitoso del proyecto. Se discutieron las últimas pautas de la revisión de la TB2, se priorizaron las correcciones pendientes y se definieron tareas finales relacionadas a la integración total del sistema, asegurando una entrega funcional y completa.    |  |
+| Date | 2025-07-03 |
+| Time | 19:00 PM |
+| Location | Discord Call |
+| Prepared By | Roca Tineo, Steven Mathew |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Gutiérrez Condo, Maylhy Olinda Roca Tineo, Steven Mathew |
+| Sprint n \- Review Summary | El Sprint 3 permitió avanzar con el desarrollo de funcionalidades clave del sistema. Durante la revisión de la TB2, se identificaron algunas observaciones a corregir, como ajustes en el módulo de incidentes (bounded context), detalles en el módulo de configuraciones, y la necesidad de asegurar la conexión completa entre el backend y frontend. Estas observaciones fueron tomadas como base para definir las tareas del Sprint 4.Finalmente revisamos los puntos a terminar en el documento. |
+| Sprint n \- Retrospective Summary | Start: Entre los puntos destacados por el equipo, se resaltó la mejora en la comunicación y coordinación interna, especialmente a través de reuniones interdiarias. Como oportunidad de mejora, se identificó la necesidad de evitar acumular tareas hacia el final del sprint. También se valoró el compromiso de los integrantes y el acompañamiento recibido por parte del tutor del curso.  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Our focus is on finalizing the key corrections from the TB2 review and fully integrating the developed modules. We believe it delivers a stable, cohesive, and ready-to-demo system for construction SMEs and administrative users. This will be confirmed when the users can register, navegar el sistema desde la interfaz frontend conectada al backend, y validar funcionalidades clave como incidentes y configuraciones a través de Swagger. |
+| Sprint n Velocity | 4 |
+| Sum of Story Points | 6 |
 
 ##### **5.2.4.2. Aspect Leaders and Collaborators.** 
 
@@ -4150,6 +4173,46 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 </table>
 
 ##### **5.2.4.3. Sprint Backlog 4.** 
+
+| Sprint \# | Sprint 4 |  |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US10 | Recibir alerta por stock mínimo en el inventario | T1 | Desarrollar funcionalidad de la alerta | Desarrollo de la alerta para el bounded context manager cuando hay una cantidad baja de materiales | 2 | Matthew | Done |
+|  |  | T2 | Implementar funcionalidad de alerta en el frontend | integración de la funcionalidad | 4 | Mayhly | Done |
+|  |  | T3 | Implementar botón de notificaciones | Botón que muestra una pestaña donde se ven las notificaciones recientes | 4 | Paula | Done |
+|  |  | T4 | Enviar mensaje de alerta al correo del manager | Integrar funcionalidad con email | 4 | Daniela | Done |
+| US12 | Generar una solicitud automática de reposición | T1 | Desarrollo de formulario de reposición | Formulario de reposición de materiales en el inventario | 4 | Daniela | Done |
+|  |  | T2 | Implementación del formulario de reposición | Implementación en el bounded context | 4 | Raúl | Done |
+|  |  | T3 | Conección con servicio email  | Implementación de servicio de email para el envío de la resolución | 4 | Raúl | Done |
+
+| TS03 | Endpoint GET por ID de obra | T1 | Implementar endpoint GET para obra por ID | Crear endpoint para obtener detalles de una obra específica por su ID. | 4 | T1 | To-do |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| TS04 | Endpoint PUT para editar una obra | T1 | Implementar endpoint PUT para editar obra | Desarrollar endpoint para actualizar detalles de una obra existente. | 6 | T1 | To-do |
+| TS05 | Endpoint GET de materiales por obra | T1 | Implementar endpoint GET para materiales por obra | Crear endpoint para obtener lista de materiales asociados a una obra. | 5 | T1 | To-do |
+| TS06 | Endpoint GET de detalle de material | T1 | Implementar endpoint GET para detalles de material | Desarrollar endpoint para obtener información detallada de un material. | 4 | T1 | To-do |
+| TS07 | Endpoint POST para registrar material | T1 | Implementar endpoint POST para registrar material | Crear endpoint para registrar un nuevo material para una obra. | 6 | T1 | To-do |
+| TS14 | Endpoint POST para registrar nuevo incidente | T1 | Implementar endpoint POST para nuevo incidente | Desarrollar endpoint para registrar un nuevo incidente en una obra. | 6 | T1 | To-do |
+| TS15 | Endpoint GET de detalle de incidente | T1 | Implementar endpoint GET para detalles de incidente | Crear endpoint para obtener detalles de un incidente específico. | 4 | T1 | To-do |
+| TS16 | Exportar ficha de incidente a PDF | T1 | Implementar exportación a PDF de ficha de incidente | Desarrollar funcionalidad para generar y exportar detalles de incidente en PDF. | 8 | T1 | To-do |
+| TS17 | Endpoint PUT para editar incidente registrado | T1 | Implementar endpoint PUT para editar incidente | Crear endpoint para actualizar detalles de un incidente existente. | 6 | T1 | To-do |
+| TS21 | Endpoint GET para listar maquinaria por obra | T1 | Implementar endpoint GET para maquinaria por obra | Desarrollar endpoint para listar maquinaria asociada a una obra específica. | 5 | T1 | To-do |
+| TS22 | Endpoint POST para registrar nueva maquinaria | T1 | Implementar endpoint POST para nueva maquinaria | Crear endpoint para registrar nueva maquinaria para una obra. | 6 | T1 | To-do |
+| TS23 | Endpoint GET para obtener detalle de maquinaria | T1 | Implementar endpoint GET para detalles de maquinaria | Desarrollar endpoint para obtener detalles de una maquinaria específica. | 4 | T1 | To-do |
+| TS24 | Generar ficha técnica de maquinaria en PDF | T1 | Implementar exportación a PDF de ficha técnica de maquinaria | Crear funcionalidad para generar y exportar detalles de maquinaria en PDF. | 8 | T1 | To-do |
+| TS25 | Endpoint PUT para editar datos de maquinaria | T1 | Implementar endpoint PUT para editar maquinaria | Desarrollar endpoint para actualizar detalles de maquinaria existente. | 6 | T1 | To-do |
+| TS26 | Endpoint GET para estadísticas generales por obra | T1 | Implementar endpoint GET para estadísticas de obra | Crear endpoint para obtener estadísticas generales de una obra específica. | 6 | T1 | To-do |
+| TS27 | Lógica para calcular porcentaje de asistencia por obra | T1 | Implementar lógica de porcentaje de asistencia | Desarrollar lógica para calcular el porcentaje de asistencia por obra. | 5 | T1 | To-do |
+| TS28 | Lógica para calcular ranking de obras con más personal | T1 | Implementar lógica de ranking de obras por personal | Crear lógica para clasificar obras según la cantidad de personal. | 5 | T1 | To-do |
+| TS29 | Lógica para calcular porcentaje de ausencias | T1 | Implementar lógica de porcentaje de ausencias | Desarrollar lógica para calcular el porcentaje de ausencias por obra. | 5 | T1 | To-do |
+| TS30 | Endpoint GET para galería de imágenes documentadas | T1 | Implementar endpoint GET para galería de imágenes | Crear endpoint para obtener imágenes documentadas de una obra. | 5 | T1 | To-do |
+| TS32 | Endpoint GET de configuración de obra | T1 | Implementar endpoint GET para configuración de obra | Desarrollar endpoint para obtener configuraciones de una obra. | 4 | T1 | To-do |
+| TS33 | Endpoint PUT para actualizar datos de configuración de obra | T1 | Implementar endpoint PUT para configuración de obra | Crear endpoint para actualizar configuraciones de una obra. | 6 | T1 | To-do |
+| TS34 | Lógica para descartar cambios en configuración | T1 | Implementar lógica para descartar cambios en configuración | Desarrollar lógica para revertir cambios en la configuración de una obra. | 4 | T1 | To-do |
+| TS35 | Endpoint GET para perfil de usuario | T1 | Implementar endpoint GET para perfil de usuario | Crear endpoint para obtener detalles del perfil de un usuario. | 4 | T1 | To-do |
+| TS36 | Endpoint PUT para actualizar perfil personal | T1 | Implementar endpoint PUT para actualizar perfil | Desarrollar endpoint para actualizar información del perfil personal. | 6 | T1 | To-do |
+| TS37 | Endpoint GET para configuración de cuenta | T1 | Implementar endpoint GET para configuración de cuenta | Crear endpoint para obtener configuraciones de cuenta de usuario. | 4 | T1 | To-do |
+| TS38 | Endpoint PUT para guardar configuración personalizada | T1 | Implementar endpoint PUT para configuración personalizada | Desarrollar endpoint para guardar configuraciones personalizadas de usuario. | 6 | T1 | To-do |
 
 
 ##### **5.2.4.4. Development Evidence for Sprint Review.** 
@@ -4362,24 +4425,37 @@ El gerente de obra entrevistado comentó que actualmente controla al personal me
 <p align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></p>
 
 **CARRERA:** Ingeniería de Software  
-**CURSO:** Aplicaciones Web
+
+**CURSO:** Aplicaciones Web 
+
 **SECCIÓN:** 4388
+
 **PROFESORES:**
 
 Mori Paiva, Hugo Allan
+
 Reupo-Musayón, Naldo
+
 Sánchez Ponce, Alex Humberto
+
 Sánchez Seña, Alberto Wilmer
+
 Velásquez Núñez, Ángel Augusto
+
 Villafuerte Bazán, Óscar Iván
 
 **CLIENTE(S):** 
 
 Victor Bellido
+
 Denisse Vargas
+
 Naim Napuri
+
 Milagros Arellano
+
 Antonio Enciso
+
 Lourdes Salas
 
 ***SITE o APP A EVALUAR:*** BuildTruck
@@ -4425,6 +4501,131 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | 6 | Navegación móvil lenta entre módulos (pestañas tardan en cargar).| 3 | Eficiencia (Usabilidad móvil)|
 | 7 | Landing page no explica funcionalidades clave (ej.: cómo crear un reporte rápido).| 2 | Ayuda y documentación (Nielsen #10)|
 <hr>
+
+#
+#
+
+***PROBLEMA 1:***
+
+**Severidad:** 3
+
+**Heurística:** Flexibilidad y eficiencia del uso (Nielsen #7)
+
+**Problema:** El registro de asistencia requiere demasiados pasos y no permite escanear códigos QR ni marcar múltiples personas al mismo tiempo, lo que reduce la eficiencia del proceso.
+
+Figura
+Captura
+
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Implementar opciones para escanear códigos QR y permitir selección múltiple de trabajadores para agilizar el proceso de registro de asistencia.
+#
+
+
+***PROBLEMA 2:***
+
+**Severidad:** 3
+
+**Heurística:** Visibilidad del estado del sistema (Nielsen #1)
+
+**Problema:** El módulo de inventario no muestra alertas automáticas ni el stock mínimo, lo que obliga al usuario a revisar manualmente cada ítem para detectar faltantes.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Añadir indicadores visuales de stock mínimo y alertas automáticas que notifiquen al usuario cuando algún material esté por agotarse.
+#
+
+
+***PROBLEMA 3:***
+
+**Severidad:** 2
+
+**Heurística:** Reconocimiento antes que recuerdo (Nielsen #6)
+
+**Problema:** El módulo de reportes no permite filtrar por fechas ni rubros específicos; solo se generan archivos PDF genéricos, lo que limita su utilidad y obliga al usuario a recordar qué buscar manualmente.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+
+**Recomendación:**
+Incorporar filtros avanzados por fecha, rubro, obra o tipo de reporte, y generar vistas previas antes de exportar el archivo final.
+#
+
+
+***PROBLEMA 4:***
+
+**Severidad:** 2
+
+**Heurística:** Prevención de errores (Nielsen #5)
+
+**Problema:** Los formularios de solicitud de materiales no permiten guardar datos recurrentes. Esto hace que se deban llenar repetidamente los mismos campos para obras similares, aumentando el riesgo de errores.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Agregar la opción de guardar plantillas o autocompletado de solicitudes frecuentes por obra o usuario.
+#
+
+
+***PROBLEMA 5:***
+
+**Severidad:** 2
+
+**Heurística:** Compatibilidad con el mundo real (Match with real world) (Nielsen #2)
+
+**Problema:** La subida de fotos en los reportes no permite etiquetar avances. Las imágenes se mezclan sin contexto, dificultando su interpretación posterior.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Permitir que los usuarios etiqueten o clasifiquen las imágenes subidas, añadiendo campos como fecha, actividad, responsable u observaciones.
+#
+
+
+***PROBLEMA 6:***
+
+**Severidad:** 3
+
+**Heurística:** Eficiencia (Usabilidad móvil)
+
+**Problema:** En la versión móvil, la navegación entre módulos es lenta. Las pestañas tardan en cargar y esto genera una experiencia frustrante en campo.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Optimizar el rendimiento móvil reduciendo tiempos de carga mediante lazy loading, uso eficiente de recursos y almacenamiento local temporal.
+#
+
+
+***PROBLEMA 7:***
+
+**Severidad:** 2
+
+**Heurística:** Ayuda y documentación (Nielsen #10)
+
+**Problema:** La landing page no brinda una guía o explicación clara sobre las funcionalidades clave del sistema, como por ejemplo cómo generar un reporte rápido.
+
+Figura
+Captura
+Nota. Elaboración propia.
+
+**Recomendación:**
+Agregar textos breves o recursos interactivos (tooltips, videos cortos o guías rápidas) que orienten al usuario sobre las funciones principales al ingresar.
+#
 
 
 ## **5.4. Video About-the-Product.**
