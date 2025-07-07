@@ -5001,7 +5001,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 **Problema:** El registro de asistencia requiere demasiados pasos y no permite escanear códigos QR ni marcar múltiples personas al mismo tiempo, lo que reduce la eficiencia del proceso.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_1.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -5019,7 +5021,9 @@ Implementar opciones para escanear códigos QR y permitir selección múltiple d
 **Problema:** El módulo de inventario no muestra alertas automáticas ni el stock mínimo, lo que obliga al usuario a revisar manualmente cada ítem para detectar faltantes.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_2.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -5037,7 +5041,9 @@ Añadir indicadores visuales de stock mínimo y alertas automáticas que notifiq
 **Problema:** El módulo de reportes no permite filtrar por fechas ni rubros específicos; solo se generan archivos PDF genéricos, lo que limita su utilidad y obliga al usuario a recordar qué buscar manualmente.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_3.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -5055,7 +5061,9 @@ Incorporar filtros avanzados por fecha, rubro, obra o tipo de reporte, y generar
 **Problema:** Los formularios de solicitud de materiales no permiten guardar datos recurrentes. Esto hace que se deban llenar repetidamente los mismos campos para obras similares, aumentando el riesgo de errores.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_4.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -5072,7 +5080,9 @@ Agregar la opción de guardar plantillas o autocompletado de solicitudes frecuen
 **Problema:** La subida de fotos en los reportes no permite etiquetar avances. Las imágenes se mezclan sin contexto, dificultando su interpretación posterior.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_5.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -5089,7 +5099,9 @@ Permitir que los usuarios etiqueten o clasifiquen las imágenes subidas, añadie
 **Problema:** En la versión móvil, la navegación entre módulos es lenta. Las pestañas tardan en cargar y esto genera una experiencia frustrante en campo.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_6.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -5106,7 +5118,9 @@ Optimizar el rendimiento móvil reduciendo tiempos de carga mediante lazy loadin
 **Problema:** La landing page no brinda una guía o explicación clara sobre las funcionalidades clave del sistema, como por ejemplo cómo generar un reporte rápido.
 
 Figura
-
+<p align="center">
+  <img src="images/heuristica_problema_7.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
