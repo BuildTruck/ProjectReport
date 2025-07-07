@@ -292,14 +292,7 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
 <hr>
 
 # **Student Outcome**
-
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
-
-**Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos*   
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
-
-**Objetivo general:** Desarrollar, como equipo BuildWise, BuildTruck, una aplicación web para optimizar la gestión integral de obras de construcción. Buscamos diseñar e implementar una solución tecnológica basada en el enfoque Domain-Driven Design (DDD), con una arquitectura moderna compuesta por frontend en Vue + Vite y backend en C#, que responda a las necesidades reales de nuestro público objetivo, fomentando el trabajo colaborativo y la planificación eficaz de recursos en obra.
+ 
 
 <table border="1">
   <tr>
@@ -310,137 +303,119 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   <tr>
     <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong></td>
     <td>
-    	<p><strong>Bellido Salas, Raúl</strong></p>
-      <p><i>TB1</i></p>
-      <p>Participé en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyé en la planeación de las entregas.</p>
-      <p><i>TP</i></p>
-      <p>Ejecuté el despliegue de la Fake API y de la aplicación. Desarrollé la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento.</p>
-      <p><i>TB2</i></p>
-      <p>En el reporte, realicé el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend, hice los endpoints de maquinaria.</p>
-      <p><i>TF</i></p>
-      <p>Me encargué de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Coloqué los videos en la landing page. Corregí fallos de los endpoints de maquinarias en el backend y los unió con el frontend.</p>
-      <p></p>
-    	<p><strong>Gómez Flores, Daniela Araceli</strong></p>
-      <p><i>TB1</i></p>
-      <p>Lideré la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomenté la participación activa de todo el equipo.</p>
-      <p><i>TP</i></p>
-      <p>Tomé iniciativa en la implementación de la sección de Incidentes y lideré la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia.</p>
-      <p><i>TB2</i></p>
-      <p>Registré las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboré los endpoints de incidentes de BuildTruck.</p>
-      <p><i>TF</i></p>
-      <p>En esta última entrega del reporte, corregí errores del TB2 también elaboré el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corregí fallos de los endpoints de incidents en el backend y los uní con el frontend.</p>
-      <p></p>
-      <p><strong>Gutiérrez Condo, Maylhy Olinda</strong></p>
-      <p><i>TB1</i></p>
-      <p>Organicé y distribuí tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo.</p>
-      <p><i>TP</i></p>
-      <p>Coordiné las correcciones del TB1 y organicé la documentación del Sprint 2. Desarrollé las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración.</p>
-      <p><i>TB2</i></p>
-      <p>Realicé la Execution Evidence for Sprint 3 Review, agregué technical stories y parte del product backlog 3. Realicé fixes al frontend. Hice los endpoints del bounded context materiales</p>
-      <p><i>TF</i></p>
-      <p>Para el reporte del TF, realicé parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualicé y mejoré el frontend de BuildTruck y uní los endpoints de materiales con el frontend de la aplicación.</p>
-      <p></p>
-    	<p><strong>Luyo Correa, Sandra Paula</strong></p>
-      <p><i>TB1</i></p>
-      <p>Coordiné actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración.</p>
-      <p><i>TP</i></p>
-      <p>Participé en las correcciones del TB1 y lideré la documentación del Sprint 2. Asumí responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información.</p>
-      <p><i>TB2</i></p>
-      <p>Realicé del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realicé los endpoints de configuración de la aplicación</p>
-      <p><i>TF</i></p>
-      <p>Para el reporte del TF, registré los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realicé Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigí fallos de los endpoints de configurations en el backend y los uní con el frontend.</p>
-      <p></p>
-    	<p><strong>Roca Tineo, Steven Mathew</strong></p>
-      <p><i>TB1</i></p>
-      <p>Lideré técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a mis compañeros.</p>
-      <p><i>TP</i></p>
-      <p>Asumí el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordiné la implementación de la internacionalización y manejo de errores.</p>
-      <p><i>TB2</i></p>
-      <p>En el reporte realicé parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realicé fixes al frontend de BuildTruck. Realicé los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.</p>
-      <p><i>TF</i></p>
-      <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
+      <strong>TB1:</strong><br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Participó en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyó en la planeación de las entregas.<br>
+      <strong>Daniela Araceli Gómez Flores</strong><br>
+      Lideró la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomentando la participación activa de todo el equipo.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Organizó y distribuyó tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo.<br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Coordinó actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Lideró técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a sus compañeros.<br>
+      <strong>TP:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Participó en las correcciones del TB1 y lideró la documentación del Sprint 2. Asumió responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Tomó iniciativa en la implementación de la sección de Incidentes y lideró la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Coordinó las correcciones del TB1 y organizó la documentación del Sprint 2. Desarrolló las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Asumió el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordinó la implementación de la internacionalización y manejo de errores.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento. <br>
+      <strong>TB2:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
+      <strong>TF:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
     </td>
     <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Promover el liderazgo distribuido entre los miembros para organizar las primeras actividades del proyecto, como el diseño de la arquitectura, la elaboración de wireframes, diagramas base y la documentación inicial</p>
-      <p><strong>Conclusión: </strong>Todos los miembros ejercimos liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. Nuestra colaboración nos permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad de nuestro equipo para funcionar de manera integrada y equitativa.</p>
-      <p><ins><i><strong>TP:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Guiar técnicamente la implementación de funcionalidades claves del sistema como la maquinaria, incidentes, estadísticas y autenticación, facilitando el trabajo en equipo mediante una coordinación efectiva.</p>
-      <p><strong>Conclusión: </strong>El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.</p>
-      <p><ins><i><strong>TB2:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Reforzar el liderazgo compartido a través de la coordinación del Sprint 3, asignación de tareas de desarrollo backend (por bounded contexts) y mejoras al frontend, priorizando la integración del equipo en la entrega.</p>
-      <p><strong>Conclusión: </strong>En esta entrega, como equipo BuildWise, demostramos nuestra capacidad de trabajar en conjunto asumiendo el liderazgo de forma compartida, según las necesidades del proyecto BuildTruck. Cada integrante tomó iniciativa en distintos frentes, liderando la elaboración de reportes, el diseño de entrevistas de validación, la implementación técnica de funcionalidades y la documentación de avances. Esta distribución equilibrada de responsabilidades nos permitió avanzar de manera organizada, potenciando nuestras fortalezas individuales en beneficio del equipo. Gracias a esta colaboración equitativa y al liderazgo distribuido, logramos consolidar una versión más robusta y alineada con los objetivos de BuildTruck.</p>
-      <p><ins><i><strong>TF:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Consolidar el liderazgo conjunto en la entrega final mediante la coordinación técnica de integración frontend-backend, la organización de evidencia del Sprint 4 y la documentación completa del sistema.</p>
-      <p><strong>Conclusión: </strong>En esta etapa final, el trabajo en equipo fue esencial para proporcionar liderazgo compartido en las diversas áreas del proyecto BuildTruck. Cada miembro asumió responsabilidades específicas y lideró aspectos técnicos y documentales, desde la integración de módulos funcionales hasta la consolidación del reporte. La coordinación entre nosotros permitió solucionar errores, tomar decisiones de manera consensuada y avanzar como un equipo cohesionado. Esta entrega refleja cómo el liderazgo no se centró en una sola persona, sino que fue asumido de forma conjunta y efectiva para lograr una entrega final sólida y completa.</p>
+      <strong>TB1:</strong><br>
+      Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.<br>
+      <strong>TP:</strong><br>
+      El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.<br>
+      <strong>TB2:</strong><br>
+      En esta entrega, como equipo BuildWise, demostramos nuestra capacidad de trabajar en conjunto asumiendo el liderazgo de forma compartida, según las necesidades del proyecto BuildTruck. Cada integrante tomó iniciativa en distintos frentes, liderando la elaboración de reportes, el diseño de entrevistas de validación, la implementación técnica de funcionalidades y la documentación de avances. Esta distribución equilibrada de responsabilidades nos permitió avanzar de manera organizada, potenciando nuestras fortalezas individuales en beneficio del equipo. Gracias a esta colaboración equitativa y al liderazgo distribuido, logramos consolidar una versión más robusta y alineada con los objetivos de BuildTruck.<br>
+      <strong>TF:</strong><br>
+      En esta etapa final, el trabajo en equipo fue esencial para proporcionar liderazgo compartido en las diversas áreas del proyecto BuildTruck. Cada miembro asumió responsabilidades específicas y lideró aspectos técnicos y documentales, desde la integración de módulos funcionales hasta la consolidación del reporte. La coordinación entre nosotros permitió solucionar errores, tomar decisiones de manera consensuada y avanzar como un equipo cohesionado. Esta entrega refleja cómo el liderazgo no se centró en una sola persona, sino que fue asumido de forma conjunta y efectiva para lograr una entrega final sólida y completa.
     </td>
   </tr>
   <tr>
     <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
     <td>
-      <p><strong>Bellido Salas, Raúl</strong></p>
-      <p><i>TB1</i></p>
-      <p>Contribuí en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.</p>
-      <p><i>TP</i></p>
-      <p>Coordiné con mis compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema.</p>
-      <p><i>TB2</i></p>
-      <p>En el reporte, realicé el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend, hice los endpoints de maquinaria.</p>
-      <p><i>TF</i></p>
-      <p>Me encargué de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Coloqué los videos en la landing page. Corregí fallos de los endpoints de maquinarias en el backend y los unió con el frontend.</p>
-      <p></p>
-      <p><strong>Gómez Flores, Daniela Araceli</strong></p>
-      <p><i>TB1</i></p>
-      <p>Promoví la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura.</p>
-      <p><i>TP</i></p>
-      <p>Propicié la colaboración en el desarrollo de funcionalidades críticas. Coordiné esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia.</p>
-      <p><i>TB2</i></p>
-      <p>Registré las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboré los endpoints de incidentes de BuildTruck.</p>
-      <p><i>TF</i></p>
-      <p>En esta última entrega del reporte, corregí errores del TB2 también elaboré el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corregí fallos de los endpoints de incidents en el backend y los uní con el frontend.</p>
-      <p></p>
-      <p><strong>Gutiérrez Condo, Maylhy Olinda</strong></p>
-      <p><i>TB1</i></p>
-      <p>Facilité un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes.</p>
-      <p><i>TP</i></p>
-      <p>Estimulé la participación del equipo en las decisiones sobre funcionalidades compartidas. Planifiqué las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma.</p>
-      <p><i>TB2</i></p>
-      <p>Realicé la Execution Evidence for Sprint 3 Review, agregué technical stories y parte del product backlog 3. Realicé fixes al frontend. Hice los endpoints del bounded context materiales</p>
-      <p><i>TF</i></p>
-      <p>Para el reporte del TF, realicé parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualicé y mejoré el frontend de BuildTruck y uní los endpoints de materiales con el frontend de la aplicación.</p>
-      <p></p>
-      <p><strong>Luyo Correa, Sandra Paula</strong></p>
-      <p><i>TB1</i></p>
-      <p>Planifiqué tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones.</p>
-      <p><i>TP</i></p>
-      <p>Facilité un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición.</p>
-      <p><i>TB2</i></p>
-      <p>Realicé del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realicé los endpoints de configuración de la aplicación</p>
-      <p><i>TF</i></p>
-      <p>Para el reporte del TF, registré los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realicé Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigí fallos de los endpoints de configurations en el backend y los uní con el frontend.</p>
-      <p></p>
-      <p><strong>Roca Tineo, Steven Mathew</strong></p>
-      <p><i>TB1</i></p>
-      <p>Coordiné la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea.</p>
-      <p><i>TP</i></p>
-      <p>Establecí metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.</p>
-      <p><i>TB2</i></p>
-      <p>En el reporte realicé parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realicé fixes al frontend de BuildTruck. Realicé los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.</p>
-      <p><i>TF</i></p>
-      <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
+      <strong>TB1:</strong><br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Contribuyó en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.<br>
+      <strong>Daniela Araceli Gómez Flores</strong><br>
+      Promovió la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Facilitó un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes.<br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Planificó tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Coordinó la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea.<br>
+      <strong>TP:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Facilitó un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Propició la colaboración en el desarrollo de funcionalidades críticas. Coordinó esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Estimuló la participación del equipo en las decisiones sobre funcionalidades compartidas. Planificó las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      Estableció metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.<br>
+      <strong>Bellido Salas, Raúl</strong><br>
+      Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema. <br>
+      <strong>TB2:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
+      <strong>TF:</strong><br>
+      <strong>Luyo Correa, Sandra Paula</strong><br>
+      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
+      <strong>Gómez Flores, Daniela Araceli</strong><br>
+      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
+      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
+      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
+      <strong>Roca Tineo, Steven Mathew</strong><br>
+      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
+      <strong>Salas Bellido, Raúl</strong><br>
+      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
     </td>
     <td>
-      <p><ins><i><strong>TB1:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Fomentar la participación de todo el equipo en las decisiones iniciales del sistema, estableciendo metas claras en diseño, modelado y documentación, y promoviendo un ambiente inclusivo de trabajo.</p>
-      <p><strong>Conclusión: </strong>El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.</p>
-      <p><ins><i><strong>TP:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Consolidar un entorno de trabajo ordenado y colaborativo durante el desarrollo del Sprint 2, asignando tareas según roles, integrando avances funcionales y cumpliendo objetivos técnicos y de despliegue.</p>
-      <p><strong>Conclusión: </strong>El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.</p>
-      <p><ins><i><strong>TB2:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Sostener un ambiente de colaboración constante donde se definieron metas técnicas claras, se planificó el trabajo por módulos y se realizó la validación del producto con usuarios externos.</p>
-      <p><strong>Conclusión: </strong>Como equipo BuildWise, nuestro objetivo en esta entrega fue fortalecer el desarrollo colaborativo de BuildTruck, nuestra aplicación para el buen manejo de obras de construcción. Para lograrlo, establecimos metas claras, planificamos tareas específicas y trabajamos de manera coordinada, asegurando la participación activa de todos los integrantes. Cada miembro aportó desde su rol, ya sea en la elaboración del Project Report, diseño y análisis de entrevistas de validación, desarrollo de endpoints para los distintos módulos del sistema o la documentación de evidencia técnica. Esta entrega refleja nuestro compromiso con un entorno inclusivo, donde la comunicación, la planificación y el cumplimiento de objetivos fueron clave para avanzar con solidez hacia una solución útil para el sector construcción.</p>
-      <p><ins><i><strong>TF:</strong></i></ins></p>
-      <p><strong>Objetivo específico: </strong>Mantener una dinámica de trabajo colaborativa, integrando las últimas mejoras funcionales, corrigiendo errores de entregas anteriores y cumpliendo con los objetivos finales del proyecto de forma organizada y equitativa.</p>
-      <p><strong>Conclusión: </strong>Durante el desarrollo del trabajo final, en BuildWise mantuvimos un entorno de colaboración activa e inclusiva, donde cada integrante participó en la planificación y ejecución de tareas clave. Establecimos metas claras como la finalización del Sprint 4, la integración completa entre backend y frontend, y la mejora del reporte final. Coordinamos esfuerzos para cumplir estos objetivos mediante correcciones, mejoras y documentación técnica. Esta entrega evidencia cómo, mediante una organización efectiva y la participación equitativa de todos, consolidamos los avances funcionales y formales de BuildTruck.</p>  
+      <strong>TB1:</strong><br>
+      El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.<br>
+      <strong>TP:</strong><br>
+      El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.<br>
+      <strong>TB2:</strong><br>
+      Como equipo BuildWise, nuestro objetivo en esta entrega fue fortalecer el desarrollo colaborativo de BuildTruck, nuestra aplicación para el buen manejo de obras de construcción. Para lograrlo, establecimos metas claras, planificamos tareas específicas y trabajamos de manera coordinada, asegurando la participación activa de todos los integrantes. Cada miembro aportó desde su rol, ya sea en la elaboración del Project Report, diseño y análisis de entrevistas de validación, desarrollo de endpoints para los distintos módulos del sistema o la documentación de evidencia técnica. Esta entrega refleja nuestro compromiso con un entorno inclusivo, donde la comunicación, la planificación y el cumplimiento de objetivos fueron clave para avanzar con solidez hacia una solución útil para el sector construcción.<br>
+      <strong>TF:</strong><br>
+      Durante el desarrollo del trabajo final, en BuildWise mantuvimos un entorno de colaboración activa e inclusiva, donde cada integrante participó en la planificación y ejecución de tareas clave. Establecimos metas claras como la finalización del Sprint 4, la integración completa entre backend y frontend, y la mejora del reporte final. Coordinamos esfuerzos para cumplir estos objetivos mediante correcciones, mejoras y documentación técnica. Esta entrega evidencia cómo, mediante una organización efectiva y la participación equitativa de todos, consolidamos los avances funcionales y formales de BuildTruck.
     </td>
   </tr>
 </table>
@@ -2697,13 +2672,13 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 ### ***4.6.1. Software Architecture Context Diagrams***
 
 <p align="center">
-  <img src="images/structurizr-101472-Contexto.png" alt="PB" width="1000">
+  <img src="images/contextonuevo.JPG" alt="PB" width="1000">
 </p>
 
 ### ***4.6.2. Software Architecture Container Diagrams***
 
 <p align="center">
-  <img src="images/structurizr-101472-Contenedor.png" alt="PB" width="1000">
+  <img src="images/contenedoresnuevo.JPG" alt="PB" width="1000">
 </p>
 
 ### ***4.6.3. Software Architecture Components Diagrams***
@@ -4536,13 +4511,206 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 
 
 ##### **5.2.4.4. Development Evidence for Sprint Review.** 
+#
+| Repository              | Branch         | Commit                                     | Message Body | Committed on (Date) |
+| ----------------------- | -------------- | ------------------------------------------ | ------------ | ------------------- |
+| matthewsrt29/BuildTruck | release/v1.3.0 | Merge branch 'release/v1.3.0'              |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | fix\:socket                                |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.9' into develop            |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.9 | Merge branch 'release/v1.2.9'              |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | fix\:socket                                |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.8' into develop            |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.8 | Merge branch 'release/v1.2.8'              |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | fix\:cors policy                           |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.7' into develop            |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.7 | Merge branch 'release/v1.2.7'              |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | fix\:cors policy                           |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.6' into develop            |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.6 | Merge branch 'release/v1.2.6'              |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | fix: machinery and incidents               |              | 06/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.5' into develop            |              | 05/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.5 | Merge branch 'release/v1.2.5'              |              | 05/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feat\:notifications endpoints              |              | 05/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feat: stats endpoints                      |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.4' into develop            |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.4 | Merge branch 'release/v1.2.4'              |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feax: update of the type usages            |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.3' into develop            |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.3 | Merge branch 'release/v1.2.3'              |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feax\:Update of the status Pending         |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.2' into develop            |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.2 | Merge branch 'release/v1.2.2'              |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feax\:Update os the status materials       |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.1' into develop            |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.1 | Merge branch 'release/v1.2.1'              |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feax\:Update of the status materials       |              | 04/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.2.0' into develop            |              | 03/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.2.0 | Merge branch 'release/v1.2.0'              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck | develop        | feat: Add Configurations Backend Endpoints |              | 03/07/2025          |
+| matthewsrt29/BuildTruck | develop        | Merge tag 'v1.1.9' into develop            |              | 03/07/2025          |
+| matthewsrt29/BuildTruck | release/v1.1.9 | Merge branch 'release/v1.1.9'              |              | 03/07/2025          |
+| DanieGF1/BuildTruck         | develop        | Merge tag 'v1.1.8' into develop                                                                                                     |              | 04/07/2025          |
+| DanieGF1/BuildTruck         | release/v1.1.8 | Merge branch 'release/v1.1.8'                                                                                                       |              | 04/07/2025          |
+| DanieGF1/BuildTruck         | develop        | feat: IncidentsImage                                                                                                                |              | 04/07/2025          |
+| Ly009463/BuildTruck         | develop        | feax: Update of the endpoint                                                                                                        |              | 03/07/2025          |
+| raulbellidosalas/BuildTruck | develop        | Merge tag 'v1.1.7' into develop                                                                                                     |              | 03/07/2025          |
+| raulbellidosalas/BuildTruck | release/v1.1.7 | Merge branch 'release/v1.1.7'                                                                                                       |              | 03/07/2025          |
+| raulbellidosalas/BuildTruck | develop        | feat: added authentication and fixed endpoints                                                                                      |              | 03/07/2025          |
+| Ly009463/BuildTruck         | develop        | Merge tag 'v1.1.6' into develop                                                                                                     |              | 03/07/2025          |
+| Ly009463/BuildTruck         | release/v1.1.6 | Merge branch 'release/v1.1.6'                                                                                                       |              | 03/07/2025          |
+| Ly009463/BuildTruck         | develop        | fix\:Update of the link                                                                                                             |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.5' into develop                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.5 | Merge branch 'release/v1.1.5'                                                                                                       |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix\:export controller                                                                                                              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.4' into develop                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.4 | Merge branch 'release/v1.1.4'                                                                                                       |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix\:export controller                                                                                                              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.3' into develop                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.3 | Merge branch 'release/v1.1.3'                                                                                                       |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix\:export controller                                                                                                              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix\:export controller                                                                                                              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.2' into develop                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.2 | Merge branch 'release/v1.1.2'                                                                                                       |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix\:export controller                                                                                                              |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.1' into develop                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.1 | Merge branch 'release/v1.1.1'                                                                                                       |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix: attendance                                                                                                                     |              | 03/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.1.0' into develop                                                                                                     |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.1.0 | Merge branch 'release/v1.1.0'                                                                                                       |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix: personnel                                                                                                                      |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge branch 'develop' of [https://github.com/BuildTruck/BackendWebApps](https://github.com/BuildTruck/BackendWebApps) into develop |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | Merge tag 'v1.0.9' into develop                                                                                                     |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | release/v1.0.9 | Merge branch 'release/v1.0.9'                                                                                                       |              | 02/07/2025          |
+| matthewsrt29/BuildTruck     | develop        | fix: personnel                                                                                                                      |              | 02/07/2025          |
+| Ly009463/BuildTruck         | develop        | update materials                                                                                                                    |              | 01/07/2025          |
+
 
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
 
+
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
 
+Durante el Sprint 4, el enfoque principal se centró en el desarrollo e integración del backend de la aplicación web BuildTruck, así como en el establecimiento de la conexión efectiva entre el frontend y el backend. Esta integración permitió comenzar a consumir servicios reales desde la interfaz, lo cual marca un hito importante en la funcionalidad del sistema.
+
+Las funcionalidades desarrolladas previamente —como la gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles— se consolidaron y quedaron completamente implementadas y operativas. Además, durante este sprint se incorporaron nuevas funcionalidades que amplían el alcance y robustez del sistema, incluyendo: configuraciones del sistema, gestión de documentación, exportaciones, preferencias de notificación, notificaciones y estadísticas.
+
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts definidos en la arquitectura de BuildTruck, junto con sus respectivas tablas en la base de datos.
+
+
+
+**1. Gestión de Usuarios (Users):**  
+* **Tabla:** Users
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todos los usuarios, obtener usuario por ID  
+  * **POST:** Crear un nuevo usuario, subir imagen de perfil  
+  * **PUT:** Actualizar usuario, cambiar contraseña  
+  * **DELETE:** Eliminar usuario, eliminar imagen de perfil  
+* **Descripción:** Gestión completa de los usuarios del sistema, incluyendo información personal, imagen de perfil y credenciales de acceso.
+
+**2. Gestión de Proyectos (Projects):**  
+* **Tabla:** Projects  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener proyectos por manager o por supervisor  
+  * **POST:** Crear un nuevo proyecto  
+  * **PUT:** Actualizar un proyecto existente  
+  * **DELETE:** Eliminar un proyecto  
+* **Descripción:** Permite crear, visualizar y modificar proyectos de construcción, asignados a diferentes perfiles del sistema.
+
+**3. Gestión de Personal (Personnel):**  
+* **Tabla:** Personnel  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todo el personal, obtener por ID  
+  * **POST:** Registrar un nuevo trabajador  
+  * **PUT:** Actualizar trabajador, registrar asistencia  
+  * **DELETE:** Eliminar trabajador por ID  
+* **Descripción:** Gestión de obreros y asistentes administrativos involucrados en proyectos. Incluye control de asistencia y actualizaciones de datos.
+
+**4. Gestión de Materiales (Materials):**  
+* **Tabla:** Materials  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener materiales por proyecto, obtener resumen de inventario  
+  * **POST:** Registrar o actualizar material
+* **Descripción:** Manejo de materiales disponibles para cada proyecto, incluyendo el inventario actualizado por ubicación.
+
+**5. Entradas de Materiales (MaterialEntries):**  
+* **Tabla:** MaterialEntries  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener entradas de materiales por proyecto  
+  * **POST:** Crear o actualizar entrada de material  
+* **Descripción:** Registro de entradas de materiales que ingresan a obra. Permite el control de insumos desde el inicio del proyecto.
+
+**6. Uso de Materiales (MaterialUsages):**  
+* **Tabla:** MaterialUsages  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener uso de materiales por proyecto
+  * **POST:** Crear o actualizar uso de material  
+* **Descripción:** Registro de salidas o consumo de materiales dentro del proyecto. Facilita el control del inventario activo.
+
+**7. Gestión de Maquinaria (Machinery):**  
+* **Tabla:** Machinery  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener maquinaria por ID, por proyecto 
+  * **POST:** Registrar nueva maquinaria  
+  * **PUT:** Actualizar información de la maquinaria  
+  * **DELETE:** Eliminar maquinaria  
+* **Descripción:** Gestión de maquinaria disponible en obra. Se permite el registro, actualización y consulta por proyecto o ID.
+
+**8. Gestión de Incidentes (Incidents):**  
+* **Tabla:** Incidents  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener incidentes por proyecto, obtener incidente por ID  
+  * **POST:** Registrar nuevo incidente  
+  * **PUT:** Actualizar incidente  
+  * **DELETE:** Eliminar incidente 
+* **Descripción:** Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
+
+**9. Autenticación y Seguridad (Auth):**  
+* **Operaciones:**  
+  * **POST:** Login, recuperación de contraseña, restablecer contraseña  
+  * **GET:** Obtener usuario autenticado (/me)  
+* **Descripción:** Módulo de autenticación y recuperación de cuentas. Valida usuarios y permite manejar sesiones activas en el sistema.
+
+**10. Configuraciones del Sistema (ConfigurationSettings):**  
+* **Tabla:** ConfigurationSettings  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener configuración por ID de usuario  
+  * **POST:** Crear configuración personalizada  
+  * **PUT:** Actualizar configuración  
+* **Descripción:** Ajustes personalizados del sistema por usuario. Permite definir preferencias individuales para el entorno de trabajo.
+
+**11. Gestión de Documentación (Documentation):**  
+* **Tabla:** Documentation  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todos los documentos, obtener por ID
+  * **POST:** Subir nueva documentación  
+  * **DELETE:** Eliminar documento  
+* **Descripción:** Administración de archivos relevantes para los proyectos. Facilita la consulta y organización de documentos oficiales.
+
+**12. Exportación de Datos (Exports):**  
+* **Operación:**  
+  * **GET:** Exportar información por tipo de entidad (entityType)  
+* **Descripción:** Permite generar reportes exportables de distintas entidades del sistema para su análisis o respaldo externo.
+
+**13. Preferencias de Notificación (NotificationPreferences):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener preferencias de notificación  
+  * **PUT:** Actualizar preferencias  
+* **Descripción:** Personalización del tipo de notificaciones que desea recibir el usuario (actividades, alertas, resúmenes, etc.).
+
+**14. Notificaciones del Sistema (Notifications):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener notificaciones y resumen  
+  * **POST:** Marcar como leídas, forzar prueba de digest*
+  * **DELETE:** Eliminar notificaciones  
+* **Descripción:** Notificaciones internas que informan al usuario sobre cambios, asignaciones, incidencias y otros eventos importantes.
+
+**15. Estadísticas y Panel de Control (Stats):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener estadísticas actuales, historial, dashboard y por periodo 
+  * **POST:** Calcular estadísticas de un manager 
+* **Descripción:** Herramienta de análisis que presenta datos de rendimiento, productividad y gestión del manager en sus proyectos.
 
 ##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
 
@@ -4642,7 +4810,7 @@ Para poder integrar nuestro trabajo e implementarlo a la aplicación, como en la
   <img src="images/raulsupervisor.JPG" width="850">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)  
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 Empieza: 0:00
 
@@ -4659,7 +4827,7 @@ El supervisor actualmente controla el personal con tareos físicos y gestiona ma
   <img src="images/danielasupervisor.JPG" width="850">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)  
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 Empieza: 5:26
 
 Termina: 9:17    
@@ -4676,7 +4844,7 @@ Denisse controla al personal y recursos con métodos manuales (Excel, WhatsApp y
   <img src="images/danielasupervisro2.JPG" width="850">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)  
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 Empieza: 9:22
 
@@ -4695,7 +4863,7 @@ Milagros actualmente gestiona la obra con herramientas manuales como listas impr
   <img src="images/mayñlhygerente.JPG" width="850">
 </p>
 
- *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)  
+ *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
   
 Empieza: 23:05  
 
@@ -4711,7 +4879,7 @@ Naim, gerente de obra, explicó que actualmente gestiona sus proyectos mediante 
   <img src="images/raulgerente.JPG" width="850">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Empieza: 35:46  
 
@@ -4728,7 +4896,7 @@ La gerente gestiona sus obras mediante expedientes técnicos y utiliza Excel com
   <img src="images/mathewgerente.JPG" width="850">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202510%2D1asi0730%2D4388%2DBuildWise%2Dvalidation%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3f08809%2D4a38%2D4b2d%2D82d4%2Dbe0d867a308c)  
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EajeEBjuX4ZCg-9i5-dOT8ABuHL1firGQ-H5eF1VcPsj5w?e=Hd3UYP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 Empieza: 47:56  
 
@@ -4823,7 +4991,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 <hr>
 
 #
-#
 
 ***PROBLEMA 1:***
 
@@ -4834,8 +5001,9 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 **Problema:** El registro de asistencia requiere demasiados pasos y no permite escanear códigos QR ni marcar múltiples personas al mismo tiempo, lo que reduce la eficiencia del proceso.
 
 Figura
-Captura
-
+<p align="center">
+  <img src="images/heuristica_problema_1.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -4853,7 +5021,9 @@ Implementar opciones para escanear códigos QR y permitir selección múltiple d
 **Problema:** El módulo de inventario no muestra alertas automáticas ni el stock mínimo, lo que obliga al usuario a revisar manualmente cada ítem para detectar faltantes.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_2.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -4871,7 +5041,9 @@ Añadir indicadores visuales de stock mínimo y alertas automáticas que notifiq
 **Problema:** El módulo de reportes no permite filtrar por fechas ni rubros específicos; solo se generan archivos PDF genéricos, lo que limita su utilidad y obliga al usuario a recordar qué buscar manualmente.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_3.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 
@@ -4889,7 +5061,9 @@ Incorporar filtros avanzados por fecha, rubro, obra o tipo de reporte, y generar
 **Problema:** Los formularios de solicitud de materiales no permiten guardar datos recurrentes. Esto hace que se deban llenar repetidamente los mismos campos para obras similares, aumentando el riesgo de errores.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_4.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -4906,7 +5080,9 @@ Agregar la opción de guardar plantillas o autocompletado de solicitudes frecuen
 **Problema:** La subida de fotos en los reportes no permite etiquetar avances. Las imágenes se mezclan sin contexto, dificultando su interpretación posterior.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_5.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -4923,7 +5099,9 @@ Permitir que los usuarios etiqueten o clasifiquen las imágenes subidas, añadie
 **Problema:** En la versión móvil, la navegación entre módulos es lenta. Las pestañas tardan en cargar y esto genera una experiencia frustrante en campo.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_6.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -4940,7 +5118,9 @@ Optimizar el rendimiento móvil reduciendo tiempos de carga mediante lazy loadin
 **Problema:** La landing page no brinda una guía o explicación clara sobre las funcionalidades clave del sistema, como por ejemplo cómo generar un reporte rápido.
 
 Figura
-Captura
+<p align="center">
+  <img src="images/heuristica_problema_7.jpg" width="850">
+</p>
 Nota. Elaboración propia.
 
 **Recomendación:**
@@ -4960,22 +5140,19 @@ Agregar textos breves o recursos interactivos (tooltips, videos cortos o guías 
 
 # **Conclusiones**
 
-El desarrollo de BuildWise ha representado un esfuerzo estratégico e interdisciplinario orientado a responder a la creciente necesidad de transformación digital en el sector construcción. A través de la creación de BuildTruck, nuestra plataforma web principal, hemos logrado diseñar e implementar una solución capaz de optimizar el control de inventarios, la gestión de personal y el seguimiento de obreros en obra, tres pilares fundamentales para la eficiencia operativa de cualquier empresa constructora.
+El desarrollo de este proyecto representó un esfuerzo estratégico e interdisciplinario por parte de BuildWise, la startup conformada por nuestro equipo, orientada a aportar soluciones tecnológicas innovadoras al sector construcción. En ese marco, creamos BuildTruck, una plataforma web que responde a una necesidad real de transformación digital en obra, al optimizar tres procesos clave: el control de inventario, la gestión de personal y el seguimiento de obreros en campo.
 
-Este proyecto ha sido llevado a cabo bajo un enfoque de trabajo colaborativo y organizado, reflejado en el registro sistemático de versiones del informe, la definición de perfiles de equipo, y la aplicación de metodologías modernas como Lean UX y técnicas de elicitation y análisis de requerimientos. Estas etapas permitieron identificar las verdaderas necesidades del usuario, conceptualizar soluciones centradas en el cliente y validar continuamente nuestras hipótesis de diseño.
+Desde el inicio, el proyecto fue gestionado bajo un enfoque colaborativo, organizado y centrado en el usuario. Aplicamos metodologías modernas como Lean UX, técnicas de elicitación de requerimientos, y principios de Domain-Driven Design, lo que nos permitió identificar necesidades reales, diseñar soluciones funcionales y validar de forma continua cada etapa del desarrollo.
 
-El proceso de desarrollo avanzó mediante la definición de una arquitectura de software orientada al dominio, la creación de wireframes, mockups y prototipos, así como la implementación técnica en entornos controlados de software, siguiendo buenas prácticas de gestión de código y despliegue. Cada sprint fue registrado mediante evidencias de avances y colaboración, asegurando la transparencia y el aprendizaje continuo dentro del equipo.
+Durante el proceso, diseñamos e iteramos wireframes, mockups y prototipos, avanzando hacia una implementación técnica sólida basada en tecnologías actuales como Vue.js y C#, con una arquitectura modular y mantenible estructurada por bounded contexts. La integración de buenas prácticas de gestión de código, despliegue en entornos controlados y documentación técnica aseguró un producto robusto y escalable.
 
-Gracias a un enfoque centrado en el usuario, el diseño de una plataforma intuitiva y el uso de herramientas tecnológicas modernas, BuildWise no solo ha conseguido materializar una solución digital robusta, sino también sentar las bases para alcanzar su visión de ser líderes en soluciones tecnológicas para el sector construcción en América Latina. Este proyecto reafirma nuestro compromiso con la innovación, la eficiencia y la transformación positiva del sector, y marca el inicio de una trayectoria de crecimiento y consolidación en el mercado.
+Además del desarrollo técnico, el proyecto fortaleció nuestras habilidades humanas y profesionales. Adoptamos una dinámica horizontal, basada en el liderazgo compartido, la comunicación constante y la asignación equitativa de responsabilidades, lo que favoreció un ambiente de respeto, participación activa y mejora continua. Cada integrante asumió retos específicos y contribuyó al logro colectivo, enriqueciendo la experiencia con aprendizajes significativos.
 
-Durante el proyecto, fortalecimos nuestras competencias en planificación ágil, organización de tareas por sprints y documentación continua. Cada integrante del equipo asumió roles de liderazgo en distintos momentos, lo que fomentó una dinámica de trabajo horizontal y participativa. La asignación de responsabilidades se dio de forma equitativa, respetando las fortalezas individuales y promoviendo la mejora continua. A lo largo de las entregas, mantuvimos una comunicación constante y efectiva, lo que se reflejó en la integración exitosa de los distintos módulos, la resolución de errores previos, y la entrega de un sistema completo con funcionalidades como gestión de usuarios, incidentes, maquinaria, materiales, estadísticas y más.
+El sistema final, BuildTruck, cuenta con funcionalidades clave como la gestión de usuarios, incidentes, maquinaria, materiales y estadísticas. Pero más allá de la tecnología, su mayor valor reside en su visión centrada en el usuario: escuchar, iterar, validar y volver a escuchar fueron acciones que guiaron nuestras decisiones y moldearon una solución realista y útil para quienes trabajan día a día en obra.
 
-Durante todo el proceso, se consolidó una dinámica de trabajo basada en la colaboración genuina y el liderazgo compartido. No hubo un único rol protagónico, sino un equipo que supo organizarse, adaptarse a los cambios, reconocer fortalezas individuales y avanzar con una visión común. Esta experiencia no solo fortaleció nuestras habilidades técnicas, sino también nuestras capacidades humanas: la escucha activa, la toma de decisiones colectiva y el respeto por las ideas ajenas fueron esenciales para construir un entorno de trabajo productivo e inclusivo. Cada entrega no fue simplemente un hito técnico, sino una instancia de aprendizaje colectivo que sumó valor al proyecto y al equipo, al cumplir con los objetivos establecidos. La documentación técnica y el despliegue funcional del sistema evidencian no solo el avance técnico del producto, sino también nuestro crecimiento como equipo. BuildTruck representa una experiencia enriquecedora que refuerza nuestras habilidades como futuros profesionales en ingeniería de software, especialmente en entornos colaborativos y orientados a resultados reales.
+Este proyecto no solo nos permitió implementar una plataforma digital funcional, sino también interiorizar la responsabilidad de desarrollar software con propósito. Aprendimos que la planificación, seguimiento y control de recursos en construcción pueden alcanzar niveles más altos de eficiencia cuando se apoyan en herramientas tecnológicas bien estructuradas. A través de BuildTruck, logramos demostrar que la innovación, el trabajo en equipo y el enfoque humano pueden generar impacto tangible en un sector que necesita urgentemente soluciones modernas.
 
-La integración de buenas prácticas como Domain-Driven Design, la estructuración por bounded contexts y el uso de tecnologías actuales como Vue y C# permitió consolidar una arquitectura limpia, modular y mantenible. Sin embargo, más allá de lo tecnológico, el valor de BuildTruck radica en cómo logramos sostener una visión centrada en el usuario. Escuchar, validar, iterar y volver a escuchar fueron acciones constantes que moldearon el sistema en función de quienes realmente lo utilizarían. Esa mentalidad de diseño centrado en las personas es lo que, al final, nos permitió pasar de una idea técnica a una solución con impacto.
-
-El desarrollo de BuildTruck representó para el equipo BuildWise una oportunidad para enfrentar de manera profesional un reto real del sector construcción. Más allá de implementar funcionalidades específicas, este proyecto nos permitió reflexionar sobre cómo una solución digital bien estructurada puede transformar la manera en que se gestionan procesos críticos en obra. La planificación, seguimiento y control de recursos como materiales, personal, maquinaria e incidentes, cuando son abordados con una herramienta tecnológica, pueden alcanzar niveles de eficiencia que impactan directamente en los resultados de una empresa constructora. A través de BuildTruck, no solo diseñamos un sistema funcional, sino que interiorizamos la responsabilidad que conlleva desarrollar software con propósito.
-
+Finalmente, BuildWise sienta con este proyecto las bases para su consolidación como una startup tecnológica con potencial en el mercado latinoamericano. BuildTruck es el reflejo de una visión compartida, un producto funcional y una experiencia formativa que refuerza nuestro compromiso con la ingeniería de software, la transformación digital y el desarrollo de soluciones con verdadero valor para la sociedad.
 
 ## **Recomendaciones**
 
