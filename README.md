@@ -2672,13 +2672,13 @@ Link del figma del prototype: [https://www.figma.com/design/awxKE1YMs3M6vNmVuE4n
 ### ***4.6.1. Software Architecture Context Diagrams***
 
 <p align="center">
-  <img src="images/structurizr-101472-Contexto.png" alt="PB" width="1000">
+  <img src="images/contextonuevo.JPG" alt="PB" width="1000">
 </p>
 
 ### ***4.6.2. Software Architecture Container Diagrams***
 
 <p align="center">
-  <img src="images/structurizr-101472-Contenedor.png" alt="PB" width="1000">
+  <img src="images/contenedoresnuevo.JPG" alt="PB" width="1000">
 </p>
 
 ### ***4.6.3. Software Architecture Components Diagrams***
