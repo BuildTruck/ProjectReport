@@ -4589,8 +4589,128 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
 
+
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
 
+Durante el Sprint 4, el enfoque principal se centró en el desarrollo e integración del backend de la aplicación web BuildTruck, así como en el establecimiento de la conexión efectiva entre el frontend y el backend. Esta integración permitió comenzar a consumir servicios reales desde la interfaz, lo cual marca un hito importante en la funcionalidad del sistema.
+
+Las funcionalidades desarrolladas previamente —como la gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles— se consolidaron y quedaron completamente implementadas y operativas. Además, durante este sprint se incorporaron nuevas funcionalidades que amplían el alcance y robustez del sistema, incluyendo: configuraciones del sistema, gestión de documentación, exportaciones, preferencias de notificación, notificaciones y estadísticas.
+
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts definidos en la arquitectura de BuildTruck, junto con sus respectivas tablas en la base de datos.
+
+
+
+**1. Gestión de Usuarios (Users):**  
+* **Tabla:** Users
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todos los usuarios, obtener usuario por ID  
+  * **POST:** Crear un nuevo usuario, subir imagen de perfil  
+  * **PUT:** Actualizar usuario, cambiar contraseña  
+  * **DELETE:** Eliminar usuario, eliminar imagen de perfil  
+* **Descripción:** Gestión completa de los usuarios del sistema, incluyendo información personal, imagen de perfil y credenciales de acceso.
+
+**2. Gestión de Proyectos (Projects):**  
+* **Tabla:** Projects  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener proyectos por manager o por supervisor  
+  * **POST:** Crear un nuevo proyecto  
+  * **PUT:** Actualizar un proyecto existente  
+  * **DELETE:** Eliminar un proyecto  
+* **Descripción:** Permite crear, visualizar y modificar proyectos de construcción, asignados a diferentes perfiles del sistema.
+
+**3. Gestión de Personal (Personnel):**  
+* **Tabla:** Personnel  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todo el personal, obtener por ID  
+  * **POST:** Registrar un nuevo trabajador  
+  * **PUT:** Actualizar trabajador, registrar asistencia  
+  * **DELETE:** Eliminar trabajador por ID  
+* **Descripción:** Gestión de obreros y asistentes administrativos involucrados en proyectos. Incluye control de asistencia y actualizaciones de datos.
+
+**4. Gestión de Materiales (Materials):**  
+* **Tabla:** Materials  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener materiales por proyecto, obtener resumen de inventario  
+  * **POST:** Registrar o actualizar material
+* **Descripción:** Manejo de materiales disponibles para cada proyecto, incluyendo el inventario actualizado por ubicación.
+
+**5. Entradas de Materiales (MaterialEntries):**  
+* **Tabla:** MaterialEntries  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener entradas de materiales por proyecto  
+  * **POST:** Crear o actualizar entrada de material  
+* **Descripción:** Registro de entradas de materiales que ingresan a obra. Permite el control de insumos desde el inicio del proyecto.
+
+**6. Uso de Materiales (MaterialUsages):**  
+* **Tabla:** MaterialUsages  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener uso de materiales por proyecto
+  * **POST:** Crear o actualizar uso de material  
+* **Descripción:** Registro de salidas o consumo de materiales dentro del proyecto. Facilita el control del inventario activo.
+
+**7. Gestión de Maquinaria (Machinery):**  
+* **Tabla:** Machinery  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener maquinaria por ID, por proyecto 
+  * **POST:** Registrar nueva maquinaria  
+  * **PUT:** Actualizar información de la maquinaria  
+  * **DELETE:** Eliminar maquinaria  
+* **Descripción:** Gestión de maquinaria disponible en obra. Se permite el registro, actualización y consulta por proyecto o ID.
+
+**8. Gestión de Incidentes (Incidents):**  
+* **Tabla:** Incidents  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener incidentes por proyecto, obtener incidente por ID  
+  * **POST:** Registrar nuevo incidente  
+  * **PUT:** Actualizar incidente  
+  * **DELETE:** Eliminar incidente 
+* **Descripción:** Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
+
+**9. Autenticación y Seguridad (Auth):**  
+* **Operaciones:**  
+  * **POST:** Login, recuperación de contraseña, restablecer contraseña  
+  * **GET:** Obtener usuario autenticado (/me)  
+* **Descripción:** Módulo de autenticación y recuperación de cuentas. Valida usuarios y permite manejar sesiones activas en el sistema.
+
+**10. Configuraciones del Sistema (ConfigurationSettings):**  
+* **Tabla:** ConfigurationSettings  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener configuración por ID de usuario  
+  * **POST:** Crear configuración personalizada  
+  * **PUT:** Actualizar configuración  
+* **Descripción:** Ajustes personalizados del sistema por usuario. Permite definir preferencias individuales para el entorno de trabajo.
+
+**11. Gestión de Documentación (Documentation):**  
+* **Tabla:** Documentation  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener todos los documentos, obtener por ID
+  * **POST:** Subir nueva documentación  
+  * **DELETE:** Eliminar documento  
+* **Descripción:** Administración de archivos relevantes para los proyectos. Facilita la consulta y organización de documentos oficiales.
+
+**12. Exportación de Datos (Exports):**  
+* **Operación:**  
+  * **GET:** Exportar información por tipo de entidad (entityType)  
+* **Descripción:** Permite generar reportes exportables de distintas entidades del sistema para su análisis o respaldo externo.
+
+**13. Preferencias de Notificación (NotificationPreferences):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener preferencias de notificación  
+  * **PUT:** Actualizar preferencias  
+* **Descripción:** Personalización del tipo de notificaciones que desea recibir el usuario (actividades, alertas, resúmenes, etc.).
+
+**14. Notificaciones del Sistema (Notifications):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener notificaciones y resumen  
+  * **POST:** Marcar como leídas, forzar prueba de digest*
+  * **DELETE:** Eliminar notificaciones  
+* **Descripción:** Notificaciones internas que informan al usuario sobre cambios, asignaciones, incidencias y otros eventos importantes.
+
+**15. Estadísticas y Panel de Control (Stats):**  
+* **Operaciones CRUD:**  
+  * **GET:** Obtener estadísticas actuales, historial, dashboard y por periodo 
+  * **POST:** Calcular estadísticas de un manager 
+* **Descripción:** Herramienta de análisis que presenta datos de rendimiento, productividad y gestión del manager en sus proyectos.
 
 ##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
 
