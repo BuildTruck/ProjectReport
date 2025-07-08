@@ -5559,6 +5559,8 @@ Agregar textos breves o recursos interactivos (tooltips, videos cortos o guías 
 
 ## **5.4. Video About-the-Product.**
 
+En este video presentamos el valor y las funcionalidades de nuestra aplicación BuilTruck. Aparte, se muestran demostraciones de dichas funcionalidades y testimonios de personas que probaron la aplicación. Este video está colocado en la landing page para que puedan apreciarlo todos nuestro posibles clientes.
+
 **Figura**  
 *Video About-the-product*
 <p align="center">
