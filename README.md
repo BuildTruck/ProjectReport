@@ -3808,6 +3808,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 #### **5.2.3.5. Execution Evidence for Sprint Review**  
 
+En esta sección, realizamos la demostración completa del sistema de navegación y funcionalidades implementadas en BuildTruck Backend.
 
 **Figura**  
 *Execution evidence*
@@ -3815,9 +3816,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 <img src="images/deploy1.1Sprint3.png" alt="PB" width="850">
 </p>
 
-**Sprint 3 Navigation Demo:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-Demonstración completa del sistema de navegación y funcionalidades implementadas en BuildTruck Backend
+*Nota.* Elaboración propia. Extraído de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EZH-1fjSuI1Ku89h5qAQvi8BTUuqnt_sFbgQKBUoPxp1SQ?e=Z9094u&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**  
 
@@ -4652,7 +4651,15 @@ Para la realización del Sprint 	Backlog 4 utilizamos la plataforma de Trello.
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
+En esta sección, realizamos la demostración de la correcta conexión entre el backend y frontend de BuildTruck.
 
+**Figura**  
+*Execution evidence 4*
+<p align="center">
+<img src="images/ExecutionEvidence4.PNG" alt="PB" width="850">
+</p>
+
+*Nota.* Elaboración propia. Extraído de [https://bit.ly/44OGFcB](https://bit.ly/44OGFcB)
 
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
 
