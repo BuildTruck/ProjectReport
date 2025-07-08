@@ -2952,7 +2952,7 @@ Interface that defines the standard operations for data access repositories.
 ### **4.8.1. Database Diagram**
 
 <p align="center">
-  <img src="images/Buildtruck-database.png" alt="PB" width="1000">
+  <img src="images/database_diagram_buildtruck.png" alt="PB" width="1000">
 </p>
 
 
