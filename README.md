@@ -4260,7 +4260,7 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
                 </td>
             </tr>
 	    <tr class="c1">
-	    	<td class="c34" colspan="1" rowspan="3"><p class="c16"><span class="c15">US48</span></p></td>
+	    	<td class="c34" colspan="1" rowspan="5"><p class="c16"><span class="c15">US48</span></p></td>
                 <td class="c31" colspan="1" rowspan="3"><p class="c16"><span class="c15">Tutorial interactivo para usuarios nuevos</span></p></td>
                 <td class="c20" colspan="1" rowspan="1"><p class="c3"><span class="c9">T1</span></p></td>
                 <td class="c6" colspan="1" rowspan="1"><p class="c3"><span class="c9">Diseñar estilo visual y transiciones del tutorial</span></p></td>
