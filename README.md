@@ -4248,9 +4248,6 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
                 <td class="c28" colspan="1" rowspan="1"><p class="c3"><span class="c9">Implementaci&oacute;n en el bounded context</span></p></td>
                 <td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c9">4</span></p></td>
                 <td class="c26" colspan="1" rowspan="1"><p class="c3"><span class="c9">Raúl</span></p></td>
-                <td class="c28" colspan="1" rowspan="1"><p class="c3"><span class="c9">Implementaci&oacute;n en el bounded context</span></p></td><
-                td class="c8" colspan="1" rowspan="1"><p class="c3"><span class="c9">4</span></p></td>
-                <td class="c26" colspan="1" rowspan="1"><p class="c3"><span class="c9">Ra&uacute;l</span></p></td>
                 <td class="c14" colspan="1" rowspan="1"><p class="c3"><span class="c9">Done</span></p></td>
             </tr>
             <tr class="c1">
