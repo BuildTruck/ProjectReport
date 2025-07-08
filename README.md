@@ -4187,6 +4187,17 @@ Link del repositorio: [https://github.com/BuildTruck/BackendWebApps](https://git
 
 ##### **5.2.4.3. Sprint Backlog 4.** 
 
+Para la realización del Sprint 	Backlog 4 utilizamos la plataforma de Trello.
+
+**Figura**  
+*Sprint Backlog 4*  
+
+<p align="center">
+<img src="images/SprintBacklog4.PNG" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en [https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTI2a074bfa3afc89e5c8cfbb3f94e57caf57F00E4C/trello-agile-sprint-buildtruck](https://trello.com/invite/b/6809aa09bd1aed9ed6eabc41/ATTI2a074bfa3afc89e5c8cfbb3f94e57caf57F00E4C/trello-agile-sprint-buildtruck)  
+
 <table class="c21">
   <tr class="c33">
       <td class="c20" colspan="1" rowspan="1"><p class="c25"><span class="c32">Sprint #</span></p></td>
