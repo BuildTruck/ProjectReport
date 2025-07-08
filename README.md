@@ -293,7 +293,7 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
 
 # **Student Outcome**
 
- El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
 
 **Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos*   
 
@@ -303,8 +303,14 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 <table border="1">
   <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
     <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong></td>
-<p><strong>Bellido Salas, Raúl</strong></p>
+    <td>
+    	<p><strong>Bellido Salas, Raúl</strong></p>
       <p><i>TB1</i></p>
       <p>Participé en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyé en la planeación de las entregas.</p>
       <p><i>TP</i></p>
@@ -355,7 +361,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
     </td>
     <td>
- <p><ins><i><strong>TB1:</strong></i></ins></p>
+      <p><ins><i><strong>TB1:</strong></i></ins></p>
       <p><strong>Objetivo específico: </strong>Promover el liderazgo distribuido entre los miembros para organizar las primeras actividades del proyecto, como el diseño de la arquitectura, la elaboración de wireframes, diagramas base y la documentación inicial</p>
       <p><strong>Conclusión: </strong>Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración  permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.</p>
       <p><ins><i><strong>TP:</strong></i></ins></p>
@@ -372,7 +378,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   <tr>
     <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
     <td>
- <p><strong>Bellido Salas, Raúl</strong></p>
+      <p><strong>Bellido Salas, Raúl</strong></p>
       <p><i>TB1</i></p>
       <p>Contribuí en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.</p>
       <p><i>TP</i></p>
@@ -423,7 +429,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
       <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
     </td>
     <td>
-     <p><ins><i><strong>TB1:</strong></i></ins></p>
+      <p><ins><i><strong>TB1:</strong></i></ins></p>
       <p><strong>Objetivo específico: </strong>Fomentar la participación de todo el equipo en las decisiones iniciales del sistema, estableciendo metas claras en diseño, modelado y documentación, y promoviendo un ambiente inclusivo de trabajo.</p>
       <p><strong>Conclusión: </strong>El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.</p>
       <p><ins><i><strong>TP:</strong></i></ins></p>
