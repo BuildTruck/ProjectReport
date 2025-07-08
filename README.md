@@ -292,130 +292,149 @@ Para la documentación de esta entrega final, hemos realizado los commits de las
 <hr>
 
 # **Student Outcome**
- 
+
+ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
+
+**Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos*   
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+**Objetivo general:** Desarrollar, como equipo BuildWise, BuildTruck, una aplicación web para optimizar la gestión integral de obras de construcción. Buscamos diseñar e implementar una solución tecnológica basada en el enfoque Domain-Driven Design (DDD), con una arquitectura moderna compuesta por frontend en Vue + Vite y backend en C#, que responda a las necesidades reales de nuestro público objetivo, fomentando el trabajo colaborativo y la planificación eficaz de recursos en obra.
 
 <table border="1">
   <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
     <td><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta.</strong></td>
-    <td>
-      <strong>TB1:</strong><br>
-      <strong>Bellido Salas, Raúl</strong><br>
-      Participó en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyó en la planeación de las entregas.<br>
-      <strong>Daniela Araceli Gómez Flores</strong><br>
-      Lideró la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomentando la participación activa de todo el equipo.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Organizó y distribuyó tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo.<br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Coordinó actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      Lideró técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a sus compañeros.<br>
-      <strong>TP:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Participó en las correcciones del TB1 y lideró la documentación del Sprint 2. Asumió responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información.<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      Tomó iniciativa en la implementación de la sección de Incidentes y lideró la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Coordinó las correcciones del TB1 y organizó la documentación del Sprint 2. Desarrolló las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      Asumió el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordinó la implementación de la internacionalización y manejo de errores.<br>
-      <strong>Salas Bellido, Raúl</strong><br>
-      Ejecutó el despliegue de la Fake API y de la aplicación. Desarrolló la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento. <br>
-      <strong>TB2:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
-      <strong>Salas Bellido, Raúl</strong><br>
-      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
-      <strong>TF:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
-      <strong>Salas Bellido, Raúl</strong><br>
-      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
+<p><strong>Bellido Salas, Raúl</strong></p>
+      <p><i>TB1</i></p>
+      <p>Participé en la coordinación de tareas de documentación (Style Guidelines, Web Guidelines, Database Diagram) y apoyé en la planeación de las entregas.</p>
+      <p><i>TP</i></p>
+      <p>Ejecuté el despliegue de la Fake API y de la aplicación. Desarrollé la sección de maquinaria tanto para el supervisor como para el gerente, garantizando su correcto funcionamiento.</p>
+      <p><i>TB2</i></p>
+      <p>En el reporte, realicé el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend, hice los endpoints de maquinaria.</p>
+      <p><i>TF</i></p>
+      <p>Me encargué de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Coloqué los videos en la landing page. Corregí fallos de los endpoints de maquinarias en el backend y los unió con el frontend.</p>
+      <p></p>
+    	<p><strong>Gómez Flores, Daniela Araceli</strong></p>
+      <p><i>TB1</i></p>
+      <p>Lideré la estructuración de Impact Mapping y Domain-Driven Software Architecture, fomenté la participación activa de todo el equipo.</p>
+      <p><i>TP</i></p>
+      <p>Tomé iniciativa en la implementación de la sección de Incidentes y lideré la creación de la sección de estadísticas generales, incluyendo la integración de un gráfico de asistencia.</p>
+      <p><i>TB2</i></p>
+      <p>Registré las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboré los endpoints de incidentes de BuildTruck.</p>
+      <p><i>TF</i></p>
+      <p>En esta última entrega del reporte, corregí errores del TB2 también elaboré el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corregí fallos de los endpoints de incidents en el backend y los uní con el frontend.</p>
+      <p></p>
+      <p><strong>Gutiérrez Condo, Maylhy Olinda</strong></p>
+      <p><i>TB1</i></p>
+      <p>Organicé y distribuí tareas en el diseño de la Landing Page y la Web Application, logrando la colaboración entre diseño y desarrollo.</p>
+      <p><i>TP</i></p>
+      <p>Coordiné las correcciones del TB1 y organicé la documentación del Sprint 2. Desarrollé las secciones de inventario para diferentes roles y funcionalidades de edición de perfil y configuración.</p>
+      <p><i>TB2</i></p>
+      <p>Realicé la Execution Evidence for Sprint 3 Review, agregué technical stories y parte del product backlog 3. Realicé fixes al frontend. Hice los endpoints del bounded context materiales</p>
+      <p><i>TF</i></p>
+      <p>Para el reporte del TF, realicé parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualicé y mejoré el frontend de BuildTruck y uní los endpoints de materiales con el frontend de la aplicación.</p>
+      <p></p>
+    	<p><strong>Luyo Correa, Sandra Paula</strong></p>
+      <p><i>TB1</i></p>
+      <p>Coordiné actividades de entrevistas, análisis de escenarios y documentación de gestión de configuración.</p>
+      <p><i>TP</i></p>
+      <p>Participé en las correcciones del TB1 y lideré la documentación del Sprint 2. Asumí responsabilidad en el desarrollo de funcionalidades clave como el acceso a configuración de obra y la edición de información.</p>
+      <p><i>TB2</i></p>
+      <p>Realicé del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realicé los endpoints de configuración de la aplicación</p>
+      <p><i>TF</i></p>
+      <p>Para el reporte del TF, registré los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realicé Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigí fallos de los endpoints de configurations en el backend y los uní con el frontend.</p>
+      <p></p>
+    	<p><strong>Roca Tineo, Steven Mathew</strong></p>
+      <p><i>TB1</i></p>
+      <p>Lideré técnicamente la implementación de la Landing Page, asignando tareas específicas a los miembros para el Sprint 1 y apoyando a mis compañeros.</p>
+      <p><i>TP</i></p>
+      <p>Asumí el liderazgo técnico del ruteo completo de la aplicación, autenticación (login), acceso y creación de proyectos, así como elementos comunes y despliegue de la app. También coordiné la implementación de la internacionalización y manejo de errores.</p>
+      <p><i>TB2</i></p>
+      <p>En el reporte realicé parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realicé fixes al frontend de BuildTruck. Realicé los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.</p>
+      <p><i>TF</i></p>
+      <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
     </td>
     <td>
-      <strong>TB1:</strong><br>
-      Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.<br>
-      <strong>TP:</strong><br>
-      El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.<br>
-      <strong>TB2:</strong><br>
-      En esta entrega, como equipo BuildWise, demostramos nuestra capacidad de trabajar en conjunto asumiendo el liderazgo de forma compartida, según las necesidades del proyecto BuildTruck. Cada integrante tomó iniciativa en distintos frentes, liderando la elaboración de reportes, el diseño de entrevistas de validación, la implementación técnica de funcionalidades y la documentación de avances. Esta distribución equilibrada de responsabilidades nos permitió avanzar de manera organizada, potenciando nuestras fortalezas individuales en beneficio del equipo. Gracias a esta colaboración equitativa y al liderazgo distribuido, logramos consolidar una versión más robusta y alineada con los objetivos de BuildTruck.<br>
-      <strong>TF:</strong><br>
-      En esta etapa final, el trabajo en equipo fue esencial para proporcionar liderazgo compartido en las diversas áreas del proyecto BuildTruck. Cada miembro asumió responsabilidades específicas y lideró aspectos técnicos y documentales, desde la integración de módulos funcionales hasta la consolidación del reporte. La coordinación entre nosotros permitió solucionar errores, tomar decisiones de manera consensuada y avanzar como un equipo cohesionado. Esta entrega refleja cómo el liderazgo no se centró en una sola persona, sino que fue asumido de forma conjunta y efectiva para lograr una entrega final sólida y completa.
+ <p><ins><i><strong>TB1:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Promover el liderazgo distribuido entre los miembros para organizar las primeras actividades del proyecto, como el diseño de la arquitectura, la elaboración de wireframes, diagramas base y la documentación inicial</p>
+      <p><strong>Conclusión: </strong>Todos los miembros ejercieron liderazgo conjunto en distintas etapas del proyecto, distribuyendo responsabilidades de manera efectiva. La colaboración  permitió alcanzar los objetivos de cada sprint y capítulo, evidenciando la capacidad del equipo para funcionar de manera integrada y equitativa.</p>
+      <p><ins><i><strong>TP:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Guiar técnicamente la implementación de funcionalidades claves del sistema como la maquinaria, incidentes, estadísticas y autenticación, facilitando el trabajo en equipo mediante una coordinación efectiva.</p>
+      <p><strong>Conclusión: </strong>El liderazgo fue ejercido de forma rotativa y equitativa según los requerimientos técnicos de cada componente. Todos los miembros tomaron decisiones relevantes en sus áreas asignadas y contribuyeron activamente a la coordinación de tareas. Se evidencia un liderazgo distribuido y efectivo, que impulsó el avance del proyecto con responsabilidad compartida.</p>
+      <p><ins><i><strong>TB2:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Reforzar el liderazgo compartido a través de la coordinación del Sprint 3, asignación de tareas de desarrollo backend (por bounded contexts) y mejoras al frontend, priorizando la integración del equipo en la entrega.</p>
+      <p><strong>Conclusión: </strong>En esta entrega, como equipo BuildWise, demostró nuestra capacidad de trabajar en conjunto asumiendo el liderazgo de forma compartida, según las necesidades del proyecto BuildTruck. Cada integrante tomó iniciativa en distintos frentes, liderando la elaboración de reportes, el diseño de entrevistas de validación, la implementación técnica de funcionalidades y la documentación de avances. Esta distribución equilibrada de responsabilidades nos permitió avanzar de manera organizada, potenciando nuestras fortalezas individuales en beneficio del equipo. Gracias a esta colaboración equitativa y al liderazgo distribuido, se logró consolidar una versión más robusta y alineada con los objetivos de BuildTruck.</p>
+      <p><ins><i><strong>TF:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Consolidar el liderazgo conjunto en la entrega final mediante la coordinación técnica de integración frontend-backend, la organización de evidencia del Sprint 4 y la documentación completa del sistema.</p>
+      <p><strong>Conclusión: </strong>En esta etapa final, el trabajo en equipo fue esencial para proporcionar liderazgo compartido en las diversas áreas del proyecto BuildTruck. Cada miembro asumió responsabilidades específicas y lideró aspectos técnicos y documentales, desde la integración de módulos funcionales hasta la consolidación del reporte. La coordinación entre nosotros permitió solucionar errores, tomar decisiones de manera consensuada y avanzar como un equipo cohesionado. Esta entrega refleja cómo el liderazgo no se centró en una sola persona, sino que fue asumido de forma conjunta y efectiva para lograr una entrega final sólida y completa.</p>
     </td>
   </tr>
   <tr>
     <td><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
     <td>
-      <strong>TB1:</strong><br>
-      <strong>Bellido Salas, Raúl</strong><br>
-      Contribuyó en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.<br>
-      <strong>Daniela Araceli Gómez Flores</strong><br>
-      Promovió la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Facilitó un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes.<br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Planificó tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      Coordinó la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea.<br>
-      <strong>TP:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Facilitó un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición.<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      Propició la colaboración en el desarrollo de funcionalidades críticas. Coordinó esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Estimuló la participación del equipo en las decisiones sobre funcionalidades compartidas. Planificó las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      Estableció metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.<br>
-      <strong>Bellido Salas, Raúl</strong><br>
-      Coordinó con sus compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema. <br>
-      <strong>TB2:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Realizó del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realizó los endpoints de configuración de la aplicación<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      Registró las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboró los endpoints de incidentes de BuildTruck.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Realizó Execution Evidence for Sprint 3 Review, agregó technical stories y parte del product backlog 3. Realizó fixes al frontend. Hizo los endpoints del bounded context materiales<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      En el reporte realizó parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realizó fixes al frontend de BuildTruck. Realizó los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.<br>
-      <strong>Salas Bellido, Raúl</strong><br>
-      En el reporte, realizó el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend hizo los endpoints de maquinaria.<br>
-      <strong>TF:</strong><br>
-      <strong>Luyo Correa, Sandra Paula</strong><br>
-      Para el reporte del TF, registró los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realizó Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigió fallos de los endpoints de configurations en el backend y los unió con el frontend.<br>
-      <strong>Gómez Flores, Daniela Araceli</strong><br>
-      En esta última entrega del reporte, corrigió errores del TB2 también elaboró el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corrigió fallos de los endpoints de incidents en el backend y los unió con el frontend.<br>
-      <strong>Gutiérrez Condo, Maylhy Olinda</strong><br>
-      Para el reporte del TF, realizó parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualizó y mejoró el frontend de BuildTruck y unió sus endpoints de materiales con el frontend de la aplicación.<br>
-      <strong>Roca Tineo, Steven Mathew</strong><br>
-      En la realización del reporte del TF, se encargó de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realizó correcciones del TB2. Se encargó también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.<br>
-      <strong>Salas Bellido, Raúl</strong><br>
-      Se encargó de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Colocó los videos en la landing page. Corrigió fallos de los endpoints de maquinarias en el backend y los unió con el frontend.
+ <p><strong>Bellido Salas, Raúl</strong></p>
+      <p><i>TB1</i></p>
+      <p>Contribuí en establecer los lineamientos de diseño y base de datos, trabajando de forma inclusiva y coordinada.</p>
+      <p><i>TP</i></p>
+      <p>Coordiné con mis compañeros el despliegue de herramientas clave como la Fake API y funcionalidades críticas como la sección de maquinaria, garantizando la integración fluida con el resto del sistema.</p>
+      <p><i>TB2</i></p>
+      <p>En el reporte, realicé el Sprint Planning 3 y Services Documentation Evidence for Sprint Review. En el backend, hice los endpoints de maquinaria.</p>
+      <p><i>TF</i></p>
+      <p>Me encargué de realizar en el reporte del TF: Services Documentation Evidence for Sprint Review y el Software Deployment Evidence for Sprint Review. Coloqué los videos en la landing page. Corregí fallos de los endpoints de maquinarias en el backend y los unió con el frontend.</p>
+      <p></p>
+      <p><strong>Gómez Flores, Daniela Araceli</strong></p>
+      <p><i>TB1</i></p>
+      <p>Promoví la planificación clara en Impact Mapping, organizando reuniones para definir objetivos de arquitectura.</p>
+      <p><i>TP</i></p>
+      <p>Propicié la colaboración en el desarrollo de funcionalidades críticas. Coordiné esfuerzos para la sección de estadísticas, asegurando la integración adecuada del gráfico de asistencia.</p>
+      <p><i>TB2</i></p>
+      <p>Registré las entrevistas de validación en el reporte, también las evaluaciones según heurísticas y las conclusiones. Elaboré los endpoints de incidentes de BuildTruck.</p>
+      <p><i>TF</i></p>
+      <p>En esta última entrega del reporte, corregí errores del TB2 también elaboré el Sprint Planning 4, Development Evidence for Sprint Review y conclusiones. Corregí fallos de los endpoints de incidents en el backend y los uní con el frontend.</p>
+      <p></p>
+      <p><strong>Gutiérrez Condo, Maylhy Olinda</strong></p>
+      <p><i>TB1</i></p>
+      <p>Facilité un entorno inclusivo durante la creación de diseños de interfaz, alentando las ideas de todos los integrantes.</p>
+      <p><i>TP</i></p>
+      <p>Estimulé la participación del equipo en las decisiones sobre funcionalidades compartidas. Planifiqué las tareas de edición y configuración de forma clara, permitiendo el cumplimiento de los objetivos en tiempo y forma.</p>
+      <p><i>TB2</i></p>
+      <p>Realicé la Execution Evidence for Sprint 3 Review, agregué technical stories y parte del product backlog 3. Realicé fixes al frontend. Hice los endpoints del bounded context materiales</p>
+      <p><i>TF</i></p>
+      <p>Para el reporte del TF, realicé parte del Sprint Backlog 4 y recomendaciones del trabajo. Actualicé y mejoré el frontend de BuildTruck y uní los endpoints de materiales con el frontend de la aplicación.</p>
+      <p></p>
+      <p><strong>Luyo Correa, Sandra Paula</strong></p>
+      <p><i>TB1</i></p>
+      <p>Planifiqué tareas específicas para la documentación de Software Configuration Management y prototipado de aplicaciones.</p>
+      <p><i>TP</i></p>
+      <p>Facilité un entorno ordenado en la gestión de documentación y planificación del Sprint 2, fomentando una participación inclusiva durante la implementación de las funcionalidades de configuración y edición.</p>
+      <p><i>TB2</i></p>
+      <p>Realicé del Project Report: Project Report Collaboration Insights, Aspect Leaders and Collaborators, Development Evidence for Sprint Review, Team Collaboration Insights during Sprint 3 y el Diseño de Entrevistas de validación. También realicé los endpoints de configuración de la aplicación</p>
+      <p><i>TF</i></p>
+      <p>Para el reporte del TF, registré los cambios hechos en el reporte, Project Report Collaboration Insights y el Student Outcome. También del Sprint 4 realicé Aspect Leaders and Collaborators y el Team Collaboration Insights during Sprint. Corrigí fallos de los endpoints de configurations en el backend y los uní con el frontend.</p>
+      <p></p>
+      <p><strong>Roca Tineo, Steven Mathew</strong></p>
+      <p><i>TB1</i></p>
+      <p>Coordiné la implementación de la Landing Page, estableciendo metas de avance técnico y validando el cumplimiento de cada tarea.</p>
+      <p><i>TP</i></p>
+      <p>Establecí metas claras en el despliegue y ruteo de la app, apoyando a sus compañeros con componentes reutilizables e impulsando el trabajo colaborativo técnico.</p>
+      <p><i>TB2</i></p>
+      <p>En el reporte realicé parte del Sprint Backlog 3, el Software Deployment Evidence for Sprint 3 y Execution Evidence for Sprint Review. Realicé fixes al frontend de BuildTruck. Realicé los endpoints de Autenticación, Usuarios y carpeta shared de BuildTruck.</p>
+      <p><i>TF</i></p>
+      <p>En la realización del reporte del TF, me encargué de parte del Sprint Backlog 4 y Execution Evidence for Sprint Review, también realicé correcciones del TB2. Me encargué también de organizar y construir la unión del backend con el frontend, así como los bounded contexts autenticación, usuarios y shared.</p>
     </td>
     <td>
-      <strong>TB1:</strong><br>
-      El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.<br>
-      <strong>TP:</strong><br>
-      El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.<br>
-      <strong>TB2:</strong><br>
-      Como equipo BuildWise, nuestro objetivo en esta entrega fue fortalecer el desarrollo colaborativo de BuildTruck, nuestra aplicación para el buen manejo de obras de construcción. Para lograrlo, establecimos metas claras, planificamos tareas específicas y trabajamos de manera coordinada, asegurando la participación activa de todos los integrantes. Cada miembro aportó desde su rol, ya sea en la elaboración del Project Report, diseño y análisis de entrevistas de validación, desarrollo de endpoints para los distintos módulos del sistema o la documentación de evidencia técnica. Esta entrega refleja nuestro compromiso con un entorno inclusivo, donde la comunicación, la planificación y el cumplimiento de objetivos fueron clave para avanzar con solidez hacia una solución útil para el sector construcción.<br>
-      <strong>TF:</strong><br>
-      Durante el desarrollo del trabajo final, en BuildWise mantuvimos un entorno de colaboración activa e inclusiva, donde cada integrante participó en la planificación y ejecución de tareas clave. Establecimos metas claras como la finalización del Sprint 4, la integración completa entre backend y frontend, y la mejora del reporte final. Coordinamos esfuerzos para cumplir estos objetivos mediante correcciones, mejoras y documentación técnica. Esta entrega evidencia cómo, mediante una organización efectiva y la participación equitativa de todos, consolidamos los avances funcionales y formales de BuildTruck.
+     <p><ins><i><strong>TB1:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Fomentar la participación de todo el equipo en las decisiones iniciales del sistema, estableciendo metas claras en diseño, modelado y documentación, y promoviendo un ambiente inclusivo de trabajo.</p>
+      <p><strong>Conclusión: </strong>El equipo creó un ambiente de colaboración donde se respetaron las opiniones y contribuciones de todos los integrantes. Las metas y tareas fueron claramente definidas y cumplidas a lo largo del proyecto, gracias a una comunicación efectiva y planificación organizada.</p>
+      <p><ins><i><strong>TP:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Consolidar un entorno de trabajo ordenado y colaborativo durante el desarrollo del Sprint 2, asignando tareas según roles, integrando avances funcionales y cumpliendo objetivos técnicos y de despliegue.</p>
+      <p><strong>Conclusión: </strong>El equipo demostró una organización sólida y colaborativa, en la que cada miembro contribuyó al cumplimiento de objetivos técnicos y de planificación. Se fomentó un entorno inclusivo, donde todas las ideas fueron consideradas y las tareas se distribuyeron eficientemente, consolidando el avance del proyecto en cada etapa del sprint.</p>
+      <p><ins><i><strong>TB2:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Sostener un ambiente de colaboración constante donde se definieron metas técnicas claras, se planificó el trabajo por módulos y se realizó la validación del producto con usuarios externos.</p>
+      <p><strong>Conclusión: </strong> El objetivo en esta entrega fue fortalecer el desarrollo colaborativo de BuildTruck, nuestra aplicación para el buen manejo de obras de construcción. Para lograrlo, establecimos metas claras, planificamos tareas específicas y trabajamos de manera coordinada, asegurando la participación activa de todos los integrantes. Cada miembro aportó desde su rol, ya sea en la elaboración del Project Report, diseño y análisis de entrevistas de validación, desarrollo de endpoints para los distintos módulos del sistema o la documentación de evidencia técnica. Esta entrega refleja el compromiso con un entorno inclusivo, donde la comunicación, la planificación y el cumplimiento de objetivos fueron clave para avanzar con solidez hacia una solución útil para el sector construcción.</p>
+      <p><ins><i><strong>TF:</strong></i></ins></p>
+      <p><strong>Objetivo específico: </strong>Mantener una dinámica de trabajo colaborativa, integrando las últimas mejoras funcionales, corrigiendo errores de entregas anteriores y cumpliendo con los objetivos finales del proyecto de forma organizada y equitativa.</p>
+      <p><strong>Conclusión: </strong>Durante el desarrollo del trabajo final, en BuildWise se mantuvo un entorno de colaboración activa e inclusiva, donde cada integrante participó en la planificación y ejecución de tareas clave. Se establecieron metas claras como la finalización del Sprint 4, la integración completa entre backend y frontend, y la mejora del reporte final. Se coordinaron esfuerzos para cumplir estos objetivos mediante correcciones, mejoras y documentación técnica. Esta entrega evidencia cómo, mediante una organización efectiva y la participación equitativa de todos, consolidamos los avances funcionales y formales de BuildTruck.</p>  
     </td>
   </tr>
 </table>
