@@ -72,10 +72,6 @@ Para poder lograr la elaboración grupal de este informe del proyecto en GitHub 
 
 # **Tabla de contenidos**
 
-<style>
-a { color: white; text-decoration: none; }
-</style>
-
 <a href="#student-outcome">Student Outcome</a>
 
 <a href="#capítulo-i-introducción">Capítulo I: Introducción</a>
