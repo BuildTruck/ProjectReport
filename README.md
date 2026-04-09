@@ -487,6 +487,21 @@ El User Task Matrix es una herramienta analítica que permite identificar y estr
 
 Mediante el análisis del User Task Matrix, logramos comprender a profundidad las actividades específicas que ejecutan nuestros segmentos de usuarios, evaluando directamente el nivel de impacto e importancia de cada acción. Este mapeo cruzado nos permite visualizar con total claridad las tareas principales previamente identificadas, validando su relevancia real y garantizando que las decisiones de diseño y desarrollo se enfoquen prioritariamente en las funcionalidades de mayor valor para la experiencia final.
 
+### ***2.3.3. Empathy Mapping***
+
+Los Empathy Maps son herramientas visuales y estratégicas fundamentadas en una metodología centrada en el usuario, cuyo propósito es traducir datos cualitativos en una radiografía profunda de lo que cada segmento de la audiencia piensa, siente, dice y hace frente a un producto o servicio. Al articular de manera estructurada los principales miedos, frustraciones, motivaciones y necesidades de los usuarios, este recurso genera una perspectiva empática indispensable que orienta la toma de decisiones durante las fases de diseño y desarrollo, garantizando que cada funcionalidad construida responda de forma genuina y efectiva a las expectativas y preocupaciones reales del público objetivo.
+
+**Segmento objetivo \#1 Gerentes de obra:**  
+
+<p align="center">
+  <img src="images/Empathy_map.png" alt="PB" width="1000">
+</p>
+
+**Segmento objetivo \#2 Supervisores de obra:**  
+
+<p align="center">
+  <img src="images/Empathy_map (1).png" alt="PB" width="1000">
+</p>
 
 ---
 
