@@ -471,6 +471,22 @@ Andrea Palacios Guzmán es una supervisora de obra que busca mantener el orden, 
   <img src="images/UserPersonasappweb (1).png" alt="PB" width="1000">
 </p>
 
+### ***2.3.2. User Task Matrix***
+
+El User Task Matrix es una herramienta analítica que permite identificar y estructurar las acciones específicas que ejecutan los distintos segmentos de la audiencia. Su propósito principal es facilitar la comparación visual de estos procesos, evidenciando de forma clara las similitudes y diferencias en cuanto a la frecuencia de uso y el nivel de importancia de cada tarea. Al cruzar esta información, el equipo adquiere una visión objetiva que ayuda a priorizar el desarrollo de funcionalidades, asegurando que los esfuerzos técnicos y de diseño se concentren en las acciones de mayor valor e impacto para los usuarios.
+
+| Tarea | Frecuencia <br> **Andrea Palacios** | Importancia <br> **Andrea Palacios** | Frecuencia <br> **Luis Alberto** | Importancia <br> **Luis Alberto** |
+| :--- | :--- | :--- | :--- | :--- |
+| Registrar asistencia del personal | Siempre | Alta | Siempre | Alta |
+| Revisar cronogramas de obra | A veces | Alta | Siempre | Alta |
+| Supervisar pedidos y uso de materiales | A veces | Alta | - | Alta |
+| Comunicar cambios en el proyecto | Siempre | Alta | Siempre | Alta |
+| Tramitar permisos y licencias ante instituciones | A veces | Alta | - | Alta |
+| Elaborar reportes diarios/semanales | A veces | Alta | - | Alta |
+| Inspeccionar cumplimiento de estándares | - | Alta | A veces | Alta |
+
+Mediante el análisis del User Task Matrix, logramos comprender a profundidad las actividades específicas que ejecutan nuestros segmentos de usuarios, evaluando directamente el nivel de impacto e importancia de cada acción. Este mapeo cruzado nos permite visualizar con total claridad las tareas principales previamente identificadas, validando su relevancia real y garantizando que las decisiones de diseño y desarrollo se enfoquen prioritariamente en las funcionalidades de mayor valor para la experiencia final.
+
 
 ---
 
