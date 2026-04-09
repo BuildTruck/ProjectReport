@@ -503,6 +503,76 @@ Los Empathy Maps son herramientas visuales y estratégicas fundamentadas en una 
   <img src="images/Empathy_map (1).png" alt="PB" width="1000">
 </p>
 
+### ***2.3.4. As-is Scenario Mapping***
+
+El escenario As Is representa el estado actual de los procesos y la experiencia del usuario antes de la implementación de nuestra solución. Documentar esta fase es un paso fundamental, ya que establece una línea base clara que permite identificar fricciones, cuellos de botella y oportunidades de mejora en el flujo de trabajo actual. A partir de este diagnóstico, el equipo obtiene el contexto estratégico necesario para estructurar y diseñar el escenario To Be, el cual proyecta el estado futuro ideal donde nuestra propuesta tecnológica ya se encuentra completamente integrada, resolviendo los problemas detectados y optimizando la operación global.
+
+**Segmento objetivo \#1 Gerentes de obra:**  
+
+**Figura n**  
+*As-Is Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S1.jpg" alt="UH">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas positivas del As-Is Mapping del segmento \#1 de BuilTruck*
+<p align="center">
+  <img src="images/AppsWeb_As-is_S1_AP.jpg" alt="UH">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas negativas del As-Is Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S1_AN.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Blank areas del As-Is Mapping del segmento \#1 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S1_BA.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
+
+**Segmento objetivo \#2 Supervisores de obra:**  
+
+**Figura n**  
+*As-Is Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S2.jpg" alt="UH">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+
+**Figura n**  
+*Áreas positivas del As-Is Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S2_AP.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)   
+**Figura n**  
+*Áreas negativas del As-Is Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S2_AN.jpg" alt="UH">
+</p>  
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011)
+
+**Figura n**  
+*Blank areas del As-Is Mapping del segmento \#2 de BuilTruck*  
+<p align="center">
+  <img src="images/AppsWeb_As-is_S2_BA.jpg" alt="UH">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
 ---
 
 # Capítulo III: Requirements Specification
