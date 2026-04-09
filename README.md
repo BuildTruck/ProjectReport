@@ -1,36 +1,37 @@
-<div style="
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  text-align: center;
-  font-family: Arial, sans-serif;
-">
+  <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC">
+  </p>
 
-  <img src="https://i.imgur.com/xRB043F.png" alt="UPC-LOGO" width="150" style="margin-bottom: 30px;"/>
+  # <p align="center">Universidad Peruana de Ciencias Aplicadas</p>
+  ## <p align="center">Ingeniería de Software</p>
+  <p align="center">Periodo: 202610</p>
+  <p align="center">1ASI0657 | Fundamentos de Arquitectura de Software</p>
+  <p align="center">NRC: 7940</p>
+  <p align="center">Docente: Daniel Enrique Mori Yzaguirre</p>
 
-  <h2 style="margin: 5px 0;">Universidad Peruana de Ciencias Aplicadas</h2>
-  <h3 style="margin: 5px 0;">Ingeniería de Software</h3>
-  <p style="margin: 5px 0;">Periodo: <strong>202610</strong></p>
-  <p style="margin: 5px 0;"><strong>7940</strong>&nbsp;|&nbsp;<strong>Fundamentos de Arquitectura de Software</strong></p>
-  <p style="margin: 5px 0;">NRC: <strong>7940</strong></p>
-  <p style="margin: 5px 0;">Docente: <strong>Daniel Enrique Mori Yzaguirre</strong></p>
+  ---
+  
+  <br>
+  
+  ## <p align="center">Informe del Trabajo Final</p>
+  
+  <p align="center">Startup: BuildWise</p>
+  <p align="center">Producto: BuildTruck</p>
+  
+  <br>
+  
+  <p align="center">Integrantes:</p>
+  <p align="center"><code>U202311220</code> - Gutierrez Condo, Maylhy Olinda</p>
+  <p align="center"><code>U202311361</code> - Roca Tineo, Steven Mathew</p>
+  <p align="center"><code>U202311334</code> - Rodriguez Rodriguez, Luis Piero</p>
+  <p align="center"><code>U202123373</code> - Roman Pajuelo, Luis Gustavo</p>
+  
+  <br>
+  
+  <p align="center"><i>Abril 2026</i></p>
+  
+  <br>
 
-  <hr style="width: 50%; margin: 25px auto; border: 1px solid #999;"/>
-
-  <h2 style="margin-bottom: 10px;"><strong>Informe del Trabajo Final</strong></h2>
-  <p style="margin: 5px 0;">Startup: <strong>BuildWise</strong></p>
-  <p style="margin: 5px 0;">Producto: <strong>BuildTruck</strong></p>
-
-  <p style="margin: 4px 0;"><code>U202311220</code> - Gutierrez Condo, Maylhy Olinda</p>
-  <p style="margin: 4px 0;"><code>U202311361</code> - Roca Tineo, Steven Mathew</p>
-  <p style="margin: 4px 0;"><code>U202311334</code> - Rodriguez Rodriguez, Luis Piero</p>
-  <p style="margin: 4px 0;"><code>U202123373</code> - Roman Pajuelo, Luis Gustavo</p>
-
-  <p style="margin-top: 25px;"><em>Abril 2026</em></p>
-
-</div>
 <hr>
 
 # **Registro de Versiones del Informe**
