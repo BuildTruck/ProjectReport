@@ -32,7 +32,6 @@
 
 </div>
 <hr>
-<hr>
 
 # **Registro de Versiones del Informe**
 
