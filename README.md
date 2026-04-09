@@ -23,8 +23,8 @@
   <p align="center">Integrantes:</p>
   <p align="center"><code>U202311220</code> - Gutierrez Condo, Maylhy Olinda</p>
   <p align="center"><code>U202311361</code> - Roca Tineo, Steven Mathew</p>
-  <p align="center"><code>U202311334</code> - Rodriguez Rodriguez, Luis Piero</p>
-  <p align="center"><code>U202123373</code> - Roman Pajuelo, Luis Gustavo</p>
+  <p align="center"><code>U202311334</code> - Rodríguez Rodríguez, Luis Piero</p>
+  <p align="center"><code>U202123373</code> - Román Pajuelo, Luis Gustavo</p>
   
   <br>
   
