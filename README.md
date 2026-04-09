@@ -386,6 +386,8 @@ En el sector del software de gestión para la construcción, existen diversas pl
 
 ### ***2.2.1. Diseño de entrevistas***
 
+La estructura de las entrevistas se ajusta estratégicamente a cada segmento de usuarios con el objetivo de identificar a fondo sus verdaderas demandas y expectativas. Como punto de partida, la dinámica inicia con un bloque de preguntas exploratorias orientadas a recopilar el perfil demográfico fundamental, estableciendo así los cimientos empíricos necesarios para la posterior creación de los arquetipos.
+
 ***-Segmento objetivo \#1: Gerentes de obra*** 
 
 ***Características demográficas:***
@@ -434,9 +436,17 @@ En el sector del software de gestión para la construcción, existen diversas pl
 9. Si tuvieras que diseñar una app para tu trabajo, ¿qué funciones serían imprescindibles?
 
 ### 2.2.2. Registro de entrevistas
+
 A continuación, se detallan las transcripciones, las pruebas recopiladas y un resumen de cada una de las entrevistas realizadas a los usuarios.  
 
+
+
+
 ### ***2.2.3. Análisis de entrevistas***
+
+A partir de la información recopilada en las entrevistas de cada segmento, se ejecutó un análisis exhaustivo que permitió sintetizar los descubrimientos clave y formular las conclusiones estratégicas del estudio.
+
+
 
 
 ## 2.3. Needfinding
