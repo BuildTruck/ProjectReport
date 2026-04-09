@@ -30,10 +30,7 @@
   
   <p align="center"><i>Abril 2026</i></p>
 
-  <br>
 
-  
-<hr>
 
 # **Registro de Versiones del Informe**
 
