@@ -271,6 +271,14 @@ Para poder lograr la elaboración grupal de este informe del proyecto en GitHub 
 
 ## 2.1. Competidores
 
+En el sector del software de gestión para la construcción, existen diversas plataformas orientadas a optimizar la administración de proyectos, recursos y personal operativo. Los principales competidores en el mercado frente a BuildTruck son:
+
+- Procore: Procore es una plataforma integral que ayuda a administrar proyectos de construcción desde la etapa previa hasta su finalización, abarcando finanzas, recursos y datos. Su principal fortaleza radica en ser una marca consolidada a nivel global, con una amplia base de usuarios y una integración robusta con otras herramientas. Sin embargo, presenta barreras de entrada significativas para las PYMES, principalmente por su elevado costo y una curva de aprendizaje pronunciada para usuarios no técnicos. Esto abre un espacio para alternativas enfocadas en la simplicidad y la accesibilidad económica.
+
+- Buildertrend: Buildertrend es un software de gestión diseñado para simplificar la comunicación y la administración de proyectos, dirigido principalmente a constructores residenciales, remodeladores y contratistas de pequeño a mediano tamaño. Su fortaleza está en su interfaz intuitiva, precios competitivos y herramientas específicas para interactuar con el cliente final. No obstante, ofrece menor escalabilidad para proyectos grandes o de alta complejidad y posee menos integraciones que plataformas líderes, lo que limita su alcance operativo frente a constructoras que requieren un control más estricto de inventario en campo.
+
+- PlanGrid: PlanGrid es una herramienta enfocada en la colaboración en tiempo real y la gestión de planos y documentos, orientada a arquitectos, ingenieros y contratistas en proyectos de mediano a gran tamaño. Su ventaja competitiva es indiscutible gracias al respaldo y la integración directa con el ecosistema Autodesk (como AutoCAD y BIM 360), ofreciendo alta precisión técnica. A pesar de ello, su fuerte dependencia de este ecosistema y su alta especialización en diseño técnico hacen que preste menor atención a la gestión diaria de personal e inventario en obra, dejando una oportunidad clara para soluciones centradas en estas áreas operativas.
+
 ### ***2.1.1. Análisis competitivo***
 
 <body>
@@ -447,40 +455,61 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 ### ***2.3.1. User Personas***
 
+Los user personas son arquetipos construidos a partir de datos reales e investigación que representan a los diferentes segmentos del público objetivo de un proyecto, consolidándose como un recurso estratégico esencial para humanizar a la audiencia. Esta herramienta permite al equipo comprender a profundidad los patrones de comportamiento, las expectativas y las necesidades específicas de los usuarios, actuando como una brújula central durante todas las fases de diseño y desarrollo. Al mantener una visión clara y empática de para quién se está creando la solución, se garantiza que cada funcionalidad, decisión técnica y diseño de experiencia (UX) esté estrictamente enfocada en resolver problemas reales, facilitando así la creación de productos mucho más efectivos, alineados con el mercado y capaces de asegurar la máxima satisfacción final.
+
+**Segmento objetivo \#1 Gerentes de obra:**  
+
+Luis Alberto Ramírez es un gerente de obra que busca mantener un control total sobre sus proyectos de construcción y garantizar la máxima eficiencia operativa. Necesita una herramienta tecnológica ágil que le facilite recolectar datos en campo, monitorear el avance en tiempo real y gestionar a su personal directamente desde su celular, sin tener que lidiar con papeleos innecesarios o sistemas lentos. Su principal desafío es optimizar el tiempo que invierte en la elaboración de reportes y evitar la frustración que genera la mala comunicación y la falta de sincronización de información entre la obra y la oficina.
+
 <p align="center">
   <img src="images/UserPersonasappweb.png" alt="PB" width="1000">
 </p>
+
+**Segmento objetivo \#2 Supervisores de obra:**  
+
+Andrea Palacios Guzmán es una supervisora de obra que busca mantener el orden, la organización y la precisión en la gestión documental del proyecto. Necesita una plataforma tecnológica intuitiva que centralice la información, permitiéndole generar reportes diarios de forma automatizada y gestionar los registros del personal y el inventario sin errores. Su principal desafío es optimizar su tiempo, evitando el doble trabajo y la frustración que le genera recibir información incompleta o desactualizada desde el campo.
+
 <p align="center">
   <img src="images/UserPersonasappweb (1).png" alt="PB" width="1000">
 </p>
 
 ### ***2.3.2. User Task Matrix***
 
+El User Task Matrix es una herramienta analítica que permite identificar y estructurar las acciones específicas que ejecutan los distintos segmentos de la audiencia. Su propósito principal es facilitar la comparación visual de estos procesos, evidenciando de forma clara las similitudes y diferencias en cuanto a la frecuencia de uso y el nivel de importancia de cada tarea. Al cruzar esta información, el equipo adquiere una visión objetiva que ayuda a priorizar el desarrollo de funcionalidades, asegurando que los esfuerzos técnicos y de diseño se concentren en las acciones de mayor valor e impacto para los usuarios.
 
-| TASK MATRIX |  | Andrea Palacios Guzman  |  | Luis Alberto Ramirez |  |
-| ----- | ----- | :---- | :---- | :---- | :---- |
-|  |  | **frecuencia** | **importancia** | **frecuencia** | **importancia** |
-| **Registrar asistencia del personal** |  | **Siempre** | **Alta** | **Siempre** | **Alta** |
-| **Revisar cronogramas de obra** |  | **A veces** | **Alta** | **Siempre** | **Alta** |
-| **Supervisar pedidos y uso de materiales** |  | **A veces** | **Alta** |  | **Alta** |
-|  **Comunicar cambios en el proyecto** |  | **Siempre** | **Alta** | **Siempre** | **Alta** |
-| **Tramitar permisos y licencias ante instituciones** |  | **A veces** | **Alta** |  | **Alta** |
-| **Elaborar reportes diarios/semanales** |  | **A veces** | **Alta** |  | **Alta** |
-|  **Inspeccionar cumplimiento de estándares** |  |  | **Alta** | **A veces** | **Alta** |
+| Tarea | Frecuencia <br> **Andrea Palacios** | Importancia <br> **Andrea Palacios** | Frecuencia <br> **Luis Alberto** | Importancia <br> **Luis Alberto** |
+| :--- | :--- | :--- | :--- | :--- |
+| Registrar asistencia del personal | Siempre | Alta | Siempre | Alta |
+| Revisar cronogramas de obra | A veces | Alta | Siempre | Alta |
+| Supervisar pedidos y uso de materiales | A veces | Alta | - | Alta |
+| Comunicar cambios en el proyecto | Siempre | Alta | Siempre | Alta |
+| Tramitar permisos y licencias ante instituciones | A veces | Alta | - | Alta |
+| Elaborar reportes diarios/semanales | A veces | Alta | - | Alta |
+| Inspeccionar cumplimiento de estándares | - | Alta | A veces | Alta |
 
+Mediante el análisis del User Task Matrix, logramos comprender a profundidad las actividades específicas que ejecutan nuestros segmentos de usuarios, evaluando directamente el nivel de impacto e importancia de cada acción. Este mapeo cruzado nos permite visualizar con total claridad las tareas principales previamente identificadas, validando su relevancia real y garantizando que las decisiones de diseño y desarrollo se enfoquen prioritariamente en las funcionalidades de mayor valor para la experiencia final.
 
 ### ***2.3.3. Empathy Mapping***
+
+Los Empathy Maps son herramientas visuales y estratégicas fundamentadas en una metodología centrada en el usuario, cuyo propósito es traducir datos cualitativos en una radiografía profunda de lo que cada segmento de la audiencia piensa, siente, dice y hace frente a un producto o servicio. Al articular de manera estructurada los principales miedos, frustraciones, motivaciones y necesidades de los usuarios, este recurso genera una perspectiva empática indispensable que orienta la toma de decisiones durante las fases de diseño y desarrollo, garantizando que cada funcionalidad construida responda de forma genuina y efectiva a las expectativas y preocupaciones reales del público objetivo.
+
+**Segmento objetivo \#1 Gerentes de obra:**  
 
 <p align="center">
   <img src="images/Empathy_map.png" alt="PB" width="1000">
 </p>
+
+**Segmento objetivo \#2 Supervisores de obra:**  
+
 <p align="center">
   <img src="images/Empathy_map (1).png" alt="PB" width="1000">
 </p>
 
 ### ***2.3.4. As-is Scenario Mapping***
 
-**Segmento objetivo \#1:**  
+El escenario As Is representa el estado actual de los procesos y la experiencia del usuario antes de la implementación de nuestra solución. Documentar esta fase es un paso fundamental, ya que establece una línea base clara que permite identificar fricciones, cuellos de botella y oportunidades de mejora en el flujo de trabajo actual. A partir de este diagnóstico, el equipo obtiene el contexto estratégico necesario para estructurar y diseñar el escenario To Be, el cual proyecta el estado futuro ideal donde nuestra propuesta tecnológica ya se encuentra completamente integrada, resolviendo los problemas detectados y optimizando la operación global.
+
+**Segmento objetivo \#1 Gerentes de obra:**  
 
 **Figura n**  
 *As-Is Mapping del segmento \#1 de BuilTruck*  
@@ -514,7 +543,7 @@ A continuación, se detallan las transcripciones, las pruebas recopiladas y un r
 
 *Nota.* Elaboración propia. Obtenido de [https://miro.com/app/board/uXjVI9rWV74=/?share\_link\_id=943914608011](https://miro.com/app/board/uXjVI9rWV74=/?share_link_id=943914608011) 
 
-**Segmento objetivo \#2:**  
+**Segmento objetivo \#2 Supervisores de obra:**  
 
 **Figura n**  
 *As-Is Mapping del segmento \#2 de BuilTruck*  
