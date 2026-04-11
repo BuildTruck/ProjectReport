@@ -392,7 +392,7 @@ La estructura de las entrevistas se ajusta estratégicamente a cada segmento de 
 
 ***Características demográficas:***
 
-*  ¿Cuál es tu edad?  
+*  ¿Cuál es su nombre y edad?  
 * ¿En qué lugar trabajas o estás actualmente asignado(a)?  
 * ¿Cuál es tu cargo o rol específico dentro de tu trabajo?
 
@@ -416,7 +416,7 @@ La estructura de las entrevistas se ajusta estratégicamente a cada segmento de 
 
 ***Características demográficas:***
 
-*  ¿Cuál es tu edad?  
+*  ¿Cuál es su nombre y edad?  
 * ¿En qué institución trabaja o estás actualmente asignado(a)?  
 * ¿Cuál es tu cargo o rol específico dentro de tu trabajo?
 
